@@ -94,6 +94,12 @@ El [documento-tecnico-soporte-pnsv-2022-2031](../fuentes/documento-tecnico-sopor
 
 Ese mismo documento aporta, además, evidencia textual (no inferida) de que la **brecha de capacidad institucional territorial** —que motiva la necesidad de un protocolo robusto de asistencia técnica— es reconocida oficialmente por el propio PNSV en al menos 3 de sus 8 regiones ("Debilidad del control en vía por baja capacidad institucional", "Disparidad en la capacidad de las diferentes entidades territoriales"), con redacción casi idéntica entre regiones — un patrón estructural, no un problema aislado.
 
+## Matiz importante: la "no sancionatoriedad" de la asistencia técnica no es absoluta a nivel de política (hallazgo crítico)
+
+`[Hallazgo, no interpretación propia]`: el [oficio-20254000114441-super-procuraduria-plan365](../fuentes/oficio-20254000114441-super-procuraduria-plan365.md) (y sus dos plantillas hermanas) muestra que, aunque la DCI define su propia función como "sin funciones de carácter decisorio ni sancionatorio" (PR-06/PR-07, Estrategia 2.2.1), la ANSV sí **activa formalmente la potestad sancionatoria de un tercero** (la Superintendencia de Transporte) contra los organismos de tránsito que incumplen sus obligaciones de reporte al Plan 365, con fundamento en causales legales de suspensión/cancelación de la habilitación (Ley 1702/2013, art. 19.11) y multas (Ley 336/1996, art. 46).
+
+`[Interpretación propia]`: esto matiza el hallazgo crítico ya registrado en este documento sobre la asistencia técnica "no sancionatoria" — a nivel de la DCI/PR-06, en efecto no hay sanción directa; pero a nivel de la política de la ANSV en su conjunto, el incumplimiento (particularmente de reporte) sí tiene una vía punitiva real, ejercida por otra entidad. Una propuesta de protocolo de asistencia técnica dirigida a un organismo de tránsito debería nombrar explícitamente esta doble cara (acompañamiento no punitivo + riesgo sancionatorio por incumplimiento de reporte) como parte de su justificación y de los incentivos reales que enfrenta el receptor.
+
 ## Ver también
 
 - [entidades/dci-direccion-coordinacion-interinstitucional](../entidades/dci-direccion-coordinacion-interinstitucional.md)

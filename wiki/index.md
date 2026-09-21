@@ -4,7 +4,7 @@ Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos 
 
 ## Fuentes (`fuentes/`)
 
-35 documentos relevados en la raíz del repo (30 PDF, incluido uno con extensión `.PDF` en mayúsculas, y 5 DOCX): **32 ingeridos** — bundle PR-06 (6) + las 13 de normativa nacional + las 7 de Plan 365 (grupo completo) + 1 de correspondencia + las 5 de "Planes y documentos técnicos" (grupo completo) — y **3 pendientes de ingest**, todos de correspondencia. La agrupación de las pendientes es solo por lo que indica el nombre de archivo — no implica haber leído el contenido (regla de incertidumbre, `CLAUDE.md`).
+35 documentos relevados en la raíz del repo (30 PDF, incluido uno con extensión `.PDF` en mayúsculas, y 5 DOCX): **35 de 35 ingeridos — repositorio completo.** bundle PR-06 (6) + las 13 de normativa nacional + las 7 de Plan 365 (grupo completo) + las 5 de "Planes y documentos técnicos" (grupo completo) + las 4 de "Correspondencia" (grupo completo).
 
 ### Ingeridas (6) — bundle PR-06 completo
 
@@ -41,9 +41,12 @@ Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos 
 - [Oficio a Gobernadores y Alcaldes — Instancias CLSV/CDSV/CTSV y Plan 365](fuentes/oficio-gobernadores-alcaldes-plan365-instancias.md) — identifica la Resolución 516 de 2022 (crea el CTSV) y un "equipo de Regionalización" de la DCI; exige que el Plan de Acción territorial quede evidenciado en actas firmadas; detecta posible tensión con la periodicidad del CTSV de la Estrategia 2.2.1. (ingerido)
 - [Anexo Técnico — Circular Conjunta No. 023 de 2025 (Plan 365)](fuentes/anexo-tecnico-plan-365.md) — anexo técnico de soporte de la circular 023/2025 (95 páginas); tabla resumen de 19 festividades 2025 con datos históricos de siniestralidad 2024 (5.082 lesionados, 1.618 fallecidos, 2.307 municipios priorizados); hallazgo clave: dos festividades (Año Nuevo, Reyes Magos) operan bajo un plan distinto, "Plan 70D", no bajo el Plan 365. Tabla municipio por municipio (p. 3-95) no transcrita. **Con esta fuente se completa el grupo Plan 365 (7 de 7).** (incierto — tabla de datos no transcrita en su totalidad, ver nota de alcance)
 
-### Ingeridas — Correspondencia (1 de 4)
+### Ingeridas — Correspondencia (4 de 4, grupo completo)
 
 - [Respuesta de la ANSV a Cuestionario de Control Político — Comisión Sexta del Senado](fuentes/respuesta-peticion-congresista-20266600072782.md) — respuesta oficial (2026) a >30 preguntas sobre siniestralidad, metas del PNSV, motociclistas, presupuesto y coordinación territorial. Hallazgos mayores: la meta nacional de reducir 50% la mortalidad vial para 2031 está en riesgo (se requeriría acelerar a ~672 fallecidos/año menos entre 2026-2031); y **5 preguntas asignadas explícitamente a la DCI sobre cobertura, rezagos y criterios de la coordinación territorial no tienen respuesta en el documento**. Sin paginación explotable (.docx largo) — se cita por sección/pregunta, no por página. (incierto — ver nota de alcance y citación en la página)
+- [Oficio ANSV No. 20254000114441 — Solicitud de Monitoreo y Supervisión a la Superintendencia de Transporte](fuentes/oficio-20254000114441-super-procuraduria-plan365.md) — **hallazgo mayor**: la ANSV solicita formalmente a la Superintendencia de Transporte activar causales de suspensión/cancelación de la habilitación (Ley 1702/2013, art. 19.11) y multas (Ley 336/1996, art. 46) contra organismos de tránsito que no reportaron al Plan 365 — matiza la "no sancionatoriedad" de la asistencia técnica ya documentada: la DCI no sanciona directamente, pero la ANSV sí activa la potestad sancionatoria de un tercero. (ingerido)
+- [Plantilla ORFEO — Solicitud de Monitoreo y Supervisión Plan 365 (sin radicar)](fuentes/orfeo-solicita-info-365-plan365-plantilla.md) — plantilla previa (sin radicar, campos de fusión ORFEO vacíos) del oficio 20254000114441, con contenido casi idéntico. (incierto — es un borrador, no una comunicación radicada)
+- [Plantilla ORFEO — Solicitud de Vigilancia y Control a Organismos de Tránsito (sin radicar)](fuentes/orfeo-oficio-vigilancia-control-plan365-plantilla.md) — segunda plantilla hermana, con asunto y redacción ligeramente distintos (con errores de tipeo no corregidos) pero el mismo fundamento legal sancionatorio. **Con esta fuente se completa el grupo "Correspondencia" (4 de 4) y el repositorio completo (35 de 35).** (incierto — es un borrador, no una comunicación radicada)
 
 ### Ingeridas — Planes y documentos técnicos (5 de 5, grupo completo)
 
@@ -53,15 +56,9 @@ Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos 
 - [Protocolo de Prácticas Seguras para Trabajadores que Usan la Motocicleta como Herramienta de Trabajo](fuentes/protocolo-practicas-seguras-motociclistas.md) — coautoría Ministerio de Trabajo-ANSV; reconoce explícitamente un vacío normativo ("Colombia no cuenta... con una legislación definida para el trabajo seguro en motocicleta"); cuarta fuente que confirma las 8 áreas de acción del PNSV. (ingerido)
 - [Plan Nacional de Seguridad Vial 2022-2031 — Documento Técnico de Soporte](fuentes/documento-tecnico-soporte-pnsv-2022-2031.md) — **documento más importante del repositorio para el fundamento normativo de la tesis** (214 páginas): identifica la acción exacta "2.2 Asistir técnicamente a las entidades territoriales" (área Gobernanza) como el mandato de política pública preciso que ejecuta el bundle PR-06; documenta con cita textual, en al menos 3 de las 8 regiones del PNSV, el reconocimiento oficial de brechas de capacidad institucional territorial; confirma la línea base 2021 de la meta del 50% y la estructura completa del plan (8 áreas, 16 objetivos, 36 indicadores, 45 objetivos específicos, 156 acciones). **Con esta fuente se completa el grupo "Planes y documentos técnicos" (5 de 5).** (incierto — capítulo territorial leído completo; diagnóstico nacional detallado por área y fichas de indicadores no transcritos en su totalidad, ver nota de alcance)
 
-### Pendientes de ingest (3)
+### Pendientes de ingest
 
-Se procesarán de a una, en el orden que indique el usuario, siguiendo el flujo INGEST de `CLAUDE.md` (lectura completa con registro de página exacta, página de `fuentes/`, actualización de este índice y del log, pausa para confirmación).
-
-#### Correspondencia / oficios (3 restantes de 4)
-
-- `20254000114441_Oficio_ANSV_2024 Super y Procuraduría VR.pdf`
-- `ORFEO_Oficio_ANSV_2024 (22) super y procuraduría.docx`
-- `Solicita info 365 Oficio_ANSV_2024 (22) super y procuraduría.docx`
+Ninguno — repositorio completo (35 de 35 fuentes ingeridas).
 
 ## Conceptos (`conceptos/`)
 

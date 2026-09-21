@@ -79,7 +79,12 @@ Columnas: N°, Departamento, Municipio, Priorizado (Sí/No), Total reportes en d
 - `[INCIERTO: no se transcribió la tabla completa de más de 300 municipios (p. 4-12) — ver nota de alcance al inicio de esta página. Cualquier dato puntual de un municipio específico debe verificarse directamente en el PDF original.]`
 - No se pudo determinar si "la matriz de análisis de datos del plan 365" mencionada en el cierre (p. 13) es el mismo `ANEXO TÉCNICO PLAN 365.pdf` de este repositorio o un archivo adicional no incluido.
 
+## Actualización — este análisis se usó como prueba para solicitar sanciones (hallazgo mayor)
+
+El [oficio-20254000114441-super-procuraduria-plan365](oficio-20254000114441-super-procuraduria-plan365.md) (noviembre de 2025) remite a la Superintendencia de Transporte un "análisis de los reportes efectuados por las autoridades obligadas" que, por coincidencia de tema, entidad y fecha, es muy probablemente este mismo documento — usado explícitamente como prueba documental para solicitar la aplicación de causales de suspensión/cancelación de la habilitación (Ley 1702/2013, art. 19.11) y multas (Ley 336/1996, art. 46) contra los organismos de tránsito que no reportaron. El hallazgo de "44% de municipios priorizados sin reporte" documentado en esta página no quedó como un dato de diagnóstico interno: tuvo una consecuencia jurídica concreta.
+
 ## Ver también
 
 - [conceptos/asistencia-tecnica-bundle-pr06](../conceptos/asistencia-tecnica-bundle-pr06.md)
 - [fuentes/anexo-tecnico-plan-365](anexo-tecnico-plan-365.md)
+- [fuentes/oficio-20254000114441-super-procuraduria-plan365](oficio-20254000114441-super-procuraduria-plan365.md)
