@@ -61,6 +61,7 @@ Reporte obligatorio al SIRAS (Sistema de Información de Reportes de Atenciones 
 - [ley-1503-2011-formacion-habitos-seguros](ley-1503-2011-formacion-habitos-seguros.md): el art. 14 de esta ley (Planes Locales de Seguridad Vial obligatorios) desarrolla y hace más específica la obligación ya prevista en el art. 22 de la Ley 1503 (capítulos de seguridad vial en los Planes de Desarrollo), y **asigna a la ANSV la función de determinar la obligatoriedad del PLSV para los municipios no capitales** — un antecedente legal directo y muy preciso para cualquier propuesta de protocolo de asistencia técnica dirigido a esos municipios.
 - [ley-769-2002-codigo-nacional-transito](ley-769-2002-codigo-nacional-transito.md): reforma varios de sus artículos (17, 19, 96, 106, 107, 143, 146; adiciona 136A y 158A).
 - [decreto-787-2015-funciones-ansv](decreto-787-2015-funciones-ansv.md): confirma el rol de la ANSV como "máxima autoridad para la aplicación de las políticas y medidas de seguridad vial nacional" (art. 14, parágrafo 1°, p. 6), coherente con el art. 2 de la Ley 1702 de 2013.
+- [resolucion-583-2023-armonizacion-plsv-pnsv](resolucion-583-2023-armonizacion-plsv-pnsv.md): reglamenta directamente el parágrafo 1° del art. 14 de esta ley, con los cuatro criterios objetivos de obligatoriedad del PLSV.
 
 ## Relevancia para el trabajo de grado
 
@@ -85,7 +86,7 @@ Reporte obligatorio al SIRAS (Sistema de Información de Reportes de Atenciones 
 ## Incertidumbres
 
 - No se verificó el contenido de la Ley 2161 de 2021, la Ley 1843 de 2017, ni el Decreto 1177 de 2022 — ninguno está en este repositorio, solo se registran las referencias tal como aparecen en el texto.
-- `[INCIERTO: no se puede determinar desde esta fuente si la ANSV ya ejerció, y con qué criterios técnicos, la facultad del art. 14 parágrafo 1° de determinar la obligatoriedad del PLSV para municipios no capitales — sería relevante verificarlo si la tesis se enfoca en un municipio específico no capital.]`
+- Resuelto: la [resolucion-583-2023-armonizacion-plsv-pnsv](resolucion-583-2023-armonizacion-plsv-pnsv.md) confirma que la ANSV sí ejerció esta facultad, con cuatro criterios objetivos (categoría municipal, presencia de organismo de tránsito, índice de fatalidad y población).
 
 ## Ver también
 
