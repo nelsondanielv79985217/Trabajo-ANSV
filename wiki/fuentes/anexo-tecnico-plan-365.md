@@ -57,7 +57,7 @@ Columnas: N°, Festivo (con el mismo listado de 19 festividades de la tabla resu
 
 - [circular-023-2025-plan-365](circular-023-2025-plan-365.md): este documento es, literalmente, su anexo técnico de soporte.
 - [analisis-reportes-organismos-transito-plan365](analisis-reportes-organismos-transito-plan365.md): ese análisis (948 municipios monitoreados, 625 priorizados) usa una lógica de priorización relacionada pero no idéntica a la de este anexo (organizado por festividad, no por año completo) — no se puede confirmar con las fuentes disponibles si el universo de "municipios priorizados" de ambos documentos coincide exactamente.
-- `PLAN 70D SECTOR TRANSPORTE.pdf` (pendiente de ingest, grupo "Planes y documentos técnicos"): este anexo revela que existe un plan operativo separado ("Plan 70D") para las festividades de fin/inicio de año, distinto del Plan 365 — conexión no identificada hasta ahora en este repositorio.
+- [plan-70d-sector-transporte](plan-70d-sector-transporte.md) (ya ingerido): confirma y detalla la conexión — el Plan 70D es una arquitectura operativa propia (circular, anexo técnico, cronograma, boletines) para 7 festividades/hitos entre el 31 de octubre y el 10 de enero, no solo las 2 marcadas aquí.
 - [estrategia-at-pedagogica-2.2.1-entidades-territoriales](estrategia-at-pedagogica-2.2.1-entidades-territoriales.md): la "Gráfica de la ballena" mencionada aquí (p. 2) es coherente con el enfoque de "capas" del Sistema Seguro, aunque esa estrategia no usa la misma terminología gráfica.
 
 ## Relevancia para el trabajo de grado
@@ -84,7 +84,7 @@ Columnas: N°, Festivo (con el mismo listado de 19 festividades de la tabla resu
 - `[INCIERTO: no se transcribió la tabla completa de 2.307 filas (p. 3-95) — ver nota de alcance al inicio de esta página. Cualquier dato puntual de un municipio y festividad específicos debe verificarse directamente en el PDF original.]`
 - Los datos son explícitamente preliminares (nota del ONSV, p. 95) y "susceptibles de modificaciones" — no deben citarse como cifras definitivas en el cuerpo de la tesis sin esa advertencia.
 - `[INCIERTO: no se pudo determinar si el universo de municipios priorizados de este anexo coincide exactamente con el de 625 municipios del análisis de reportes ya ingerido, dado que este anexo prioriza por festividad y aquel por año completo.]`
-- No se pudo consultar `PLAN 70D SECTOR TRANSPORTE.pdf` para confirmar la relación exacta entre ambos planes — pendiente de ingest en otro grupo de este repositorio.
+- `[RESUELTO parcialmente]` Se consultó [plan-70d-sector-transporte](plan-70d-sector-transporte.md): confirma la relación, pero deja abierta la pregunta de por qué esta tabla solo marca 2 de las 7 festividades del Plan 70D como tales — ver incertidumbre en esa página.
 
 ## Ver también
 

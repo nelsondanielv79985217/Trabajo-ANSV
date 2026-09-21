@@ -4,7 +4,7 @@ Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos 
 
 ## Fuentes (`fuentes/`)
 
-35 documentos relevados en la raíz del repo (30 PDF, incluido uno con extensión `.PDF` en mayúsculas, y 5 DOCX): **27 ingeridos** — bundle PR-06 (6) + las 13 de normativa nacional + las 7 de Plan 365 (grupo completo) + 1 de correspondencia (Respuesta a petición congresista) — y **8 pendientes de ingest**. La agrupación de las pendientes es solo por lo que indica el nombre de archivo — no implica haber leído el contenido (regla de incertidumbre, `CLAUDE.md`).
+35 documentos relevados en la raíz del repo (30 PDF, incluido uno con extensión `.PDF` en mayúsculas, y 5 DOCX): **31 ingeridos** — bundle PR-06 (6) + las 13 de normativa nacional + las 7 de Plan 365 (grupo completo) + 1 de correspondencia + 4 de "Planes y documentos técnicos" — y **4 pendientes de ingest**. La agrupación de las pendientes es solo por lo que indica el nombre de archivo — no implica haber leído el contenido (regla de incertidumbre, `CLAUDE.md`).
 
 ### Ingeridas (6) — bundle PR-06 completo
 
@@ -45,17 +45,20 @@ Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos 
 
 - [Respuesta de la ANSV a Cuestionario de Control Político — Comisión Sexta del Senado](fuentes/respuesta-peticion-congresista-20266600072782.md) — respuesta oficial (2026) a >30 preguntas sobre siniestralidad, metas del PNSV, motociclistas, presupuesto y coordinación territorial. Hallazgos mayores: la meta nacional de reducir 50% la mortalidad vial para 2031 está en riesgo (se requeriría acelerar a ~672 fallecidos/año menos entre 2026-2031); y **5 preguntas asignadas explícitamente a la DCI sobre cobertura, rezagos y criterios de la coordinación territorial no tienen respuesta en el documento**. Sin paginación explotable (.docx largo) — se cita por sección/pregunta, no por página. (incierto — ver nota de alcance y citación en la página)
 
-### Pendientes de ingest (8)
+### Ingeridas — Planes y documentos técnicos (4 de 5)
+
+- [Análisis Técnico de la Siniestralidad Vial en Colombia — Comparativo 1er Semestre 2025-2026 (Mateus)](fuentes/analisis-tecnico-siniestralidad-mateus.md) — incremento del 20% en fallecidos (2026 vs. 2025), explicado en 87,5% por motociclistas; 10 departamentos concentran 79% del incremento; recomienda priorización territorial combinando magnitud absoluta y variación porcentual. (ingerido)
+- [Plan 70D — Sector Transporte](fuentes/plan-70d-sector-transporte.md) — tercera arquitectura operativa paralela de la ANSV (además de Plan 365 y bundle PR-06), para 7 festividades entre el 31 de octubre y el 10 de enero; confirma y detalla la conexión con el Plan 365 ya identificada en el Anexo Técnico. (ingerido)
+- [Manual Metodológico de la Operación Estadística — EFSV](fuentes/manual-metodologico-operacion-estadistica-fpsv.md) — explica metodológicamente las discrepancias de cifras de fallecidos ya detectadas entre fuentes del repositorio (ONSV/INMLCF preliminar vs. DANE definitivo); aporta las metas del PNSV 2011-2021 (26% de reducción) y ODS 2030 (8,35/100.000 hab.), previas a la meta del PNSV 2022-2031. (ingerido)
+- [Protocolo de Prácticas Seguras para Trabajadores que Usan la Motocicleta como Herramienta de Trabajo](fuentes/protocolo-practicas-seguras-motociclistas.md) — coautoría Ministerio de Trabajo-ANSV; reconoce explícitamente un vacío normativo ("Colombia no cuenta... con una legislación definida para el trabajo seguro en motocicleta"); cuarta fuente que confirma las 8 áreas de acción del PNSV. (ingerido)
+
+### Pendientes de ingest (4)
 
 Se procesarán de a una, en el orden que indique el usuario, siguiendo el flujo INGEST de `CLAUDE.md` (lectura completa con registro de página exacta, página de `fuentes/`, actualización de este índice y del log, pausa para confirmación).
 
-#### Planes y documentos técnicos de política / protocolos (5)
+#### Planes y documentos técnicos de política / protocolos (1 restante de 5)
 
-- `Documento técnico de soporte Mintransporte- PNSV 2022-2031.pdf`
-- `PLAN 70D SECTOR TRANSPORTE.pdf`
-- `140926 ANÁLISIS TÉCNICO DE LA SINIESTRALIDAD VIAL EN COLOMBIA (Mateus).pdf`
-- `manual-metodologico operacion estadistica FPSV.pdf`
-- `Protocolo_Practicas_Seguras_Motociclistas.pdf`
+- `Documento técnico de soporte Mintransporte- PNSV 2022-2031.pdf` (214 páginas — el documento técnico de soporte completo del PNSV 2022-2031, probablemente contiene el detalle de metas/diagnóstico por área de acción)
 
 #### Correspondencia / oficios (3 restantes de 4)
 

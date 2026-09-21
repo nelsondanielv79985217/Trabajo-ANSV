@@ -79,3 +79,4 @@ No se encontraron menciones adicionales de "asistencia técnica" ni de "ANSV"/"A
 
 - [conceptos/asistencia-tecnica-bundle-pr06](../conceptos/asistencia-tecnica-bundle-pr06.md)
 - [entidades/dci-direccion-coordinacion-interinstitucional](../entidades/dci-direccion-coordinacion-interinstitucional.md)
+- [fuentes/manual-metodologico-operacion-estadistica-fpsv](manual-metodologico-operacion-estadistica-fpsv.md): aporta una tercera definición independiente de "organismo de tránsito", compatible con la de esta ley.

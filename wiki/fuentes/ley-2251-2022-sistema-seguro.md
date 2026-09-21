@@ -91,3 +91,4 @@ Reporte obligatorio al SIRAS (Sistema de Información de Reportes de Atenciones 
 ## Ver también
 
 - [conceptos/asistencia-tecnica-bundle-pr06](../conceptos/asistencia-tecnica-bundle-pr06.md)
+- [fuentes/protocolo-practicas-seguras-motociclistas](protocolo-practicas-seguras-motociclistas.md): cuarta fuente que confirma las 8 áreas de acción del PNSV/enfoque Sistema Seguro.

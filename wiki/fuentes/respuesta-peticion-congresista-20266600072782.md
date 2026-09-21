@@ -117,6 +117,9 @@ La Red de Observatorios Territoriales de Seguridad Vial (ROT), creada por el art
 ## Ver también
 
 - [conceptos/asistencia-tecnica-bundle-pr06](../conceptos/asistencia-tecnica-bundle-pr06.md)
+- [fuentes/analisis-tecnico-siniestralidad-mateus](analisis-tecnico-siniestralidad-mateus.md): datos más recientes (1er semestre 2026) que profundizan el diagnóstico de riesgo de la meta del PNSV documentado aquí, con foco en motociclistas y concentración territorial.
+- [fuentes/manual-metodologico-operacion-estadistica-fpsv](manual-metodologico-operacion-estadistica-fpsv.md): explica el mecanismo metodológico detrás de la discrepancia entre la cifra de fallecidos 2024 de esta fuente (8.433, INMLCF) y la del bundle Plan 365 (8.271) — el indicador del ONSV/INMLCF no es la cifra oficial definitiva, que reporta el DANE.
+- [fuentes/protocolo-practicas-seguras-motociclistas](protocolo-practicas-seguras-motociclistas.md): esta respuesta ya citaba este protocolo (actualización 2023) al describir acciones para motociclistas que usan la moto como herramienta de trabajo; ahora queda ingerido de forma independiente.
 - [entidades/dci-direccion-coordinacion-interinstitucional](../entidades/dci-direccion-coordinacion-interinstitucional.md)
 - [fuentes/conpes-4091-asistencia-tecnica-territorial](conpes-4091-asistencia-tecnica-territorial.md)
 - [fuentes/circular-023-2025-plan-365](circular-023-2025-plan-365.md)
