@@ -182,3 +182,10 @@ Registro cronológico, append-only. No editar entradas pasadas — solo agregar 
 - Se actualizó la línea de tiempo de la DCI (entidad): Mariantonia Tabares Pulgarín confirmada como Directora General ANSV hasta marzo de 2025; Darío Rincón Jaramillo vuelve a su cargo sustantivo de Dirección de Comportamiento (su encargo en la DCI en 2023 fue temporal); nuevos contratistas DCI identificados (Luis Yair Aguilar Rojas, Jorge Luis Riveros).
 - Se actualizaron los cross-links en la Resolución 583/2023, la entidad DCI y el concepto `asistencia-tecnica-bundle-pr06.md`, y se actualizó `index.md` (de 19 a 20 fuentes ingeridas; Plan 365 de 7 a 6 pendientes).
 - Pendiente: continuar con el Anexo Técnico Plan 365 (documento más extenso del grupo, 95 páginas) y el resto del grupo.
+
+## [2026-09-21] ingest | Circular Externa 20244000000157 de 2024 (videos infracciones Mintransporte)
+
+- Documento de 4 páginas, leído completo. Se creó `wiki/fuentes/circular-externa-20244000000157-videos-infracciones.md`.
+- Hallazgo de categorización: tras la lectura, se confirma que este documento **no tiene relación temática con el Plan 365** ni con la asistencia técnica de la DCI — es una circular independiente del Ministerio de Transporte sobre uso de video como prueba en procesos contravencionales de tránsito. Se documentó explícitamente esta desconexión en la página para no inducir una relación inexistente solo por estar agrupada bajo "Plan 365" en `index.md`.
+- Se actualizó `index.md` (de 20 a 21 fuentes ingeridas; Plan 365 de 6 a 5 pendientes).
+- Pendiente: continuar con el Anexo Técnico Plan 365 (95 páginas, el documento más extenso del grupo), luego el Análisis de Reportes y la Estrategia de Asistencia (16032026).
