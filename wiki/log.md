@@ -88,3 +88,10 @@ Registro cronológico, append-only. No editar entradas pasadas — solo agregar 
 - Se creó `wiki/fuentes/ley-1383-2010-reforma-cnt.md` y se actualizó el cross-link en la página de la Ley 769.
 - Se actualizó `index.md` (de 8 a 9 fuentes ingeridas; normativa nacional de 11 a 10 pendientes).
 - Pendiente: continuar con el resto de la normativa nacional. Quedan Ley 1503/2011, Ley 1702/2013, Ley 2251/2022, Decreto 787/2015, Decreto 2851/2013, CONPES 4091, Resolución 007/2023, Resolución 583/2023, Plan estratégico SIT/Resolución 10110, y Resolución Mintransporte 4548/2013.
+
+## [2026-09-21] ingest | Ley 1503 de 2011 (formación de hábitos y comportamientos seguros en la vía)
+
+- Documento de 8 páginas, 25 artículos, leído completo con cita de página exacta (alta relevancia temática, sin necesidad de acotar alcance). Se creó `wiki/fuentes/ley-1503-2011-formacion-habitos-seguros.md`.
+- Hallazgos relevantes: (1) obliga a las entidades territoriales a elaborar "mapas de siniestralidad vial" (art. 21), incluir seguridad vial en sus Planes de Desarrollo (art. 22) y rendir cuentas anuales (art. 23); (2) crea el Plan Estratégico de Seguridad Vial — PESV (art. 12) para entidades con flota >10 vehículos; (3) el art. 12A (adicionado en 2020) es la tercera base legal identificada en este repositorio de una función de coordinación de la ANSV, esta vez sobre PESV.
+- Se identificó que casi todo el articulado está reglamentado por el Decreto 2851 de 2013, pendiente de ingest en este mismo repositorio — se decidió continuar por ese documento a continuación por ser su reglamentación directa.
+- Se actualizó `index.md` (de 9 a 10 fuentes ingeridas; normativa nacional de 10 a 9 pendientes).
