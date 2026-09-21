@@ -4,7 +4,7 @@ Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos 
 
 ## Fuentes (`fuentes/`)
 
-35 documentos relevados en la raíz del repo (30 PDF, incluido uno con extensión `.PDF` en mayúsculas, y 5 DOCX): **6 ingeridos** — **bundle completo del PR-06 cerrado** (PR-06, PR-07, CA-02 — este con `status: incierto` —, PR-08, Anexo 5/GIP-FO-05, Anexo 6) — y **29 pendientes de ingest**. La agrupación de las pendientes es solo por lo que indica el nombre de archivo — no implica haber leído el contenido (regla de incertidumbre, `CLAUDE.md`).
+35 documentos relevados en la raíz del repo (30 PDF, incluido uno con extensión `.PDF` en mayúsculas, y 5 DOCX): **7 ingeridos** — bundle completo del PR-06 (6) + Ley 769 de 2002 (1, primera de la normativa nacional) — y **28 pendientes de ingest**. La agrupación de las pendientes es solo por lo que indica el nombre de archivo — no implica haber leído el contenido (regla de incertidumbre, `CLAUDE.md`).
 
 ### Ingeridas (6) — bundle PR-06 completo
 
@@ -15,18 +15,21 @@ Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos 
 - [Formato Acta de Reunión (ANSV-GIP-FO-05)](fuentes/ansv-gip-fo-05-formato-acta-reunion.md) — plantilla transversal de la ANSV (no propia de la DCI) para registrar actas; exige nombrar toda actividad de asistencia técnica con el rótulo "Asistencia Técnica" en el campo TEMA. (ingerido)
 - [Lineamientos para el Cargue de Evidencias — DCI](fuentes/dci-lineamientos-cargue-evidencias.md) — instructivo de nomenclatura de archivos, periodicidad mensual y prohibición de informes de comisión como evidencia de AT. (incierto — el documento no tiene código, versión ni sección de aprobación, no se puede confirmar su estatus documental formal)
 
-### Pendientes de ingest (29)
+### Ingeridas — normativa nacional (1 de 13)
+
+- [Ley 769 de 2002 — Código Nacional de Tránsito Terrestre](fuentes/ley-769-2002-codigo-nacional-transito.md) — define legalmente "organismo de tránsito" (art. 6) y "autoridades de tránsito" (art. 3); origen legal del Plan Nacional de Seguridad Vial (art. 4) y menciones puntuales de asistencia técnica de la ANSV (arts. 7 y 14, en su redacción reformada). Lectura completa del Título I; el resto del código (normas de comportamiento y sanciones) se escaneó por estructura, no artículo por artículo — ver nota de alcance en la página. (ingerido)
+
+### Pendientes de ingest (28)
 
 Se procesarán de a una, en el orden que indique el usuario, siguiendo el flujo INGEST de `CLAUDE.md` (lectura completa con registro de página exacta, página de `fuentes/`, actualización de este índice y del log, pausa para confirmación).
 
-#### Normativa nacional — leyes, decretos, CONPES, resoluciones (13)
+#### Normativa nacional — leyes, decretos, CONPES, resoluciones (12 restantes de 13)
 
 - `Ley 1503 de 2011 Promueve formacion de habitos y comportamientos seguros en la via.pdf`
 - `Ley_1310_de_2009 Unificacion normas sobre Agentes de transito y grupos control vial.pdf`
 - `Ley_1383 de 2010 Reforma la ley 769 de 2002 CNT y dicta otras disposiciones.pdf`
 - `Ley_1702_de_2013.pdf`
 - `Ley_2251_de_2022.pdf Ley julian Esteban.pdf` — nombre de archivo con "pdf" duplicado en el medio; extensión real al final.
-- `Ley_769 de 2002 Codigo Nacional de transito.pdf`
 - `DECRETO787 de 2015 funciones ANSV.pdf`
 - `Decreto 2851 de 2013 reglamenta articulos de la ley 1503 definiciones en seg vial.pdf`
 - `COMPES  Asistencia tecnica 4091.pdf` — CONPES 4091 (política de asistencia técnica territorial); el repositorio hermano de innovación ya tiene una página de esta misma política ([referencia externa, no citable directamente aquí sin verificar que sea el mismo documento](#nota-sobre-el-repositorio-hermano)).
