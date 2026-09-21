@@ -88,6 +88,13 @@ La [respuesta-peticion-congresista-20266600072782](../fuentes/respuesta-peticion
 
 También aporta una cifra concreta de inversión 2022-2026 en la línea "asistencia técnica territorial": **$149.175 millones** (segunda línea de mayor inversión de la ANSV, después de educación vial) — dimensiona presupuestalmente el objeto de este trabajo de grado.
 
+## Fundamento normativo exacto: acción 2.2 de Gobernanza del PNSV 2022-2031 (hallazgo mayor)
+
+El [documento-tecnico-soporte-pnsv-2022-2031](../fuentes/documento-tecnico-soporte-pnsv-2022-2031.md) (documento fundacional del PNSV) identifica la acción nacional exacta que legitima toda la cadena documental de este bundle: dentro del área de acción **Gobernanza**, la acción **"2.2 Asistir técnicamente a las entidades territoriales en la gestión de la seguridad vial"** aparece como objetivo nacional aplicado con énfasis regional en al menos 6 de las 8 regiones del PNSV. El nombre de la [estrategia-at-pedagogica-2.2.1-entidades-territoriales](../fuentes/estrategia-at-pedagogica-2.2.1-entidades-territoriales.md) ("Acción 2.2.1") se explica ahora como una subacción de esta acción 2.2. Con esto, la cadena normativa completa queda: Ley 1702/2013 (crea ANSV/DCI) → Decreto 787/2015 (funciones DCI) → PNSV 2022-2031, acción 2.2 de Gobernanza (mandato exacto de asistencia técnica territorial) → Estrategia 2.2.1 (diseño operativo) → PR-08/PR-07/PR-06 (detección, estrategia, ejecución) → GIP-FO-05/Anexo 6 (registro).
+
+Ese mismo documento aporta, además, evidencia textual (no inferida) de que la **brecha de capacidad institucional territorial** —que motiva la necesidad de un protocolo robusto de asistencia técnica— es reconocida oficialmente por el propio PNSV en al menos 3 de sus 8 regiones ("Debilidad del control en vía por baja capacidad institucional", "Disparidad en la capacidad de las diferentes entidades territoriales"), con redacción casi idéntica entre regiones — un patrón estructural, no un problema aislado.
+
 ## Ver también
 
 - [entidades/dci-direccion-coordinacion-interinstitucional](../entidades/dci-direccion-coordinacion-interinstitucional.md)
+- [fuentes/documento-tecnico-soporte-pnsv-2022-2031](../fuentes/documento-tecnico-soporte-pnsv-2022-2031.md)

@@ -108,6 +108,10 @@ Esta es, junto con el Decreto 787/2015, la fuente con más puntos de conexión d
 - `[INCIERTO: la tabla de indicadores (sección 5) y la tabla de firmas (sección 7) tienen fiabilidad reducida por fragmentación del OCR — ver nota metodológica al inicio.]`
 - Documento sin código ni versión formal identificados en el cuerpo del texto (más allá del nombre de archivo "16032026", que podría ser una fecha de versión en formato DDMMAAAA = 16 de marzo de 2026) — no se confirma con una sección explícita de identificación del documento como las del bundle PR-06.
 
+## Actualización — origen del nombre "Acción 2.2.1" (hallazgo)
+
+El [documento-tecnico-soporte-pnsv-2022-2031](documento-tecnico-soporte-pnsv-2022-2031.md) explica el nombre de esta estrategia: es la subacción operativa de la acción nacional **"2.2 Asistir técnicamente a las entidades territoriales en la gestión de la seguridad vial"**, del área de acción Gobernanza del PNSV 2022-2031 — el fundamento de política pública exacto de toda la cadena de asistencia técnica de la DCI documentada en este repositorio.
+
 ## Ver también
 
 - [conceptos/asistencia-tecnica-bundle-pr06](../conceptos/asistencia-tecnica-bundle-pr06.md)
