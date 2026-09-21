@@ -94,3 +94,4 @@ Las entidades del sistema deben apoyar con equipos sociales/educativos las campa
 - [conceptos/asistencia-tecnica-bundle-pr06](../conceptos/asistencia-tecnica-bundle-pr06.md)
 - [entidades/dci-direccion-coordinacion-interinstitucional](../entidades/dci-direccion-coordinacion-interinstitucional.md)
 - [fuentes/anexo-tecnico-plan-365](anexo-tecnico-plan-365.md)
+- [fuentes/respuesta-peticion-congresista-20266600072782](respuesta-peticion-congresista-20266600072782.md): la cifra de 8.271 fallecidos 2024 de esta circular no coincide exactamente con la cifra de 8.433 (INMLCF, base SIRDEC) de esa respuesta — `[INCIERTO: no resoluble con las fuentes disponibles]`.

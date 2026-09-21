@@ -82,3 +82,4 @@ El DNP, el DAFP, el Ministerio de Hacienda y la Presidencia de la República rec
 ## Ver también
 
 - [conceptos/asistencia-tecnica-bundle-pr06](../conceptos/asistencia-tecnica-bundle-pr06.md)
+- [fuentes/respuesta-peticion-congresista-20266600072782](respuesta-peticion-congresista-20266600072782.md): aporta una cifra concreta de inversión en "asistencia técnica territorial" ($149.175 millones, 2022-2026) que puede cruzarse con el marco teórico de gestión del conocimiento de este CONPES.

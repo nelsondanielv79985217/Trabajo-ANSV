@@ -79,6 +79,15 @@ La [resolucion-583-2023-armonizacion-plsv-pnsv](../fuentes/resolucion-583-2023-a
 
 El bundle PR-06 (PR-06, PR-07, PR-08) menciona repetidamente el "enfoque de Sistema Seguro" sin definirlo. La definición formal está en [ley-2251-2022-sistema-seguro](../fuentes/ley-2251-2022-sistema-seguro.md), art. 2, literal a): tiene en cuenta la vulnerabilidad humana a las lesiones graves y busca que el sistema tolere el error humano, con cuatro pilares (carreteras y bermas seguras, velocidades seguras, vehículos seguros, usuarios de carreteras seguros).
 
+## Meta nacional del PNSV en riesgo y vacío de rendición de cuentas territorial (actualización mayor)
+
+La [respuesta-peticion-congresista-20266600072782](../fuentes/respuesta-peticion-congresista-20266600072782.md) (respuesta oficial de la ANSV a un cuestionario de control político del Senado, 2026) aporta dos hallazgos de primer orden para el trabajo de grado:
+
+1. **La meta nacional cuantitativa del PNSV está en riesgo de incumplirse**: reducir 50% la mortalidad vial para 2031 (línea base 2021: 14,2 fallecidos/100.000 hab. → meta 7,1) exigía una reducción de ~325 fallecidos/año; con la tasa 2024 en 15,4 (por encima de la meta de 12,1 para ese año), ahora se requeriría una aceleración a ~672 fallecidos/año durante 2026-2031. Esto ancla, con cifra oficial y no de interpretación propia, la urgencia de fortalecer mecanismos de ejecución territorial como la asistencia técnica.
+2. **Vacío de rendición de cuentas específicamente sobre la función territorial de la DCI**: de 5 preguntas del cuestionario asignadas a la DCI sobre cobertura de PLSV armonizados, entidades territoriales rezagadas, relación histórica de asistencias técnicas 2022-2026 y criterios de priorización territorial, **ninguna fue respondida** en el documento. El único indicador oficial del PNSV bajo responsabilidad explícita de la DCI ("Recursos apalancados de inversión territorial con recursos del FNSV") registra 0% de avance a 2026. `[Interpretación propia]`: esto es evidencia directa —no inferida— de que la función de coordinación territorial de la DCI carece hoy de un sistema de reporte/trazabilidad que permita responder, con datos, preguntas básicas de cobertura y criterios de priorización — exactamente el tipo de vacío que un protocolo formal de asistencia técnica (objeto de esta tesis) puede estar llamado a subsanar.
+
+También aporta una cifra concreta de inversión 2022-2026 en la línea "asistencia técnica territorial": **$149.175 millones** (segunda línea de mayor inversión de la ANSV, después de educación vial) — dimensiona presupuestalmente el objeto de este trabajo de grado.
+
 ## Ver también
 
 - [entidades/dci-direccion-coordinacion-interinstitucional](../entidades/dci-direccion-coordinacion-interinstitucional.md)

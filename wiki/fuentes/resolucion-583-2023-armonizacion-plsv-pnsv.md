@@ -89,3 +89,4 @@ La extracción de texto de este PDF (`pypdf`) presenta **errores de codificació
 
 - [conceptos/asistencia-tecnica-bundle-pr06](../conceptos/asistencia-tecnica-bundle-pr06.md)
 - [entidades/dci-direccion-coordinacion-interinstitucional](../entidades/dci-direccion-coordinacion-interinstitucional.md)
+- [fuentes/respuesta-peticion-congresista-20266600072782](respuesta-peticion-congresista-20266600072782.md): confirma de forma independiente el Decreto 1430 de 2022 (no "143") como norma de adopción del PNSV.

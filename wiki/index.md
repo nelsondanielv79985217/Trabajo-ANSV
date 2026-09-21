@@ -4,7 +4,7 @@ Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos 
 
 ## Fuentes (`fuentes/`)
 
-35 documentos relevados en la raíz del repo (30 PDF, incluido uno con extensión `.PDF` en mayúsculas, y 5 DOCX): **26 ingeridos** — bundle PR-06 (6) + las 13 de normativa nacional + las 7 de Plan 365 (grupo completo) — y **9 pendientes de ingest**. La agrupación de las pendientes es solo por lo que indica el nombre de archivo — no implica haber leído el contenido (regla de incertidumbre, `CLAUDE.md`).
+35 documentos relevados en la raíz del repo (30 PDF, incluido uno con extensión `.PDF` en mayúsculas, y 5 DOCX): **27 ingeridos** — bundle PR-06 (6) + las 13 de normativa nacional + las 7 de Plan 365 (grupo completo) + 1 de correspondencia (Respuesta a petición congresista) — y **8 pendientes de ingest**. La agrupación de las pendientes es solo por lo que indica el nombre de archivo — no implica haber leído el contenido (regla de incertidumbre, `CLAUDE.md`).
 
 ### Ingeridas (6) — bundle PR-06 completo
 
@@ -41,7 +41,11 @@ Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos 
 - [Oficio a Gobernadores y Alcaldes — Instancias CLSV/CDSV/CTSV y Plan 365](fuentes/oficio-gobernadores-alcaldes-plan365-instancias.md) — identifica la Resolución 516 de 2022 (crea el CTSV) y un "equipo de Regionalización" de la DCI; exige que el Plan de Acción territorial quede evidenciado en actas firmadas; detecta posible tensión con la periodicidad del CTSV de la Estrategia 2.2.1. (ingerido)
 - [Anexo Técnico — Circular Conjunta No. 023 de 2025 (Plan 365)](fuentes/anexo-tecnico-plan-365.md) — anexo técnico de soporte de la circular 023/2025 (95 páginas); tabla resumen de 19 festividades 2025 con datos históricos de siniestralidad 2024 (5.082 lesionados, 1.618 fallecidos, 2.307 municipios priorizados); hallazgo clave: dos festividades (Año Nuevo, Reyes Magos) operan bajo un plan distinto, "Plan 70D", no bajo el Plan 365. Tabla municipio por municipio (p. 3-95) no transcrita. **Con esta fuente se completa el grupo Plan 365 (7 de 7).** (incierto — tabla de datos no transcrita en su totalidad, ver nota de alcance)
 
-### Pendientes de ingest (9)
+### Ingeridas — Correspondencia (1 de 4)
+
+- [Respuesta de la ANSV a Cuestionario de Control Político — Comisión Sexta del Senado](fuentes/respuesta-peticion-congresista-20266600072782.md) — respuesta oficial (2026) a >30 preguntas sobre siniestralidad, metas del PNSV, motociclistas, presupuesto y coordinación territorial. Hallazgos mayores: la meta nacional de reducir 50% la mortalidad vial para 2031 está en riesgo (se requeriría acelerar a ~672 fallecidos/año menos entre 2026-2031); y **5 preguntas asignadas explícitamente a la DCI sobre cobertura, rezagos y criterios de la coordinación territorial no tienen respuesta en el documento**. Sin paginación explotable (.docx largo) — se cita por sección/pregunta, no por página. (incierto — ver nota de alcance y citación en la página)
+
+### Pendientes de ingest (8)
 
 Se procesarán de a una, en el orden que indique el usuario, siguiendo el flujo INGEST de `CLAUDE.md` (lectura completa con registro de página exacta, página de `fuentes/`, actualización de este índice y del log, pausa para confirmación).
 
@@ -53,12 +57,11 @@ Se procesarán de a una, en el orden que indique el usuario, siguiendo el flujo 
 - `manual-metodologico operacion estadistica FPSV.pdf`
 - `Protocolo_Practicas_Seguras_Motociclistas.pdf`
 
-#### Correspondencia / oficios (4)
+#### Correspondencia / oficios (3 restantes de 4)
 
 - `20254000114441_Oficio_ANSV_2024 Super y Procuraduría VR.pdf`
 - `ORFEO_Oficio_ANSV_2024 (22) super y procuraduría.docx`
 - `Solicita info 365 Oficio_ANSV_2024 (22) super y procuraduría.docx`
-- `Respuesta a peticion congresista 20266600072782.docx`
 
 ## Conceptos (`conceptos/`)
 
@@ -74,7 +77,7 @@ Candidata previsible para próxima página: Agencia Nacional de Seguridad Vial (
 
 ## Síntesis (`sintesis/`)
 
-Ninguna todavía — se crean cuando una respuesta de QUERY vale la pena conservar.
+- [Riesgos de contratos macro vs. contratos individuales para cubrir actividades en territorio (ANSV)](sintesis/riesgos-contratos-macro-vs-individuales-territorio.md) — respuesta de QUERY para la intervención de la Directora en el XIV Congreso Nacional de Autoridades de Tránsito; aclara que la comparación no está tratada en las fuentes del proyecto y entrega un análisis de riesgos marcado explícitamente como opinión profesional propia, apoyado en evidencia del modelo de contratación real de la ANSV. (incierto — ver aviso metodológico en la página)
 
 ## Nota sobre el repositorio hermano
 
