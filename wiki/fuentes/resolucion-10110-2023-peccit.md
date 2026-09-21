@@ -78,3 +78,5 @@ Define las condiciones técnicas, tecnológicas y operativas del SISI/PECCIT: re
 ## Ver también
 
 - [conceptos/asistencia-tecnica-bundle-pr06](../conceptos/asistencia-tecnica-bundle-pr06.md)
+- [entidades/superintendencia-de-transporte](../entidades/superintendencia-de-transporte.md)
+- [conceptos/plan-local-de-seguridad-vial-plsv](../conceptos/plan-local-de-seguridad-vial-plsv.md)

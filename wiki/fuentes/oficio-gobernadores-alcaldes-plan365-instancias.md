@@ -76,3 +76,4 @@ Cita textual (párr. 46): "de acuerdo con la **Resolución 516 de agosto de 2022
 
 - [conceptos/asistencia-tecnica-bundle-pr06](../conceptos/asistencia-tecnica-bundle-pr06.md)
 - [entidades/dci-direccion-coordinacion-interinstitucional](../entidades/dci-direccion-coordinacion-interinstitucional.md)
+- [conceptos/instancias-territoriales-de-seguridad-vial](../conceptos/instancias-territoriales-de-seguridad-vial.md)

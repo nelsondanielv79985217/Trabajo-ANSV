@@ -125,3 +125,5 @@ La Red de Observatorios Territoriales de Seguridad Vial (ROT), creada por el art
 - [fuentes/conpes-4091-asistencia-tecnica-territorial](conpes-4091-asistencia-tecnica-territorial.md)
 - [fuentes/circular-023-2025-plan-365](circular-023-2025-plan-365.md)
 - [fuentes/anexo-tecnico-plan-365](anexo-tecnico-plan-365.md)
+- [entidades/agencia-nacional-de-seguridad-vial-ansv](../entidades/agencia-nacional-de-seguridad-vial-ansv.md)
+- [entidades/observatorio-nacional-de-seguridad-vial-onsv](../entidades/observatorio-nacional-de-seguridad-vial-onsv.md)

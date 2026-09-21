@@ -73,3 +73,4 @@ Nota de actualización (p. 1): "Descargar el formato de Acta de Reunión actuali
 
 - [conceptos/asistencia-tecnica-bundle-pr06](../conceptos/asistencia-tecnica-bundle-pr06.md)
 - [entidades/dci-direccion-coordinacion-interinstitucional](../entidades/dci-direccion-coordinacion-interinstitucional.md)
+- [conceptos/plan-local-de-seguridad-vial-plsv](../conceptos/plan-local-de-seguridad-vial-plsv.md)

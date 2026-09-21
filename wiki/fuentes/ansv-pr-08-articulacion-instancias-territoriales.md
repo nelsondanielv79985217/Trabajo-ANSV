@@ -76,6 +76,8 @@ El PR-08 declara explícitamente **dos** documentos asociados: "Procedimiento de
 - [ansv-gip-fo-05-formato-acta-reunion](ansv-gip-fo-05-formato-acta-reunion.md) — plantilla probable de las 8 "actas de reunión" que este PR-08 usa como registro, aunque el PR-08 no cita el código ANSV-GIP-FO-05 explícitamente.
 - [dci-lineamientos-cargue-evidencias](dci-lineamientos-cargue-evidencias.md) — aplica a las 8 actas de este PR-08 en la medida en que documenten actividades de asistencia técnica.
 - [ley-1702-2013-creacion-ansv](ley-1702-2013-creacion-ansv.md): es la ley de creación de la propia ANSV y de la DCI (art. 10), y también la fuente legal original del CTSV (art. 15.2), cuya integración descrita allí ("un delegado de la ANSV", "la primera Autoridad de Tránsito y Transporte" como representante municipal/departamental) coincide con lo que este PR-08 documenta operativamente.
+- [conceptos/instancias-territoriales-de-seguridad-vial](../conceptos/instancias-territoriales-de-seguridad-vial.md)
+- [conceptos/plan-local-de-seguridad-vial-plsv](../conceptos/plan-local-de-seguridad-vial-plsv.md)
 
 ## Relevancia para el trabajo en la ANSV
 

@@ -108,3 +108,4 @@ Estrategia de comunicaciones centrada en el exceso de velocidad como factor de r
 - [fuentes/circular-023-2025-plan-365](circular-023-2025-plan-365.md)
 - [conceptos/asistencia-tecnica-bundle-pr06](../conceptos/asistencia-tecnica-bundle-pr06.md)
 - [entidades/dci-direccion-coordinacion-interinstitucional](../entidades/dci-direccion-coordinacion-interinstitucional.md)
+- [conceptos/sistema-seguro](../conceptos/sistema-seguro.md)

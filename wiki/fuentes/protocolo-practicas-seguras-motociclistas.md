@@ -73,3 +73,4 @@ El documento continúa con secciones extensas de naturaleza técnico-operativa d
 - [entidades/dci-direccion-coordinacion-interinstitucional](../entidades/dci-direccion-coordinacion-interinstitucional.md)
 - [fuentes/respuesta-peticion-congresista-20266600072782](respuesta-peticion-congresista-20266600072782.md)
 - [fuentes/ley-2251-2022-sistema-seguro](ley-2251-2022-sistema-seguro.md)
+- [conceptos/sistema-seguro](../conceptos/sistema-seguro.md)

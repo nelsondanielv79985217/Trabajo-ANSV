@@ -90,3 +90,4 @@ Columnas: N°, Festivo (con el mismo listado de 19 festividades de la tabla resu
 
 - [conceptos/asistencia-tecnica-bundle-pr06](../conceptos/asistencia-tecnica-bundle-pr06.md)
 - [fuentes/respuesta-peticion-congresista-20266600072782](respuesta-peticion-congresista-20266600072782.md): cifra de fallecidos 2024 no coincide exactamente con la de esa fuente (8.271 vs. 8.433) — `[INCIERTO]`.
+- [conceptos/sistema-seguro](../conceptos/sistema-seguro.md)

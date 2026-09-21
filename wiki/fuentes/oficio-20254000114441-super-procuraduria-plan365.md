@@ -61,3 +61,4 @@ Reitera, con la misma redacci√≥n ya vista en la Circular 023/2025, la descripci√
 - [fuentes/circular-023-2025-plan-365](circular-023-2025-plan-365.md)
 - [conceptos/asistencia-tecnica-bundle-pr06](../conceptos/asistencia-tecnica-bundle-pr06.md)
 - [entidades/dci-direccion-coordinacion-interinstitucional](../entidades/dci-direccion-coordinacion-interinstitucional.md)
+- [entidades/superintendencia-de-transporte](../entidades/superintendencia-de-transporte.md)

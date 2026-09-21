@@ -89,3 +89,5 @@ Superintendencia de Puertos y Transporte, Ministerio de Hacienda y Crédito Púb
 
 - [conceptos/asistencia-tecnica-bundle-pr06](../conceptos/asistencia-tecnica-bundle-pr06.md)
 - [entidades/dci-direccion-coordinacion-interinstitucional](../entidades/dci-direccion-coordinacion-interinstitucional.md)
+- [entidades/agencia-nacional-de-seguridad-vial-ansv](../entidades/agencia-nacional-de-seguridad-vial-ansv.md)
+- [entidades/observatorio-nacional-de-seguridad-vial-onsv](../entidades/observatorio-nacional-de-seguridad-vial-onsv.md)

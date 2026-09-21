@@ -112,3 +112,5 @@ El PNSV adopta un enfoque de **Gestión Pública Orientada a Resultados (GPOR)**
 - [fuentes/resolucion-583-2023-armonizacion-plsv-pnsv](resolucion-583-2023-armonizacion-plsv-pnsv.md)
 - [fuentes/respuesta-peticion-congresista-20266600072782](respuesta-peticion-congresista-20266600072782.md)
 - [entidades/dci-direccion-coordinacion-interinstitucional](../entidades/dci-direccion-coordinacion-interinstitucional.md)
+- [entidades/agencia-nacional-de-seguridad-vial-ansv](../entidades/agencia-nacional-de-seguridad-vial-ansv.md)
+- [conceptos/sistema-seguro](../conceptos/sistema-seguro.md)

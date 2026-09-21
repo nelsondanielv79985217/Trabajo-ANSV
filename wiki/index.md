@@ -62,15 +62,17 @@ Ninguno — repositorio completo (35 de 35 fuentes ingeridas).
 
 ## Conceptos (`conceptos/`)
 
-- [Asistencia Técnica de la DCI — Marco documental completo (bundle PR-06)](conceptos/asistencia-tecnica-bundle-pr06.md) — arma la cadena documental completa (detección de necesidad territorial → estrategia → ejecución de AT → caracterización de proceso → registro → trazabilidad) a partir de las 6 fuentes del bundle PR-06 ya ingeridas. (ingerido)
-
-Candidatos previsibles para próximas páginas, aún sin crear porque no hay evidencia de cruce con una tercera fuente ajena al bundle: "Sistema Seguro", "Plan 365", "Instancias territoriales de seguridad vial (CTSV/CLSV/CDSV)".
+- [Asistencia Técnica de la DCI — Marco documental completo (bundle PR-06)](conceptos/asistencia-tecnica-bundle-pr06.md) — arma la cadena documental completa (detección de necesidad territorial → estrategia → ejecución de AT → caracterización de proceso → registro → trazabilidad), con el fundamento normativo exacto (acción 2.2 de Gobernanza del PNSV) y el matiz sobre la dimensión sancionatoria de la política. (ingerido)
+- [Sistema Seguro (Safe System)](conceptos/sistema-seguro.md) — enfoque de política pública adoptado por la Ley 2251/2022 y el PNSV 2022-2031; definición formal, las 8 áreas de acción, y la estructura nacional/territorial del plan. Aparece en 11+ fuentes del repositorio. (ingerido)
+- [Plan Local de Seguridad Vial (PLSV) / Plan Departamental (PDSV)](conceptos/plan-local-de-seguridad-vial-plsv.md) — régimen de obligatoriedad (Ley 2251/2022 art. 14, Resolución 583/2023: 4 criterios objetivos), rol en el bundle PR-06/PR-08, y su lugar entre las cargas paralelas de reporte de un organismo de tránsito. Aparece en 13 fuentes. (ingerido)
+- [Instancias territoriales de coordinación en seguridad vial (CTSV, CLSV, CDSV, MAI)](conceptos/instancias-territoriales-de-seguridad-vial.md) — las cuatro instancias por las que una necesidad territorial llega a la DCI; incluye la tensión no resuelta de periodicidad del CTSV. (incierto — dos resoluciones citadas como su marco normativo, 097/2019 y 516/2022, no están en este repositorio)
 
 ## Entidades (`entidades/`)
 
 - [Dirección de Coordinación Interinstitucional (DCI) — ANSV](entidades/dci-direccion-coordinacion-interinstitucional.md) — dependencia responsable de las 6 fuentes del bundle PR-06; rol en cada documento, firmantes recurrentes y entidades externas con las que se relaciona. (ingerido)
-
-Candidata previsible para próxima página: Agencia Nacional de Seguridad Vial (ANSV) como entidad propia (distinta de la DCI) — aún sin crear porque, hasta ahora, todo lo ingerido es específicamente de la DCI.
+- [Agencia Nacional de Seguridad Vial (ANSV)](entidades/agencia-nacional-de-seguridad-vial-ansv.md) — entidad propia, distinta de la DCI: estructura orgánica completa, línea de tiempo de Directores(as) Generales (Luis Felipe Lota → Juan Carlos Beltrán Bedoya → Mariantonia Tabares Pulgarín → **Alexandra Acelas Rodríguez**, esta última confirmada directamente por el usuario, no por un documento del repositorio), presupuesto y rol sancionatorio. (ingerido)
+- [Superintendencia de Transporte](entidades/superintendencia-de-transporte.md) — entidad de vigilancia y control sobre organismos de tránsito, a cargo del PECCIT; único actor del repositorio con potestad sancionatoria real y activada (suspensión/cancelación de habilitación, multas) sobre organismos de tránsito incumplidos. (ingerido)
+- [Observatorio Nacional de Seguridad Vial (ONSV)](entidades/observatorio-nacional-de-seguridad-vial-onsv.md) — dependencia de la ANSV distinta de la DCI, fuente metodológica de casi todas las cifras de siniestralidad del repositorio; explica por qué esas cifras varían entre documentos (preliminar/definitivo, ONSV-INMLCF vs. DANE). (ingerido)
 
 ## Síntesis (`sintesis/`)
 

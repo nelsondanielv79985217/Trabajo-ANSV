@@ -89,3 +89,5 @@ last_updated: 2026-09-21
 
 - [conceptos/asistencia-tecnica-bundle-pr06](../conceptos/asistencia-tecnica-bundle-pr06.md)
 - [entidades/dci-direccion-coordinacion-interinstitucional](../entidades/dci-direccion-coordinacion-interinstitucional.md)
+- [entidades/agencia-nacional-de-seguridad-vial-ansv](../entidades/agencia-nacional-de-seguridad-vial-ansv.md)
+- [conceptos/instancias-territoriales-de-seguridad-vial](../conceptos/instancias-territoriales-de-seguridad-vial.md)

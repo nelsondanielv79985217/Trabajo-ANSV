@@ -79,3 +79,4 @@ El documento incluye un extenso marco teórico sobre determinantes conductuales 
 - [fuentes/analisis-tecnico-siniestralidad-mateus](analisis-tecnico-siniestralidad-mateus.md)
 - [fuentes/ley-769-2002-codigo-nacional-transito](ley-769-2002-codigo-nacional-transito.md)
 - [conceptos/asistencia-tecnica-bundle-pr06](../conceptos/asistencia-tecnica-bundle-pr06.md)
+- [entidades/observatorio-nacional-de-seguridad-vial-onsv](../entidades/observatorio-nacional-de-seguridad-vial-onsv.md)
