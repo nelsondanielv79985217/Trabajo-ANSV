@@ -82,7 +82,8 @@ Entre las salidas/productos del ciclo Hacer (p. 2) figura, sin mapeo confiable a
 - [ansv-pr-06-procedimiento-asistencia-tecnica](ansv-pr-06-procedimiento-asistencia-tecnica.md): la actividad "Hacer" 7 de este CA-02 (implementar la estrategia "a través de asistencia técnica...", p. 2) es la caracterización de proceso, a nivel agregado, de lo que el PR-06 detalla como procedimiento operativo paso a paso. La "evaluación de apropiación de conocimiento" (salida del ciclo Hacer, p. 2) es coherente con el ciclo pretest/postest obligatorio del PR-06.
 - [ansv-pr-07-estrategias-interinstitucionales](ansv-pr-07-estrategias-interinstitucionales.md): el objetivo de este CA-02 ("identificar, definir, coordinar, orientar, fortalecer y hacer seguimiento a las estrategias intersectoriales e interinstitucionales", p. 1) describe, a nivel de proceso, lo que el PR-07 detalla como procedimiento de 12 actividades para definir y aprobar una estrategia.
 - [ansv-pr-08-articulacion-instancias-territoriales](ansv-pr-08-articulacion-instancias-territoriales.md) — no se citan entre sí, pero ambos pertenecen al mismo proceso "Coordinación y Articulación para la Implementación de la Política Pública en Seguridad Vial".
-- Documentos que se desprenden o se relacionan directamente con este CA-02, **pendientes de ingest propio**: Anexo 5 — Instrucciones registro de acta de reunión; Anexo 6 — Lineamientos cargue de evidencias.
+- [ansv-gip-fo-05-formato-acta-reunion](ansv-gip-fo-05-formato-acta-reunion.md) — "actas de reunión" figura entre las salidas/productos mencionados del ciclo Hacer de este CA-02; este anexo es la plantilla concreta de ese registro.
+- Documento que se desprende o se relaciona directamente con este CA-02, **pendiente de ingest propio**: Anexo 6 — Lineamientos cargue de evidencias.
 
 ## Relevancia para el trabajo de grado
 

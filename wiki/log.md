@@ -37,3 +37,12 @@ Registro cronológico, append-only. No editar entradas pasadas — solo agregar 
 - Se identificó normativa citada pero no disponible en este repositorio (Resolución 097 de 2019, Resolución 516 de 2022) y normativa sí disponible pero aún no ingerida (Ley 1702 de 2013).
 - Se actualizaron los cross-links en PR-06, PR-07 y CA-02, y se actualizó `index.md` (de 3 a 4 fuentes ingeridas, familia SGC-DCI de 3 a 2 pendientes: quedan Anexo 5 y Anexo 6).
 - Pendiente: continuar con Anexo 5 (instrucciones registro de acta de reunión) y Anexo 6 (lineamientos cargue de evidencias) para cerrar el bundle completo del PR-06.
+
+## [2026-09-21] ingest | Anexo 5 — Formato Acta de Reunión (ANSV-GIP-FO-05)
+
+- Se extrajo el texto completo del PDF (3 páginas) con `pypdf`. A diferencia de los cuatro documentos anteriores, este no es un procedimiento de la DCI (código "ANSV-CPP-...") sino una **plantilla transversal de la ANSV** del proceso Gestión Integral de Procesos (código "ANSV-GIP-FO-05"), reutilizada por la DCI para sus actas de asistencia técnica.
+- Se creó `wiki/fuentes/ansv-gip-fo-05-formato-acta-reunion.md` con `status: ingerido` y cita de página exacta.
+- Hallazgo relevante para el trabajo de grado: el formato exige explícitamente que el campo TEMA de toda acta de asistencia técnica se nombre siempre "Asistencia Técnica" seguido del enfoque (con ejemplos como "Asistencia Técnica – PLSV de Cartagena" y "Asistencia Técnica a Organismos de Tránsito"), y exige que cada compromiso adquirido tenga entregable, responsable y fecha para trazabilidad.
+- Se identificó un formato relacionado citado pero no disponible en este repositorio: ANSV-GIP-FO-06 (registro de asistencia).
+- Se actualizaron los cross-links en PR-06, PR-07, PR-08 y CA-02 (los cuatro usan "acta de reunión" como registro, aunque ninguno cita el código GIP-FO-05 explícitamente), y se actualizó `index.md` (de 4 a 5 fuentes ingeridas, familia SGC-DCI de 2 a 1 pendiente: queda solo el Anexo 6).
+- Pendiente: cerrar el bundle con el Anexo 6 (lineamientos cargue de evidencias); luego evaluar con el usuario la síntesis de concepto/entidad de todo el bundle antes de continuar con el resto del repositorio.
