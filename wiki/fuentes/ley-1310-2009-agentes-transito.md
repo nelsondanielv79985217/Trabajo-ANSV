@@ -42,8 +42,9 @@ last_updated: 2026-09-21
 ## Relación con las demás fuentes de este repositorio
 
 - [ley-769-2002-codigo-nacional-transito](ley-769-2002-codigo-nacional-transito.md): esta Ley 1310 modifica directamente el inciso 1° del art. 4° de la Ley 769 (art. 8 de esta ley, p. 2) — confirmación textual de la anotación de reforma ya registrada en la página de la Ley 769. Además, la definición de "Organismo de Tránsito y Transporte" (art. 2, p. 1) es consistente con, aunque más breve que, la del art. 6 de la Ley 769.
-- El "Fondo de Prevención Vial", mencionado en el art. 13 (p. 3) como entidad de apoyo a programas de seguridad y control vial, no aparece en ninguna de las fuentes ya ingeridas de este repositorio — posible antecedente institucional relevante para el marco histórico de la seguridad vial en Colombia, previo a la creación de la ANSV (2013).
-- Pendiente de ingest directamente relacionada: `Ley_1383 de 2010`, que reforma varios artículos adicionales de la Ley 769 de 2002.
+- El "Fondo de Prevención Vial", mencionado en el art. 13 (p. 3) como entidad de apoyo a programas de seguridad y control vial: fue liquidado y sustituido por el Fondo Nacional de Seguridad Vial de la ANSV, según se confirmó en [ley-1702-2013-creacion-ansv](ley-1702-2013-creacion-ansv.md).
+- [ley-1383-2010-reforma-cnt](ley-1383-2010-reforma-cnt.md): reforma varios artículos adicionales de la Ley 769 de 2002.
+- [resolucion-4548-2013-formacion-agentes-transito](resolucion-4548-2013-formacion-agentes-transito.md): reglamenta directamente los arts. 3° y 7° (numeral 5) de esta ley, definiendo el pénsum académico completo (8 ejes) de los agentes de tránsito.
 
 ## Relevancia para el trabajo de grado
 

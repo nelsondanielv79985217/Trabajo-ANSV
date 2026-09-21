@@ -155,3 +155,11 @@ Registro cronológico, append-only. No editar entradas pasadas — solo agregar 
 - Hallazgo relevante: confirma que un organismo de tránsito enfrenta obligaciones de reporte paralelas ante al menos tres autoridades distintas (ANSV vía PLSV, Superintendencia de Transporte vía PECCIT, y las actas/evidencias de la DCI) — ninguna fuente ya ingerida aborda cómo se articulan esas cargas entre sí.
 - Se actualizó `index.md` (de 16 a 17 fuentes ingeridas; normativa nacional de 3 a 2 pendientes).
 - Pendiente: continuar con Resolución Mintransporte 4548/2013 y CONPES 4091 (última fuente del grupo de normativa nacional).
+
+## [2026-09-21] ingest | Resolución 4548 de 2013 (formación de agentes de tránsito)
+
+- Documento de 9 páginas, 7 artículos, leído completo con cita de página exacta. Se creó `wiki/fuentes/resolucion-4548-2013-formacion-agentes-transito.md`.
+- Define el pénsum académico de agentes de tránsito en 8 ejes (Normatividad, Ejercicio de la autoridad de tránsito, Ética, Seguridad vial, Criminalística, Resolución de conflictos, Pedagogía, Primeros auxilios).
+- Hallazgos relevantes: (1) el eje "Seguridad vial" usa una definición **textualmente idéntica** a la del art. 2, literal c) del Decreto 2851/2013 ya ingerido, confirmando una definición oficial estandarizada del sector; (2) el eje "Ejercicio de la autoridad de tránsito" menciona "asistencia técnica a conductores" — un tercer sentido del término en el corpus (junto a DCI→organismo de tránsito y Ministerio de Educación→entidad territorial certificada). Se actualizó el concepto `asistencia-tecnica-bundle-pr06.md` con esta observación sobre la polisemia del término.
+- Se actualizaron los cross-links en la Ley 1310/2009 y el Decreto 2851/2013, y se actualizó `index.md` (de 17 a 18 fuentes ingeridas; normativa nacional de 2 a 1 pendiente).
+- **Con esta fuente se completa el ingest de toda la normativa nacional excepto el CONPES 4091**, que se procesa a continuación como cierre del grupo (pedido explícito del usuario: "Sigue con los seis restantes").
