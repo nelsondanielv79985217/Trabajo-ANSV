@@ -4,20 +4,20 @@ Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos 
 
 ## Fuentes (`fuentes/`)
 
-35 documentos relevados en la raíz del repo (30 PDF, incluido uno con extensión `.PDF` en mayúsculas, y 5 DOCX): **1 ingerido** (PR-06) y **34 pendientes de ingest**. La agrupación de las pendientes es solo por lo que indica el nombre de archivo — no implica haber leído el contenido (regla de incertidumbre, `CLAUDE.md`).
+35 documentos relevados en la raíz del repo (30 PDF, incluido uno con extensión `.PDF` en mayúsculas, y 5 DOCX): **2 ingeridos** (PR-06, PR-07) y **33 pendientes de ingest**. La agrupación de las pendientes es solo por lo que indica el nombre de archivo — no implica haber leído el contenido (regla de incertidumbre, `CLAUDE.md`).
 
-### Ingeridas (1)
+### Ingeridas (2)
 
 - [Procedimiento de Asistencia Técnica DCI (ANSV-CPP-PR-06)](fuentes/ansv-pr-06-procedimiento-asistencia-tecnica.md) — procedimiento oficial que regula cómo la ANSV/DCI planifica, ejecuta y hace seguimiento a las asistencias técnicas territoriales; declara la transferencia de conocimiento como uno de sus tres criterios de calidad obligatorios. (ingerido)
+- [Procedimiento Definición, Implementación y Seguimiento a Estrategias Interinstitucionales (ANSV-CPP-PR-07)](fuentes/ansv-pr-07-estrategias-interinstitucionales.md) — procedimiento previo/superior al PR-06: define y aprueba la estrategia interinstitucional (12 actividades, aprobación por Dirección General) que luego se ejecuta en territorio mediante el PR-06. (ingerido)
 
-### Pendientes de ingest (34)
+### Pendientes de ingest (33)
 
 Se procesarán de a una, en el orden que indique el usuario, siguiendo el flujo INGEST de `CLAUDE.md` (lectura completa con registro de página exacta, página de `fuentes/`, actualización de este índice y del log, pausa para confirmación).
 
-#### Procedimientos y anexos del SGC-DCI (ANSV) — familia del PR-06 (5)
+#### Procedimientos y anexos del SGC-DCI (ANSV) — familia del PR-06 (4)
 
 - `Anexo 1. Caracterización ANSV-CPP-CA-02.pdf`
-- `Anexo 3. Definición, implementación y seguimiento a estrategias interinstitucionales.ANSV-CPP-PR-07.pdf`
 - `ANEXO4~1.PDF` — nombre truncado estilo DOS 8.3; el título real se confirma al leer el contenido (no asumir que es "Anexo 4" del PR-06 sin verificar).
 - `Anexo 5. Instrucciones para el registro de acta de reunión.pdf`
 - `Anexo 6. Lineamientos para el cargue de evidencias.pdf`

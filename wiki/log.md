@@ -10,3 +10,12 @@ Registro cronológico, append-only. No editar entradas pasadas — solo agregar 
 - Se migró `procedimiento-asistencia-tecnica-pr06.md` (análisis ya existente en la raíz del repo, previo a esta wiki) a `wiki/fuentes/ansv-pr-06-procedimiento-asistencia-tecnica.md`, reorganizado bajo el schema de front matter y con `status: ingerido`. No se agregó contenido nuevo respecto al análisis original; se marcó como `[INCIERTO]` la falta de número de página exacto por cada dato, pendiente de una relectura dirigida a citación APA.
 - El archivo `procedimiento-asistencia-tecnica-pr06.md` de la raíz se eliminó tras la migración (su contenido íntegro quedó preservado en `wiki/fuentes/`).
 - El INGEST detallado de las 34 fuentes restantes queda pendiente, para procesarse **una por vez** según el flujo por defecto de `CLAUDE.md`, salvo que el usuario pida explícitamente un procesamiento en lote.
+
+## [2026-09-21] ingest | ANSV-CPP-PR-07 (Anexo 3 — estrategias interinstitucionales)
+
+- Por pedido del usuario ("Empieza con PR-07, CA-02 y los anexos del bundle PR-06"), se inició el INGEST del bundle documental del PR-06, comenzando por el PR-07.
+- Se extrajo el texto completo del PDF (9 páginas) con `pypdf`, preservando la paginación original, y se creó `wiki/fuentes/ansv-pr-07-estrategias-interinstitucionales.md` con `status: ingerido` y cita de página exacta en cada dato.
+- Hallazgo relevante: el PR-07 declara explícitamente al PR-06 como documento asociado (p. 9), pero el PR-06 no declara al PR-07 (su sección de documentos asociados dice "No aplica") — relación asimétrica documentada como incertidumbre en ambas páginas.
+- Se actualizó la página del PR-06 con el link cruzado al PR-07 y se actualizó `index.md` (de 1 a 2 fuentes ingeridas, familia SGC-DCI de 5 a 4 pendientes).
+- No se crearon páginas de concepto/entidad nuevas en este paso: DCI, ANSV, PNSV y los firmantes ya están cubiertos por el ingest del PR-06; se evalúa crear una página de concepto o entidad propia recién cuando haya evidencia de cruce con una tercera fuente.
+- Pendiente: continuar con CA-02 (Anexo 1) y los demás anexos del bundle, de a uno, según lo acordado con el usuario.

@@ -46,7 +46,8 @@ Este documento es el **objeto empírico/institucional central** del trabajo de g
 
 ## Relación con las demás fuentes de este repositorio
 
-- Documentos que se desprenden o se relacionan directamente con este PR-06, **pendientes de ingest propio**: Anexo 1 — Caracterización ANSV-CPP-CA-02; Anexo 3 — ANSV-CPP-PR-07 (estrategias interinstitucionales); `ANEXO4~1.PDF` (nombre truncado, posible PR-08 u otro anexo — a confirmar en su ingest); Anexo 5 — Instrucciones registro de acta de reunión; Anexo 6 — Lineamientos cargue de evidencias.
+- [ansv-pr-07-estrategias-interinstitucionales](ansv-pr-07-estrategias-interinstitucionales.md) — el PR-07 es el paso **previo/superior** en la cadena documental: define y aprueba la estrategia interinstitucional, y su implementación en territorio se ejecuta mediante este PR-06 "o acorde a lo definido en la estrategia" (PR-07, p. 4 y p. 7). El PR-07 sí declara explícitamente a este PR-06 como documento asociado (PR-07, p. 9) — de forma asimétrica respecto a lo señalado abajo en Incertidumbres.
+- Documentos que se desprenden o se relacionan directamente con este PR-06, **pendientes de ingest propio**: Anexo 1 — Caracterización ANSV-CPP-CA-02; `ANEXO4~1.PDF` (nombre truncado, posible PR-08 u otro anexo — a confirmar en su ingest); Anexo 5 — Instrucciones registro de acta de reunión; Anexo 6 — Lineamientos cargue de evidencias.
 - Conecta con la normativa nacional de seguridad vial (Ley 1503 de 2011, Decreto 787 de 2015 — funciones ANSV, PNSV 2022-2031) — pendiente de ingest — porque el PR-06 opera como mecanismo de implementación territorial de esa política.
 - Conecta con los documentos del Plan 365 (circular conjunta, anexo técnico, análisis de reportes) — pendientes de ingest — como posible canal o antecedente de asistencia técnica hacia organismos de tránsito.
 
