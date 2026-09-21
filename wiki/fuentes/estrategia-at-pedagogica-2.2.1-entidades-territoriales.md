@@ -104,6 +104,7 @@ Esta es, junto con el Decreto 787/2015, la fuente con más puntos de conexión d
 ## Incertidumbres
 
 - `[INCIERTO: contradicción "Decreto 1430" (esta fuente y Resolución 583/2023) vs. "Decreto 143" (Circular 023/2025) — ver sección de Introducción y antecedentes.]`
+- `[INCIERTO: el [oficio-gobernadores-alcaldes-plan365-instancias](oficio-gobernadores-alcaldes-plan365-instancias.md) fija una periodicidad mínima general de 4 veces al año para CLSV/CDSV/CTSV, mientras esta página afirma que el CTSV "se reúne de manera semestral" (2 veces al año) — posible tensión no resuelta con las fuentes disponibles; ver detalle en esa página.]`
 - `[INCIERTO: la tabla de indicadores (sección 5) y la tabla de firmas (sección 7) tienen fiabilidad reducida por fragmentación del OCR — ver nota metodológica al inicio.]`
 - Documento sin código ni versión formal identificados en el cuerpo del texto (más allá del nombre de archivo "16032026", que podría ser una fecha de versión en formato DDMMAAAA = 16 de marzo de 2026) — no se confirma con una sección explícita de identificación del documento como las del bundle PR-06.
 

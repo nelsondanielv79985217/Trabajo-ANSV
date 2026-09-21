@@ -206,3 +206,11 @@ Registro cronológico, append-only. No editar entradas pasadas — solo agregar 
 - Sin fecha ni firmantes identificados en el documento — incertidumbre registrada.
 - Se actualizó el cross-link en la Circular 023/2025 y se actualizó `index.md` (de 22 a 23 fuentes ingeridas; Plan 365 de 4 a 3 pendientes).
 - Pendiente: continuar con el Anexo Técnico Plan 365 (95 páginas, el documento más extenso del grupo) y los dos oficios en formato DOCX.
+
+## [2026-09-21] ingest | Dos oficios DOCX (Convocatoria socialización + Gobernadores/Alcaldes)
+
+- Se instaló `python-docx` para leer los dos archivos `.docx` del grupo. Se crearon `wiki/fuentes/oficio-convocatoria-socializacion-14-11-2025.md` y `wiki/fuentes/oficio-gobernadores-alcaldes-plan365-instancias.md`, ambos leídos completos.
+- El oficio de convocatoria (14-11-2025) confirma a Paula Katerine Ramos Navarro como Directora DCI en noviembre de 2025, y resuelve con certeza el nombre de Tania Marcela Suárez Ortíz (antes incierto por OCR en la Estrategia 2.2.1).
+- El oficio a Gobernadores y Alcaldes es el hallazgo más rico de los dos: identifica la **Resolución 516 de agosto de 2022** ("crea y estructura el Consejo Territorial de Seguridad Vial") — primera fuente con el número exacto de esa resolución; introduce el **"equipo de Regionalización"** adscrito a la DCI; exige que el Plan de Acción territorial quede evidenciado en actas firmadas (misma lógica de trazabilidad del bundle PR-06, ahora desde el lado del municipio); y detecta una posible tensión entre la periodicidad "semestral" del CTSV (Estrategia 2.2.1) y la periodicidad mínima general de "4 veces al año" que este oficio fija para CLSV/CDSV/CTSV — documentada como incertidumbre no resuelta con las fuentes disponibles.
+- Se actualizaron cross-links en la Ley 1702/2013, el PR-08, la Estrategia 2.2.1 y la entidad DCI, y se actualizó `index.md` (de 23 a 25 fuentes ingeridas; Plan 365 de 3 a 1 pendiente: solo queda el Anexo Técnico de 95 páginas).
+- Pendiente: cerrar el grupo Plan 365 con el Anexo Técnico (95 páginas, requiere decisión de alcance de lectura dado su tamaño).

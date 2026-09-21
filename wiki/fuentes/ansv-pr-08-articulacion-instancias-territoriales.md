@@ -113,6 +113,7 @@ El PR-08 declara explícitamente **dos** documentos asociados: "Procedimiento de
 
 - [resolucion-007-2023-mai](resolucion-007-2023-mai.md): esa resolución identifica explícitamente a las Mesas de Articulación Interinstitucional (MAI) como "una instancia de coordinación interinstitucional adicional" a los CTSV/CLSV/CDSV documentados en este PR-08 (Resolución 007/2023, p. 3).
 - [estrategia-at-pedagogica-2.2.1-entidades-territoriales](estrategia-at-pedagogica-2.2.1-entidades-territoriales.md): integra al CTSV y los CDSV/CLSV documentados aquí, junto con las MAI, en un solo marco de "instancias de coordinación territorial" (sección 4.1.4), y precisa que el CTSV se reúne semestralmente.
+- [oficio-gobernadores-alcaldes-plan365-instancias](oficio-gobernadores-alcaldes-plan365-instancias.md): identifica la Resolución 516 de 2022 como la norma que "crea y estructura" el CTSV; fija una periodicidad mínima general de 4 veces al año para CLSV/CDSV/CTSV (en posible tensión con la periodicidad semestral del CTSV según la Estrategia 2.2.1); exige que el Plan de Acción territorial quede evidenciado en actas firmadas.
 
 ## Ver también
 
