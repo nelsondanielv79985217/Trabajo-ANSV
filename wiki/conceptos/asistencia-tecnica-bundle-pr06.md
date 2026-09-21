@@ -50,6 +50,10 @@ El [decreto-787-2015-funciones-ansv](../fuentes/decreto-787-2015-funciones-ansv.
 
 `[Interpretación propia, no una afirmación de las fuentes]`: este bundle demuestra que la ANSV/DCI ya tiene, para el nivel institucional, un protocolo de asistencia técnica relativamente completo y documentado (entrada, definición, ejecución, caracterización de proceso, registro y trazabilidad). Una propuesta de protocolo dirigida a un **municipio u organismo de tránsito** tendría que decidir explícitamente su relación con este marco ya existente: ¿es un protocolo espejo, a nivel territorial, de lo que la DCI ya hace a nivel institucional? ¿O cubre una etapa que este bundle no documenta (por ejemplo, qué hace el municipio u organismo de tránsito *antes* de que la DCI participe en el CTSV, o *después* de recibir la asistencia técnica)? Ninguna de las seis fuentes ingeridas hasta ahora describe el protocolo desde la perspectiva del municipio/organismo de tránsito receptor — todas están escritas desde la perspectiva de la DCI como ejecutor. `[Esto es una observación crítica propia sobre un vacío del corpus ingerido hasta ahora, no una afirmación de que el vacío exista en el repositorio completo — quedan 30 fuentes sin ingerir que podrían cubrirlo.]`
 
+## Definición formal de "Sistema Seguro" (actualización)
+
+El bundle PR-06 (PR-06, PR-07, PR-08) menciona repetidamente el "enfoque de Sistema Seguro" sin definirlo. La definición formal está en [ley-2251-2022-sistema-seguro](../fuentes/ley-2251-2022-sistema-seguro.md), art. 2, literal a): tiene en cuenta la vulnerabilidad humana a las lesiones graves y busca que el sistema tolere el error humano, con cuatro pilares (carreteras y bermas seguras, velocidades seguras, vehículos seguros, usuarios de carreteras seguros).
+
 ## Ver también
 
 - [entidades/dci-direccion-coordinacion-interinstitucional](../entidades/dci-direccion-coordinacion-interinstitucional.md)

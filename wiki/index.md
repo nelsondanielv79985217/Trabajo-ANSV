@@ -4,7 +4,7 @@ Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos 
 
 ## Fuentes (`fuentes/`)
 
-35 documentos relevados en la raíz del repo (30 PDF, incluido uno con extensión `.PDF` en mayúsculas, y 5 DOCX): **13 ingeridos** — bundle completo del PR-06 (6) + Ley 769/2002, Ley 1310/2009, Ley 1383/2010, Ley 1503/2011, Decreto 2851/2013, Ley 1702/2013 y Decreto 787/2015 (7 de la normativa nacional) — y **22 pendientes de ingest**. La agrupación de las pendientes es solo por lo que indica el nombre de archivo — no implica haber leído el contenido (regla de incertidumbre, `CLAUDE.md`).
+35 documentos relevados en la raíz del repo (30 PDF, incluido uno con extensión `.PDF` en mayúsculas, y 5 DOCX): **14 ingeridos** — bundle completo del PR-06 (6) + 8 de la normativa nacional (Ley 769/2002, Ley 1310/2009, Ley 1383/2010, Ley 1503/2011, Decreto 2851/2013, Ley 1702/2013, Decreto 787/2015, Ley 2251/2022) — y **21 pendientes de ingest**. La agrupación de las pendientes es solo por lo que indica el nombre de archivo — no implica haber leído el contenido (regla de incertidumbre, `CLAUDE.md`).
 
 ### Ingeridas (6) — bundle PR-06 completo
 
@@ -24,15 +24,14 @@ Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos 
 - [Decreto 2851 de 2013 — Reglamenta artículos de la Ley 1503](fuentes/decreto-2851-2013-reglamenta-ley-1503.md) — asigna a los organismos de tránsito la función de revisar, avalar y controlar los PESV registrados en su jurisdicción (art. 11); listado más amplio del corpus de entidades del sistema de seguridad vial (art. 14, Portal de la Seguridad Vial). (ingerido)
 - [Ley 1702 de 2013 — Crea la Agencia Nacional de Seguridad Vial (ANSV)](fuentes/ley-1702-2013-creacion-ansv.md) — ley fundacional de la ANSV y, específicamente (art. 10), de la propia Dirección de Coordinación Interinstitucional (DCI); crea también el Consejo Territorial de Seguridad Vial (CTSV, art. 15.2) ya documentado operativamente en el PR-08. (ingerido)
 - [Decreto 787 de 2015 — Funciones de la estructura interna de la ANSV](fuentes/decreto-787-2015-funciones-ansv.md) — da el listado legal completo de las 14 funciones de la DCI (art. 10), entre ellas "definir las obligaciones que en materia de seguridad vial le corresponden cumplir a los Organismos de Tránsito" — la base legal más precisa del corpus para el bundle PR-06. Documento escaneado, ingerido vía OCR (tesseract) — ver nota metodológica en la página. (ingerido)
+- [Ley 2251 de 2022 — Sistema Seguro (Ley Julián Esteban)](fuentes/ley-2251-2022-sistema-seguro.md) — define formalmente el enfoque "Sistema Seguro" (art. 2) que el bundle PR-06 usa sin definir; asigna a la ANSV la potestad de determinar la obligatoriedad del Plan Local de Seguridad Vial para municipios no capitales (art. 14). (ingerido)
 
-### Pendientes de ingest (22)
+### Pendientes de ingest (21)
 
 Se procesarán de a una, en el orden que indique el usuario, siguiendo el flujo INGEST de `CLAUDE.md` (lectura completa con registro de página exacta, página de `fuentes/`, actualización de este índice y del log, pausa para confirmación).
 
-#### Normativa nacional — leyes, decretos, CONPES, resoluciones (6 restantes de 13)
+#### Normativa nacional — leyes, decretos, CONPES, resoluciones (5 restantes de 13)
 
-- `Ley_2251_de_2022.pdf Ley julian Esteban.pdf` — nombre de archivo con "pdf" duplicado en el medio; extensión real al final.
-- `Decreto 2851 de 2013 reglamenta articulos de la ley 1503 definiciones en seg vial.pdf`
 - `COMPES  Asistencia tecnica 4091.pdf` — CONPES 4091 (política de asistencia técnica territorial); el repositorio hermano de innovación ya tiene una página de esta misma política ([referencia externa, no citable directamente aquí sin verificar que sea el mismo documento](#nota-sobre-el-repositorio-hermano)).
 - `Resolucion_007_de_2023_MAI (1).pdf`
 - `Resolucion_583_2023armonizacion PLSV con PNSV 2022 2031.pdf`
