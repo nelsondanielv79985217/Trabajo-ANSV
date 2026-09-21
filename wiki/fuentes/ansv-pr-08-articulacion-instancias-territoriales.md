@@ -112,6 +112,7 @@ El PR-08 declara explícitamente **dos** documentos asociados: "Procedimiento de
 - `[INCIERTO: no se puede verificar el contenido de la Resolución 097 de 2019 ni de la Resolución 516 de 2022 porque no están en este repositorio.]`
 
 - [resolucion-007-2023-mai](resolucion-007-2023-mai.md): esa resolución identifica explícitamente a las Mesas de Articulación Interinstitucional (MAI) como "una instancia de coordinación interinstitucional adicional" a los CTSV/CLSV/CDSV documentados en este PR-08 (Resolución 007/2023, p. 3).
+- [estrategia-at-pedagogica-2.2.1-entidades-territoriales](estrategia-at-pedagogica-2.2.1-entidades-territoriales.md): integra al CTSV y los CDSV/CLSV documentados aquí, junto con las MAI, en un solo marco de "instancias de coordinación territorial" (sección 4.1.4), y precisa que el CTSV se reúne semestralmente.
 
 ## Ver también
 
