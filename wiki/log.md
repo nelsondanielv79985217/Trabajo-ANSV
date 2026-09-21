@@ -71,3 +71,12 @@ Registro cronológico, append-only. No editar entradas pasadas — solo agregar 
 - Hallazgos relevantes: (1) el art. 6 (p. 7-8) da la **definición legal exacta de "organismo de tránsito"** — el destinatario de la propuesta de protocolo de esta tesis; (2) el art. 4, parágrafo 1° (p. 7) es el origen legal del Plan Nacional de Seguridad Vial; (3) el art. 7, parágrafo 3° (p. 8) y el art. 14, parágrafo 2° (p. 11-12) mencionan a la ANSV asistiendo técnicamente, pero acotado a instituciones de educación superior y currículos de formación de conductores — no a la asistencia técnica territorial amplia del PR-06. Se marcó como incertidumbre que el texto consolidado no identifica con precisión qué ley posterior a 2013 introdujo la mención de la ANSV en el art. 7.
 - Se actualizó `index.md` (de 6 a 7 fuentes ingeridas; normativa nacional de 13 a 12 pendientes).
 - Pendiente: continuar con el resto de la normativa nacional. Se sugiere seguir con Ley 1310 de 2009 y Ley 1383 de 2010 por ser reformas directas de esta Ley 769.
+
+## [2026-09-21] ingest | Ley 1310 de 2009 (agentes de tránsito y transporte)
+
+- Documento corto (4 páginas, 16 artículos), se leyó completo con cita de página exacta. Se creó `wiki/fuentes/ley-1310-2009-agentes-transito.md`.
+- Confirma textualmente la anotación de reforma ya registrada en la Ley 769 de 2002: el art. 8 de esta ley (p. 2) modifica el inciso 1° del art. 4° de la Ley 769.
+- Aporta definiciones propias de "organismo de tránsito y transporte", "autoridad de tránsito y transporte", "agente de tránsito y transporte" y crea la Comisión de Tránsito y Participación Ciudadana (arts. 11-13).
+- Se identificó una entidad no vista antes en este repositorio: el Fondo de Prevención Vial (art. 13, p. 3), posible antecedente institucional previo a la ANSV.
+- Se actualizaron los cross-links en la página de la Ley 769 y se actualizó `index.md` (de 7 a 8 fuentes ingeridas; normativa nacional de 12 a 11 pendientes).
+- Pendiente: continuar con Ley 1383 de 2010 (siguiente reforma directa de la Ley 769).

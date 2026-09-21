@@ -45,7 +45,8 @@ No se encontraron menciones adicionales de "asistencia técnica" ni de "ANSV"/"A
 
 - [ansv-pr-06-procedimiento-asistencia-tecnica](ansv-pr-06-procedimiento-asistencia-tecnica.md), [ansv-pr-07-estrategias-interinstitucionales](ansv-pr-07-estrategias-interinstitucionales.md), [ansv-pr-08-articulacion-instancias-territoriales](ansv-pr-08-articulacion-instancias-territoriales.md), [ansv-ca-02-caracterizacion-proceso](ansv-ca-02-caracterizacion-proceso.md): el art. 4, parágrafo 1° de esta ley (p. 7) es la fuente legal original del mandato de elaborar el **Plan Nacional de Seguridad Vial (PNSV)**, citado constantemente en las 6 fuentes del bundle PR-06 ya ingerido, aunque ninguna de esas fuentes cita explícitamente a la Ley 769 como su origen normativo.
 - El art. 6 de esta ley (p. 7-8) es la **definición legal formal de "organismo de tránsito"** — el destinatario explícito de la propuesta de protocolo de este trabajo de grado ("dirigido a un municipio u organismo de tránsito"). Ninguna fuente ya ingerida del bundle PR-06 define este término con el mismo detalle normativo.
-- Pendientes de ingest relacionadas directamente: `Ley_1383 de 2010` (reforma varios artículos de este código, incluidos los arts. 1, 2 y 3 ya citados aquí) y `Ley_1310_de_2009` (reforma el art. 4).
+- [ley-1310-2009-agentes-transito](ley-1310-2009-agentes-transito.md): modifica directamente el inciso 1° del art. 4° de este código (confirmado textualmente en esa fuente, art. 8, p. 2) y aporta definiciones adicionales de "organismo de tránsito y transporte", "autoridad de tránsito y transporte" y "agente de tránsito y transporte" consistentes con los arts. 3 y 6 de este código.
+- Pendiente de ingest relacionada directamente: `Ley_1383 de 2010` (reforma varios artículos adicionales de este código, incluidos los arts. 1, 2 y 3 ya citados aquí).
 
 ## Relevancia para el trabajo de grado
 
