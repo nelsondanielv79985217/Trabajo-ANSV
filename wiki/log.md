@@ -104,3 +104,12 @@ Registro cronológico, append-only. No editar entradas pasadas — solo agregar 
 - El art. 14 (Portal de la Seguridad Vial) da el listado más amplio del corpus de entidades del sistema de seguridad vial colombiano (Min. Transporte, Salud, Educación, organismos de tránsito, Medicina Legal, Fondo de Prevención Vial, DANE, Fosyga, Fasecolda, Policía Nacional, ANI, INVIAS).
 - Se actualizó el cross-link en la página de la Ley 1503 y se actualizó `index.md` (de 10 a 11 fuentes ingeridas; normativa nacional de 9 a 8 pendientes).
 - Pendiente: continuar con el resto de la normativa nacional (Ley 1702/2013, Ley 2251/2022, Decreto 787/2015, CONPES 4091, Resolución 007/2023, Resolución 583/2023, Plan estratégico SIT/Resolución 10110, Resolución Mintransporte 4548/2013). Se sugiere seguir con Ley 1702/2013 por ser la ley de creación de la ANSV.
+
+## [2026-09-21] ingest | Ley 1702 de 2013 (creación de la ANSV)
+
+- Documento de 13 páginas, 24 artículos, leído completo con cita de página exacta — fuente normativa central del repositorio. Se creó `wiki/fuentes/ley-1702-2013-creacion-ansv.md`.
+- Hallazgo central: el art. 10, numeral 6 (p. 6-7) es la **fuente legal de creación de la propia Dirección de Coordinación Interinstitucional (DCI)**, la dependencia responsable de las 6 fuentes del bundle PR-06 ya ingeridas. El art. 15.2 (p. 8) es la fuente legal del Consejo Territorial de Seguridad Vial (CTSV), ya documentado operativamente en el PR-08, y confirma que la DCI participa mediante "un delegado de la ANSV".
+- Se confirmó en detalle (arts. 7, 8.8, 21) que el Fondo Nacional de Seguridad Vial sustituye y liquida al Fondo de Prevención Vial (Ley 100 de 1993, art. 244), ya mencionado en la Ley 1310/2009 y la Ley 1503/2011.
+- Con esta fuente queda documentada la cadena normativa completa: Ley 1702/2013 (crea ANSV, DCI y CTSV) → art. 15.2 y PR-08 (participación de la DCI en el CTSV) → PR-07 (estrategia) → PR-06 (asistencia técnica ejecutada).
+- Se actualizaron los cross-links en la entidad DCI y en la página del PR-08, y se actualizó `index.md` (de 11 a 12 fuentes ingeridas; normativa nacional de 8 a 7 pendientes).
+- Pendiente: continuar con Decreto 787/2015 (funciones de la ANSV, siguiente desarrollo lógico de esta ley), luego el resto de la normativa nacional.
