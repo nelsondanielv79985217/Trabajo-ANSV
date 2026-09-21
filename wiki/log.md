@@ -147,3 +147,11 @@ Registro cronológico, append-only. No editar entradas pasadas — solo agregar 
 - Nuevo hallazgo en la línea de tiempo de la DCI: Darío Rincón Jaramillo aparece como "director (E)" de la DCI en octubre de 2023 (cuarto nombre en la sucesión), y César Mauricio Salcedo (contratista DCI) confirma continuidad en el cargo entre octubre de 2023 y diciembre de 2025 (coincide con el CA-02). También se identifica un segundo nombre de Director(a) General de la ANSV en 2023 (Mariantonia Tabares Pulgarín, distinta de Juan Carlos Beltrán Bedoya en enero de ese año).
 - Se actualizaron los cross-links en la Ley 2251/2022, la entidad DCI y el concepto `asistencia-tecnica-bundle-pr06.md`, y se actualizó `index.md` (de 15 a 16 fuentes ingeridas; normativa nacional de 4 a 3 pendientes).
 - Pendiente: continuar con Plan estratégico SIT/Resolución 10110, Resolución Mintransporte 4548/2013 y CONPES 4091 (última fuente del grupo).
+
+## [2026-09-21] ingest | Resolución 10110 de 2023 (Superintendencia de Transporte — PECCIT)
+
+- Documento de 16 páginas (2 de resolución + Anexo Técnico de 8 páginas), leído completo. Se creó `wiki/fuentes/resolucion-10110-2023-peccit.md`.
+- Primera fuente de este repositorio emitida por la Superintendencia de Transporte, no por la ANSV/DCI ni el Congreso. Crea el PECCIT (Plan Estratégico de Control al Cumplimiento del Marco Normativo en Transporte), obligatorio para "Organismos de Tránsito y Transporte", con reporte mensual de indicadores de control a la informalidad a través del sistema SISI/PECCIT.
+- Hallazgo relevante: confirma que un organismo de tránsito enfrenta obligaciones de reporte paralelas ante al menos tres autoridades distintas (ANSV vía PLSV, Superintendencia de Transporte vía PECCIT, y las actas/evidencias de la DCI) — ninguna fuente ya ingerida aborda cómo se articulan esas cargas entre sí.
+- Se actualizó `index.md` (de 16 a 17 fuentes ingeridas; normativa nacional de 3 a 2 pendientes).
+- Pendiente: continuar con Resolución Mintransporte 4548/2013 y CONPES 4091 (última fuente del grupo de normativa nacional).
