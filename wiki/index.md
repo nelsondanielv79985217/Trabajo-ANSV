@@ -4,7 +4,7 @@ Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos 
 
 ## Fuentes (`fuentes/`)
 
-35 documentos relevados en la raíz del repo (30 PDF, incluido uno con extensión `.PDF` en mayúsculas, y 5 DOCX): **18 ingeridos** — bundle completo del PR-06 (6) + 12 de la normativa nacional (Ley 769/2002, Ley 1310/2009, Ley 1383/2010, Ley 1503/2011, Decreto 2851/2013, Ley 1702/2013, Decreto 787/2015, Ley 2251/2022, Resolución 007/2023, Resolución 583/2023, Resolución 10110/2023, Resolución 4548/2013) — y **17 pendientes de ingest**. La agrupación de las pendientes es solo por lo que indica el nombre de archivo — no implica haber leído el contenido (regla de incertidumbre, `CLAUDE.md`).
+35 documentos relevados en la raíz del repo (30 PDF, incluido uno con extensión `.PDF` en mayúsculas, y 5 DOCX): **19 ingeridos** — bundle completo del PR-06 (6) + **las 13 fuentes de normativa nacional completas** (Ley 769/2002, Ley 1310/2009, Ley 1383/2010, Ley 1503/2011, Decreto 2851/2013, Ley 1702/2013, Decreto 787/2015, Ley 2251/2022, Resolución 007/2023, Resolución 583/2023, Resolución 10110/2023, Resolución 4548/2013, CONPES 4091) — y **16 pendientes de ingest**. La agrupación de las pendientes es solo por lo que indica el nombre de archivo — no implica haber leído el contenido (regla de incertidumbre, `CLAUDE.md`).
 
 ### Ingeridas (6) — bundle PR-06 completo
 
@@ -28,15 +28,12 @@ Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos 
 - [Resolución 007 de 2023 — Mesas de Articulación Interinstitucional (MAI)](fuentes/resolucion-007-2023-mai.md) — instancia de coordinación territorial de la "Línea Territorial" de la DCI, adicional al CTSV; identifica el Decreto 1430 de 2022 como norma de aprobación del PNSV 2022-2031; revela un cambio de Director(a) de la DCI entre 2023 y 2025. (ingerido)
 - [Resolución 583 de 2023 — Criterios de obligatoriedad del PLSV y armonización con el PNSV](fuentes/resolucion-583-2023-armonizacion-plsv-pnsv.md) — cuatro criterios objetivos (categoría municipal, organismo de tránsito, índice de fatalidad, población) para determinar si un municipio no capital debe formular su PLSV; confirma que "gestión del conocimiento" es una de las 8 áreas de acción oficiales del PNSV 2022-2031 (Decreto 1430 del 29/07/2022). (ingerido)
 - [Resolución 10110 de 2023 (Superintendencia de Transporte) — PECCIT](fuentes/resolucion-10110-2023-peccit.md) — crea el Plan Estratégico de Control al Cumplimiento del Marco Normativo en Transporte, obligatorio para organismos de tránsito, con reporte mensual de indicadores de control a la informalidad — una tercera carga de reporte paralela al PLSV/ANSV. (ingerido)
-- [Resolución 4548 de 2013 (Ministerio de Transporte) — Formación de agentes de tránsito](fuentes/resolucion-4548-2013-formacion-agentes-transito.md) — pénsum académico de 8 ejes para agentes de tránsito; comparte definición textual de "seguridad vial" con el Decreto 2851/2013; aporta un tercer sentido de "asistencia técnica" en el corpus (agente de tránsito → conductor). Con esta fuente **se completa el ingest de toda la normativa nacional excepto el CONPES 4091**. (ingerido)
+- [Resolución 4548 de 2013 (Ministerio de Transporte) — Formación de agentes de tránsito](fuentes/resolucion-4548-2013-formacion-agentes-transito.md) — pénsum académico de 8 ejes para agentes de tránsito; comparte definición textual de "seguridad vial" con el Decreto 2851/2013; aporta un tercer sentido de "asistencia técnica" en el corpus (agente de tránsito → conductor). (ingerido)
+- [CONPES 4091 — Política para la Asistencia Técnica Territorial](fuentes/conpes-4091-asistencia-tecnica-territorial.md) — política nacional transversal de asistencia técnica territorial (DNP, 2022), sin ninguna mención al sector tránsito/transporte/seguridad vial (verificación de texto completo); aporta un marco teórico de gestión del conocimiento (capital humano/relacional/estructural) aplicable como herramienta analítica externa al bundle PR-06. **Con esta fuente se completan las 13 de la normativa nacional.** (ingerido)
 
-### Pendientes de ingest (17)
+### Pendientes de ingest (16)
 
 Se procesarán de a una, en el orden que indique el usuario, siguiendo el flujo INGEST de `CLAUDE.md` (lectura completa con registro de página exacta, página de `fuentes/`, actualización de este índice y del log, pausa para confirmación).
-
-#### Normativa nacional — leyes, decretos, CONPES, resoluciones (1 restante de 13)
-
-- `COMPES  Asistencia tecnica 4091.pdf` — CONPES 4091 (política de asistencia técnica territorial); el repositorio hermano de innovación ya tiene una página de esta misma política ([referencia externa, no citable directamente aquí sin verificar que sea el mismo documento](#nota-sobre-el-repositorio-hermano)).
 
 #### Plan 365 (7)
 
