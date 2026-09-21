@@ -54,7 +54,7 @@ Columnas: N°, Departamento, Municipio, Priorizado (Sí/No), Total reportes en d
 ## Relación con las demás fuentes de este repositorio
 
 - [circular-023-2025-plan-365](circular-023-2025-plan-365.md): este análisis se basa explícitamente en la priorización de municipios establecida en el anexo técnico de esa circular.
-- `ANEXO TÉCNICO PLAN 365.pdf` (pendiente de ingest en este grupo): probablemente contiene la metodología de priorización de los 625 municipios y puede ser la fuente de los criterios usados en este análisis.
+- [anexo-tecnico-plan-365](anexo-tecnico-plan-365.md): contiene la tabla histórica de siniestralidad 2024 organizada por festividad (2.307 filas priorización) que sirve de base a la priorización de municipios usada en este análisis; sin embargo, ese anexo prioriza por festividad y este documento por año completo — `[INCIERTO: no se puede confirmar con las fuentes disponibles si el universo de 625 municipios priorizados de este análisis coincide exactamente con el de ese anexo]`.
 - **Bundle PR-06**: este documento es un ejemplo concreto de cómo la DCI usa los datos de reporte (de los organismos de tránsito, vía el aplicativo Plan 365) para hacer seguimiento territorial — coherente con la función de "coordinar y verificar" ya documentada en el PR-06/PR-08.
 
 ## Relevancia para el trabajo de grado
@@ -82,3 +82,4 @@ Columnas: N°, Departamento, Municipio, Priorizado (Sí/No), Total reportes en d
 ## Ver también
 
 - [conceptos/asistencia-tecnica-bundle-pr06](../conceptos/asistencia-tecnica-bundle-pr06.md)
+- [fuentes/anexo-tecnico-plan-365](anexo-tecnico-plan-365.md)

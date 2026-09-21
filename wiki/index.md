@@ -4,7 +4,7 @@ Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos 
 
 ## Fuentes (`fuentes/`)
 
-35 documentos relevados en la raíz del repo (30 PDF, incluido uno con extensión `.PDF` en mayúsculas, y 5 DOCX): **25 ingeridos** — bundle PR-06 (6) + las 13 de normativa nacional + 6 de Plan 365 (Circular 023/2025, Circular externa 20244000000157, Estrategia 2.2.1, Análisis de Reportes, Oficio Convocatoria, Oficio Gobernadores/Alcaldes) — y **10 pendientes de ingest**. La agrupación de las pendientes es solo por lo que indica el nombre de archivo — no implica haber leído el contenido (regla de incertidumbre, `CLAUDE.md`).
+35 documentos relevados en la raíz del repo (30 PDF, incluido uno con extensión `.PDF` en mayúsculas, y 5 DOCX): **26 ingeridos** — bundle PR-06 (6) + las 13 de normativa nacional + las 7 de Plan 365 (grupo completo) — y **9 pendientes de ingest**. La agrupación de las pendientes es solo por lo que indica el nombre de archivo — no implica haber leído el contenido (regla de incertidumbre, `CLAUDE.md`).
 
 ### Ingeridas (6) — bundle PR-06 completo
 
@@ -31,7 +31,7 @@ Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos 
 - [Resolución 4548 de 2013 (Ministerio de Transporte) — Formación de agentes de tránsito](fuentes/resolucion-4548-2013-formacion-agentes-transito.md) — pénsum académico de 8 ejes para agentes de tránsito; comparte definición textual de "seguridad vial" con el Decreto 2851/2013; aporta un tercer sentido de "asistencia técnica" en el corpus (agente de tránsito → conductor). (ingerido)
 - [CONPES 4091 — Política para la Asistencia Técnica Territorial](fuentes/conpes-4091-asistencia-tecnica-territorial.md) — política nacional transversal de asistencia técnica territorial (DNP, 2022), sin ninguna mención al sector tránsito/transporte/seguridad vial (verificación de texto completo); aporta un marco teórico de gestión del conocimiento (capital humano/relacional/estructural) aplicable como herramienta analítica externa al bundle PR-06. **Con esta fuente se completan las 13 de la normativa nacional.** (ingerido)
 
-### Ingeridas — Plan 365 (2 de 7)
+### Ingeridas — Plan 365 (7 de 7, grupo completo)
 
 - [Circular Conjunta No. 023 de 2025 — Plan 365](fuentes/circular-023-2025-plan-365.md) — vincula explícitamente el Plan 365 con la función de asistencia técnica de la ANSV; datos de siniestralidad 2024 (8.271 fallecidos); detecta una contradicción entre fuentes sobre el decreto de aprobación del PNSV 2022-2031 (143 vs. 1430 de 2022). (incierto — status heredado de la contradicción normativa detectada, ver la página)
 - [Circular Externa 20244000000157 de 2024 (Mintransporte) — Videos como prueba de infracciones](fuentes/circular-externa-20244000000157-videos-infracciones.md) — instrucción del Ministerio de Transporte sobre uso de video como prueba en procesos contravencionales; **sin relación temática con el Plan 365 ni la asistencia técnica de la DCI**, pese a estar agrupada aquí solo por nombre de archivo. (ingerido)
@@ -39,19 +39,11 @@ Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos 
 - [Análisis de los Reportes Presentados por los Organismos de Tránsito — Plan 365](fuentes/analisis-reportes-organismos-transito-plan365.md) — cifras agregadas: 948 municipios monitoreados, 625 priorizados, 276 (44%) sin reporte al aplicativo, de los cuales 108 con aumento de siniestralidad; tabla municipio por municipio (p. 4-12) no transcrita, consultar el PDF original para un municipio específico. (incierto — tabla de datos no transcrita en su totalidad, ver nota de alcance)
 - [Oficio de Convocatoria — Socialización nacional Plan 365 (14-11-2025)](fuentes/oficio-convocatoria-socializacion-14-11-2025.md) — convocatoria a jornada de socialización nacional del Plan 365; confirma continuidad de la Directora DCI y resuelve el nombre de Tania Marcela Suárez Ortíz. (ingerido)
 - [Oficio a Gobernadores y Alcaldes — Instancias CLSV/CDSV/CTSV y Plan 365](fuentes/oficio-gobernadores-alcaldes-plan365-instancias.md) — identifica la Resolución 516 de 2022 (crea el CTSV) y un "equipo de Regionalización" de la DCI; exige que el Plan de Acción territorial quede evidenciado en actas firmadas; detecta posible tensión con la periodicidad del CTSV de la Estrategia 2.2.1. (ingerido)
+- [Anexo Técnico — Circular Conjunta No. 023 de 2025 (Plan 365)](fuentes/anexo-tecnico-plan-365.md) — anexo técnico de soporte de la circular 023/2025 (95 páginas); tabla resumen de 19 festividades 2025 con datos históricos de siniestralidad 2024 (5.082 lesionados, 1.618 fallecidos, 2.307 municipios priorizados); hallazgo clave: dos festividades (Año Nuevo, Reyes Magos) operan bajo un plan distinto, "Plan 70D", no bajo el Plan 365. Tabla municipio por municipio (p. 3-95) no transcrita. **Con esta fuente se completa el grupo Plan 365 (7 de 7).** (incierto — tabla de datos no transcrita en su totalidad, ver nota de alcance)
 
-### Pendientes de ingest (10)
+### Pendientes de ingest (9)
 
 Se procesarán de a una, en el orden que indique el usuario, siguiendo el flujo INGEST de `CLAUDE.md` (lectura completa con registro de página exacta, página de `fuentes/`, actualización de este índice y del log, pausa para confirmación).
-
-#### Plan 365 (1 restante de 7)
-
-- `ANEXO TÉCNICO PLAN 365.pdf`
-- `ANÁLISIS DE LOS REPORTES PRESENTADOS POR LOS ORGANISMOS DE TRÁNSITO PLAN 365.pdf`
-- `OFICIO CONVOCATORIA SOCIALIZACIÓN 14-11-2025.docx`
-- `OFICIO GOBERNADORES Y ALCALDES PLAN 365 E INSTANCIAS.docx`
-- `circular externa 20244000000157  VIDEOS INFRACCIONES Mintransporte.pdf`
-- `16032026 2.2.1 Estrategia de Asistencia...s entidades territoriales.pdf`
 
 #### Planes y documentos técnicos de política / protocolos (5)
 

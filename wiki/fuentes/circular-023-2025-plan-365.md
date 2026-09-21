@@ -48,6 +48,7 @@ Las entidades del sistema deben apoyar con equipos sociales/educativos las campa
 - [resolucion-583-2023-armonizacion-plsv-pnsv](resolucion-583-2023-armonizacion-plsv-pnsv.md): contradicción en el número de decreto de aprobación del PNSV 2022-2031 (143 de 2022 vs. 1430 de 2022) — ver hallazgo crítico arriba.
 - [resolucion-10110-2023-peccit](resolucion-10110-2023-peccit.md): esta circular añade un **cuarto canal de reporte** para el organismo de tránsito (aplicativo Survey123 del Plan 365), sumado a los ya identificados (PLSV/ANSV, PECCIT/Superintendencia, actas/evidencias DCI) — refuerza el hallazgo ya registrado de múltiples cargas de reporte paralelas.
 - [analisis-reportes-organismos-transito-plan365](analisis-reportes-organismos-transito-plan365.md): usa la priorización de municipios del anexo técnico de esta circular como base de su análisis; evidencia empírica de que el 44% de los municipios priorizados no reportó ninguna acción en el aplicativo del Plan 365 durante 2025.
+- [anexo-tecnico-plan-365](anexo-tecnico-plan-365.md): es, literalmente, el anexo técnico de soporte de esta circular (95 páginas); reproduce la misma cifra de 8.271 fallecidos 2024 y aporta la tabla completa de municipios priorizados por festividad, incluyendo el hallazgo de que dos festividades (Año Nuevo, Reyes Magos) operan bajo un plan distinto ("Plan 70D") y no bajo el Plan 365.
 - [ley-1503-2011-formacion-habitos-seguros](ley-1503-2011-formacion-habitos-seguros.md): citada explícitamente (p. 4) como fundamento de la responsabilidad social de los organismos de apoyo a la gestión de tránsito en municipios sin recurso humano propio.
 - Entidad DCI: nuevos nombres para la línea de tiempo — Mariantonia Tabares Pulgarín (Directora General ANSV, confirmada en marzo 2025), Darío Rincón Jaramillo (de vuelta en Dirección de Comportamiento), Luis Yair Aguilar Rojas (DCI), Darlyn Dávila (ONSV), William Vallejo (Infraestructura y Vehículos), Edwin Arbey Castañeda Berrio (Oficina Jurídica), Jorge Luis Riveros (contratista DCI).
 
@@ -92,3 +93,4 @@ Las entidades del sistema deben apoyar con equipos sociales/educativos las campa
 
 - [conceptos/asistencia-tecnica-bundle-pr06](../conceptos/asistencia-tecnica-bundle-pr06.md)
 - [entidades/dci-direccion-coordinacion-interinstitucional](../entidades/dci-direccion-coordinacion-interinstitucional.md)
+- [fuentes/anexo-tecnico-plan-365](anexo-tecnico-plan-365.md)
