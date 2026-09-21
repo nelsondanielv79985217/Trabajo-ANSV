@@ -80,3 +80,11 @@ Registro cronológico, append-only. No editar entradas pasadas — solo agregar 
 - Se identificó una entidad no vista antes en este repositorio: el Fondo de Prevención Vial (art. 13, p. 3), posible antecedente institucional previo a la ANSV.
 - Se actualizaron los cross-links en la página de la Ley 769 y se actualizó `index.md` (de 7 a 8 fuentes ingeridas; normativa nacional de 12 a 11 pendientes).
 - Pendiente: continuar con Ley 1383 de 2010 (siguiente reforma directa de la Ley 769).
+
+## [2026-09-21] ingest | Ley 1383 de 2010 (reforma la Ley 769)
+
+- Documento de 13 páginas, 28 artículos. Se revisó la estructura completa y se buscaron menciones de "asistencia técnica" y "seguridad vial" en todo el texto: no se encontró ninguna mención de asistencia técnica, y "seguridad vial" aparece una sola vez de forma tangencial (art. 50, condiciones del vehículo). Dado que el contenido es mayoritariamente ajeno al objeto de este trabajo de grado (licencias de conducción y régimen sancionatorio), se resumió por estructura sin transcribir artículo por artículo — decisión de alcance documentada explícitamente en la página, igual que con la Ley 769.
+- Se confirmó que los arts. 1-3 de esta ley son la fuente original de la redacción de los arts. 1°, 3° y 5° de la Ley 769 ya citados en esa página (texto idéntico).
+- Se creó `wiki/fuentes/ley-1383-2010-reforma-cnt.md` y se actualizó el cross-link en la página de la Ley 769.
+- Se actualizó `index.md` (de 8 a 9 fuentes ingeridas; normativa nacional de 11 a 10 pendientes).
+- Pendiente: continuar con el resto de la normativa nacional. Quedan Ley 1503/2011, Ley 1702/2013, Ley 2251/2022, Decreto 787/2015, Decreto 2851/2013, CONPES 4091, Resolución 007/2023, Resolución 583/2023, Plan estratégico SIT/Resolución 10110, y Resolución Mintransporte 4548/2013.
