@@ -59,7 +59,7 @@ Cita textual de la definición de **Asistencia Técnica (AT)** (p. 1): "La asist
 - [ansv-gip-fo-05-formato-acta-reunion](ansv-gip-fo-05-formato-acta-reunion.md) — plantilla probable de las "actas de reunión" que este PR-07 usa como registro en las actividades 4, 7, 8, 9 y 10, aunque el PR-07 no cita el código ANSV-GIP-FO-05 explícitamente.
 - [dci-lineamientos-cargue-evidencias](dci-lineamientos-cargue-evidencias.md) — aplica a las actas de este PR-07 en la medida en que documenten actividades de asistencia técnica.
 
-## Relevancia para el trabajo de grado
+## Relevancia para el trabajo en la ANSV
 
 `[Interpretación propia, no una afirmación de la fuente]`: el PR-07 es la pieza que falta para entender el protocolo de asistencia técnica en su cadena completa: primero se identifica una necesidad y se formula/aprueba una **estrategia** (PR-07), y solo después esa estrategia se ejecuta operativamente como **asistencia técnica** (PR-06) en el territorio. Para una propuesta de protocolo de asistencia técnica dirigido a un municipio u organismo de tránsito, esto implica que el protocolo no puede diseñarse aislado del PR-07: cualquier asistencia técnica que se proponga debe encajar en una estrategia ya aprobada por la Dirección General (PR-07, actividad 7) o, en su defecto, activar primero ese circuito de aprobación.
 

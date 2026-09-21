@@ -12,7 +12,7 @@ Respuesta de QUERY preparada como insumo para la intervención de la Directora A
 
 ## Aviso metodológico (obligatorio, ver "Regla de incertidumbre" en `CLAUDE.md`)
 
-**La comparación explícita "contratos macro vs. contratos individuales" no está tratada como tal en ninguna fuente de este repositorio.** Se buscó "contratos macro", "convenio", "tercerización", "operador", "licitación" en las 35 fuentes crudas (ingeridas y no ingeridas) y no hay ningún documento que discuta esta disyuntiva de política de contratación. Todo el contenido de riesgos de esta página, salvo la sección A, es **análisis profesional propio**, entregado así porque el usuario lo solicitó explícitamente "desde el punto de vista de un experto en seguridad vial y política pública" — no debe presentarse en el cuerpo del trabajo de grado como si viniera de las fuentes del proyecto.
+**La comparación explícita "contratos macro vs. contratos individuales" no está tratada como tal en ninguna fuente de este repositorio.** Se buscó "contratos macro", "convenio", "tercerización", "operador", "licitación" en las 35 fuentes crudas (ingeridas y no ingeridas) y no hay ningún documento que discuta esta disyuntiva de política de contratación. Todo el contenido de riesgos de esta página, salvo la sección A, es **análisis profesional propio**, entregado así porque el usuario lo solicitó explícitamente "desde el punto de vista de un experto en seguridad vial y política pública" — no debe presentarse en el cuerpo del trabajo en la ANSV como si viniera de las fuentes del proyecto.
 
 ## A. Lo que las fuentes sí muestran sobre el modelo de contratación real de la ANSV
 
@@ -36,7 +36,7 @@ Respuesta de QUERY preparada como insumo para la intervención de la Directora A
 | Dependencia de un solo proveedor | Concentrar ejecución territorial en un consorcio crea riesgo sistémico: su incumplimiento paraliza la cobertura nacional de una sola vez. | El modelo fragmentado distribuye el riesgo: la salida de una persona no paraliza el país entero. |
 | Costo de transacción vs. coordinación | Reduce procesos de contratación, pero aumenta la complejidad de coordinar un solo interlocutor externo con múltiples instancias (CTSV, MAI, DITRA, Superintendencia). | El modelo actual multiplica procesos contractuales, pero cada contratista ya está insertado en el organigrama de la DCI. |
 | Riesgo fiscal y disciplinario | Contratos de alto valor y alcance nacional atraen mayor escrutinio (Contraloría, Procuraduría) — objeto ambiguo o indicadores poco verificables son más visibles y vulnerables a hallazgos. | La Procuraduría ya recibe copia rutinaria del seguimiento al Plan 365 — el escrutinio ya es alto en ambos modelos. |
-| Transferencia de conocimiento al territorio (núcleo de la tesis) | Un operador externo con incentivo de "cumplir producto y cerrar" tiene menor incentivo a dejar capacidad instalada, comparado con un contratista DCI evaluado también por esa transferencia. | Coherente con la definición de asistencia técnica del PR-06 como transferencia de conocimiento, no solo ejecución de producto — más difícil de exigir contractualmente a un tercero. |
+| Transferencia de conocimiento al territorio (núcleo de este trabajo) | Un operador externo con incentivo de "cumplir producto y cerrar" tiene menor incentivo a dejar capacidad instalada, comparado con un contratista DCI evaluado también por esa transferencia. | Coherente con la definición de asistencia técnica del PR-06 como transferencia de conocimiento, no solo ejecución de producto — más difícil de exigir contractualmente a un tercero. |
 
 ### Mensaje sugerido para la intervención
 
@@ -44,7 +44,7 @@ Respuesta de QUERY preparada como insumo para la intervención de la Directora A
 
 ## Nota crítica sobre el encargo
 
-Esta pregunta pide una opinión de política pública, no una síntesis documental. Está bien responderla así en el Congreso, pero en el **cuerpo de la tesis** la tabla de riesgos de la sección B no puede presentarse como si viniera de las fuentes del proyecto — debe quedar rotulada como criterio propio del autor, tal como se marca aquí, o el jurado tiene motivo legítimo de objeción metodológica.
+Esta pregunta pide una opinión de política pública, no una síntesis documental. Está bien responderla así en el Congreso, pero en cualquier comunicación o documento institucional que reutilice esta tabla, la sección B no puede presentarse como si viniera de las fuentes del proyecto — debe quedar rotulada como criterio propio del autor, tal como se marca aquí, o queda expuesta a una objeción metodológica legítima.
 
 ## Ver también
 

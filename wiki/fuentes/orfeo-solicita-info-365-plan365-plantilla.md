@@ -31,7 +31,7 @@ El contenido es, prácticamente palabra por palabra, el mismo que el ya ingerido
 - [orfeo-oficio-vigilancia-control-plan365-plantilla](orfeo-oficio-vigilancia-control-plan365-plantilla.md): plantilla hermana con un asunto distinto pero el mismo propósito y fundamento legal — sugiere que existieron al menos dos variantes de borrador de este tipo de oficio en el sistema ORFEO de la DCI antes de radicar la versión definitiva.
 - [analisis-reportes-organismos-transito-plan365](analisis-reportes-organismos-transito-plan365.md): probable documento anexo referenciado aquí como "análisis derivado del tablero de visualización."
 
-## Relevancia para el trabajo de grado
+## Relevancia para el trabajo en la ANSV
 
 `[Interpretación propia]`: el hallazgo de valor de esta fuente no está en su contenido (redundante con el oficio radicado ya analizado), sino en lo que revela sobre el **proceso de producción documental de la DCI**: la existencia de al menos dos plantillas de borrador muy similares, conservadas junto con la versión final radicada, sugiere un flujo de trabajo de varias iteraciones/revisiones internas antes de radicar una comunicación oficial — coherente con la exigencia de trazabilidad y control documental ya vista en el bundle PR-06 (Anexo 5 y Anexo 6), aunque aplicada aquí a correspondencia externa, no solo a actas de asistencia técnica.
 

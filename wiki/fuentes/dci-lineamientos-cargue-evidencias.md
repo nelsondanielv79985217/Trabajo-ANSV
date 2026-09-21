@@ -58,13 +58,13 @@ Las actas y listados de asistencia deben presentarse únicamente en los formatos
 
 Con este Anexo 6 se **cierra el bundle documental completo del PR-06** solicitado por el usuario (PR-06, PR-07, CA-02, PR-08, Anexo 5, Anexo 6).
 
-## Relevancia para el trabajo de grado
+## Relevancia para el trabajo en la ANSV
 
-`[Interpretación propia, no una afirmación de la fuente]`: este documento es la fuente más operativa y prescriptiva de todo el bundle sobre cómo debe verse, en la práctica, cualquier evidencia de asistencia técnica de la DCI: nomenclatura de archivo, término obligatorio ("Asistencia técnica", nunca "mesa técnica" ni "reunión de seguimiento"), periodicidad mensual de cargue, y explícita descalificación de los informes de comisión como soporte válido. Para una propuesta de protocolo de asistencia técnica dirigido a un municipio u organismo de tránsito, esto fija un estándar de evidencia que el protocolo propuesto tendría que cumplir o, alternativamente, que el trabajo de grado podría cuestionar de forma explícita si encuentra que es insuficiente o poco realista para el nivel territorial (ver más abajo, Incertidumbres, sobre su propio estatus documental informal).
+`[Interpretación propia, no una afirmación de la fuente]`: este documento es la fuente más operativa y prescriptiva de todo el bundle sobre cómo debe verse, en la práctica, cualquier evidencia de asistencia técnica de la DCI: nomenclatura de archivo, término obligatorio ("Asistencia técnica", nunca "mesa técnica" ni "reunión de seguimiento"), periodicidad mensual de cargue, y explícita descalificación de los informes de comisión como soporte válido. Para una propuesta de protocolo de asistencia técnica dirigido a un municipio u organismo de tránsito, esto fija un estándar de evidencia que el protocolo propuesto tendría que cumplir o, alternativamente, que el trabajo en la ANSV podría cuestionar de forma explícita si encuentra que es insuficiente o poco realista para el nivel territorial (ver más abajo, Incertidumbres, sobre su propio estatus documental informal).
 
 ## Incertidumbres
 
-- `[INCIERTO: el documento no tiene código, versión, fecha de vigencia ni sección de aprobación — no se puede confirmar si es un documento controlado del SIG/MIPG (como el PR-06/07/08/CA-02/GIP-FO-05) o un instructivo interno informal de la DCI. Esto es relevante para el trabajo de grado si se va a evaluar el nivel de formalización documental del protocolo de asistencia técnica actual.]`
+- `[INCIERTO: el documento no tiene código, versión, fecha de vigencia ni sección de aprobación — no se puede confirmar si es un documento controlado del SIG/MIPG (como el PR-06/07/08/CA-02/GIP-FO-05) o un instructivo interno informal de la DCI. Esto es relevante para el trabajo en la ANSV si se va a evaluar el nivel de formalización documental del protocolo de asistencia técnica actual.]`
 - `[INCIERTO: no se puede verificar si "Edisson Montoya" (metadato de autoría del archivo) es el redactor del contenido o solo quien generó/editó el archivo Word, dado que no hay sección de firmas.]`
 - `[INCIERTO: no se puede determinar si el "listado de asistencia" que exige este documento es necesariamente el formato ANSV-GIP-FO-06 mencionado en el Anexo 5, porque este Anexo 6 no cita ningún código de formato.]`
 

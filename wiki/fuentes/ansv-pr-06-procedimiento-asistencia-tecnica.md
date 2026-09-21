@@ -7,7 +7,7 @@ status: ingerido
 last_updated: 2026-09-21
 ---
 
-> Nota de migración: esta página migra y reestructura, bajo el schema de `CLAUDE.md`, el contenido del archivo `procedimiento-asistencia-tecnica-pr06.md` que existía en la raíz del repo antes de crear la wiki. No se agregó contenido nuevo respecto a ese análisis original; solo se reorganizó en las secciones del schema y se completó el front matter. `[INCIERTO: el análisis original no registra el número de página exacto de cada dato dentro del PDF de 13 páginas — solo indica "documento de 13 páginas" en conjunto. Para citación APA con página exacta en el cuerpo de la tesis, este documento requiere una relectura dirigida a localizar la página de cada cifra/afirmación citada.]`
+> Nota de migración: esta página migra y reestructura, bajo el schema de `CLAUDE.md`, el contenido del archivo `procedimiento-asistencia-tecnica-pr06.md` que existía en la raíz del repo antes de crear la wiki. No se agregó contenido nuevo respecto a ese análisis original; solo se reorganizó en las secciones del schema y se completó el front matter. `[INCIERTO: el análisis original no registra el número de página exacto de cada dato dentro del PDF de 13 páginas — solo indica "documento de 13 páginas" en conjunto. Para citar con página exacta en el trabajo diario, este documento requiere una relectura dirigida a localizar la página de cada cifra/afirmación citada.]`
 
 ## Referencia / origen del documento
 
@@ -30,7 +30,7 @@ last_updated: 2026-09-21
   - *Capacitación (CAP)*: proceso de enseñanza-aprendizaje de habilidades y conocimientos en seguridad vial, dirigido a autoridades territoriales, organismos de tránsito, cuerpos de control, sector privado, academia y ciudadanía.
   - *Acciones de Formación Complementaria (AFC)*: intercambio de información/conocimiento sobre un tema específico; cierra normalmente con certificado o constancia (diplomados, cursos sincrónicos/asincrónicos).
 - **Dos áreas de acción**: (1) cumplimiento de normas de tránsito (vigilancia, control, procesos sancionatorios); (2) gobernanza (fortalecimiento de políticas públicas territoriales, articulación con actores privados/sociales/académicos).
-- **Tres criterios que toda AT debe cumplir** (relevante para el marco teórico del trabajo de grado):
+- **Tres criterios que toda AT debe cumplir** (relevante para el marco teórico del trabajo en la ANSV):
   1. **Pertinencia y alineación** con necesidades territoriales y lineamientos ANSV/Plan Nacional de Seguridad Vial (PNSV).
   2. **Transferencia de conocimiento** — transmisión de conocimientos, herramientas y metodologías para adopción efectiva de la política pública.
   3. **Trazabilidad** — registros documentales (actas, listas de asistencia, informes, encuestas, pretest/postest).
@@ -40,9 +40,9 @@ last_updated: 2026-09-21
 - Es notable que el procedimiento incorpora explícitamente un ciclo de medición de aprendizaje (pretest → intervención → postest → análisis) como parte **obligatoria** del flujo, no opcional.
 - Sección "Documentos asociados" del propio PR-06: "No aplica" (ver Incertidumbres).
 
-## Relevancia para el trabajo de grado
+## Relevancia para el trabajo en la ANSV
 
-Este documento es el **objeto empírico/institucional central** del trabajo de grado: define de forma operativa qué es "asistencia técnica" para la ANSV, cómo se ejecuta y cómo se mide su efectividad. Formaliza la asistencia técnica **como mecanismo de transferencia de conocimiento** — lo declara explícitamente como uno de los tres criterios obligatorios de toda AT —, lo cual es la base normativa/procedimental sobre la que se plantea la propuesta de protocolo del trabajo de grado.
+Este documento es el **objeto empírico/institucional central** del trabajo en la ANSV: define de forma operativa qué es "asistencia técnica" para la ANSV, cómo se ejecuta y cómo se mide su efectividad. Formaliza la asistencia técnica **como mecanismo de transferencia de conocimiento** — lo declara explícitamente como uno de los tres criterios obligatorios de toda AT —, lo cual es la base normativa/procedimental sobre la que se plantea la propuesta de protocolo del trabajo en la ANSV.
 
 ## Relación con las demás fuentes de este repositorio
 
@@ -80,7 +80,7 @@ Con esto se cierra el bundle documental completo del PR-06 (PR-06, PR-07, CA-02,
 
 ## Incertidumbres
 
-- `[INCIERTO: no se registró el número de página exacto de cada dato dentro del documento de 13 páginas — pendiente para citación APA con página exacta.]`
+- `[INCIERTO: no se registró el número de página exacto de cada dato dentro del documento de 13 páginas — pendiente para citar con página exacta.]`
 - El documento tiene fecha 30/12/2025 y versión 00 — no queda claro en el texto si reemplaza una versión anterior no versionada. `[INCIERTO]`
 - La sección "Documentos asociados" dice "No aplica", pero el propio procedimiento referencia anexos (1, 3, 4, 5, 6) que existen como archivos separados en este repositorio — posible inconsistencia entre el documento y su gestión documental, o los anexos pertenecen a un proceso distinto. `[INCIERTO]`
 - No se pudo determinar si existe un umbral oficial de "éxito" del postest aplicado a los grupos de interés beneficiarios (actividades 19-20), más allá del umbral ≥70% para la evaluación del talento humano interno (actividad 5). `[INCIERTO]`

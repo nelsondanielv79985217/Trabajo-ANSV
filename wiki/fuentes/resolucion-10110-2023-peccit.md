@@ -46,7 +46,7 @@ Define las condiciones técnicas, tecnológicas y operativas del SISI/PECCIT: re
 - [ley-1310-2009-agentes-transito](ley-1310-2009-agentes-transito.md): confirma la existencia de organismos de tránsito sin capacidad propia (municipios que deben unir esfuerzos o delegar en un funcionario), coherente con el rol de las Gobernaciones ya visto en esa ley.
 - **Bundle PR-06 y demás resoluciones de la ANSV** ([resolucion-007-2023-mai](resolucion-007-2023-mai.md), [resolucion-583-2023-armonizacion-plsv-pnsv](resolucion-583-2023-armonizacion-plsv-pnsv.md)): el PECCIT es un instrumento **distinto** del PLSV (Ley 2251/2022) y del PESV (Ley 1503/2011) ya documentados: donde el PLSV/PNSV se enfocan en seguridad vial y el PESV en flotas institucionales, el PECCIT se enfoca específicamente en el **control de la ilegalidad e informalidad** en el servicio de transporte. Es, además, el único instrumento de este repositorio a cargo de la Superintendencia de Transporte, no de la ANSV/DCI — muestra que un organismo de tránsito reporta obligaciones paralelas a **al menos tres autoridades distintas**: ANSV (PLSV), Superintendencia de Transporte (PECCIT) y, potencialmente, el Ministerio de Transporte.
 
-## Relevancia para el trabajo de grado
+## Relevancia para el trabajo en la ANSV
 
 `[Interpretación propia, no una afirmación de la fuente]`: esta resolución evidencia que un organismo de tránsito municipal enfrenta una **carga de reporte multiplicada**: además de lo que documenta el bundle PR-06 (asistencia técnica y estrategias de la DCI/ANSV) y del PLSV (Ley 2251/Resolución 583), debe reportar mensualmente al SISI/PECCIT de la Superintendencia de Transporte una lista extensa de indicadores de control a la informalidad. Para una propuesta de protocolo de asistencia técnica dirigido a un municipio u organismo de tránsito, esto es relevante en dos sentidos: (1) confirma la complejidad institucional real que enfrenta el destinatario del protocolo, con obligaciones de reporte hacia múltiples entidades nacionales distintas; y (2) sugiere que un protocolo de asistencia técnica eficaz debería, idealmente, ayudar al organismo de tránsito a articular esas obligaciones paralelas (PLSV, PECCIT, actas DCI) en vez de tratarlas como procesos aislados — algo que ninguna de las fuentes ya ingeridas de este repositorio aborda explícitamente.
 
@@ -73,7 +73,7 @@ Define las condiciones técnicas, tecnológicas y operativas del SISI/PECCIT: re
 ## Incertidumbres
 
 - No se pudo verificar el contenido de la Resolución 3443 de 2016, la Circular 015 de 2020, ni el Decreto 2409 de 2018 — ninguno está en este repositorio.
-- `[INCIERTO: no se puede determinar desde esta fuente si el PECCIT y el PLSV/PESV comparten indicadores, se coordinan entre sí, o son procesos administrativos completamente independientes para el organismo de tránsito — sería relevante indagarlo si el trabajo de grado analiza la carga administrativa real de un organismo de tránsito específico.]`
+- `[INCIERTO: no se puede determinar desde esta fuente si el PECCIT y el PLSV/PESV comparten indicadores, se coordinan entre sí, o son procesos administrativos completamente independientes para el organismo de tránsito — sería relevante indagarlo si el trabajo en la ANSV analiza la carga administrativa real de un organismo de tránsito específico.]`
 
 ## Ver también
 

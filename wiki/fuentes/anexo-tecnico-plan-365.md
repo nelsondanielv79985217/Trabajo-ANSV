@@ -60,9 +60,9 @@ Columnas: N°, Festivo (con el mismo listado de 19 festividades de la tabla resu
 - [plan-70d-sector-transporte](plan-70d-sector-transporte.md) (ya ingerido): confirma y detalla la conexión — el Plan 70D es una arquitectura operativa propia (circular, anexo técnico, cronograma, boletines) para 7 festividades/hitos entre el 31 de octubre y el 10 de enero, no solo las 2 marcadas aquí.
 - [estrategia-at-pedagogica-2.2.1-entidades-territoriales](estrategia-at-pedagogica-2.2.1-entidades-territoriales.md): la "Gráfica de la ballena" mencionada aquí (p. 2) es coherente con el enfoque de "capas" del Sistema Seguro, aunque esa estrategia no usa la misma terminología gráfica.
 
-## Relevancia para el trabajo de grado
+## Relevancia para el trabajo en la ANSV
 
-`[Interpretación propia, no una afirmación de la fuente]`: este anexo aporta la base empírica histórica (2024) sobre la cual se construyó la priorización de municipios del Plan 365 para 2025 — es decir, es la evidencia de que la priorización no es arbitraria sino que responde a datos reales de siniestralidad por periodo festivo. Su valor principal para la tesis, más allá de una eventual consulta puntual de datos de un municipio específico, es el hallazgo de la conexión con el "Plan 70D": revela que el sistema de planes operativos de la ANSV es más fragmentado de lo que sugería el bundle PR-06 por sí solo (al menos dos planes paralelos — 365 y 70D — según la temporada del año), lo cual refuerza el patrón ya observado en este repositorio de múltiples instrumentos paralelos que un organismo de tránsito debe atender.
+`[Interpretación propia, no una afirmación de la fuente]`: este anexo aporta la base empírica histórica (2024) sobre la cual se construyó la priorización de municipios del Plan 365 para 2025 — es decir, es la evidencia de que la priorización no es arbitraria sino que responde a datos reales de siniestralidad por periodo festivo. Su valor principal para este trabajo, más allá de una eventual consulta puntual de datos de un municipio específico, es el hallazgo de la conexión con el "Plan 70D": revela que el sistema de planes operativos de la ANSV es más fragmentado de lo que sugería el bundle PR-06 por sí solo (al menos dos planes paralelos — 365 y 70D — según la temporada del año), lo cual refuerza el patrón ya observado en este repositorio de múltiples instrumentos paralelos que un organismo de tránsito debe atender.
 
 ## Conceptos y entidades mencionados
 
@@ -82,7 +82,7 @@ Columnas: N°, Festivo (con el mismo listado de 19 festividades de la tabla resu
 ## Incertidumbres
 
 - `[INCIERTO: no se transcribió la tabla completa de 2.307 filas (p. 3-95) — ver nota de alcance al inicio de esta página. Cualquier dato puntual de un municipio y festividad específicos debe verificarse directamente en el PDF original.]`
-- Los datos son explícitamente preliminares (nota del ONSV, p. 95) y "susceptibles de modificaciones" — no deben citarse como cifras definitivas en el cuerpo de la tesis sin esa advertencia.
+- Los datos son explícitamente preliminares (nota del ONSV, p. 95) y "susceptibles de modificaciones" — no deben citarse como cifras definitivas en el cuerpo de este trabajo sin esa advertencia.
 - `[INCIERTO: no se pudo determinar si el universo de municipios priorizados de este anexo coincide exactamente con el de 625 municipios del análisis de reportes ya ingerido, dado que este anexo prioriza por festividad y aquel por año completo.]`
 - `[RESUELTO parcialmente]` Se consultó [plan-70d-sector-transporte](plan-70d-sector-transporte.md): confirma la relación, pero deja abierta la pregunta de por qué esta tabla solo marca 2 de las 7 festividades del Plan 70D como tales — ver incertidumbre en esa página.
 

@@ -32,9 +32,9 @@ last_updated: 2026-09-21
 - [ansv-pr-08-articulacion-instancias-territoriales](ansv-pr-08-articulacion-instancias-territoriales.md): menciona a los CLSV y CTSV como destinatarios de la convocatoria, coherente con las instancias ya documentadas.
 - Entidad DCI: confirma a Andrés Alfonso González como contratista DCI (mismo nombre visto en la Circular 023/2025) y aporta el nombre completo de Tania Marcela Suárez Ortíz.
 
-## Relevancia para el trabajo de grado
+## Relevancia para el trabajo en la ANSV
 
-`[Interpretación propia, no una afirmación de la fuente]`: este oficio es evidencia operativa de que la DCI organiza espacios de socialización nacional (no solo territorial/regional) del Plan 365, dirigidos explícitamente a las mismas instancias de coordinación (CTSV, CLSV) ya documentadas — refuerza la imagen de una DCI que gestiona múltiples canales de comunicación con el territorio (CTSV semestral, MAI, Plan 365, y ahora jornadas de socialización nacional ad hoc). Su valor para la tesis es menor comparado con la Estrategia 2.2.1, pero confirma de forma consistente el aparato conceptual y normativo ya registrado (PNSV, Plan 365, Circular 023).
+`[Interpretación propia, no una afirmación de la fuente]`: este oficio es evidencia operativa de que la DCI organiza espacios de socialización nacional (no solo territorial/regional) del Plan 365, dirigidos explícitamente a las mismas instancias de coordinación (CTSV, CLSV) ya documentadas — refuerza la imagen de una DCI que gestiona múltiples canales de comunicación con el territorio (CTSV semestral, MAI, Plan 365, y ahora jornadas de socialización nacional ad hoc). Su valor para este trabajo es menor comparado con la Estrategia 2.2.1, pero confirma de forma consistente el aparato conceptual y normativo ya registrado (PNSV, Plan 365, Circular 023).
 
 ## Conceptos y entidades mencionados
 

@@ -2,26 +2,25 @@
 
 Este archivo define cómo Claude debe mantener la wiki de este repositorio. Se ajusta con el uso: si algo acá no funciona en la práctica, se discute con el usuario y se corrige.
 
-Estructura y flujo replicados, con adaptaciones, del repositorio hermano `programaGradoInnovacion` (rama `claude/llm-wiki-setup-nht7xw`, carpeta `wiki/`) — mismo método de organización de bibliografía para trabajos de grado, aplicado acá a un corpus distinto.
+Estructura y flujo inspirados, con adaptaciones, en el repositorio hermano `programaGradoInnovacion` (rama `claude/llm-wiki-setup-nht7xw`, carpeta `wiki/`) — mismo método de organización documental, aplicado acá a un corpus distinto y con un propósito distinto (ver nota abajo).
 
 ## Propósito
 
-Este repo es la base documental de un trabajo de grado de **maestría en Administración**: una propuesta para implementar un **protocolo de asistencia técnica en seguridad vial**, dirigido a un municipio u organismo de tránsito, ejecutado por un servidor o contratista de la **Dirección de Coordinación Interinstitucional (DCI)** de la **Agencia Nacional de Seguridad Vial (ANSV)**.
+Este repo es la base documental de **trabajo del usuario en la Agencia Nacional de Seguridad Vial (ANSV)**, específicamente en o en relación con la **Dirección de Coordinación Interinstitucional (DCI)** — normativa, procedimientos, planes y correspondencia institucional en materia de seguridad vial, incluyendo el protocolo de asistencia técnica que la DCI ejecuta con municipios y organismos de tránsito. **No es el repositorio de la tesis de maestría del usuario** — esa tesis se documenta y desarrolla en el repositorio `programaGradoInnovacion`. Este repo es de uso laboral/profesional: sirve para responder consultas de trabajo, preparar intervenciones institucionales, análisis normativos y de política pública, y cualquier otra tarea derivada de las funciones del usuario en la ANSV — no para producir un documento académico con jurado evaluador.
 
 Las fuentes son normativa nacional, procedimientos y anexos del Sistema Integrado de Gestión de la ANSV, planes y documentos técnicos de política pública en seguridad vial, y correspondencia institucional (oficios, circulares). En vez de releer y re-derivar todo desde cero cada vez que se necesita algo de ellas, se mantiene una wiki en Markdown (`/wiki`) que acumula resúmenes, páginas de conceptos/entidades, y un índice — así el trabajo de lectura y síntesis se conserva entre sesiones.
 
 ## Reglas del proyecto (obligatorias, definidas por el usuario — no negociables por Claude)
 
-Estas reglas gobiernan todo el trabajo de grado y tienen prioridad sobre cualquier convención genérica de este schema:
+Estas reglas gobiernan todo el trabajo en este repositorio y tienen prioridad sobre cualquier convención genérica de este schema:
 
-1. **Fuente exclusiva**: solo se puede usar información contenida en los archivos/documentos subidos a este repo. No se usa conocimiento general, memoria propia, ni resultados de búsqueda externa como sustento de contenido de la tesis, salvo pedido explícito del usuario para un propósito distinto (ej. contexto normativo público).
-2. **Citación exacta obligatoria**: todo dato, cifra, argumento o cita textual debe indicar documento, sección/apartado y **número de página exacto**. Si no se puede identificar la página, se debe decir explícitamente en vez de aproximarla.
+1. **Fuente exclusiva**: solo se puede usar información contenida en los archivos/documentos subidos a este repo. No se usa conocimiento general, memoria propia, ni resultados de búsqueda externa como sustento de una respuesta o de contenido de la wiki, salvo pedido explícito del usuario para un propósito distinto (ej. contexto normativo público, o un análisis marcado explícitamente como opinión propia).
+2. **Citación exacta obligatoria**: todo dato, cifra, argumento o cita textual debe indicar documento, sección/apartado y **número de página exacto** (o sección/pregunta si el documento no tiene paginación explotable, dejándolo dicho explícitamente). Si no se puede identificar la ubicación exacta, se debe decir explícitamente en vez de aproximarla.
 3. **Sin datos disponibles = decirlo**: si algo no está en los documentos cargados, la respuesta es "esto no está en las fuentes del proyecto" — nunca completar, inferir o inventar.
-4. **APA 7ª edición** en todo el documento final (citas autor-fecha, sigla en primera mención, comillas/bloque según longitud de cita textual, referencias en orden alfabético con sangría francesa, tablas/figuras numeradas con fuente citada).
-5. **Rigor metodológico**: toda afirmación causal, diagnóstica o de recomendación debe estar respaldada por fuente y página explícitas. Una opinión propia (del usuario o de Claude) debe marcarse claramente como tal.
-6. **Retroalimentación crítica activa**: ante una debilidad, vacío, supuesto no sustentado o inconsistencia con las fuentes, señalarlo directamente y proponer una alternativa — no validar sin más.
+4. **Rigor metodológico**: toda afirmación causal, diagnóstica o de recomendación debe estar respaldada por fuente y página explícitas. Una opinión propia (del usuario o de Claude) debe marcarse claramente como tal — esto es especialmente importante porque el contenido de esta wiki puede usarse para preparar intervenciones, respuestas institucionales o decisiones de trabajo reales.
+5. **Retroalimentación crítica activa**: ante una debilidad, vacío, supuesto no sustentado o inconsistencia con las fuentes, señalarlo directamente y proponer una alternativa — no validar sin más.
 
-Estas reglas hacen que el nivel de exigencia de esta wiki sea **más alto** que el de una wiki bibliográfica genérica: cada página de `fuentes/` debe permitir, más adelante, citar con página exacta — no solo resumir contenido.
+No se exige un formato de citación académico (APA u otro) ni se escribe pensando en un jurado evaluador — la audiencia es el propio usuario y, eventualmente, sus contrapartes institucionales en la ANSV. La exigencia de citación exacta (regla 2) se mantiene igual de estricta que antes: sigue siendo la base para poder responder con precisión en un contexto de trabajo donde una cifra o cita mal atribuida tiene consecuencias reales.
 
 ## Arquitectura de 3 capas (no mezclar)
 
@@ -42,10 +41,10 @@ Estas reglas hacen que el nivel de exigencia de esta wiki sea **más alto** que 
 ```
 
 Tipos de página:
-- **fuente** — un documento del repo (PDF o DOCX). Resume objeto, contenido clave, hallazgos y relevancia para el trabajo de grado, siempre con número de página cuando la fuente lo permite. Nunca reemplaza al documento original, es un resumen navegable con referencias precisas.
+- **fuente** — un documento del repo (PDF o DOCX). Resume objeto, contenido clave, hallazgos y relevancia para el trabajo en la ANSV, siempre con número de página cuando la fuente lo permite. Nunca reemplaza al documento original, es un resumen navegable con referencias precisas.
 - **concepto** — un tema transversal (ej. "Asistencia Técnica como mecanismo de transferencia de conocimiento", "Plan 365", "Sistema Seguro"). Agrega qué dice cada fuente sobre ese tema, con links a `fuentes/` y páginas exactas.
 - **entidad** — una dependencia (ej. DCI-ANSV), institución externa (municipio, organismo de tránsito, Superintendencia, Procuraduría) o persona firmante recurrente.
-- **sintesis** — cruces entre conceptos/fuentes que valen la pena conservar (ej. respuestas de QUERY que el usuario decide guardar), o borradores de marco teórico/normativo del trabajo de grado.
+- **sintesis** — cruces entre conceptos/fuentes que valen la pena conservar (ej. respuestas de QUERY que el usuario decide guardar, insumos para una intervención o comunicación institucional).
 - **metodo** — referencias metodológicas transversales, si se incorporan.
 
 Una página de concepto/entidad se crea la primera vez que hace falta (durante un INGEST), no se prepoblán de antemano — evita inventar categorías antes de tener evidencia real de que se repiten.
@@ -118,7 +117,7 @@ Reportar hallazgos al usuario antes de corregir, salvo que pida corrección auto
 
 ## Regla de incertidumbre
 
-No inventar contenido. Si una fuente no aclara algo, o no permite identificar la página exacta de un dato, marcarlo explícitamente en la página (`status: incierto` en el front matter, y/o una nota inline `[INCIERTO: ...]` en el cuerpo) en vez de completar el hueco. Esto aplica con más rigor que en una wiki bibliográfica genérica, porque el resultado final es un documento de tesis con jurados evaluadores.
+No inventar contenido. Si una fuente no aclara algo, o no permite identificar la página exacta de un dato, marcarlo explícitamente en la página (`status: incierto` en el front matter, y/o una nota inline `[INCIERTO: ...]` en el cuerpo) en vez de completar el hueco. Esto aplica con más rigor que en una wiki bibliográfica genérica, porque el contenido de este repositorio puede usarse directamente en comunicaciones, análisis o decisiones de trabajo reales en la ANSV.
 
 ## Evolución del schema
 

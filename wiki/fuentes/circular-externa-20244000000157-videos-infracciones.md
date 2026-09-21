@@ -30,9 +30,9 @@ Este documento estaba agrupado en `index.md` bajo "Plan 365" solo por la carpeta
 - No se identificó relación temática directa con el bundle PR-06, el Plan 365, ni con la asistencia técnica de la DCI. Es una instrucción de procedimiento contravencional del Ministerio de Transporte, con destinatario común (organismos de tránsito) pero objeto distinto.
 - [ley-769-2002-codigo-nacional-transito](ley-769-2002-codigo-nacional-transito.md): esta circular cita el art. 8°, parágrafo 5° de esa ley (actualización de información de conductores/vehículos), no cubierto en el alcance de lectura ya registrado en esa página (Título I únicamente) — dato adicional puntual, no verificado directamente en la Ley 769 por esta vía.
 
-## Relevancia para el trabajo de grado
+## Relevancia para el trabajo en la ANSV
 
-`[Interpretación propia, no una afirmación de la fuente]`: esta circular tiene relevancia baja para la propuesta de protocolo de asistencia técnica del trabajo de grado — no trata asistencia técnica, DCI, ni ANSV. Su único valor posible es como evidencia adicional de la multiplicidad de instrucciones normativas (de distintas entidades: Ministerio de Transporte, ANSV, Superintendencia de Transporte) que un organismo de tránsito debe atender simultáneamente, reforzando el hallazgo ya registrado en este repositorio sobre la carga administrativa fragmentada de estas entidades.
+`[Interpretación propia, no una afirmación de la fuente]`: esta circular tiene relevancia baja para la propuesta de protocolo de asistencia técnica del trabajo en la ANSV — no trata asistencia técnica, DCI, ni ANSV. Su único valor posible es como evidencia adicional de la multiplicidad de instrucciones normativas (de distintas entidades: Ministerio de Transporte, ANSV, Superintendencia de Transporte) que un organismo de tránsito debe atender simultáneamente, reforzando el hallazgo ya registrado en este repositorio sobre la carga administrativa fragmentada de estas entidades.
 
 ## Conceptos y entidades mencionados
 

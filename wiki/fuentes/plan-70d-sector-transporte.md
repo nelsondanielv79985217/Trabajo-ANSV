@@ -83,7 +83,7 @@ Estrategia de comunicaciones centrada en el exceso de velocidad como factor de r
 - `entidades/dci-direccion-coordinacion-interinstitucional.md`: confirma, con una tercera fuente independiente, los cargos de William Vallejo, Darlyn Dávila, Luis Yair Aguilar y Darío Rincón.
 - [analisis-tecnico-siniestralidad-mateus](analisis-tecnico-siniestralidad-mateus.md): mismo tipo de metodología de priorización territorial (magnitud de fallecidos por departamento/municipio) aplicada aquí a la temporada nov-dic-ene, con un umbral explícito ("más de 10 fallecidos") — un dato metodológico concreto que el análisis de Mateus (2026) no específica con un umbral numérico propio.
 
-## Relevancia para el trabajo de grado
+## Relevancia para el trabajo en la ANSV
 
 `[Interpretación propia, no una afirmación de la fuente]`: el Plan 70D es la tercera "arquitectura operativa paralela" de la ANSV identificada en este repositorio (junto con el Plan 365 y el bundle PR-06/PR-07/PR-08), con su propia circular, anexo técnico, cronograma y sistema de boletines. Refuerza el hallazgo crítico ya registrado de fragmentación institucional: un organismo de tránsito debe atender simultáneamente al menos tres marcos operativos de la ANSV (PR-06 para asistencia técnica ordinaria, Plan 365 para el resto del año, y Plan 70D para la temporada de fin/inicio de año), cada uno con su propio aplicativo de reporte y cronograma de boletines — una carga de coordinación que ninguna de las fuentes del repositorio, hasta ahora, aborda de manera unificada desde la perspectiva del organismo de tránsito receptor.
 

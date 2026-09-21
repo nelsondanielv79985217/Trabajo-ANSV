@@ -25,7 +25,7 @@ Nota de actualización (p. 1): "Descargar el formato de Acta de Reunión actuali
 ## Contenido clave (estructura del formato, p. 1-3)
 
 - **ACTA No.**: instrucción de numerar consecutivamente por tema, empezando en 1 cada año; "cuando no se requiera llevar consecutivo, indicar 'No aplica'" (p. 1).
-- **TEMA**: instrucción explícita y directamente relevante para el trabajo de grado (p. 1, cita textual): "En el registro de la actividad se debe especificar la temática de la asistencia técnica, asegurando su alineación con la estrategia o documento del PNSV correspondiente. La actividad debe nombrarse siempre como 'Asistencia Técnica', indicando su enfoque". Ejemplos dados en el propio formato:
+- **TEMA**: instrucción explícita y directamente relevante para el trabajo en la ANSV (p. 1, cita textual): "En el registro de la actividad se debe especificar la temática de la asistencia técnica, asegurando su alineación con la estrategia o documento del PNSV correspondiente. La actividad debe nombrarse siempre como 'Asistencia Técnica', indicando su enfoque". Ejemplos dados en el propio formato:
   - "Asistencia Técnica – PLSV de Cartagena"
   - "Asistencia Técnica – Acompañamiento / Capacitación / Taller"
   - "Asistencia Técnica a Organismos de Tránsito"
@@ -47,7 +47,7 @@ Nota de actualización (p. 1): "Descargar el formato de Acta de Reunión actuali
 - [dci-lineamientos-cargue-evidencias](dci-lineamientos-cargue-evidencias.md) — refuerza y hace más estricta la misma regla de nomenclatura del campo TEMA de este formato, agregando la prohibición explícita de términos alternativos y el requisito de nomenclatura del archivo PDF.
 - Formato relacionado explícitamente citado pero **no disponible en este repositorio**: ANSV-GIP-FO-06 (registro de asistencia).
 
-## Relevancia para el trabajo de grado
+## Relevancia para el trabajo en la ANSV
 
 `[Interpretación propia, no una afirmación de la fuente]`: este anexo es la evidencia documental más concreta, hasta ahora, de cómo la ANSV **exige nombrar y trazar** cada intervención de asistencia técnica: el requisito de que el campo TEMA siempre empiece con "Asistencia Técnica" no es un detalle menor para una propuesta de protocolo — es el mecanismo por el cual, en teoría, toda asistencia técnica queda identificable y auditable en el repositorio documental de la DCI. Para una propuesta de protocolo dirigida a un municipio u organismo de tránsito, esto fija un estándar de nomenclatura y de registro de compromisos (entregable + responsable + fecha) que cualquier protocolo nuevo debería respetar para ser compatible con el SGC vigente de la ANSV.
 

@@ -11,7 +11,7 @@ last_updated: 2026-09-21
 
 Este documento es una **tabla de caracterización de proceso** (formato SGC estándar: proveedor / entrada-insumo / actividad / responsable / salida-producto / usuario-cliente, organizada en ciclo PHVA — Planear/Hacer/Verificar/Actuar), con celdas combinadas y columnas verticales de una sola letra. La extracción automática de texto (`pypdf` y `pdfplumber`, ambas probadas) **no reconstruye de forma confiable la correspondencia exacta entre cada proveedor/entrada/salida/usuario y su fila específica de la tabla** — el texto se extrae correctamente a nivel de contenido, pero el orden y alineación de columnas se pierde parcialmente en varias filas.
 
-Lo que sí se pudo extraer con confianza (columnas de una sola letra P/H/V/A junto a su descripción de actividad, que aparecen como pares aislados en la extracción) se presenta como **Contenido clave** con cita de página. Lo que no se pudo mapear de forma confiable fila por fila (proveedores, entradas, salidas, usuarios) se presenta como **listado general sin mapeo** en la sección correspondiente, marcado explícitamente como tal. `[INCIERTO: para citar en la tesis la relación exacta proveedor→entrada→actividad→salida→cliente de una fila puntual de esta tabla, se requiere verificación manual contra el PDF original o una extracción con software de reconocimiento de tablas más robusto — no se debe citar esa correspondencia fila por fila a partir de esta página sin esa verificación.]` Por esta razón el `status` de esta página es `incierto`, no `ingerido`.
+Lo que sí se pudo extraer con confianza (columnas de una sola letra P/H/V/A junto a su descripción de actividad, que aparecen como pares aislados en la extracción) se presenta como **Contenido clave** con cita de página. Lo que no se pudo mapear de forma confiable fila por fila (proveedores, entradas, salidas, usuarios) se presenta como **listado general sin mapeo** en la sección correspondiente, marcado explícitamente como tal. `[INCIERTO: para citar en este trabajo la relación exacta proveedor→entrada→actividad→salida→cliente de una fila puntual de esta tabla, se requiere verificación manual contra el PDF original o una extracción con software de reconocimiento de tablas más robusto — no se debe citar esa correspondencia fila por fila a partir de esta página sin esa verificación.]` Por esta razón el `status` de esta página es `incierto`, no `ingerido`.
 
 ## Referencia / origen del documento
 
@@ -45,7 +45,7 @@ El proceso se describe como 12 actividades organizadas en el ciclo Planear-Hacer
 **Hacer (3 actividades, p. 2):**
 5. Generar reportes de avance sobre el cumplimiento de las acciones y actividades del Plan Nacional de Seguridad Vial.
 6. Promover y participar en las Instancias Territoriales de Seguridad Vial, gestionando acciones integrales para el fortalecimiento de estos espacios.
-7. Implementar la estrategia "a través de asistencia técnica o actividades en las áreas de acción del PNSV de cumplimiento de normas de tránsito en materia de seguridad vial y gobernanza, fortaleciendo la articulación interinstitucional y la corresponsabilidad entre actores públicos, privados, sociales y académicos, y consolidando el cumplimiento normativo como estrategia fundamental para la protección de la vida" (p. 2) — cita textual completa por su relevancia directa para el trabajo de grado.
+7. Implementar la estrategia "a través de asistencia técnica o actividades en las áreas de acción del PNSV de cumplimiento de normas de tránsito en materia de seguridad vial y gobernanza, fortaleciendo la articulación interinstitucional y la corresponsabilidad entre actores públicos, privados, sociales y académicos, y consolidando el cumplimiento normativo como estrategia fundamental para la protección de la vida" (p. 2) — cita textual completa por su relevancia directa para el trabajo en la ANSV.
 
 **Verificar (2 actividades, p. 2):**
 8. Verificar la implementación y el cumplimiento de las estrategias del área de gobernanza y cumplimiento normativo, asegurando su coherencia con lo establecido en el PNSV.
@@ -87,7 +87,7 @@ Entre las salidas/productos del ciclo Hacer (p. 2) figura, sin mapeo confiable a
 
 Con esto se cierra el bundle documental completo del PR-06 (PR-06, PR-07, CA-02, PR-08, Anexo 5, Anexo 6).
 
-## Relevancia para el trabajo de grado
+## Relevancia para el trabajo en la ANSV
 
 `[Interpretación propia, no una afirmación de la fuente]`: este documento ubica al PR-06 y al PR-07 dentro de un proceso institucional más amplio ("Coordinación y Articulación para la Implementación de la Política Pública en Seguridad Vial"), con un responsable único (DCI) y un ciclo de mejora continua (PHVA) que exige seguimiento, ajuste y reformulación periódica. Para la propuesta de protocolo de asistencia técnica, esto es relevante porque el protocolo no puede diseñarse como un procedimiento aislado: debe insertarse en las actividades "Hacer" de este proceso caracterizado y quedar sujeto a las actividades "Verificar" y "Actuar" (auditoría, indicadores, planes de mejoramiento) que ya existen a nivel de proceso.
 

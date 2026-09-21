@@ -26,7 +26,7 @@ Sustancialmente el mismo contenido y fundamento legal que [oficio-20254000114441
 
 - [oficio-20254000114441-super-procuraduria-plan365](oficio-20254000114441-super-procuraduria-plan365.md) y [orfeo-solicita-info-365-plan365-plantilla](orfeo-solicita-info-365-plan365-plantilla.md): tres versiones del mismo tipo de comunicación (dos plantillas sin radicar + una versión final radicada), con variaciones menores de asunto y redacción — ver el análisis legal completo (sanciones Ley 1702/2013 y Ley 336/1996) en la página del oficio radicado, no repetido aquí.
 
-## Relevancia para el trabajo de grado
+## Relevancia para el trabajo en la ANSV
 
 `[Interpretación propia]`: la existencia de esta tercera variante, con errores de tipeo no corregidos en el asunto, refuerza el hallazgo ya señalado en la plantilla hermana: hubo un proceso de iteración/revisión de borradores antes de radicar la comunicación final — un detalle de gestión documental de bajo peso individual, pero que en conjunto con las otras dos fuentes de este mismo grupo evidencia un flujo de trabajo real y verificable de la DCI para este tipo de oficios interinstitucionales.
 

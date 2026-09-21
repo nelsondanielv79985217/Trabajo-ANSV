@@ -77,7 +77,7 @@ El PR-08 declara explícitamente **dos** documentos asociados: "Procedimiento de
 - [dci-lineamientos-cargue-evidencias](dci-lineamientos-cargue-evidencias.md) — aplica a las 8 actas de este PR-08 en la medida en que documenten actividades de asistencia técnica.
 - [ley-1702-2013-creacion-ansv](ley-1702-2013-creacion-ansv.md): es la ley de creación de la propia ANSV y de la DCI (art. 10), y también la fuente legal original del CTSV (art. 15.2), cuya integración descrita allí ("un delegado de la ANSV", "la primera Autoridad de Tránsito y Transporte" como representante municipal/departamental) coincide con lo que este PR-08 documenta operativamente.
 
-## Relevancia para el trabajo de grado
+## Relevancia para el trabajo en la ANSV
 
 `[Interpretación propia, no una afirmación de la fuente]`: el PR-08 completa la cadena de "entrada" del protocolo de asistencia técnica — es el mecanismo por el cual una necesidad territorial detectada en un CTSV, CLSV o CDSV (instancias donde participan directamente municipios y organismos de tránsito) se convierte en una actividad de intervención regida por el PR-06 (asistencia técnica) y/o el PR-07 (estrategia interinstitucional). Para una propuesta de protocolo dirigido a un municipio u organismo de tránsito, el PR-08 es la fuente más directa sobre **cómo llega la necesidad del territorio hasta la DCI** antes de que se active cualquier asistencia técnica — un eslabón que no estaba documentado en el PR-06 ni en el PR-07 por sí solos.
 

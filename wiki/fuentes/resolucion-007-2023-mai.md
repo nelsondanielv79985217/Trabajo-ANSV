@@ -14,7 +14,7 @@ last_updated: 2026-09-21
 - Documento de 6 páginas, 6 artículos. Lectura completa.
 - Aprobación (p. 6): Proyectó — Edwin Antonio Miranda Corrales (Líder Equipo Enlaces Territoriales DCI). Revisó — Juan Bogotá (asesor Dirección de Coordinación Interinstitucional) y Angie De La Vega (contratista Oficina Asesora Jurídica). Aprobó — **Carlos Vanegas Vivas, Director Coordinación Interinstitucional**, y Andrés Botero Baena (jefe Oficina Asesora Jurídica).
 
-`[INCIERTO/hallazgo relevante: el Director de la DCI que aprueba esta resolución (enero 2023) es Carlos Vanegas Vivas, distinto de Paula Katerine Ramos Navarror, la Directora de la DCI que firma el PR-06, PR-07, PR-08 y CA-02 (diciembre 2025-enero 2026). Esto confirma que hubo un cambio de dirección en la DCI entre enero de 2023 y diciembre de 2025 — dato relevante si el trabajo de grado quiere reconstruir la línea de tiempo de la gestión de la DCI, aunque esta fuente por sí sola no permite establecer fechas exactas de transición.]`
+`[INCIERTO/hallazgo relevante: el Director de la DCI que aprueba esta resolución (enero 2023) es Carlos Vanegas Vivas, distinto de Paula Katerine Ramos Navarror, la Directora de la DCI que firma el PR-06, PR-07, PR-08 y CA-02 (diciembre 2025-enero 2026). Esto confirma que hubo un cambio de dirección en la DCI entre enero de 2023 y diciembre de 2025 — dato relevante si el trabajo en la ANSV quiere reconstruir la línea de tiempo de la gestión de la DCI, aunque esta fuente por sí sola no permite establecer fechas exactas de transición.]`
 
 `[INCIERTO: el pie de página de la página 6 encabeza el documento como "RESOLUCIÓN NÚMERO 964 DE 2022" en vez de "007 de 2023" — aparente inconsistencia/error de plantilla del documento original (posiblemente una plantilla reciclada de un borrador anterior). Se transcribe tal como aparece, sin corregir.]`
 
@@ -45,7 +45,7 @@ last_updated: 2026-09-21
 - Confirma la existencia del **Decreto 1430 de 2022** (aprobación del PNSV 2022-2031) — no disponible en este repositorio, pero citado explícitamente aquí con su número exacto.
 - Cambio de Director(a) de la DCI: Carlos Vanegas Vivas (enero 2023, esta resolución) vs. Paula Katerine Ramos Navarror (diciembre 2025-enero 2026, bundle PR-06) — ver incertidumbre arriba.
 
-## Relevancia para el trabajo de grado
+## Relevancia para el trabajo en la ANSV
 
 `[Interpretación propia, no una afirmación de la fuente]`: esta resolución amplía el mapa de instancias de coordinación territorial de la DCI más allá del CTSV: ahora hay evidencia de que existen al menos dos mecanismos paralelos (CTSV/CLSV/CDSV del PR-08, y las MAI de esta resolución), con una organización interna de la DCI en "Línea Territorial" y "Línea Sectorial" no documentada en el bundle PR-06. Para la propuesta de protocolo de asistencia técnica, es relevante notar que los organismos de tránsito municipales y departamentales ya participan formalmente en las MAI (art. 2, literal e) — es decir, ya existe un canal de interacción DCI-organismo de tránsito centrado en contingencias de movilidad, que un protocolo de asistencia técnica más amplio (no limitado a contingencias) podría complementar o diferenciarse explícitamente de él.
 
