@@ -172,3 +172,13 @@ Registro cronológico, append-only. No editar entradas pasadas — solo agregar 
 - Se actualizó el concepto `asistencia-tecnica-bundle-pr06.md` con este marco teórico, marcado explícitamente como aporte externo y no como hallazgo del sector seguridad vial.
 - Se actualizó `index.md`: **con esta fuente se completan las 13 fuentes del grupo "normativa nacional"** solicitado por el usuario (de 19 fuentes ingeridas en total: 6 del bundle PR-06 + 13 de normativa nacional; quedan 16 pendientes en Plan 365, planes/documentos técnicos y correspondencia).
 - Pendiente: definir con el usuario si se continúa con otro grupo (Plan 365, planes/documentos técnicos, o correspondencia) o se hace una pausa de revisión.
+
+## [2026-09-21] ingest | Circular Conjunta No. 023 de 2025 (Plan 365) — inicio del grupo "Plan 365"
+
+- Por pedido explícito del usuario ("Sigue con Plan 365"), se inicia el ingest del grupo Plan 365 (7 documentos), sin pausar entre cada uno, según la excepción de `CLAUDE.md`.
+- Documento de 6 páginas, leído completo con cita de página exacta. Se creó `wiki/fuentes/circular-023-2025-plan-365.md`.
+- Hallazgo relevante: la circular (p. 5) vincula explícitamente el Plan 365 con la función de asistencia técnica de la ANSV — un cuarto sentido/canal del término en el corpus, y un cuarto canal de reporte paralelo para el organismo de tránsito.
+- **Hallazgo crítico**: se detectó una contradicción entre esta fuente (p. 2, "Decreto 143 de 2022") y la Resolución 583/2023 ya ingerida (p. 2, "Decreto 1430 de 2022") sobre el número de decreto que aprueba el PNSV 2022-2031. No se puede resolver con las fuentes del proyecto; se documentó explícitamente en ambas páginas como incertidumbre/contradicción, con recomendación de verificar contra fuente primaria. Se marcó `status: incierto` en esta página por esta razón.
+- Se actualizó la línea de tiempo de la DCI (entidad): Mariantonia Tabares Pulgarín confirmada como Directora General ANSV hasta marzo de 2025; Darío Rincón Jaramillo vuelve a su cargo sustantivo de Dirección de Comportamiento (su encargo en la DCI en 2023 fue temporal); nuevos contratistas DCI identificados (Luis Yair Aguilar Rojas, Jorge Luis Riveros).
+- Se actualizaron los cross-links en la Resolución 583/2023, la entidad DCI y el concepto `asistencia-tecnica-bundle-pr06.md`, y se actualizó `index.md` (de 19 a 20 fuentes ingeridas; Plan 365 de 7 a 6 pendientes).
+- Pendiente: continuar con el Anexo Técnico Plan 365 (documento más extenso del grupo, 95 páginas) y el resto del grupo.

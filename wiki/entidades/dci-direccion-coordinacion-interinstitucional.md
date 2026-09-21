@@ -26,6 +26,7 @@ El [decreto-787-2015-funciones-ansv](../fuentes/decreto-787-2015-funciones-ansv.
 - [dci-lineamientos-cargue-evidencias](../fuentes/dci-lineamientos-cargue-evidencias.md): instructivo propio de la DCI sobre cómo cargar esas actas y evidencias en su matriz de seguimiento/repositorio.
 - [resolucion-007-2023-mai](../fuentes/resolucion-007-2023-mai.md): reglamenta las Mesas de Articulación Interinstitucional (MAI), a cargo de la "Línea Territorial" de la DCI, una instancia de coordinación territorial adicional al CTSV, centrada en contingencias de movilidad durante puentes festivos y temporadas de alta afluencia.
 - [resolucion-583-2023-armonizacion-plsv-pnsv](../fuentes/resolucion-583-2023-armonizacion-plsv-pnsv.md): confirma que la ANSV ejerció su facultad legal de definir criterios de obligatoriedad del PLSV para municipios no capitales, y da la fecha exacta y las 8 áreas de acción (incluida "gestión del conocimiento") del PNSV 2022-2031.
+- [circular-023-2025-plan-365](../fuentes/circular-023-2025-plan-365.md): primera fuente que vincula explícitamente el Plan 365 con la función de asistencia técnica de la ANSV; aporta nuevos nombres a la línea de tiempo de la DCI.
 
 ## Firmantes recurrentes en los documentos de la DCI
 
@@ -38,7 +39,9 @@ El [decreto-787-2015-funciones-ansv](../fuentes/decreto-787-2015-funciones-ansv.
 
 `[Sucesión de Director(a) de la DCI inferida de las fechas de firma de tres documentos distintos, sin fuente que documente la sucesión misma: Carlos Vanegas Vivas (ene. 2023) → Darío Rincón Jaramillo, encargado (oct. 2023) → Paula Katerine Ramos Navarro (dic. 2025-ene. 2026). No se pueden establecer fechas exactas de transición ni descartar encargos intermedios no documentados en este repositorio.]`
 
-**Directores(as) Generales de la ANSV identificados:** Juan Carlos Beltrán Bedoya (enero 2023, Resolución 007) y Mariantonia Tabares Pulgarín (octubre 2023, Resolución 583) — dos nombres distintos en el mismo año, lo que sugiere otro cambio de dirección general en 2023 no documentado en detalle en este repositorio.
+**Directores(as) Generales de la ANSV identificados:** Juan Carlos Beltrán Bedoya (enero 2023, Resolución 007) y Mariantonia Tabares Pulgarín (octubre 2023 y marzo 2025, Resolución 583 y Circular 023/2025) — dos nombres distintos en 2023, lo que sugiere un cambio de dirección general en 2023 no documentado en detalle en este repositorio; Tabares Pulgarín confirma continuidad en el cargo hasta al menos marzo de 2025.
+
+**Actualización de la línea de tiempo de la DCI (Circular 023 de 2025, marzo de 2025)**: Darío Rincón Jaramillo, que en octubre de 2023 figuraba como "director (E) de Coordinación Interinstitucional", aparece aquí de nuevo en su cargo sustantivo de "Dirección de Comportamiento" — su encargo en la DCI fue aparentemente temporal. Nuevo contratista DCI identificado: **Luis Yair Aguilar Rojas**, y **Jorge Luis Riveros**. También aparece "Andrés Alfonso González, contratista DCI" — posiblemente la misma persona que "Álvaro Andrés Alfonso González" (revisor del PR-08), aunque el nombre de pila difiere entre fuentes y no se puede confirmar con certeza.
 - **Lina Marcela Lozano Delgado** — contratista DCI. Elabora PR-06, PR-07, PR-08 y CA-02.
 - **Ivana Carolina González Murcia** — contratista DCI. Elabora PR-06 y PR-07; en el CA-02 pasa a figurar como "revisó" en vez de "elaboró" (ver incertidumbre en esa página).
 - **Javier Alejandro Mateus Perafán / Javier Mateus** — contratista DCI. Revisa PR-06 y PR-07; en el PR-08 es uno de dos revisores.
