@@ -44,7 +44,7 @@ Nota de actualización (p. 1): "Descargar el formato de Acta de Reunión actuali
 - [ansv-pr-06-procedimiento-asistencia-tecnica](ansv-pr-06-procedimiento-asistencia-tecnica.md): el PR-06 usa "acta de reunión" como registro en varias de sus 25 actividades. Este Anexo 5 es la plantilla concreta de ese registro, y confirma con instrucción explícita que toda actividad de asistencia técnica debe registrarse bajo el rótulo "Asistencia Técnica" en el campo TEMA — dato operativo que el propio PR-06 no detalla.
 - [ansv-pr-07-estrategias-interinstitucionales](ansv-pr-07-estrategias-interinstitucionales.md) y [ansv-pr-08-articulacion-instancias-territoriales](ansv-pr-08-articulacion-instancias-territoriales.md): ambos usan "acta de reunión" como registro en varias actividades (PR-07: actividades 4, 7, 8, 9, 10; PR-08: 8 de sus 14 actividades) — todas presumiblemente diligenciadas con este mismo formato ANSV-GIP-FO-05, aunque ninguna de las dos fuentes lo cita por su código exacto.
 - [ansv-ca-02-caracterizacion-proceso](ansv-ca-02-caracterizacion-proceso.md): "actas de reunión" figura entre las salidas/productos mencionados del ciclo Hacer.
-- Pendiente de ingest que completa el bundle: Anexo 6 — Lineamientos para el cargue de evidencias (probablemente indica cómo y dónde se archivan las actas ya diligenciadas con este formato).
+- [dci-lineamientos-cargue-evidencias](dci-lineamientos-cargue-evidencias.md) — refuerza y hace más estricta la misma regla de nomenclatura del campo TEMA de este formato, agregando la prohibición explícita de términos alternativos y el requisito de nomenclatura del archivo PDF.
 - Formato relacionado explícitamente citado pero **no disponible en este repositorio**: ANSV-GIP-FO-06 (registro de asistencia).
 
 ## Relevancia para el trabajo de grado
@@ -68,3 +68,8 @@ Nota de actualización (p. 1): "Descargar el formato de Acta de Reunión actuali
 - `[INCIERTO: no hay sección de elaboró/revisó/aprobó dentro del propio PDF — ver "Referencia / origen del documento".]`
 - `[INCIERTO: este formato pertenece al proceso "Gestión Integral de Procesos" (GIP), no al proceso "Coordinación y Articulación..." (CPP) del PR-06/PR-07/PR-08/CA-02 — es un formato transversal reutilizado, no propio de la DCI. No se puede confirmar desde esta fuente si existe una versión de acta de reunión específica para la DCI.]`
 - No se puede verificar el contenido del formato ANSV-GIP-FO-06 (registro de asistencia) porque no está en este repositorio.
+
+## Ver también
+
+- [conceptos/asistencia-tecnica-bundle-pr06](../conceptos/asistencia-tecnica-bundle-pr06.md)
+- [entidades/dci-direccion-coordinacion-interinstitucional](../entidades/dci-direccion-coordinacion-interinstitucional.md)

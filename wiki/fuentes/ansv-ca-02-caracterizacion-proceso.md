@@ -83,7 +83,9 @@ Entre las salidas/productos del ciclo Hacer (p. 2) figura, sin mapeo confiable a
 - [ansv-pr-07-estrategias-interinstitucionales](ansv-pr-07-estrategias-interinstitucionales.md): el objetivo de este CA-02 ("identificar, definir, coordinar, orientar, fortalecer y hacer seguimiento a las estrategias intersectoriales e interinstitucionales", p. 1) describe, a nivel de proceso, lo que el PR-07 detalla como procedimiento de 12 actividades para definir y aprobar una estrategia.
 - [ansv-pr-08-articulacion-instancias-territoriales](ansv-pr-08-articulacion-instancias-territoriales.md) — no se citan entre sí, pero ambos pertenecen al mismo proceso "Coordinación y Articulación para la Implementación de la Política Pública en Seguridad Vial".
 - [ansv-gip-fo-05-formato-acta-reunion](ansv-gip-fo-05-formato-acta-reunion.md) — "actas de reunión" figura entre las salidas/productos mencionados del ciclo Hacer de este CA-02; este anexo es la plantilla concreta de ese registro.
-- Documento que se desprende o se relaciona directamente con este CA-02, **pendiente de ingest propio**: Anexo 6 — Lineamientos cargue de evidencias.
+- [dci-lineamientos-cargue-evidencias](dci-lineamientos-cargue-evidencias.md) — instructivo operativo de cargue de las actas y listados que este CA-02 menciona como salidas del ciclo Hacer.
+
+Con esto se cierra el bundle documental completo del PR-06 (PR-06, PR-07, CA-02, PR-08, Anexo 5, Anexo 6).
 
 ## Relevancia para el trabajo de grado
 
@@ -95,3 +97,8 @@ Entre las salidas/productos del ciclo Hacer (p. 2) figura, sin mapeo confiable a
 - `[INCIERTO: inconsistencia en el nombre de la dependencia responsable — "Dirección de Coordinación Institucional" (cuerpo del documento) vs. "Dirección de Coordinación Interinstitucional" (campo de responsable del proceso, y resto del corpus) — ver sección "Referencia / origen del documento".]`
 - `[INCIERTO: variación en el patrón de firmantes respecto al PR-06/PR-07 — ver sección "Referencia / origen del documento".]`
 - El documento no detalla indicadores, riesgos, documentos asociados ni normativa puntual en su propio texto — remite a aplicativos internos de la ANSV no disponibles en este repositorio. No se puede completar esa información desde esta fuente.
+
+## Ver también
+
+- [conceptos/asistencia-tecnica-bundle-pr06](../conceptos/asistencia-tecnica-bundle-pr06.md)
+- [entidades/dci-direccion-coordinacion-interinstitucional](../entidades/dci-direccion-coordinacion-interinstitucional.md)

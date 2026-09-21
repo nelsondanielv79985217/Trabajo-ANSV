@@ -4,23 +4,20 @@ Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos 
 
 ## Fuentes (`fuentes/`)
 
-35 documentos relevados en la raíz del repo (30 PDF, incluido uno con extensión `.PDF` en mayúsculas, y 5 DOCX): **5 ingeridos** (PR-06, PR-07, CA-02 — este con `status: incierto` —, PR-08, Anexo 5/GIP-FO-05) y **30 pendientes de ingest**. La agrupación de las pendientes es solo por lo que indica el nombre de archivo — no implica haber leído el contenido (regla de incertidumbre, `CLAUDE.md`).
+35 documentos relevados en la raíz del repo (30 PDF, incluido uno con extensión `.PDF` en mayúsculas, y 5 DOCX): **6 ingeridos** — **bundle completo del PR-06 cerrado** (PR-06, PR-07, CA-02 — este con `status: incierto` —, PR-08, Anexo 5/GIP-FO-05, Anexo 6) — y **29 pendientes de ingest**. La agrupación de las pendientes es solo por lo que indica el nombre de archivo — no implica haber leído el contenido (regla de incertidumbre, `CLAUDE.md`).
 
-### Ingeridas (5)
+### Ingeridas (6) — bundle PR-06 completo
 
 - [Procedimiento de Asistencia Técnica DCI (ANSV-CPP-PR-06)](fuentes/ansv-pr-06-procedimiento-asistencia-tecnica.md) — procedimiento oficial que regula cómo la ANSV/DCI planifica, ejecuta y hace seguimiento a las asistencias técnicas territoriales; declara la transferencia de conocimiento como uno de sus tres criterios de calidad obligatorios. (ingerido)
 - [Procedimiento Definición, Implementación y Seguimiento a Estrategias Interinstitucionales (ANSV-CPP-PR-07)](fuentes/ansv-pr-07-estrategias-interinstitucionales.md) — procedimiento previo/superior al PR-06: define y aprueba la estrategia interinstitucional (12 actividades, aprobación por Dirección General) que luego se ejecuta en territorio mediante el PR-06. (ingerido)
 - [Formato Caracterización de Proceso (ANSV-CPP-CA-02)](fuentes/ansv-ca-02-caracterizacion-proceso.md) — caracterización del proceso "Coordinación y Articulación..." del que el PR-06 y el PR-07 son procedimientos operativos; ciclo PHVA de 12 actividades. (incierto — la tabla de proveedores/entradas/salidas no pudo extraerse con mapeo confiable fila por fila, ver nota metodológica en la página)
 - [Procedimiento Articulación, Fortalecimiento y Participación en Instancias Territoriales de Seguridad Vial (ANSV-CPP-PR-08)](fuentes/ansv-pr-08-articulacion-instancias-territoriales.md) — el archivo `ANEXO4~1.PDF` identificado durante el ingest; define cómo una necesidad detectada en un Consejo/Comité Territorial de Seguridad Vial (CTSV/CLSV/CDSV) llega a la DCI y activa el PR-06 y/o el PR-07. (ingerido)
 - [Formato Acta de Reunión (ANSV-GIP-FO-05)](fuentes/ansv-gip-fo-05-formato-acta-reunion.md) — plantilla transversal de la ANSV (no propia de la DCI) para registrar actas; exige nombrar toda actividad de asistencia técnica con el rótulo "Asistencia Técnica" en el campo TEMA. (ingerido)
+- [Lineamientos para el Cargue de Evidencias — DCI](fuentes/dci-lineamientos-cargue-evidencias.md) — instructivo de nomenclatura de archivos, periodicidad mensual y prohibición de informes de comisión como evidencia de AT. (incierto — el documento no tiene código, versión ni sección de aprobación, no se puede confirmar su estatus documental formal)
 
-### Pendientes de ingest (30)
+### Pendientes de ingest (29)
 
 Se procesarán de a una, en el orden que indique el usuario, siguiendo el flujo INGEST de `CLAUDE.md` (lectura completa con registro de página exacta, página de `fuentes/`, actualización de este índice y del log, pausa para confirmación).
-
-#### Procedimientos y anexos del SGC-DCI (ANSV) — familia del PR-06 (1)
-
-- `Anexo 6. Lineamientos para el cargue de evidencias.pdf`
 
 #### Normativa nacional — leyes, decretos, CONPES, resoluciones (13)
 
@@ -65,11 +62,15 @@ Se procesarán de a una, en el orden que indique el usuario, siguiendo el flujo 
 
 ## Conceptos (`conceptos/`)
 
-Ninguna todavía — se crean durante el INGEST cuando un tema transversal se repite entre varias fuentes (ver `CLAUDE.md`). Candidatos previsibles a partir de la única fuente ingerida: "Asistencia técnica como mecanismo de transferencia de conocimiento", "Sistema Seguro", "Plan 365" — se confirman recién cuando haya evidencia real de cruce entre fuentes.
+- [Asistencia Técnica de la DCI — Marco documental completo (bundle PR-06)](conceptos/asistencia-tecnica-bundle-pr06.md) — arma la cadena documental completa (detección de necesidad territorial → estrategia → ejecución de AT → caracterización de proceso → registro → trazabilidad) a partir de las 6 fuentes del bundle PR-06 ya ingeridas. (ingerido)
+
+Candidatos previsibles para próximas páginas, aún sin crear porque no hay evidencia de cruce con una tercera fuente ajena al bundle: "Sistema Seguro", "Plan 365", "Instancias territoriales de seguridad vial (CTSV/CLSV/CDSV)".
 
 ## Entidades (`entidades/`)
 
-Ninguna todavía. Candidatas previsibles a partir de la única fuente ingerida: ANSV, Dirección de Coordinación Interinstitucional (DCI) — se crean cuando una entidad se repita entre varias fuentes.
+- [Dirección de Coordinación Interinstitucional (DCI) — ANSV](entidades/dci-direccion-coordinacion-interinstitucional.md) — dependencia responsable de las 6 fuentes del bundle PR-06; rol en cada documento, firmantes recurrentes y entidades externas con las que se relaciona. (ingerido)
+
+Candidata previsible para próxima página: Agencia Nacional de Seguridad Vial (ANSV) como entidad propia (distinta de la DCI) — aún sin crear porque, hasta ahora, todo lo ingerido es específicamente de la DCI.
 
 ## Síntesis (`sintesis/`)
 

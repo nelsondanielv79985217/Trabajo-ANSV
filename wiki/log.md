@@ -46,3 +46,19 @@ Registro cronológico, append-only. No editar entradas pasadas — solo agregar 
 - Se identificó un formato relacionado citado pero no disponible en este repositorio: ANSV-GIP-FO-06 (registro de asistencia).
 - Se actualizaron los cross-links en PR-06, PR-07, PR-08 y CA-02 (los cuatro usan "acta de reunión" como registro, aunque ninguno cita el código GIP-FO-05 explícitamente), y se actualizó `index.md` (de 4 a 5 fuentes ingeridas, familia SGC-DCI de 2 a 1 pendiente: queda solo el Anexo 6).
 - Pendiente: cerrar el bundle con el Anexo 6 (lineamientos cargue de evidencias); luego evaluar con el usuario la síntesis de concepto/entidad de todo el bundle antes de continuar con el resto del repositorio.
+
+## [2026-09-21] ingest | Anexo 6 — Lineamientos para el cargue de evidencias (cierre del bundle PR-06)
+
+- Se extrajo el texto completo del PDF (3 páginas) con `pypdf`. A diferencia de los cinco documentos anteriores del bundle, este no tiene código, versión, fecha de vigencia ni sección de aprobación — parece ser un instructivo interno de la DCI, no un documento controlado del SIG/MIPG. Se marcó `status: incierto` por esta razón.
+- Se creó `wiki/fuentes/dci-lineamientos-cargue-evidencias.md` con cita de página exacta.
+- Hallazgo relevante: el documento refuerza y hace más estricta la regla de nomenclatura del Anexo 5 (campo TEMA = "Asistencia técnica" siempre), agregando la prohibición explícita de sinónimos ("mesa técnica", "reunión de seguimiento") y un formato de nomenclatura de archivo (fecha_tipo_documento_entidad territorial); también descalifica explícitamente los informes de comisión como evidencia válida de AT.
+- Se identificó una nueva entidad no vista en las 5 fuentes anteriores: Oficina Asesora de Planeación (ANSV).
+- Con esta fuente **se cierra el bundle documental completo del PR-06** solicitado por el usuario (PR-06, PR-07, CA-02, PR-08, Anexo 5, Anexo 6).
+
+## [2026-09-21] sintesis | Conceptos y entidades del bundle PR-06
+
+- Con el bundle completo (6 fuentes), se aplicó el mismo patrón de dos pasos usado en el repositorio de innovación de referencia: ingest fuente por fuente, seguido de una síntesis de concepto/entidad cuando ya hay evidencia real de cruce.
+- Se creó `wiki/entidades/dci-direccion-coordinacion-interinstitucional.md`: rol de la DCI en cada uno de los 6 documentos, firmantes recurrentes (con sus variaciones de rol entre documentos) y entidades externas mencionadas (Dirección General, Gobernadores/Alcaldes, Oficina Asesora de Planeación).
+- Se creó `wiki/conceptos/asistencia-tecnica-bundle-pr06.md`: arma la cadena documental completa (detección de necesidad territorial en CTSV/CLSV/CDSV → estrategia PR-07 → ejecución PR-06 → caracterización CA-02 → registro GIP-FO-05 → trazabilidad Anexo 6), la definición textualmente idéntica de "Asistencia Técnica" en PR-06 y PR-07, y un señalamiento crítico propio: ninguna de las 6 fuentes describe el protocolo desde la perspectiva del municipio/organismo de tránsito receptor — todas están escritas desde la perspectiva de la DCI como ejecutor. Se marcó explícitamente como observación propia, no como vacío confirmado del repositorio completo (quedan 29 fuentes sin ingerir).
+- Se enlazaron ambas páginas nuevas desde las 6 páginas de fuente del bundle (sección "Ver también") y se actualizó `index.md` (secciones Conceptos y Entidades, antes vacías).
+- Pendiente: definir con el usuario el orden de ingest de las 29 fuentes restantes (normativa nacional, Plan 365, planes/documentos técnicos, correspondencia).

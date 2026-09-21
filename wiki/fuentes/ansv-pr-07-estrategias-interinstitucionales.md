@@ -57,7 +57,7 @@ Cita textual de la definición de **Asistencia Técnica (AT)** (p. 1): "La asist
 - [ansv-ca-02-caracterizacion-proceso](ansv-ca-02-caracterizacion-proceso.md) — el objetivo de la caracterización ("identificar, definir, coordinar, orientar, fortalecer y hacer seguimiento a las estrategias intersectoriales e interinstitucionales", p. 1 de esa fuente) describe a nivel de proceso lo que este PR-07 detalla como procedimiento de 12 actividades.
 - [ansv-pr-08-articulacion-instancias-territoriales](ansv-pr-08-articulacion-instancias-territoriales.md) — el PR-08 (el archivo `ANEXO4~1.PDF`) declara explícitamente a este PR-07 como documento asociado (PR-08, p. 9) y lo cita dos veces en su cuerpo (PR-08, p. 3): las necesidades detectadas en instancias territoriales (CTSV/CLSV/CDSV) se consolidan "en el marco de" o "en articulación con" el PR-06 y este PR-07.
 - [ansv-gip-fo-05-formato-acta-reunion](ansv-gip-fo-05-formato-acta-reunion.md) — plantilla probable de las "actas de reunión" que este PR-07 usa como registro en las actividades 4, 7, 8, 9 y 10, aunque el PR-07 no cita el código ANSV-GIP-FO-05 explícitamente.
-- Pendiente de ingest que completa este mismo "bundle": Anexo 6 — Lineamientos para el cargue de evidencias.
+- [dci-lineamientos-cargue-evidencias](dci-lineamientos-cargue-evidencias.md) — aplica a las actas de este PR-07 en la medida en que documenten actividades de asistencia técnica.
 
 ## Relevancia para el trabajo de grado
 
@@ -87,3 +87,8 @@ Cita textual de la definición de **Asistencia Técnica (AT)** (p. 1): "La asist
 - `[INCIERTO: el documento numera dos actividades distintas como "4" en la sección 5 (p. 5) — "Documentar la estrategia" y "Revisar la propuesta de estrategia" — lo cual es una inconsistencia de numeración en la fuente original, no un error de esta página. Se listaron ambas en el orden en que aparecen en el PDF.]`
 - `[INCIERTO: la relación asimétrica entre PR-06 y PR-07 respecto a "documentos asociados" (ver sección anterior) no se puede resolver solo con estas dos fuentes.]`
 - El texto extraído automáticamente tiene algunos cortes de palabra por guion ("res ultado", "e n", "a sistencia") propios de la extracción del PDF, no del documento original; se transcribieron corregidos en las citas de esta página, preservando el sentido.
+
+## Ver también
+
+- [conceptos/asistencia-tecnica-bundle-pr06](../conceptos/asistencia-tecnica-bundle-pr06.md)
+- [entidades/dci-direccion-coordinacion-interinstitucional](../entidades/dci-direccion-coordinacion-interinstitucional.md)

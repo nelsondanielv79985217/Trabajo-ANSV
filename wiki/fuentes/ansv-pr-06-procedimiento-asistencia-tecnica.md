@@ -50,7 +50,9 @@ Este documento es el **objeto empírico/institucional central** del trabajo de g
 - [ansv-ca-02-caracterizacion-proceso](ansv-ca-02-caracterizacion-proceso.md) — la caracterización de proceso (nivel más agregado) del mismo proceso "Coordinación y Articulación para la Implementación de la Política Pública en Seguridad Vial" al que pertenece este PR-06; su actividad "Hacer" de implementar la estrategia "a través de asistencia técnica" es, a ese nivel, lo que este PR-06 detalla paso a paso.
 - [ansv-pr-08-articulacion-instancias-territoriales](ansv-pr-08-articulacion-instancias-territoriales.md) — el PR-08 (el archivo `ANEXO4~1.PDF`) es el mecanismo por el cual una necesidad detectada en un Consejo o Comité Territorial de Seguridad Vial llega a la DCI y se convierte en actividad de intervención regida por este PR-06. Declara explícitamente a este PR-06 como documento asociado (PR-08, p. 9) y lo cita dos veces en su cuerpo (PR-08, p. 3) — mismo patrón asimétrico que con el PR-07.
 - [ansv-gip-fo-05-formato-acta-reunion](ansv-gip-fo-05-formato-acta-reunion.md) — plantilla concreta del registro "acta de reunión" que usa este PR-06 en varias de sus 25 actividades; exige que el campo TEMA se nombre siempre "Asistencia Técnica".
-- Documentos que se desprenden o se relacionan directamente con este PR-06, **pendientes de ingest propio**: Anexo 6 — Lineamientos cargue de evidencias.
+- [dci-lineamientos-cargue-evidencias](dci-lineamientos-cargue-evidencias.md) — instructivo operativo de cómo se materializa en el repositorio documental de la DCI el criterio de "trazabilidad" que este PR-06 exige a toda AT.
+
+Con esto se cierra el bundle documental completo del PR-06 (PR-06, PR-07, CA-02, PR-08, Anexo 5, Anexo 6).
 - Conecta con la normativa nacional de seguridad vial (Ley 1503 de 2011, Decreto 787 de 2015 — funciones ANSV, PNSV 2022-2031) — pendiente de ingest — porque el PR-06 opera como mecanismo de implementación territorial de esa política.
 - Conecta con los documentos del Plan 365 (circular conjunta, anexo técnico, análisis de reportes) — pendientes de ingest — como posible canal o antecedente de asistencia técnica hacia organismos de tránsito.
 
@@ -82,3 +84,8 @@ Este documento es el **objeto empírico/institucional central** del trabajo de g
 - El documento tiene fecha 30/12/2025 y versión 00 — no queda claro en el texto si reemplaza una versión anterior no versionada. `[INCIERTO]`
 - La sección "Documentos asociados" dice "No aplica", pero el propio procedimiento referencia anexos (1, 3, 4, 5, 6) que existen como archivos separados en este repositorio — posible inconsistencia entre el documento y su gestión documental, o los anexos pertenecen a un proceso distinto. `[INCIERTO]`
 - No se pudo determinar si existe un umbral oficial de "éxito" del postest aplicado a los grupos de interés beneficiarios (actividades 19-20), más allá del umbral ≥70% para la evaluación del talento humano interno (actividad 5). `[INCIERTO]`
+
+## Ver también
+
+- [conceptos/asistencia-tecnica-bundle-pr06](../conceptos/asistencia-tecnica-bundle-pr06.md)
+- [entidades/dci-direccion-coordinacion-interinstitucional](../entidades/dci-direccion-coordinacion-interinstitucional.md)

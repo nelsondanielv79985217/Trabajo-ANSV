@@ -74,7 +74,7 @@ El PR-08 declara explícitamente **dos** documentos asociados: "Procedimiento de
   - **Patrón que se confirma con esta tercera fuente**: tanto el PR-07 (p. 9) como el PR-08 (p. 9) declaran explícitamente al PR-06 como documento asociado, pero el PR-06 no declara ningún documento asociado propio ("No aplica", según su página ya ingerida). El bundle documental tiene una dirección de referencia consistente (PR-07 → PR-06, PR-08 → PR-06, PR-08 → PR-07) que no se refleja en sentido inverso desde el PR-06. `[INCIERTO: no se puede determinar si esto responde a que el PR-06 es cronológicamente el primero del bundle (versión 00, fecha 30/12/2025, anterior a PR-07 del 06/01/2026 y PR-08 del 27/01/2026) y su "documentos asociados" simplemente no se actualizó tras la publicación de los otros dos, o a otra razón de gestión documental.]`
 - [ansv-ca-02-caracterizacion-proceso](ansv-ca-02-caracterizacion-proceso.md): el PR-08 no se menciona explícitamente en el CA-02 ni viceversa, pero ambos pertenecen al mismo proceso "Coordinación y Articulación para la Implementación de la Política Pública en Seguridad Vial" (mismo encabezado en las tres fuentes).
 - [ansv-gip-fo-05-formato-acta-reunion](ansv-gip-fo-05-formato-acta-reunion.md) — plantilla probable de las 8 "actas de reunión" que este PR-08 usa como registro, aunque el PR-08 no cita el código ANSV-GIP-FO-05 explícitamente.
-- Pendiente de ingest que completa el bundle: Anexo 6 — Lineamientos para el cargue de evidencias.
+- [dci-lineamientos-cargue-evidencias](dci-lineamientos-cargue-evidencias.md) — aplica a las 8 actas de este PR-08 en la medida en que documenten actividades de asistencia técnica.
 - La Ley 1702 de 2013, citada como marco legal de los CTSV (p. 1), está pendiente de ingest en este mismo repositorio (`Ley_1702_de_2013.pdf`).
 
 ## Relevancia para el trabajo de grado
@@ -110,3 +110,8 @@ El PR-08 declara explícitamente **dos** documentos asociados: "Procedimiento de
 - `[INCIERTO: el metadato /Author del PDF ("Amin Jose Pelaez Pinto") no coincide con ningún firmante de la sección de aprobación — ver "Referencia / origen del documento".]`
 - `[INCIERTO: la relación asimétrica de "documentos asociados" entre PR-06, PR-07 y PR-08 — ver "Relación con las demás fuentes de este repositorio".]`
 - `[INCIERTO: no se puede verificar el contenido de la Resolución 097 de 2019 ni de la Resolución 516 de 2022 porque no están en este repositorio.]`
+
+## Ver también
+
+- [conceptos/asistencia-tecnica-bundle-pr06](../conceptos/asistencia-tecnica-bundle-pr06.md)
+- [entidades/dci-direccion-coordinacion-interinstitucional](../entidades/dci-direccion-coordinacion-interinstitucional.md)
