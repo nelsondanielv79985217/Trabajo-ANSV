@@ -19,3 +19,12 @@ Registro cronológico, append-only. No editar entradas pasadas — solo agregar 
 - Se actualizó la página del PR-06 con el link cruzado al PR-07 y se actualizó `index.md` (de 1 a 2 fuentes ingeridas, familia SGC-DCI de 5 a 4 pendientes).
 - No se crearon páginas de concepto/entidad nuevas en este paso: DCI, ANSV, PNSV y los firmantes ya están cubiertos por el ingest del PR-06; se evalúa crear una página de concepto o entidad propia recién cuando haya evidencia de cruce con una tercera fuente.
 - Pendiente: continuar con CA-02 (Anexo 1) y los demás anexos del bundle, de a uno, según lo acordado con el usuario.
+
+## [2026-09-21] ingest | ANSV-CPP-CA-02 (Anexo 1 — Caracterización de proceso)
+
+- Se extrajo el texto del PDF (3 páginas) con `pypdf` y, adicionalmente, se probó `pdfplumber` para extracción estructurada de tablas — ambas herramientas dieron una extracción de contenido correcta pero **sin mapeo confiable fila por fila** entre proveedor/entrada/actividad/salida/cliente, por el diseño de celdas combinadas del formato de caracterización. Se documentó esto como limitación metodológica explícita en la página, y se marcó `status: incierto` en vez de `ingerido` — es la primera fuente de este repo que no alcanza el estado pleno de ingest por una limitación de extracción, no de lectura.
+- Sí se pudo extraer con confianza el ciclo PHVA completo (12 actividades: 4 Planear, 3 Hacer, 2 Verificar, 3 Actuar), con cita de página, porque esas celdas aparecen aisladas y sin ambigüedad en la extracción.
+- Se creó `wiki/fuentes/ansv-ca-02-caracterizacion-proceso.md`.
+- Hallazgos relevantes marcados como incertidumbre: (1) el cuerpo del documento nombra a la dependencia responsable como "Dirección de Coordinación Institucional" (sin "Inter"), mientras el resto del corpus usa "Dirección de Coordinación Interinstitucional"; (2) el patrón de firmantes difiere del PR-06/PR-07 (aparece un firmante nuevo, Cesar Mauricio Salcedo, e Ivana Carolina González Murcia cambia de rol de "elaboró" a "revisó").
+- Se actualizaron los cross-links en las páginas del PR-06 y del PR-07, y se actualizó `index.md` (de 2 a 3 fuentes ingeridas — una de ellas con status incierto —, familia SGC-DCI de 4 a 3 pendientes).
+- Pendiente: continuar con `ANEXO4~1.PDF`, luego Anexo 5 y Anexo 6, para cerrar el bundle del PR-06. Al cerrar el bundle completo se evaluará crear una página de concepto ("asistencia técnica como mecanismo de transferencia de conocimiento" o similar) y una página de entidad (DCI), dado que ya hay evidencia de cruce entre 3 fuentes.
