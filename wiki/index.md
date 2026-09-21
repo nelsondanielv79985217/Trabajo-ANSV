@@ -4,7 +4,7 @@ Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos 
 
 ## Fuentes (`fuentes/`)
 
-35 documentos relevados en la raíz del repo (30 PDF, incluido uno con extensión `.PDF` en mayúsculas, y 5 DOCX): **22 ingeridos** — bundle PR-06 (6) + las 13 de normativa nacional + 3 de Plan 365 (Circular 023/2025, Circular externa 20244000000157, Estrategia 2.2.1) — y **13 pendientes de ingest**. La agrupación de las pendientes es solo por lo que indica el nombre de archivo — no implica haber leído el contenido (regla de incertidumbre, `CLAUDE.md`).
+35 documentos relevados en la raíz del repo (30 PDF, incluido uno con extensión `.PDF` en mayúsculas, y 5 DOCX): **23 ingeridos** — bundle PR-06 (6) + las 13 de normativa nacional + 4 de Plan 365 (Circular 023/2025, Circular externa 20244000000157, Estrategia 2.2.1, Análisis de Reportes) — y **12 pendientes de ingest**. La agrupación de las pendientes es solo por lo que indica el nombre de archivo — no implica haber leído el contenido (regla de incertidumbre, `CLAUDE.md`).
 
 ### Ingeridas (6) — bundle PR-06 completo
 
@@ -36,12 +36,13 @@ Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos 
 - [Circular Conjunta No. 023 de 2025 — Plan 365](fuentes/circular-023-2025-plan-365.md) — vincula explícitamente el Plan 365 con la función de asistencia técnica de la ANSV; datos de siniestralidad 2024 (8.271 fallecidos); detecta una contradicción entre fuentes sobre el decreto de aprobación del PNSV 2022-2031 (143 vs. 1430 de 2022). (incierto — status heredado de la contradicción normativa detectada, ver la página)
 - [Circular Externa 20244000000157 de 2024 (Mintransporte) — Videos como prueba de infracciones](fuentes/circular-externa-20244000000157-videos-infracciones.md) — instrucción del Ministerio de Transporte sobre uso de video como prueba en procesos contravencionales; **sin relación temática con el Plan 365 ni la asistencia técnica de la DCI**, pese a estar agrupada aquí solo por nombre de archivo. (ingerido)
 - [Estrategia de Asistencia Técnica y Pedagógica — Acción 2.2.1 del PNSV](fuentes/estrategia-at-pedagogica-2.2.1-entidades-territoriales.md) — **documento más relevante del repositorio hasta ahora**: define la asistencia técnica de la DCI como no decisoria ni sancionatoria, cita al CONPES 4091 como fuente teórica, integra CTSV/CDSV-CLSV/MAI en un solo marco, y muestra que un indicador oficial del PNSV se alimenta de las actas de reunión del bundle PR-06. Ingerido vía OCR (fuente con codificación de texto rota). (incierto — ver nota metodológica sobre fiabilidad de tablas OCR)
+- [Análisis de los Reportes Presentados por los Organismos de Tránsito — Plan 365](fuentes/analisis-reportes-organismos-transito-plan365.md) — cifras agregadas: 948 municipios monitoreados, 625 priorizados, 276 (44%) sin reporte al aplicativo, de los cuales 108 con aumento de siniestralidad; tabla municipio por municipio (p. 4-12) no transcrita, consultar el PDF original para un municipio específico. (incierto — tabla de datos no transcrita en su totalidad, ver nota de alcance)
 
-### Pendientes de ingest (13)
+### Pendientes de ingest (12)
 
 Se procesarán de a una, en el orden que indique el usuario, siguiendo el flujo INGEST de `CLAUDE.md` (lectura completa con registro de página exacta, página de `fuentes/`, actualización de este índice y del log, pausa para confirmación).
 
-#### Plan 365 (4 restantes de 7)
+#### Plan 365 (3 restantes de 7)
 
 - `ANEXO TÉCNICO PLAN 365.pdf`
 - `ANÁLISIS DE LOS REPORTES PRESENTADOS POR LOS ORGANISMOS DE TRÁNSITO PLAN 365.pdf`

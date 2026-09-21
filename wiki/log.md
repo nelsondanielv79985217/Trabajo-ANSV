@@ -198,3 +198,11 @@ Registro cronológico, append-only. No editar entradas pasadas — solo agregar 
 - Se actualizaron cross-links en el CONPES 4091, la Resolución 583/2023, la Circular 023/2025, el PR-08, la entidad DCI (confirmando continuidad de Paula Katerine Ramos Navarro, César Mauricio Salcedo e Ivana Carolina González Murcia, y nuevos nombres) y, de forma extensa, el concepto `asistencia-tecnica-bundle-pr06.md` con la cadena institucional completa actualizada.
 - Se actualizó `index.md` (de 21 a 22 fuentes ingeridas; Plan 365 de 5 a 4 pendientes).
 - Pendiente: continuar con el Anexo Técnico Plan 365 (95 páginas) y el Análisis de Reportes de Organismos de Tránsito.
+
+## [2026-09-21] ingest | Análisis de los Reportes Presentados por los Organismos de Tránsito — Plan 365
+
+- Documento de 13 páginas: 3 páginas de resumen analítico (leídas en detalle) + 9 páginas de tabla municipio por municipio (más de 300 filas) que **no se transcribió en su totalidad** — decisión de alcance documentada explícitamente, recomendando consultar el PDF original para el dato de un municipio específico. Se creó `wiki/fuentes/analisis-reportes-organismos-transito-plan365.md` con `status: incierto` por esta razón (no por ambigüedad de contenido, sino por transcripción parcial).
+- Hallazgo relevante: de 625 municipios priorizados por el Plan 365 (por siniestralidad recurrente en 2023-2024), **276 (44%) no reportaron ninguna acción** en el aplicativo durante 2025, y 108 de esos 276 presentan además aumento de siniestralidad — evidencia empírica de que la falta de reporte coincide con peor desempeño, no es solo un problema administrativo.
+- Sin fecha ni firmantes identificados en el documento — incertidumbre registrada.
+- Se actualizó el cross-link en la Circular 023/2025 y se actualizó `index.md` (de 22 a 23 fuentes ingeridas; Plan 365 de 4 a 3 pendientes).
+- Pendiente: continuar con el Anexo Técnico Plan 365 (95 páginas, el documento más extenso del grupo) y los dos oficios en formato DOCX.
