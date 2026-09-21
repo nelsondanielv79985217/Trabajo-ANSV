@@ -54,6 +54,7 @@ last_updated: 2026-09-21
 - [ley-1310-2009-agentes-transito](ley-1310-2009-agentes-transito.md), [ley-1503-2011-formacion-habitos-seguros](ley-1503-2011-formacion-habitos-seguros.md): ambas mencionan al "Fondo de Prevención Vial", cuya liquidación y sustitución por el Fondo Nacional de Seguridad Vial/ANSV se confirma aquí en detalle (arts. 7, 8.8, 21).
 - [ley-769-2002-codigo-nacional-transito](ley-769-2002-codigo-nacional-transito.md): las menciones de la ANSV en los arts. 7 y 14 de ese código (incorporadas por reformas posteriores no identificadas con precisión en esa página) son coherentes con las funciones de coordinación/capacitación que esta ley asigna a la ANSV (arts. 9.4.9 y 9.5.2).
 - [decreto-2851-2013-reglamenta-ley-1503](decreto-2851-2013-reglamenta-ley-1503.md): expedido el mismo año que esta ley (6 de diciembre de 2013, 21 días antes); no menciona a la ANSV porque a esa fecha aún no estaba formalmente en funcionamiento (art. 22 de esta ley da 6 meses para su puesta en marcha).
+- [decreto-787-2015-funciones-ansv](decreto-787-2015-funciones-ansv.md): reglamenta directamente el art. 14 de esta ley, detallando las funciones de cada dependencia de la estructura creada aquí — en particular, el art. 10 de ese decreto da el listado legal completo de las 14 funciones de la DCI.
 
 ## Relevancia para el trabajo de grado
 

@@ -12,6 +12,10 @@ Dependencia de la Agencia Nacional de Seguridad Vial (ANSV) responsable del proc
 
 Es, hasta ahora, la única dependencia de la ANSV cuyos documentos propios se han ingerido en este repositorio: las 6 fuentes ingeridas a la fecha (PR-06, PR-07, CA-02, PR-08, Anexo 5/GIP-FO-05, Anexo 6) están todas producidas por o para la DCI.
 
+## Funciones legales (Decreto 787 de 2015, art. 10)
+
+El [decreto-787-2015-funciones-ansv](../fuentes/decreto-787-2015-funciones-ansv.md) (que reglamenta la estructura interna de la ANSV creada por la Ley 1702 de 2013) da el detalle legal más completo de las funciones de la DCI, entre ellas la más directamente relevante para este repositorio (art. 10, numeral 6, cita textual): "Definir las obligaciones que en materia de seguridad vial le corresponden cumplir a los Organismos de Tránsito de acuerdo con su categorización y con el tipo de servicios de tránsito que puedan ofrecer." El resto de sus 14 funciones legales son de coordinación y articulación de actores (nacionales, regionales, locales, públicos y privados) en la elaboración, implementación y seguimiento del Plan Nacional de Seguridad Vial.
+
 ## Rol en cada documento del bundle ingerido
 
 - [ansv-pr-06-procedimiento-asistencia-tecnica](../fuentes/ansv-pr-06-procedimiento-asistencia-tecnica.md): la DCI **ejecuta** la asistencia técnica territorial (25 actividades), con el Director(a) DCI como responsable del análisis mensual del indicador de AT.
