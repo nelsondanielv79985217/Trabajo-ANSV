@@ -57,7 +57,7 @@ Participación comunitaria (control social, voluntariado, alertar a autoridades 
 
 - [ansv-pr-06-procedimiento-asistencia-tecnica](ansv-pr-06-procedimiento-asistencia-tecnica.md) y demás fuentes del bundle: esta ley es anterior a la creación de la ANSV (2013) pero establece varias obligaciones territoriales (mapas de siniestralidad, capítulos de seguridad vial en Planes de Desarrollo, tarjeta de compromiso) que son precisamente el tipo de necesidad territorial que el bundle PR-06/07/08 documenta cómo atender mediante asistencia técnica de la DCI.
 - [ley-769-2002-codigo-nacional-transito](ley-769-2002-codigo-nacional-transito.md): el art. 9 de esta ley modifica el art. 56 de la Ley 769; el art. 24 remite al art. 160 de la Ley 769 sobre destinación del recaudo de multas.
-- **Decreto 2851 de 2013** (pendiente de ingest en este repositorio): reglamenta directamente el art. 1 de esta ley y la mayoría de sus artículos (anotación explícita en casi todo el articulado) — es la siguiente fuente lógica a ingerir.
+- [decreto-2851-2013-reglamenta-ley-1503](decreto-2851-2013-reglamenta-ley-1503.md): reglamenta directamente 10 de los 25 artículos de esta ley, y asigna a los organismos de tránsito la función de revisar, avalar y controlar los PESV registrados en su jurisdicción (art. 11 de ese decreto).
 - `140926 ANÁLISIS TÉCNICO DE LA SINIESTRALIDAD VIAL EN COLOMBIA (Mateus).pdf` (pendiente de ingest): el art. 21 de esta ley (mapas de siniestralidad vial) es probablemente el marco normativo de ese documento.
 - Fondo de Prevención Vial (arts. 4, 10, p. 2 y 4-5): misma entidad ya identificada en la [ley-1310-2009-agentes-transito](ley-1310-2009-agentes-transito.md) como posible antecedente institucional previo a la ANSV.
 
