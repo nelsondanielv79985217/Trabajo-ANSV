@@ -24,10 +24,14 @@ El [decreto-787-2015-funciones-ansv](../fuentes/decreto-787-2015-funciones-ansv.
 - [ansv-pr-08-articulacion-instancias-territoriales](../fuentes/ansv-pr-08-articulacion-instancias-territoriales.md): la DCI **participa** en los Consejos y Comités Territoriales de Seguridad Vial (CTSV/CLSV/CDSV) para detectar necesidades territoriales, que luego canaliza hacia el PR-06/PR-07.
 - [ansv-gip-fo-05-formato-acta-reunion](../fuentes/ansv-gip-fo-05-formato-acta-reunion.md): formato transversal de la ANSV (no propio de la DCI) que la DCI usa para registrar sus actas de asistencia técnica.
 - [dci-lineamientos-cargue-evidencias](../fuentes/dci-lineamientos-cargue-evidencias.md): instructivo propio de la DCI sobre cómo cargar esas actas y evidencias en su matriz de seguimiento/repositorio.
+- [resolucion-007-2023-mai](../fuentes/resolucion-007-2023-mai.md): reglamenta las Mesas de Articulación Interinstitucional (MAI), a cargo de la "Línea Territorial" de la DCI, una instancia de coordinación territorial adicional al CTSV, centrada en contingencias de movilidad durante puentes festivos y temporadas de alta afluencia.
 
 ## Firmantes recurrentes en los documentos de la DCI
 
+`[Hallazgo: hubo cambio de Director(a) de la DCI entre 2023 y 2025. La [resolucion-007-2023-mai](../fuentes/resolucion-007-2023-mai.md) (enero 2023) está aprobada por **Carlos Vanegas Vivas** como Director de Coordinación Interinstitucional; el bundle PR-06 (diciembre 2025-enero 2026) está aprobado por **Paula Katerine Ramos Navarro**. No se puede establecer con las fuentes disponibles la fecha exacta de la transición.]`
+
 - **Paula Katerine Ramos Navarro** — Directora de Coordinación Interinstitucional. Aprueba PR-06, PR-07, PR-08 y CA-02 (en este último con el cargo adicional "Directora Técnico Grado 24").
+- **Carlos Vanegas Vivas** — Director Coordinación Interinstitucional (enero 2023). Aprueba la Resolución 007 de 2023 (MAI). Antecesor de Paula Katerine Ramos Navarro en el cargo, según la evidencia documental disponible.
 - **Lina Marcela Lozano Delgado** — contratista DCI. Elabora PR-06, PR-07, PR-08 y CA-02.
 - **Ivana Carolina González Murcia** — contratista DCI. Elabora PR-06 y PR-07; en el CA-02 pasa a figurar como "revisó" en vez de "elaboró" (ver incertidumbre en esa página).
 - **Javier Alejandro Mateus Perafán / Javier Mateus** — contratista DCI. Revisa PR-06 y PR-07; en el PR-08 es uno de dos revisores.

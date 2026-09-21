@@ -66,6 +66,7 @@ Implementación del control interno (3 meses), planta de personal (adoptada por 
 - **Todo el bundle PR-06**: el art. 10, numeral 6 de este decreto — "definir las obligaciones que en materia de seguridad vial le corresponden cumplir a los Organismos de Tránsito" — es la **base legal más precisa y directa identificada hasta ahora** para la función de la DCI de definir, mediante procedimientos como el PR-06/PR-07/PR-08, lo que se espera de un organismo de tránsito. Esto conecta directamente con la naturaleza del protocolo de asistencia técnica propuesto en el trabajo de grado.
 - [entidades/dci-direccion-coordinacion-interinstitucional](../entidades/dci-direccion-coordinacion-interinstitucional.md): esta fuente aporta el detalle legal más completo de las funciones de la DCI que exista en este repositorio; se recomienda actualizar esa página de entidad para reflejarlo.
 - [ansv-ca-02-caracterizacion-proceso](ansv-ca-02-caracterizacion-proceso.md): confirma, en una segunda fuente independiente, la variante de nombre "Dirección de Coordinación Institucional" (sin "Inter"), reforzando la incertidumbre ya registrada allí.
+- [resolucion-007-2023-mai](resolucion-007-2023-mai.md): cita textualmente 3 de las 14 funciones de este art. 10 (numerales 1, 8 y 10), coincidiendo exactamente con la transcripción por OCR de esta página — validación cruzada independiente de la fiabilidad del OCR para esos numerales.
 
 ## Relevancia para el trabajo de grado
 
