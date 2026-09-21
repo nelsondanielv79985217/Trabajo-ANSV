@@ -28,3 +28,12 @@ Registro cronológico, append-only. No editar entradas pasadas — solo agregar 
 - Hallazgos relevantes marcados como incertidumbre: (1) el cuerpo del documento nombra a la dependencia responsable como "Dirección de Coordinación Institucional" (sin "Inter"), mientras el resto del corpus usa "Dirección de Coordinación Interinstitucional"; (2) el patrón de firmantes difiere del PR-06/PR-07 (aparece un firmante nuevo, Cesar Mauricio Salcedo, e Ivana Carolina González Murcia cambia de rol de "elaboró" a "revisó").
 - Se actualizaron los cross-links en las páginas del PR-06 y del PR-07, y se actualizó `index.md` (de 2 a 3 fuentes ingeridas — una de ellas con status incierto —, familia SGC-DCI de 4 a 3 pendientes).
 - Pendiente: continuar con `ANEXO4~1.PDF`, luego Anexo 5 y Anexo 6, para cerrar el bundle del PR-06. Al cerrar el bundle completo se evaluará crear una página de concepto ("asistencia técnica como mecanismo de transferencia de conocimiento" o similar) y una página de entidad (DCI), dado que ya hay evidencia de cruce entre 3 fuentes.
+
+## [2026-09-21] ingest | ANEXO4~1.PDF → identificado como ANSV-CPP-PR-08
+
+- Se leyó el contenido completo del archivo de nombre truncado `ANEXO4~1.PDF` (9 páginas, `pypdf`) y se confirmó que es el **ANSV-CPP-PR-08** ("Procedimiento Articulación, Fortalecimiento y Participación en Instancias Territoriales de Seguridad Vial"), tal como advertía `index.md` que había que verificar antes de asumir. El `fuente_pdf` de la página se dejó como `ANEXO4~1.PDF` (nombre exacto en el repo), no como un nombre inferido.
+- Se creó `wiki/fuentes/ansv-pr-08-articulacion-instancias-territoriales.md` con `status: ingerido` y cita de página exacta en cada dato.
+- Hallazgo relevante: el PR-08 define explícitamente a la DCI citando al PR-06 y al PR-07 en su propio glosario (p. 2), y declara a ambos como "documentos asociados" (p. 9) — esto confirma, con una tercera fuente, el patrón asimétrico ya detectado: PR-07 y PR-08 referencian al PR-06, pero el PR-06 no referencia a ninguno de los dos.
+- Se identificó normativa citada pero no disponible en este repositorio (Resolución 097 de 2019, Resolución 516 de 2022) y normativa sí disponible pero aún no ingerida (Ley 1702 de 2013).
+- Se actualizaron los cross-links en PR-06, PR-07 y CA-02, y se actualizó `index.md` (de 3 a 4 fuentes ingeridas, familia SGC-DCI de 3 a 2 pendientes: quedan Anexo 5 y Anexo 6).
+- Pendiente: continuar con Anexo 5 (instrucciones registro de acta de reunión) y Anexo 6 (lineamientos cargue de evidencias) para cerrar el bundle completo del PR-06.

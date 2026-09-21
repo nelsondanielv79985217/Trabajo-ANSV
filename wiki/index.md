@@ -4,21 +4,21 @@ Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos 
 
 ## Fuentes (`fuentes/`)
 
-35 documentos relevados en la raíz del repo (30 PDF, incluido uno con extensión `.PDF` en mayúsculas, y 5 DOCX): **3 ingeridos** (PR-06, PR-07, CA-02 — este último con `status: incierto`) y **32 pendientes de ingest**. La agrupación de las pendientes es solo por lo que indica el nombre de archivo — no implica haber leído el contenido (regla de incertidumbre, `CLAUDE.md`).
+35 documentos relevados en la raíz del repo (30 PDF, incluido uno con extensión `.PDF` en mayúsculas, y 5 DOCX): **4 ingeridos** (PR-06, PR-07, CA-02 — este con `status: incierto` —, PR-08) y **31 pendientes de ingest**. La agrupación de las pendientes es solo por lo que indica el nombre de archivo — no implica haber leído el contenido (regla de incertidumbre, `CLAUDE.md`).
 
-### Ingeridas (3)
+### Ingeridas (4)
 
 - [Procedimiento de Asistencia Técnica DCI (ANSV-CPP-PR-06)](fuentes/ansv-pr-06-procedimiento-asistencia-tecnica.md) — procedimiento oficial que regula cómo la ANSV/DCI planifica, ejecuta y hace seguimiento a las asistencias técnicas territoriales; declara la transferencia de conocimiento como uno de sus tres criterios de calidad obligatorios. (ingerido)
 - [Procedimiento Definición, Implementación y Seguimiento a Estrategias Interinstitucionales (ANSV-CPP-PR-07)](fuentes/ansv-pr-07-estrategias-interinstitucionales.md) — procedimiento previo/superior al PR-06: define y aprueba la estrategia interinstitucional (12 actividades, aprobación por Dirección General) que luego se ejecuta en territorio mediante el PR-06. (ingerido)
 - [Formato Caracterización de Proceso (ANSV-CPP-CA-02)](fuentes/ansv-ca-02-caracterizacion-proceso.md) — caracterización del proceso "Coordinación y Articulación..." del que el PR-06 y el PR-07 son procedimientos operativos; ciclo PHVA de 12 actividades. (incierto — la tabla de proveedores/entradas/salidas no pudo extraerse con mapeo confiable fila por fila, ver nota metodológica en la página)
+- [Procedimiento Articulación, Fortalecimiento y Participación en Instancias Territoriales de Seguridad Vial (ANSV-CPP-PR-08)](fuentes/ansv-pr-08-articulacion-instancias-territoriales.md) — el archivo `ANEXO4~1.PDF` identificado durante el ingest; define cómo una necesidad detectada en un Consejo/Comité Territorial de Seguridad Vial (CTSV/CLSV/CDSV) llega a la DCI y activa el PR-06 y/o el PR-07. (ingerido)
 
-### Pendientes de ingest (32)
+### Pendientes de ingest (31)
 
 Se procesarán de a una, en el orden que indique el usuario, siguiendo el flujo INGEST de `CLAUDE.md` (lectura completa con registro de página exacta, página de `fuentes/`, actualización de este índice y del log, pausa para confirmación).
 
-#### Procedimientos y anexos del SGC-DCI (ANSV) — familia del PR-06 (3)
+#### Procedimientos y anexos del SGC-DCI (ANSV) — familia del PR-06 (2)
 
-- `ANEXO4~1.PDF` — nombre truncado estilo DOS 8.3; el título real se confirma al leer el contenido (no asumir que es "Anexo 4" del PR-06 sin verificar).
 - `Anexo 5. Instrucciones para el registro de acta de reunión.pdf`
 - `Anexo 6. Lineamientos para el cargue de evidencias.pdf`
 
