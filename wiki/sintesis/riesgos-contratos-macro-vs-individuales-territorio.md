@@ -24,6 +24,16 @@ Respuesta de QUERY preparada como insumo para la intervención de la Directora A
 4. **Convenio interadministrativo**: Convenio 007 de 2024 con la Superintendencia de Transporte, para IVC a Organismos de Apoyo al Tránsito.
 5. **Contrato interadministrativo con una universidad pública regional**: Contrato Interadministrativo ANSV-005-2026 (Unidades Tecnológicas de Santander), estrategia de Planes de Movilidad Escolar en 108 instituciones educativas de 33 municipios priorizados.
 
+## A.1 Actualización [2026-09-22] — base normativa institucional ahora disponible
+
+Tras el ingest de [fuentes/ansv-con-mg-01-manual-unificado-contratacion](../fuentes/ansv-con-mg-01-manual-unificado-contratacion.md) (Manual Unificado de Contratación ANSV-CON-MG-01, v.04), la comparación deja de apoyarse solo en opinión propia en varios puntos concretos:
+
+- La elección entre un contrato/convenio interadministrativo ("macro") y una contratación directa individual **no es puramente discrecional**: depende en primer lugar del origen de los recursos — funcionamiento (régimen público, Ley 80/1993) vs. inversión (régimen privado del Fondo) — (p. 9, 19).
+- El manual distingue técnicamente **contrato interadministrativo** (Ley 80/1993 y 1150/2007, hay utilidad/remuneración para el contratista) de **convenio interadministrativo** (Ley 489/1998 art. 95, objetivos comunes, sin remuneración) — Ilustración 11, p. 109.
+- La contratación directa individual de prestación de servicios tiene, por diseño del propio manual, **controles internos más livianos** que un contrato/convenio interadministrativo de mayor cuantía: no requiere aprobación del Comité de Contratación si está dentro de la Tabla de Honorarios (p. 48), no requiere análisis de sector cuando se financia con el Fondo (p. 72), y no requiere liquidación al terminar (p. 199) — mientras que los convenios/contratos interadministrativos sí pueden requerir Comité según su cuantía y sí exigen liquidación por ser, en general, de tracto sucesivo.
+
+Esto **matiza, sin invalidar**, la fila "Control, supervisión e interventoría" de la tabla de riesgos en la sección B: el modelo individual no solo tiene trazabilidad diseñada a su medida (PR-06), sino que además pasa por menos instancias de control previo que un contrato macro — lo cual podría leerse como una ventaja de agilidad o como un riesgo de menor escrutinio ex ante, según el criterio que se priorice. **Este matiz no está resuelto por las fuentes — es una lectura que el usuario debe decidir cómo presentar.**
+
 ## B. Análisis de riesgos — opinión profesional propia (no sourced)
 
 `[Esto es una opinión/análisis profesional propio, no una afirmación de las fuentes del proyecto]`
@@ -49,5 +59,6 @@ Esta pregunta pide una opinión de política pública, no una síntesis document
 ## Ver también
 
 - [fuentes/respuesta-peticion-congresista-20266600072782](../fuentes/respuesta-peticion-congresista-20266600072782.md)
+- [fuentes/ansv-con-mg-01-manual-unificado-contratacion](../fuentes/ansv-con-mg-01-manual-unificado-contratacion.md)
 - [conceptos/asistencia-tecnica-bundle-pr06](../conceptos/asistencia-tecnica-bundle-pr06.md)
 - [entidades/dci-direccion-coordinacion-interinstitucional](../entidades/dci-direccion-coordinacion-interinstitucional.md)
