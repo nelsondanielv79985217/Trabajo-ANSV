@@ -91,7 +91,7 @@ La extracción de texto de este PDF (`pypdf`) presenta **errores de codificació
 - [entidades/dci-direccion-coordinacion-interinstitucional](../entidades/dci-direccion-coordinacion-interinstitucional.md)
 - [fuentes/respuesta-peticion-congresista-20266600072782](respuesta-peticion-congresista-20266600072782.md): confirma de forma independiente el Decreto 1430 de 2022 (no "143") como norma de adopción del PNSV.
 - [fuentes/protocolo-practicas-seguras-motociclistas](protocolo-practicas-seguras-motociclistas.md): cuarta fuente que confirma las 8 áreas de acción del PNSV.
-- [fuentes/documento-tecnico-soporte-pnsv-2022-2031](documento-tecnico-soporte-pnsv-2022-2031.md): fuente primaria de las 8 áreas de acción, con el detalle exacto de objetivos/indicadores/acciones (16/36/45/156).
+- [fuentes/documento-tecnico-soporte-pnsv-2022-2031](documento-tecnico-soporte-pnsv-2022-2031.md): fuente primaria de las 8 áreas de acción, con el detalle exacto de objetivos/indicadores/acciones (16/36/45/156 según el texto de su p. 192 — aunque la ilustración de esa misma página dice 155 acciones, no 156; ver `[INCIERTO]` en esa página).
 - [conceptos/sistema-seguro](../conceptos/sistema-seguro.md)
 - [conceptos/plan-local-de-seguridad-vial-plsv](../conceptos/plan-local-de-seguridad-vial-plsv.md)
 - [entidades/observatorio-nacional-de-seguridad-vial-onsv](../entidades/observatorio-nacional-de-seguridad-vial-onsv.md)

@@ -29,7 +29,7 @@ El Sistema Seguro se operacionaliza en el PNSV 2022-2031 (Decreto 1430 de 2022, 
 7. **Gobernanza** — área bajo la cual se ubica la acción "2.2 Asistir técnicamente a las entidades territoriales", el mandato exacto de la asistencia técnica de la DCI (ver [documento-tecnico-soporte-pnsv-2022-2031](../fuentes/documento-tecnico-soporte-pnsv-2022-2031.md))
 8. Gestión del conocimiento
 
-El PNSV completo tiene, bajo estas 8 áreas, **16 objetivos generales, 36 indicadores estratégicos, 45 objetivos específicos y 156 acciones** (documento-tecnico-soporte-pnsv-2022-2031, p. 192).
+El PNSV completo tiene, bajo estas 8 áreas, **16 objetivos generales, 36 indicadores estratégicos, 45 objetivos específicos y 156 acciones** según el cuerpo del texto de la fuente primaria (documento-tecnico-soporte-pnsv-2022-2031, p. 192). `[INCIERTO]`: la propia p. 192 de esa fuente contiene una ilustración (Ilustración 34) que da una cifra distinta para el último dato — **155** acciones, no 156 — sin que el documento aclare cuál es la correcta. Ver el detalle en [fuentes/documento-tecnico-soporte-pnsv-2022-2031](../fuentes/documento-tecnico-soporte-pnsv-2022-2031.md).
 
 ## Estructura nacional + territorial
 
