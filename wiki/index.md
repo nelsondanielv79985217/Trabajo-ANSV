@@ -4,7 +4,7 @@ Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos 
 
 ## Fuentes (`fuentes/`)
 
-35 documentos relevados en la raíz del repo (30 PDF, incluido uno con extensión `.PDF` en mayúsculas, y 5 DOCX): **35 de 35 ingeridos — repositorio completo.** bundle PR-06 (6) + las 13 de normativa nacional + las 7 de Plan 365 (grupo completo) + las 5 de "Planes y documentos técnicos" (grupo completo) + las 4 de "Correspondencia" (grupo completo).
+43 documentos relevados en la raíz del repo (37 PDF, incluido uno con extensión `.PDF` en mayúsculas, y 5 DOCX): **35 ingeridos** (bundle PR-06 (6) + las 13 de normativa nacional + las 7 de Plan 365 (grupo completo) + las 5 de "Planes y documentos técnicos" (grupo completo) + las 4 de "Correspondencia" (grupo completo)) **+ 8 pendientes de ingest**, cargados al repositorio el 2026-09-22 (ver sección "Pendientes de ingest" abajo).
 
 ### Ingeridas (6) — bundle PR-06 completo
 
@@ -56,9 +56,23 @@ Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos 
 - [Protocolo de Prácticas Seguras para Trabajadores que Usan la Motocicleta como Herramienta de Trabajo](fuentes/protocolo-practicas-seguras-motociclistas.md) — coautoría Ministerio de Trabajo-ANSV; reconoce explícitamente un vacío normativo ("Colombia no cuenta... con una legislación definida para el trabajo seguro en motocicleta"); cuarta fuente que confirma las 8 áreas de acción del PNSV. (ingerido)
 - [Plan Nacional de Seguridad Vial 2022-2031 — Documento Técnico de Soporte](fuentes/documento-tecnico-soporte-pnsv-2022-2031.md) — **documento más importante del repositorio para el fundamento normativo de este trabajo** (214 páginas): identifica la acción exacta "2.2 Asistir técnicamente a las entidades territoriales" (área Gobernanza) como el mandato de política pública preciso que ejecuta el bundle PR-06; documenta con cita textual, en al menos 3 de las 8 regiones del PNSV, el reconocimiento oficial de brechas de capacidad institucional territorial; confirma la línea base 2021 de la meta del 50% y la estructura completa del plan (8 áreas, 16 objetivos, 36 indicadores, 45 objetivos específicos, 156 acciones). **Con esta fuente se completa el grupo "Planes y documentos técnicos" (5 de 5).** (incierto — capítulo territorial leído completo; diagnóstico nacional detallado por área y fichas de indicadores no transcritos en su totalidad, ver nota de alcance)
 
-### Pendientes de ingest
+### Pendientes de ingest (8) — cargadas al repositorio el 2026-09-22
 
-Ninguno — repositorio completo (35 de 35 fuentes ingeridas).
+Registradas con página propia (`status: pendiente-ingest`) tras verificar solo su portada/hoja de control de versiones — el contenido sustantivo de las 8 está pendiente de lectura completa, una a la vez, siguiendo el flujo INGEST de `CLAUDE.md`.
+
+**Apalancamiento de recursos en seguridad vial (4)**:
+- [Cooperación Internacional](fuentes/apalancamiento-recursos-cooperacion-internacional.md) (pendiente-ingest)
+- [Alianzas privadas](fuentes/apalancamiento-recursos-alianzas-privadas.md) (pendiente-ingest)
+- [Apalancamiento Público](fuentes/apalancamiento-recursos-apalancamiento-publico.md) (pendiente-ingest)
+- [ABC del apalancamiento de recursos para la seguridad vial territorial](fuentes/abc-apalancamiento-recursos-seguridad-vial-territorial.md) — aparenta ser la síntesis de los tres anteriores (pendiente-ingest)
+
+**Contrato "guía técnica, legal y financiera para reducción de siniestralidad en motocicleta" (Consorcio Prevención Motovial — 3 productos, supervisados desde la DCI por el propio usuario de este repositorio)**:
+- [Producto 2 — Estado del arte](fuentes/producto-2-estado-arte-siniestralidad-motociclistas.md) (pendiente-ingest)
+- [Producto 3 — Caracterización sociodemográfica y económica de usuarios de motocicleta](fuentes/producto-3-caracterizacion-usuarios-motocicleta.md) (pendiente-ingest)
+- [Producto 4 — Análisis de información estadística](fuentes/producto-4-analisis-informacion-estadistica-motociclistas.md) (pendiente-ingest)
+
+**Contratación institucional (1)**:
+- [Manual Unificado de Contratación ANSV (ANSV-CON-MG-01, 210 p.)](fuentes/ansv-con-mg-01-manual-unificado-contratacion.md) — potencial fuente primaria para la pregunta ya abierta en `sintesis/riesgos-contratos-macro-vs-individuales-territorio.md` sobre el régimen de contratación de la ANSV (pendiente-ingest)
 
 ## Conceptos (`conceptos/`)
 
