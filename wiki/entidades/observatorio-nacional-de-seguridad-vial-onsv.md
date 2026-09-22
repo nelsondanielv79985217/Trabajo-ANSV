@@ -47,3 +47,4 @@ Casi todas las cifras de siniestralidad citadas en el corpus (fallecidos/lesiona
 - [entidades/agencia-nacional-de-seguridad-vial-ansv](agencia-nacional-de-seguridad-vial-ansv.md)
 - [conceptos/plan-local-de-seguridad-vial-plsv](../conceptos/plan-local-de-seguridad-vial-plsv.md)
 - [fuentes/manual-metodologico-operacion-estadistica-fpsv](../fuentes/manual-metodologico-operacion-estadistica-fpsv.md)
+- [fuentes/producto-4-analisis-informacion-estadistica-motociclistas](../fuentes/producto-4-analisis-informacion-estadistica-motociclistas.md): usa el Índice de Fatalidad Municipal y el Geovisor de tramos críticos del ONSV como fuente primaria de la priorización territorial (caso Yopal).

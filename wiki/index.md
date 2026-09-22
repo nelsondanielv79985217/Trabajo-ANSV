@@ -4,7 +4,7 @@ Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos 
 
 ## Fuentes (`fuentes/`)
 
-43 documentos relevados en la raíz del repo (37 PDF, incluido uno con extensión `.PDF` en mayúsculas, y 5 DOCX): **36 ingeridos** (bundle PR-06 (6) + las 13 de normativa nacional + las 7 de Plan 365 (grupo completo) + las 5 de "Planes y documentos técnicos" (grupo completo) + las 4 de "Correspondencia" (grupo completo) + el Manual Unificado de Contratación ANSV-CON-MG-01) **+ 7 pendientes de ingest**, cargados al repositorio el 2026-09-22 (ver sección "Pendientes de ingest" abajo).
+43 documentos relevados en la raíz del repo (37 PDF, incluido uno con extensión `.PDF` en mayúsculas, y 5 DOCX): **43 de 43 ingeridos — repositorio completo.** bundle PR-06 (6) + las 13 de normativa nacional + las 7 de Plan 365 (grupo completo) + las 5 de "Planes y documentos técnicos" (grupo completo) + las 4 de "Correspondencia" (grupo completo) + el Manual Unificado de Contratación ANSV-CON-MG-01 + las 4 de "Apalancamiento de recursos" (grupo completo) + las 3 del contrato de consultoría sobre siniestralidad en motocicleta (grupo completo). Las 8 fuentes cargadas el 2026-09-22 tienen, en su mayoría, `status: incierto` por cobertura parcial de lectura (documentos muy extensos) — ver la nota de alcance en cada página.
 
 ### Ingeridas (6) — bundle PR-06 completo
 
@@ -60,20 +60,20 @@ Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos 
 
 - [Manual Unificado de Contratación ANSV (ANSV-CON-MG-01, v.04, 210 p.)](fuentes/ansv-con-mg-01-manual-unificado-contratacion.md) — régimen dual de contratación (público ANSV con recursos de funcionamiento / privado del Fondo Nacional de Seguridad Vial con recursos de inversión); distingue técnicamente contrato vs. convenio interadministrativo; documenta que la contratación directa individual de prestación de servicios tiene controles internos más livianos (sin Comité de Contratación dentro de la Tabla de Honorarios, sin análisis de sector, sin liquidación) que un contrato/convenio interadministrativo; capítulo completo de Supervisión e Interventoría y régimen sancionatorio (multas, cláusula penal, caducidad). Cierra parcialmente la pregunta abierta en `sintesis/riesgos-contratos-macro-vs-individuales-territorio.md`. (ingerido)
 
-### Pendientes de ingest (7) — cargadas al repositorio el 2026-09-22
+### Ingeridas — Apalancamiento de recursos en seguridad vial (4 de 4, grupo completo)
 
-Registradas con página propia (`status: pendiente-ingest`) tras verificar solo su portada/hoja de control de versiones — el contenido sustantivo está pendiente de lectura completa, una a la vez, siguiendo el flujo INGEST de `CLAUDE.md`.
+- [Apalancamiento de Recursos en Seguridad Vial — Cooperación Internacional](fuentes/apalancamiento-recursos-cooperacion-internacional.md) — no es un proyecto real: es una plantilla/guía metodológica (ficha + instructivo) con un ejemplo ilustrativo ("Distrito de Buenaventura", con datos de relleno sin completar). (ingerido)
+- [Apalancamiento de Recursos en Seguridad Vial — Alianzas privadas](fuentes/apalancamiento-recursos-alianzas-privadas.md) — misma naturaleza de plantilla; ejemplo explícitamente marcado como "empresa ficticia" (caso Tocancipá). (ingerido)
+- [Apalancamiento de Recursos en Seguridad Vial — Apalancamiento Público](fuentes/apalancamiento-recursos-apalancamiento-publico.md) — misma naturaleza de plantilla, dirigida a solicitar cofinanciación de otra entidad pública; ejemplo "Aguachica (Cesar)" sin marcar explícitamente como ficticio, aunque el patrón de la serie sugiere que lo es. (ingerido)
+- [Del diagnóstico al financiamiento: ABC del apalancamiento de recursos para la seguridad vial territorial en Colombia](fuentes/abc-apalancamiento-recursos-seguridad-vial-territorial.md) — documento sustantivo (163 p., no plantilla), basado en el contrato ANSV-035-2025 (con la Universidad Distrital); confirma con su propia tabla de contenido que el caso "Buenaventura" es un "caso hipotético"; recomienda explícitamente que el nivel nacional (ANSV) brinde asistencia técnica para formulación/evaluación de proyectos territoriales. **Con esta fuente se completa el grupo (4 de 4).** (incierto — cobertura parcial, ver nota de alcance en la página)
 
-**Apalancamiento de recursos en seguridad vial (4)**:
-- [Cooperación Internacional](fuentes/apalancamiento-recursos-cooperacion-internacional.md) (pendiente-ingest)
-- [Alianzas privadas](fuentes/apalancamiento-recursos-alianzas-privadas.md) (pendiente-ingest)
-- [Apalancamiento Público](fuentes/apalancamiento-recursos-apalancamiento-publico.md) (pendiente-ingest)
-- [ABC del apalancamiento de recursos para la seguridad vial territorial](fuentes/abc-apalancamiento-recursos-seguridad-vial-territorial.md) — aparenta ser la síntesis de los tres anteriores (pendiente-ingest)
+### Ingeridas — Contrato de consultoría sobre siniestralidad en motocicleta (3 de 3, grupo completo)
 
-**Contrato "guía técnica, legal y financiera para reducción de siniestralidad en motocicleta" (Consorcio Prevención Motovial — 3 productos, supervisados desde la DCI por el propio usuario de este repositorio)**:
-- [Producto 2 — Estado del arte](fuentes/producto-2-estado-arte-siniestralidad-motociclistas.md) (pendiente-ingest)
-- [Producto 3 — Caracterización sociodemográfica y económica de usuarios de motocicleta](fuentes/producto-3-caracterizacion-usuarios-motocicleta.md) (pendiente-ingest)
-- [Producto 4 — Análisis de información estadística](fuentes/producto-4-analisis-informacion-estadistica-motociclistas.md) (pendiente-ingest)
+Contrato **IAP-009-2024** del Consorcio Prevención Motovial con la ANSV, supervisado desde la DCI por **Nelson Daniel Vega (Vega Samaca)** — el propio usuario de este repositorio (dato tomado de la hoja de aprobación de cada producto, no una fuente externa).
+
+- [Producto 2 — Estado del arte](fuentes/producto-2-estado-arte-siniestralidad-motociclistas.md) — 180 p.; revisión documental sistemática (~107 fuentes, 2015-2025) organizada en las 8 áreas del Sistema Seguro; cifra ONSV de 5.096 fallecidos usuarios de moto en 2024 (62% del total); precisa que el Fondo Nacional de Seguridad Vial se nutre, entre otras fuentes, de un porcentaje de las primas del SOAT. (incierto — cobertura parcial)
+- [Producto 3 — Caracterización sociodemográfica y económica de usuarios de motocicleta](fuentes/producto-3-caracterizacion-usuarios-motocicleta.md) — 146 p.; caracterización mixta (cuantitativa+cualitativa); hallazgo de subregistro territorial de siniestros citado textualmente en Amazonía y Llanos-Orinoquía; documenta el uso de la motocicleta como riesgo ocupacional, no solo vial. (incierto — cobertura parcial)
+- [Producto 4 — Análisis de información estadística](fuentes/producto-4-analisis-informacion-estadistica-motociclistas.md) — 253 p.; matriz multicriterio (5 criterios ponderados) que prioriza a **Yopal (Casanare)** como municipio focal (60 fatalidades 2024, tasa 31,17/100.000); cifra ONSV de 5.194 fallecidos usuarios de moto en 2024 — `[INCIERTO: discrepancia con los 5.096 del Producto 2, misma fuente ONSV]`. **Con esta fuente se completa el grupo (3 de 3) y el repositorio completo (43 de 43).** (incierto — cobertura parcial)
 
 ## Conceptos (`conceptos/`)
 

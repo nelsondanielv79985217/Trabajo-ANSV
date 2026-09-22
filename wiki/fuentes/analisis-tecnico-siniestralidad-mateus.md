@@ -85,3 +85,4 @@ El autor cierra con una batería de recomendaciones técnicas explícitamente di
 - [entidades/dci-direccion-coordinacion-interinstitucional](../entidades/dci-direccion-coordinacion-interinstitucional.md)
 - [fuentes/respuesta-peticion-congresista-20266600072782](respuesta-peticion-congresista-20266600072782.md)
 - [fuentes/manual-metodologico-operacion-estadistica-fpsv](manual-metodologico-operacion-estadistica-fpsv.md): este análisis usa las mismas variables de desagregación (actor vial, sexo, edad, día, hora, zona) definidas como diseño oficial de la operación estadística EFSV en ese manual.
+- [fuentes/producto-4-analisis-informacion-estadistica-motociclistas](producto-4-analisis-informacion-estadistica-motociclistas.md): otra fuente de análisis estadístico de siniestralidad en motocicleta (INMLCF/ONSV 2015-2024), con metodología de priorización territorial por matriz multicriterio — cifras no cruzadas entre ambas fuentes en este ingest.

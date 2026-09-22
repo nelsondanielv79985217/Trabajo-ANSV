@@ -74,3 +74,4 @@ El documento continúa con secciones extensas de naturaleza técnico-operativa d
 - [fuentes/respuesta-peticion-congresista-20266600072782](respuesta-peticion-congresista-20266600072782.md)
 - [fuentes/ley-2251-2022-sistema-seguro](ley-2251-2022-sistema-seguro.md)
 - [conceptos/sistema-seguro](../conceptos/sistema-seguro.md)
+- [fuentes/producto-3-caracterizacion-usuarios-motocicleta](producto-3-caracterizacion-usuarios-motocicleta.md): otro documento sobre motocicleta como herramienta de trabajo/riesgo ocupacional, de un contrato distinto (IAP-009-2024) — relación no aclarada por ninguna fuente, posible esfuerzo paralelo.
