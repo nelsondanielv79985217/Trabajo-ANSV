@@ -50,13 +50,15 @@ Es notable que el procedimiento incorpora explícitamente un ciclo de medición 
 
 ## Conexiones
 
-- Es el procedimiento marco del cual se desprenden (pendientes de página propia):
-  - Anexo 1 — Caracterización ANSV-CPP-CA-02 *(pendiente)*
+- **Corrección de jerarquía (2026-09-23, tras ingerir el Anexo 1)**: esta página asumía que PR-06 era el documento ancla del que "se desprendían" los anexos. Al leer [Anexo 1 — ANSV-CPP-CA-02](ansv-ca-02-caracterizacion-anexo1.md) se confirma lo contrario: CA-02 caracteriza el proceso misional completo, y PR-06 es el procedimiento que operativiza solo una de las actividades de "Hacer" de ese proceso (CA-02, p. 2). Jerarquía correcta: proceso (CA-02) → PR-06 (procedimiento de una actividad) → anexos operativos de PR-06 listados abajo.
+- Anexos operativos de PR-06 (pendientes de página propia):
+  - [Anexo 1 — Caracterización ANSV-CPP-CA-02](ansv-ca-02-caracterizacion-anexo1.md) — **ingerido**, ver corrección de jerarquía arriba.
   - Anexo 3 — ANSV-CPP-PR-07, estrategias interinstitucionales *(pendiente)*
   - Anexo 4 — ANSV-CPP-PR-08, instancias territoriales de seguridad vial *(pendiente)*
   - Anexo 5 — Instrucciones registro de acta de reunión *(pendiente)*
   - Anexo 6 — Lineamientos cargue de evidencias *(pendiente)*
   - Memorando — apropiación de procedimientos actualizados de la DCI *(pendiente)*
+- [DCI — Dirección de Coordinación Interinstitucional](../entidades/dci-direccion-coordinacion-interinstitucional.md): dueña y responsable del proceso y del procedimiento.
 - Conecta con el área de **gestión del conocimiento** *(pendiente índice)* porque define la AT institucionalmente como mecanismo de transferencia de conocimiento con medición pretest/postest — comparar con los modelos teóricos de gestión del conocimiento que se documenten en esa área.
 - Conecta con los artículos sobre asistencia técnica como transferencia de conocimiento (contable, bienestar familiar) *(pendientes)* — permite contrastar cómo otros sectores conciben y operacionalizan la "asistencia técnica".
 - Relación más distante con el área **seguridad vial + IA** *(pendiente)*: comparten el dominio (seguridad vial) pero este documento es normativo/procedimental, mientras esa área es literatura técnica sobre algoritmos de aprendizaje.

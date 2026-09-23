@@ -2,14 +2,14 @@
 
 Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos de trabajo (INGEST/QUERY/LINT).
 
-**Estado general (2026-09-23):** 1 de 46 fuentes con página propia en `fuentes/` (y esa única página, `incierto`, porque no registra número de página citable — ver la página misma). Las 45 restantes están relevadas por nombre de archivo únicamente; ninguna fue leída todavía. Ningún concepto, entidad ni síntesis fue creado aún: se crean recién cuando el INGEST de una fuente los amerita, para no inventar categorías sin evidencia.
+**Estado general (2026-09-23):** 2 de 46 fuentes con página propia en `fuentes/` (PR-06 sigue `incierto` por falta de citación por página; el Anexo 1/CA-02, ingerido con citación completa). 1 entidad creada (DCI). Las 44 fuentes restantes están relevadas por nombre de archivo únicamente; ninguna fue leída todavía.
 
 ## Fuentes (`fuentes/`)
 
-### Procedimientos y anexos del sistema de gestión — ANSV / DCI (6, 1 ingerida)
+### Procedimientos y anexos del sistema de gestión — ANSV / DCI (6, 2 ingeridas)
 
-- [ANSV-CPP-PR-06 — Procedimiento de Asistencia Técnica (DCI)](fuentes/ansv-pr-06-procedimiento-asistencia-tecnica.md) — Procedimiento vigente que regula cómo la DCI planifica, ejecuta y hace seguimiento a las asistencias técnicas territoriales. (incierto — falta citación por página)
-- Anexo 1. Caracterización ANSV-CPP-CA-02.pdf — (pendiente-ingest)
+- [ANSV-CPP-PR-06 — Procedimiento de Asistencia Técnica (DCI)](fuentes/ansv-pr-06-procedimiento-asistencia-tecnica.md) — Procedimiento vigente que regula cómo la DCI planifica, ejecuta y hace seguimiento a las asistencias técnicas territoriales; una sola actividad del proceso caracterizado en CA-02. (incierto — falta citación por página)
+- [Anexo 1 — ANSV-CPP-CA-02, Caracterización del proceso](fuentes/ansv-ca-02-caracterizacion-anexo1.md) — Caracteriza el proceso misional "Coordinación y Articulación..." del cual PR-06 es solo la actividad de AT dentro del ciclo Hacer (PHVA). (ingerido)
 - Anexo 3. Definición, implementación y seguimiento a estrategias interinstitucionales.ANSV-CPP-PR-07.pdf — (pendiente-ingest)
 - Anexo 5. Instrucciones para el registro de acta de reunión.pdf — (pendiente-ingest)
 - Anexo 6. Lineamientos para el cargue de evidencias.pdf — (pendiente-ingest)
@@ -88,7 +88,9 @@ Ninguno todavía — se crean durante el INGEST cuando un tema se repite entre v
 
 ## Entidades (`entidades/`)
 
-Ninguna todavía — candidatas visibles solo por nombre de archivo (a confirmar durante el ingest): ANSV, DCI, Mintransporte, DNP (CONPES 4091), Superintendencia y Procuraduría, organismos de tránsito territoriales.
+- [DCI — Dirección de Coordinación Interinstitucional (ANSV)](entidades/dci-direccion-coordinacion-interinstitucional.md) — Dependencia responsable del proceso de coordinación interinstitucional y del procedimiento de asistencia técnica; unidad ejecutora central del corpus.
+
+Otras candidatas visibles solo por nombre de archivo (a confirmar durante el ingest): ANSV (entidad matriz), Mintransporte, DNP (CONPES 4091), Superintendencia y Procuraduría, organismos de tránsito territoriales.
 
 ## Síntesis (`sintesis/`)
 
