@@ -18,3 +18,13 @@ Registro cronológico, append-only. No editar entradas pasadas — solo agregar 
 - Se actualizó `index.md`: fuentes (PR-06 y CA-02) y entidades.
 - Incertidumbre abierta: el documento remite indicadores, riesgos y normograma a un aplicativo SIG externo no accesible desde este repositorio — queda fuera del alcance de la fuente.
 - Pendiente confirmación del usuario antes de continuar con el Anexo 3 (ANSV-CPP-PR-07).
+
+## [2026-09-23] ingest | Anexo 3 — ANSV-CPP-PR-07 (Estrategias interinstitucionales)
+
+- Se leyó completo (9 páginas) `Anexo 3. Definición, implementación y seguimiento a estrategias interinstitucionales.ANSV-CPP-PR-07.pdf` y se creó `wiki/fuentes/ansv-pr-07-estrategias-interinstitucionales.md`, `status: ingerido`, con citación por página para cada dato relevante.
+- **Hallazgo central**: PR-07 es el nivel intermedio de la jerarquía documental — define/aprueba/implementa/da seguimiento a cualquier estrategia interinstitucional, y nombra dos veces a la asistencia técnica (PR-06) como una vía de implementación entre otras (PR-07, pp. 4 y 7), no la única ("o acorde a lo definido en la estrategia"). Se creó `wiki/conceptos/jerarquia-documental-coordinacion-interinstitucional-dci.md` para documentar los tres niveles (CA-02 → PR-07 → PR-06) con evidencia de cada fuente.
+- **Hallazgo de inconsistencia documental**: PR-07 (p. 9) sí lista a PR-06 como "documento asociado", pero PR-06 no lista a PR-07 (su sección "Documentos asociados" dice "No aplica") — el vínculo entre procedimientos hermanos del mismo proceso no es recíproco en el Sistema Integrado de Gestión. Se actualizó la sección "Incertidumbres" de `wiki/fuentes/ansv-pr-06-procedimiento-asistencia-tecnica.md` para reflejarlo (parcialmente esclarecido, no resuelto del todo).
+- Se verificó consistencia terminológica entre PR-06 y PR-07: la definición de "Asistencia Técnica" y las "dos áreas de acción" (cumplimiento normas de tránsito / gobernanza) coinciden entre ambos documentos.
+- Se actualizó `wiki/entidades/dci-direccion-coordinacion-interinstitucional.md` con los datos de autoría de PR-07 (mismo equipo de contratistas que PR-06 y CA-02, con rotación de roles entre elaborador/revisor) y se agregaron 3 nuevas incertidumbres puntuales (identidad de "Javier Mateus", participación de Cesar Mauricio Salcedo en otros documentos, y doble denominación del cargo de Paula Katerine Ramos Navarro).
+- Se actualizó `index.md`: fuentes, conceptos.
+- Pendiente confirmación del usuario antes de continuar con el Anexo 4 (ANSV-CPP-PR-08).

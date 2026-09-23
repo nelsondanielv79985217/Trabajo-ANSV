@@ -2,15 +2,15 @@
 
 Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos de trabajo (INGEST/QUERY/LINT).
 
-**Estado general (2026-09-23):** 2 de 46 fuentes con página propia en `fuentes/` (PR-06 sigue `incierto` por falta de citación por página; el Anexo 1/CA-02, ingerido con citación completa). 1 entidad creada (DCI). Las 44 fuentes restantes están relevadas por nombre de archivo únicamente; ninguna fue leída todavía.
+**Estado general (2026-09-23):** 3 de 46 fuentes con página propia en `fuentes/` (PR-06 sigue `incierto` por falta de citación por página; CA-02 y PR-07, ingeridas con citación completa). 1 entidad (DCI) y 1 concepto (jerarquía documental del proceso DCI) creados. Las 43 fuentes restantes están relevadas por nombre de archivo únicamente; ninguna fue leída todavía.
 
 ## Fuentes (`fuentes/`)
 
-### Procedimientos y anexos del sistema de gestión — ANSV / DCI (6, 2 ingeridas)
+### Procedimientos y anexos del sistema de gestión — ANSV / DCI (6, 3 ingeridas)
 
-- [ANSV-CPP-PR-06 — Procedimiento de Asistencia Técnica (DCI)](fuentes/ansv-pr-06-procedimiento-asistencia-tecnica.md) — Procedimiento vigente que regula cómo la DCI planifica, ejecuta y hace seguimiento a las asistencias técnicas territoriales; una sola actividad del proceso caracterizado en CA-02. (incierto — falta citación por página)
+- [ANSV-CPP-PR-06 — Procedimiento de Asistencia Técnica (DCI)](fuentes/ansv-pr-06-procedimiento-asistencia-tecnica.md) — Procedimiento vigente que regula cómo la DCI planifica, ejecuta y hace seguimiento a las asistencias técnicas territoriales; uno de los mecanismos posibles para implementar una estrategia interinstitucional definida bajo PR-07. (incierto — falta citación por página)
 - [Anexo 1 — ANSV-CPP-CA-02, Caracterización del proceso](fuentes/ansv-ca-02-caracterizacion-anexo1.md) — Caracteriza el proceso misional "Coordinación y Articulación..." del cual PR-06 es solo la actividad de AT dentro del ciclo Hacer (PHVA). (ingerido)
-- Anexo 3. Definición, implementación y seguimiento a estrategias interinstitucionales.ANSV-CPP-PR-07.pdf — (pendiente-ingest)
+- [Anexo 3 — ANSV-CPP-PR-07, Estrategias interinstitucionales](fuentes/ansv-pr-07-estrategias-interinstitucionales.md) — Define cómo la DCI formula, aprueba, implementa y da seguimiento a cualquier estrategia interinstitucional; nombra a la AT (PR-06) como una vía de implementación entre otras. (ingerido)
 - Anexo 5. Instrucciones para el registro de acta de reunión.pdf — (pendiente-ingest)
 - Anexo 6. Lineamientos para el cargue de evidencias.pdf — (pendiente-ingest)
 - `ANEXO4~1.PDF` — nombre truncado estilo DOS 8.3; contenido real no identificado todavía (probablemente otro anexo del PR-06, por analogía con el caso documentado en el repo de referencia). (pendiente-ingest / pendiente identificar)
@@ -84,7 +84,7 @@ Ninguna todavía — se crea si el usuario carga una referencia metodológica tr
 
 ## Conceptos (`conceptos/`)
 
-Ninguno todavía — se crean durante el INGEST cuando un tema se repite entre varias fuentes (ver `../CLAUDE.md`).
+- [Jerarquía documental del proceso de Coordinación y Articulación Interinstitucional (DCI)](conceptos/jerarquia-documental-coordinacion-interinstitucional-dci.md) — Cruce de CA-02, PR-06 y PR-07: la AT es un mecanismo de implementación dentro de un procedimiento más amplio de estrategias interinstitucionales, dentro de un proceso misional aún más amplio. Incluye hallazgo de inconsistencia en la gestión documental del SIG (vínculo PR-07→PR-06 no recíproco).
 
 ## Entidades (`entidades/`)
 
