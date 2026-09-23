@@ -4,7 +4,7 @@ type: fuente
 tags: [motociclistas, siniestralidad, estado-del-arte, consultoria, pnsv, sistema-seguro, benchmarking-internacional]
 fuente_pdf: "48 Producto 2 Estado del arte Version 5 .pdf"
 status: incierto
-last_updated: 2026-09-22
+last_updated: 2026-09-23
 ---
 
 ## Nota sobre el alcance de esta lectura
@@ -26,7 +26,7 @@ Describe la metodología: revisión documental sistemática (2015-2025), matriz 
 
 ### Introducción (p. 12-13, con cifras clave)
 
-- Cita textual (p. 12, ANSV/Observatorio Nacional de Seguridad Vial): **"en Colombia durante 2024 fallecieron 5.096 usuarios de motocicleta, lo que equivale aproximadamente al 62% del total de decesos por siniestros viales"**.
+- Cita textual (p. 12, ANSV/Observatorio Nacional de Seguridad Vial): **"en Colombia durante 2024 fallecieron 5.096 usuarios de motocicleta, lo que equivale aproximadamente al 62% del total de decesos por siniestros viales"**. `[Verificación externa, 2026-09-23, no es fuente de este repositorio]`: por pedido explícito del usuario, se buscó esta cifra en la web (no se pudo acceder al PDF del Anuario/boletín oficial de la ANSV, dominio bloqueado por el proxy de red de esta sesión). Fragmentos de resultados de búsqueda citan directamente a la ANSV una "reducción del 2%" en fallecidos motociclistas en 2024, con la pareja de cifras **2023 = 5.213 → 2024 = 5.096** — coincide exactamente con la cifra de esta página. Sin embargo, otra nota de prensa que cita igualmente a la ANSV da **2023 = 5.291** (que sí coincide con el histórico citado en [fuentes/producto-4-analisis-informacion-estadistica-motociclistas](producto-4-analisis-informacion-estadistica-motociclistas.md), p. 26) junto con un 2024 = 5.194, no 5.096. Ver la nota completa de esta discrepancia, con la hipótesis de "cifra preliminar (5.096) vs. definitiva (5.194)" del INMLCF/ONSV, en esa otra fuente — no se pudo confirmar con certeza sin el documento primario.
 - Costo económico estimado de la siniestralidad vial: **3,6 billones de pesos anuales** (cita Fasecolda, 2018).
 - Confirma nuevamente el **Decreto 1430 de 2022** como norma de aprobación del PNSV 2022-2031, y el enfoque de "Visión Cero" (ninguna muerte en el tránsito es aceptable) como premisa del Sistema Seguro.
 - Objetivo del Estado del Arte: "consolidar y formular los fundamentos técnicos, normativos y financieros que orienten la construcción de una guía nacional de medidas para la reducción de la siniestralidad en motociclistas" (p. 13).
