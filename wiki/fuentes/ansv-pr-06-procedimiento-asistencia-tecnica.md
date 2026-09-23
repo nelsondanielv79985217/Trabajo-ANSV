@@ -1,3 +1,12 @@
+---
+title: "ANSV-CPP-PR-06 — Procedimiento de Asistencia Técnica (DCI)"
+type: fuente
+tags: [asistencia-tecnica, procedimiento, dci, ansv, transferencia-conocimiento, sistema-seguro]
+fuente_pdf: "ANSV-CPP-PR-06 procedimiento de asistencia tecnica.pdf"
+status: incierto
+last_updated: 2026-09-23
+---
+
 # ANSV-CPP-PR-06 — Procedimiento de Asistencia Técnica (DCI)
 
 **Archivo fuente:** `ANSV-CPP-PR-06 procedimiento de asistencia tecnica.pdf`
@@ -53,6 +62,8 @@ Es notable que el procedimiento incorpora explícitamente un ciclo de medición 
 - Relación más distante con el área **seguridad vial + IA** *(pendiente)*: comparten el dominio (seguridad vial) pero este documento es normativo/procedimental, mientras esa área es literatura técnica sobre algoritmos de aprendizaje.
 
 ## Incertidumbres
+
+- **Pendiente de re-ingest para cumplir la regla de citación exacta del proyecto**: esta página fue escrita antes de adoptar el schema de wiki formal y no registra número de página para ninguno de los datos, definiciones o cifras resumidos arriba. No debe citarse en el cuerpo de la tesis (formato APA 7, con página) hasta reabrir el PDF y anotar la ubicación exacta de cada afirmación. Por eso queda `status: incierto` pese a que el contenido ya fue leído e ingerido.
 
 - El documento tiene fecha 30/12/2025 y versión 00 — parece ser un procedimiento nuevo o recién formalizado; no queda claro en el texto si reemplaza una versión anterior no versionada.
 - La sección "Documentos asociados" dice explícitamente "No aplica", lo cual es llamativo dado que el propio procedimiento referencia anexos (1, 3, 4, 5, 6) que sí existen como archivos separados en esta bibliografía — posible inconsistencia entre el documento y su gestión documental, o los anexos pertenecen a un proceso distinto (no confirmado).
