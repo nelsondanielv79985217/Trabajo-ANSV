@@ -2,18 +2,18 @@
 
 Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos de trabajo (INGEST/QUERY/LINT).
 
-**Estado general (2026-09-23):** 3 de 46 fuentes con página propia en `fuentes/` (PR-06 sigue `incierto` por falta de citación por página; CA-02 y PR-07, ingeridas con citación completa). 1 entidad (DCI) y 1 concepto (jerarquía documental del proceso DCI) creados. Las 43 fuentes restantes están relevadas por nombre de archivo únicamente; ninguna fue leída todavía.
+**Estado general (2026-09-23):** 4 de 46 fuentes con página propia en `fuentes/` (PR-06 sigue `incierto` por falta de citación por página; CA-02, PR-07 y PR-08, ingeridas con citación completa). 1 entidad (DCI) y 1 concepto (jerarquía documental del proceso DCI) creados. Las 42 fuentes restantes están relevadas por nombre de archivo únicamente; ninguna fue leída todavía.
 
 ## Fuentes (`fuentes/`)
 
-### Procedimientos y anexos del sistema de gestión — ANSV / DCI (6, 3 ingeridas)
+### Procedimientos y anexos del sistema de gestión — ANSV / DCI (6, 4 ingeridas)
 
 - [ANSV-CPP-PR-06 — Procedimiento de Asistencia Técnica (DCI)](fuentes/ansv-pr-06-procedimiento-asistencia-tecnica.md) — Procedimiento vigente que regula cómo la DCI planifica, ejecuta y hace seguimiento a las asistencias técnicas territoriales; uno de los mecanismos posibles para implementar una estrategia interinstitucional definida bajo PR-07. (incierto — falta citación por página)
 - [Anexo 1 — ANSV-CPP-CA-02, Caracterización del proceso](fuentes/ansv-ca-02-caracterizacion-anexo1.md) — Caracteriza el proceso misional "Coordinación y Articulación..." del cual PR-06 es solo la actividad de AT dentro del ciclo Hacer (PHVA). (ingerido)
 - [Anexo 3 — ANSV-CPP-PR-07, Estrategias interinstitucionales](fuentes/ansv-pr-07-estrategias-interinstitucionales.md) — Define cómo la DCI formula, aprueba, implementa y da seguimiento a cualquier estrategia interinstitucional; nombra a la AT (PR-06) como una vía de implementación entre otras. (ingerido)
+- [Anexo 4 — ANSV-CPP-PR-08, Instancias territoriales](fuentes/ansv-pr-08-instancias-territoriales.md) — Regula la articulación con Consejos Territoriales (CTSV) y Comités Locales/Departamentales de Seguridad Vial (CLSV/CDSV); puerta de entrada territorial de necesidades hacia PR-07 y PR-06. Archivo con nombre truncado en el repositorio (`ANEXO4~1.PDF`), contenido real confirmado al abrirlo. (ingerido)
 - Anexo 5. Instrucciones para el registro de acta de reunión.pdf — (pendiente-ingest)
 - Anexo 6. Lineamientos para el cargue de evidencias.pdf — (pendiente-ingest)
-- `ANEXO4~1.PDF` — nombre truncado estilo DOS 8.3; contenido real no identificado todavía (probablemente otro anexo del PR-06, por analogía con el caso documentado en el repo de referencia). (pendiente-ingest / pendiente identificar)
 
 ### Marco normativo — leyes, decretos, resoluciones (11)
 
@@ -22,7 +22,7 @@ Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos 
 - Ley 1503 de 2011 Promueve formacion de habitos y comportamientos seguros en la via.pdf — (pendiente-ingest)
 - Ley_1310_de_2009 Unificacion normas sobre Agentes de transito y grupos control vial.pdf — (pendiente-ingest)
 - Ley_1383 de 2010 Reforma la ley 769 de 2002 CNT y dicta otras disposiciones.pdf — (pendiente-ingest)
-- Ley_1702_de_2013.pdf — (pendiente-ingest; ley de creación de la ANSV, a confirmar en el ingest)
+- Ley_1702_de_2013.pdf — (pendiente-ingest; citada en PR-08, p. 1, como la ley que crea los Consejos Territoriales de Seguridad Vial — CTSV; a confirmar en el ingest si además es la ley de creación de la ANSV)
 - Ley_2251_de_2022.pdf Ley julian Esteban.pdf — (pendiente-ingest)
 - Ley_769 de 2002 Codigo Nacional de transito.pdf — (pendiente-ingest)
 - Resolucion_007_de_2023_MAI (1).pdf — (pendiente-ingest)
@@ -84,7 +84,7 @@ Ninguna todavía — se crea si el usuario carga una referencia metodológica tr
 
 ## Conceptos (`conceptos/`)
 
-- [Jerarquía documental del proceso de Coordinación y Articulación Interinstitucional (DCI)](conceptos/jerarquia-documental-coordinacion-interinstitucional-dci.md) — Cruce de CA-02, PR-06 y PR-07: la AT es un mecanismo de implementación dentro de un procedimiento más amplio de estrategias interinstitucionales, dentro de un proceso misional aún más amplio. Incluye hallazgo de inconsistencia en la gestión documental del SIG (vínculo PR-07→PR-06 no recíproco).
+- [Jerarquía documental del proceso de Coordinación y Articulación Interinstitucional (DCI)](conceptos/jerarquia-documental-coordinacion-interinstitucional-dci.md) — Cruce de CA-02, PR-06, PR-07 y PR-08: mapea los tres procedimientos que operativizan el ciclo "Hacer" de CA-02, y la cadena territorio (PR-08) → estrategia (PR-07) → asistencia técnica (PR-06). Incluye hallazgo de inconsistencia en la gestión documental del SIG (PR-07 y PR-08 apuntan a PR-06 sin reciprocidad).
 
 ## Entidades (`entidades/`)
 

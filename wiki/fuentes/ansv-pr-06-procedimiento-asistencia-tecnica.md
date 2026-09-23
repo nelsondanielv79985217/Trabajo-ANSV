@@ -54,7 +54,7 @@ Es notable que el procedimiento incorpora explícitamente un ciclo de medición 
 - Anexos operativos de PR-06 (pendientes de página propia):
   - [Anexo 1 — Caracterización ANSV-CPP-CA-02](ansv-ca-02-caracterizacion-anexo1.md) — **ingerido**, ver corrección de jerarquía arriba.
   - [Anexo 3 — ANSV-CPP-PR-07, estrategias interinstitucionales](ansv-pr-07-estrategias-interinstitucionales.md) — **ingerido**. PR-07 es en realidad el nivel intermedio: define/aprueba/implementa/da seguimiento a cualquier estrategia interinstitucional, y nombra a PR-06 (AT) como una de las vías posibles de implementación (PR-07, pp. 4 y 7), no la única. Ver [Jerarquía documental del proceso de Coordinación y Articulación Interinstitucional](../conceptos/jerarquia-documental-coordinacion-interinstitucional-dci.md).
-  - Anexo 4 — ANSV-CPP-PR-08, instancias territoriales de seguridad vial *(pendiente)*
+  - [Anexo 4 — ANSV-CPP-PR-08, instancias territoriales de seguridad vial](ansv-pr-08-instancias-territoriales.md) — **ingerido**. Regula la articulación con CTSV/CLSV/CDSV y es la puerta de entrada territorial de necesidades que se consolidan y definen "conforme a" PR-06 y "en articulación con" PR-07 (PR-08, p. 3). Es el segundo documento del corpus, junto con PR-07, que lista a PR-06 como documento asociado (p. 9) sin reciprocidad — ver [Jerarquía documental...](../conceptos/jerarquia-documental-coordinacion-interinstitucional-dci.md).
   - Anexo 5 — Instrucciones registro de acta de reunión *(pendiente)*
   - Anexo 6 — Lineamientos cargue de evidencias *(pendiente)*
   - Memorando — apropiación de procedimientos actualizados de la DCI *(pendiente)*

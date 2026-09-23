@@ -15,6 +15,7 @@ Dependencia de la Agencia Nacional de Seguridad Vial (ANSV) responsable del proc
 - [ANSV-CPP-PR-06 — Procedimiento de Asistencia Técnica](../fuentes/ansv-pr-06-procedimiento-asistencia-tecnica.md): la DCI planifica, ejecuta y hace seguimiento a las asistencias técnicas (página no registrada en esta fuente — ver incertidumbre en esa página).
 - [Anexo 1 — ANSV-CPP-CA-02, Caracterización del proceso](../fuentes/ansv-ca-02-caracterizacion-anexo1.md): la DCI es responsable/líder del proceso completo (p. 1) y ejecutora de todas sus actividades PHVA (pp. 1–2).
 - [Anexo 3 — ANSV-CPP-PR-07, Estrategias interinstitucionales](../fuentes/ansv-pr-07-estrategias-interinstitucionales.md): la DCI diseña, aprueba, implementa y da seguimiento a toda estrategia interinstitucional, de la cual la AT es solo un mecanismo de implementación posible (pp. 4, 7).
+- [Anexo 4 — ANSV-CPP-PR-08, Instancias territoriales](../fuentes/ansv-pr-08-instancias-territoriales.md): la DCI participa como miembro permanente o invitada en los Consejos Territoriales y Comités Locales/Departamentales de Seguridad Vial, y consolida las necesidades territoriales identificadas allí conforme a PR-06 y PR-07 (p. 3).
 
 ## Datos identificados
 
@@ -24,11 +25,11 @@ Dependencia de la Agencia Nacional de Seguridad Vial (ANSV) responsable del proc
   - Lina Marcela Lozano Delgado — elaboradora en CA-02 (p. 3) y en PR-07 (p. 9).
   - Ivana Carolina González Murcia — elaboradora en PR-07 (p. 9); revisora en CA-02 (p. 3).
   - Cesar Mauricio Salcedo — elaborador en CA-02 (p. 3) únicamente entre las fuentes ingeridas.
-  - Javier Mateus / Javier Alejandro Mateus Perafán — revisor en PR-07 (p. 9, como "Javier Mateus") y en PR-06 (nombre completo, página no registrada) — ver incertidumbre sobre si es la misma persona.
+  - Javier Alejandro Mateus Perafán — revisor en PR-06 (página no registrada), en PR-07 (p. 9, abreviado como "Javier Mateus") y en PR-08 (p. 9, nombre completo) — la coincidencia exacta del nombre completo entre PR-06 y PR-08 confirma que se trata de la misma persona en los tres documentos.
+  - Alvaro Andrés Alfonso Gonzalez — revisor en PR-08 (p. 9) únicamente entre las fuentes ingeridas.
 - Recursos del proceso: humano (funcionarios y contratistas de la DCI), financiero (proyecto de inversión a cargo de la DCI), tecnológico (aplicativo de reporte de acciones en territorio) (fuente: CA-02, p. 3).
 
 ## Incertidumbres
 
-- `[INCIERTO]` No se ha determinado si "Cesar Mauricio Salcedo" (CA-02, p. 3) participa también en el equipo de PR-06 o PR-07.
-- `[INCIERTO]` No se puede confirmar si "Javier Mateus" (PR-07, p. 9) y "Javier Alejandro Mateus Perafán" (PR-06, sin página registrada) son la misma persona, aunque es la lectura más probable.
-- `[INCIERTO]` "Directora Técnico Grado 24" (CA-02, p. 3) vs. "Directora de Coordinación Interinstitucional" (PR-07, p. 9): no queda claro si son la misma denominación de cargo con distinto nivel de formalidad, o dos cargos distintos que Paula Katerine Ramos Navarro ocupa simultáneamente.
+- `[INCIERTO]` No se ha determinado si "Cesar Mauricio Salcedo" (CA-02, p. 3) o "Alvaro Andrés Alfonso Gonzalez" (PR-08, p. 9) participan también en otros documentos del corpus aún no ingeridos.
+- `[INCIERTO]` "Directora Técnico Grado 24" (CA-02, p. 3) vs. "Directora de Coordinación Interinstitucional" (PR-07, p. 9; PR-08, p. 9): con dos de tres fuentes usando la segunda denominación, es la lectura más probable como cargo formal, pero no queda descartado que ambas coexistan (ver también CLAUDE.md, regla de incertidumbre).
