@@ -56,5 +56,5 @@ Es tres años anterior a la creación de la ANSV (Ley 1702/2013): no menciona a 
 
 ## Incertidumbres
 
-- No se identificó en este corpus la norma que amplió las categorías de multa del Art. 131 CNT de cinco (A–E, esta ley) a seis (A–F, texto consolidado citado en la página de la Ley 769/2002) — ver hallazgo 3 arriba.
+- No se identificó en este corpus la norma que amplió las categorías de multa del Art. 131 CNT de cinco (A–E, esta ley) a seis (A–F, texto consolidado citado en la página de la Ley 769/2002) — ver hallazgo 3 arriba. **Actualización (2026-09-24, tras ingerir la Ley 2251 de 2022):** esa ley, la candidata cronológica más probable, fue descartada — no modifica el Art. 131 CNT. La incertidumbre permanece abierta.
 - No se encontró explicación, dentro de este documento, de por qué el artículo transitorio (Art. 27) fija como plazo de amnistía el 31 de diciembre de 2009, siendo la ley de marzo de 2010 — se registra como hallazgo textual, sin interpretación adicional por no haber fuente que lo aclare.

@@ -53,15 +53,35 @@ La [Ley 769 de 2002](../fuentes/ley-769-de-2002-codigo-nacional-transito.md) —
 
 Es la **cuarta fuente legal** del corpus que atribuye competencias a la ANSV (tras la Ley 1702/2013, el Decreto 787/2015 y la Ley 1503/2011), y confirma que su abanico de funciones normativas excede ampliamente lo documentado en el sistema de gestión de la DCI (formación de conductores, velocidad, fotodetección — no asistencia técnica territorial). Ver también [Genealogía normativa de "asistencia técnica"](../conceptos/genealogia-asistencia-tecnica.md).
 
+## Competencias en la Ley 2251 de 2022 (enfoque de Sistema Seguro) — la fuente más densa del corpus en este punto
+
+La [Ley 2251 de 2022](../fuentes/ley-2251-de-2022-sistema-seguro.md) ("Ley Julián Esteban"), que adopta el enfoque de [Sistema Seguro](../conceptos/sistema-seguro-enfoque-politica-seguridad-vial.md) para la política de seguridad vial, atribuye diez competencias explícitas a la ANSV — más que cualquier otra fuente individual del corpus ingerida hasta ahora:
+
+1. **Art. 3°** (p. 1): armonización de la regulación vehicular con normativa internacional (Acuerdo de Naciones Unidas de 1958), junto con Mintransporte.
+2. **Art. 5°, Parágrafo** (p. 2): reglamentación de estándares técnicos de dispositivos viales de distribución del tráfico y señalización en vía.
+3. **Art. 10** (p. 4): reglamentación de condiciones de reporte, frecuencia y desagregación del Registro Nacional de Accidentes de Tránsito (SIRAS).
+4. **Art. 12 — Art. 106° CNT, Par. 2** (p. 5): metodología conjunta (Mintransporte–ANSV) de velocidad límite en vías urbanas — confirma directamente la cita ya registrada a partir del texto consolidado de la Ley 769/2002.
+5. **Art. 13 — Art. 107° CNT, Pars. 1 y 2** (p. 5): misma metodología, para carreteras nacionales y departamentales — confirma la segunda cita de la Ley 769/2002.
+6. **Art. 14, Par. 1** (pp. 5–6): determina la obligatoriedad de Planes Locales de Seguridad Vial para entidades territoriales no cubiertas por la obligación general.
+7. **Art. 14, Par. 2** (p. 6): reglamenta, junto con Mintransporte, los planes de gestión de velocidad en distritos/departamentos/municipios de categoría especial I–III con Autoridad de Tránsito.
+8. **Art. 14, párrafo final** (p. 6): reglamenta, junto con Mintransporte, los planes de auditoría vial y gestión de velocidad de entidades a cargo de infraestructura vial.
+9. **Art. 18 — adiciona Art. 158A CNT** (p. 6): criterios de seguridad vial para ayudas tecnológicas (fotomultas), junto con Mintransporte — confirma directamente la quinta cita de la Ley 769/2002 (Art. 158A, adicionado por el Art. 18 de esta ley).
+10. **Art. 19, Parágrafo** (p. 7): diseño e implementación de estrategia de recopilación y análisis de resultados de evaluación de impacto de ayudas tecnológicas.
+
+Ninguna de estas diez competencias se refiere a la asistencia técnica territorial de la DCI. La ley no menciona la asistencia técnica ni a la DCI en ningún artículo.
+
 ## Presencia en el corpus
 
 - [Ley 1702 de 2013](../fuentes/ley-1702-de-2013-creacion-ansv.md): ley de creación.
 - [Decreto 787 de 2015](../fuentes/decreto-787-de-2015-funciones-ansv.md): reglamenta las funciones detalladas de cada dependencia.
 - [Ley 1503 de 2011](../fuentes/ley-1503-de-2011-habitos-comportamientos-seguros.md), Art. 12A: competencia en el programa pedagógico de PESV (ver arriba).
 - [Ley 769 de 2002](../fuentes/ley-769-de-2002-codigo-nacional-transito.md): cinco competencias adicionales insertadas por reforma posterior (ver arriba).
+- [Ley 1383 de 2010](../fuentes/ley-1383-de-2010-reforma-codigo-nacional-transito.md): reforma del Código anterior a la ANSV; no la menciona.
+- [Ley 2251 de 2022](../fuentes/ley-2251-de-2022-sistema-seguro.md): diez competencias adicionales (ver arriba) — la fuente más densa del corpus en cuanto a número de competencias ANSV.
 - Todas las fuentes del sistema de gestión de calidad ingeridas hasta ahora (CA-02, PR-06, PR-07, PR-08, GIP-FO-05, Lineamientos de cargue de evidencias) documentan la operación de una de sus siete dependencias, la DCI.
 
 ## Incertidumbres
 
 - No se ha verificado en este corpus el contenido de las normas posteriores que modifican la Ley 1702/2013 (Ley 2294 de 2023 Art. 177, Ley 2222 de 2022 Art. 3) ni el Decreto 1479 de 2014 — ver incertidumbres en la página de la ley.
 - No se han verificado en este corpus las normas específicas que introdujeron cada una de las cinco competencias catalogadas arriba en la Ley 769/2002 (más allá de lo que anota EVA-Gestor Normativo dentro del propio texto), salvo el Art. 158A (Ley 2251 de 2022, Art. 18).
+- No se identifica en este corpus la norma que expide la "Metodología para establecer la velocidad límite en las vías colombianas" que tanto la Ley 769/2002 como la Ley 2251/2022 dan por hecho que la ANSV expedirá junto con Mintransporte.
