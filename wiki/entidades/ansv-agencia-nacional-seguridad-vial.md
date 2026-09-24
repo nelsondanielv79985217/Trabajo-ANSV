@@ -37,10 +37,15 @@ Siete dependencias creadas por la misma ley (Ley 1702/2013, Art. 10, p. 7), con 
 
 El Fondo Nacional de Seguridad Vial (Ley 1702/2013, Art. 7°) se financia con el 3% de las primas del SOAT y sustituye al antiguo Fondo de Prevención Vial (Art. 244, Ley 100 de 1993), administrado hasta entonces por la [Corporación Fondo de Prevención Vial](corporacion-fondo-prevencion-vial.md). El Director General de la ANSV es el ordenador del gasto de estos recursos.
 
+## Competencias en materia de PESV
+
+La [Ley 1503 de 2011](../fuentes/ley-1503-de-2011-habitos-comportamientos-seguros.md), Art. 12A (p. 5, adicionado por la Ley 2050 de 2020), asigna al Ministerio de Transporte "en coordinación con la Agencia Nacional de Seguridad Vial" el diseño de un programa pedagógico de capacitación en Planes Estratégicos de Seguridad Vial (PESV). Es la **tercera fuente legal** del corpus que atribuye competencias a la ANSV (tras la Ley 1702/2013 y el Decreto 787/2015), y la única referida al PESV en lugar de a la asistencia técnica de la DCI — ver [concepto PESV](../conceptos/plan-estrategico-seguridad-vial-pesv.md).
+
 ## Presencia en el corpus
 
 - [Ley 1702 de 2013](../fuentes/ley-1702-de-2013-creacion-ansv.md): ley de creación.
 - [Decreto 787 de 2015](../fuentes/decreto-787-de-2015-funciones-ansv.md): reglamenta las funciones detalladas de cada dependencia.
+- [Ley 1503 de 2011](../fuentes/ley-1503-de-2011-habitos-comportamientos-seguros.md), Art. 12A: competencia en el programa pedagógico de PESV (ver arriba).
 - Todas las fuentes del sistema de gestión de calidad ingeridas hasta ahora (CA-02, PR-06, PR-07, PR-08, GIP-FO-05, Lineamientos de cargue de evidencias) documentan la operación de una de sus siete dependencias, la DCI.
 
 ## Incertidumbres

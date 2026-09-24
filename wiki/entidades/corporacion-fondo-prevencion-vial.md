@@ -13,6 +13,7 @@ Entidad predecesora del Fondo Nacional de Seguridad Vial de la ANSV. Antes de la
 ## Presencia en el corpus
 
 - [Decreto 2851 de 2013](../fuentes/decreto-2851-de-2013-educacion-vial-pesv.md): la trata como entidad coordinadora activa, junto al Ministerio de Transporte, en materia de educación vial (Art. 3°, parágrafo, p. 3) y del Portal de la Seguridad Vial (Art. 14, p. 7). Este decreto es tres semanas anterior a la Ley 1702/2013, por lo que no menciona a la ANSV.
+- [Ley 1503 de 2011](../fuentes/ley-1503-de-2011-habitos-comportamientos-seguros.md), Arts. 4° y 10 (pp. 2, 4): la nombra como apoyo del trabajo coordinado entre el Ministerio de Educación, el Ministerio de Transporte y el Ministerio de Salud para el desarrollo de los programas de educación vial — dos años antes de que la ANSV existiera.
 - [Ley 1702 de 2013](../fuentes/ley-1702-de-2013-creacion-ansv.md), Art. 7° (p. 2): el Fondo Nacional de Seguridad Vial de la ANSV "sustituye al Fondo de Prevención Vial creado por el artículo 244 de la Ley 100 de 1993, cuya liquidación se ordena con arreglo a la presente ley."
 - [Ley 1702 de 2013](../fuentes/ley-1702-de-2013-creacion-ansv.md), Art. 21 — Régimen de transición (pp. 11–12): dispone el traspaso ordenado de funciones, recursos, contratos, activos y pasivos del Fondo de Prevención Vial a la ANSV y al Fondo Nacional de Seguridad Vial.
 
