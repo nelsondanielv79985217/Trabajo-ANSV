@@ -35,7 +35,7 @@ Siete dependencias creadas por la misma ley (Ley 1702/2013, Art. 10, p. 7), con 
 
 ## Financiamiento
 
-El Fondo Nacional de Seguridad Vial (Ley 1702/2013, Art. 7°) se financia con el 3% de las primas del SOAT y sustituye al antiguo Fondo de Prevención Vial (Art. 244, Ley 100 de 1993). El Director General de la ANSV es el ordenador del gasto de estos recursos.
+El Fondo Nacional de Seguridad Vial (Ley 1702/2013, Art. 7°) se financia con el 3% de las primas del SOAT y sustituye al antiguo Fondo de Prevención Vial (Art. 244, Ley 100 de 1993), administrado hasta entonces por la [Corporación Fondo de Prevención Vial](corporacion-fondo-prevencion-vial.md). El Director General de la ANSV es el ordenador del gasto de estos recursos.
 
 ## Presencia en el corpus
 

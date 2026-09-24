@@ -33,6 +33,8 @@ El [Decreto 787 de 2015](../fuentes/decreto-787-de-2015-funciones-ansv.md), que 
 
 **Hallazgo relevante**: ninguno de estos 14 numerales usa la expresión "asistencia técnica". El mandato legal de la DCI está en términos de coordinación y articulación; la AT como figura específica es una decisión operativa posterior de la propia entidad (PR-06, de 2025), no una figura de rango legal o reglamentario en sí misma.
 
+*Matiz (2026-09-24, tras ingerir el Decreto 2851/2013)*: el término "asistencia técnica" sí existe en el marco normativo de la seguridad vial en general, solo que no en cabeza de la DCI/ANSV. El [Decreto 2851 de 2013](../fuentes/decreto-2851-de-2013-educacion-vial-pesv.md), Art. 3° literal c (p. 3), asigna al Ministerio de Educación Nacional la función de "brindar asistencia técnica a las entidades territoriales certificadas en educación" en materia de educación vial escolar — un uso sectorial distinto, anterior en dos años a PR-06, que confirma que la AT es un mecanismo de coordinación intersectorial reconocido en el dominio de la seguridad vial en general, no una invención exclusiva de la DCI.
+
 ## Presencia en el corpus
 
 - [Decreto 787 de 2015](../fuentes/decreto-787-de-2015-funciones-ansv.md): fija sus 14 funciones estatutarias (Art. 10) — ver arriba.
