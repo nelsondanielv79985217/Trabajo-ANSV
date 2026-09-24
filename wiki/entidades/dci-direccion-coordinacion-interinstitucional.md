@@ -23,9 +23,9 @@ El [Decreto 787 de 2015](../fuentes/decreto-787-de-2015-funciones-ansv.md), que 
 5. Coordinar procesos de evaluación de efectividad de normas reglamentarias de seguridad vial.
 6. Definir las obligaciones de los Organismos de Tránsito según su categorización.
 7. Coordinar la identificación y unificación de la información oficial suministrada a la ciudadanía.
-8. Coordinar la implementación de estrategias, prioridades y planes de acción de cumplimiento normativo.
+8. Coordinar la implementación de estrategias, prioridades y planes de acción de cumplimiento normativo — transcripción completa, confirmada por la [Resolución 007 de 2023](../fuentes/resolucion-007-de-2023-mesas-articulacion-interinstitucional.md), p. 2: "Coordinar con las autoridades competentes la implementación y ejecución de las estrategias, prioridades y planes de acción adoptadas, para el cumplimiento de las normas de tránsito y seguridad vial y coordinar las acciones intersectoriales en esta materia."
 9. Identificar e informar a la Dirección General conductas que ameriten solicitar suspensión de habilitación de organismos de tránsito/apoyo o de licencias de conducción.
-10. Coordinar la divulgación de campañas de prevención vial.
+10. Coordinar la divulgación de campañas de prevención vial — transcripción completa, confirmada por la Resolución 007 de 2023, p. 2: "Coordinar y articular con los actores intervinientes en el tema de la seguridad vial, la divulgación de las campañas de prevención vial, información, formación y sensibilización en seguridad vial."
 11. Coordinar, articular y apoyar acciones de los Ministerios para alineamiento con el PNSV.
 12. **Articular acciones con las entidades territoriales** para alineamiento con el PNSV.
 13. Adelantar acciones de colaboración de agentes económicos, sociales y académicos.
@@ -37,6 +37,18 @@ El [Decreto 787 de 2015](../fuentes/decreto-787-de-2015-funciones-ansv.md), que 
 
 *Matiz 2 (2026-09-24, tras ingerir la Ley 769/2002)*: el hallazgo anterior se queda corto — el término es todavía más antiguo. La [Ley 769 de 2002](../fuentes/ley-769-de-2002-codigo-nacional-transito.md), Art. 7° (p. 8), en su redacción **original**, ya ordena que las acciones de toda autoridad de tránsito del país "deben ser orientadas a la prevención y la **asistencia técnica** y humana a los usuarios de las vías" — once años antes de que la ANSV (y, con ella, la DCI) existieran. La DCI no acuñó el concepto ni siquiera en sentido amplio: lo retoma de una orientación legal preexistente y genérica, aplicable a cualquier autoridad de tránsito, y lo convierte en 2025, mediante PR-06, en un procedimiento propio y específico dirigido a municipios y organismos de tránsito. Ver desarrollo completo en [Genealogía normativa de "asistencia técnica"](../conceptos/genealogia-asistencia-tecnica.md) y en [Organismos y autoridades de tránsito](../conceptos/organismos-y-autoridades-de-transito.md).
 
+*Matiz 3 (2026-09-24, tras ingerir la Resolución 007 de 2023)*: el PNSV 2022-2031 (Decreto 1430/2022, conocido solo por cita indirecta) sí liga la "asistencia técnica" a las entidades territoriales como acción de política pública, tres años antes de PR-06 — ver [Genealogía normativa de "asistencia técnica"](../conceptos/genealogia-asistencia-tecnica.md), eslabón 2022. Ninguna fuente, sin embargo, nombra a la DCI como ejecutora específica de esa acción del PNSV.
+
+## Estructura interna — líneas de trabajo y equipos (hallazgo, Resolución 007 de 2023)
+
+La [Resolución 007 de 2023](../fuentes/resolucion-007-de-2023-mesas-articulacion-interinstitucional.md), Considerando (p. 3), revela una estructura interna de la DCI que ninguno de los procedimientos del sistema de gestión de calidad (CA-02, PR-06, PR-07, PR-08) menciona explícitamente: la DCI organiza su trabajo en al menos dos **líneas de trabajo, territorial y sectorial**, que "se interrelacionan entre ellas, y desarrollan estrategias y programas específicos". La **Línea Territorial** es la encargada de la articulación, coordinación y relacionamiento previo de la ANSV con las entidades territoriales.
+
+Dentro de la Línea Territorial opera un **Equipo de Enlaces Territoriales**, organizado en 8 regiones del país (Central, Eje Cafetero y Antioquia, Caribe, Pacífico, Santanderes, Llanos-Orinoquía, Amazonía, Sea Flower — ver detalle completo en la página de la Resolución 007/2023), cuyo líder (a enero de 2023) es **Edwin Antonio Miranda Corrales**. Este hallazgo es relevante para la tesis: muestra que la arquitectura de coordinación territorial de la DCI documentada hasta ahora solo por PR-06/PR-07/PR-08 es incompleta — existe, además, un instrumento formalizado directamente por resolución de la ANSV (no por procedimiento del sistema de gestión de calidad) para la gestión de contingencias de movilidad.
+
+### Mesas de Articulación Interinstitucional (MAI)
+
+Instancia de coordinación territorial creada por la Resolución 007/2023, liderada por la Línea Territorial de la DCI a través de sus enlaces territoriales, **distinta** de los Consejos Territoriales de Seguridad Vial (CTSV) y los Comités Locales/Departamentales (CLSV/CDSV) que regula [PR-08](../fuentes/ansv-pr-08-instancias-territoriales.md): mientras estos últimos son espacios permanentes de concertación de política pública de seguridad vial, las MAI son mecanismos operativos 24/7 de monitoreo y respuesta a contingencias de movilidad (siniestros viales, bloqueos, atentados a infraestructura), con énfasis en puentes festivos y temporadas de alta movilidad. Reportan semanalmente al Puesto de Mando Unificado (PMU) de la ANSV, a través del enlace territorial de la DCI. Ver ficha completa en [Resolución 007 de 2023](../fuentes/resolucion-007-de-2023-mesas-articulacion-interinstitucional.md).
+
 ## Presencia en el corpus
 
 - [Decreto 787 de 2015](../fuentes/decreto-787-de-2015-funciones-ansv.md): fija sus 14 funciones estatutarias (Art. 10) — ver arriba.
@@ -44,6 +56,8 @@ El [Decreto 787 de 2015](../fuentes/decreto-787-de-2015-funciones-ansv.md), que 
 - [Anexo 1 — ANSV-CPP-CA-02, Caracterización del proceso](../fuentes/ansv-ca-02-caracterizacion-anexo1.md): la DCI es responsable/líder del proceso completo (p. 1) y ejecutora de todas sus actividades PHVA (pp. 1–2).
 - [Anexo 3 — ANSV-CPP-PR-07, Estrategias interinstitucionales](../fuentes/ansv-pr-07-estrategias-interinstitucionales.md): la DCI diseña, aprueba, implementa y da seguimiento a toda estrategia interinstitucional, de la cual la AT es solo un mecanismo de implementación posible (pp. 4, 7).
 - [Anexo 4 — ANSV-CPP-PR-08, Instancias territoriales](../fuentes/ansv-pr-08-instancias-territoriales.md): la DCI participa como miembro permanente o invitada en los Consejos Territoriales y Comités Locales/Departamentales de Seguridad Vial, y consolida las necesidades territoriales identificadas allí conforme a PR-06 y PR-07 (p. 3).
+- [Resolución 583 de 2023](../fuentes/resolucion-583-de-2023-armonizacion-plsv-pnsv.md): dos contratistas DCI (Cesar Mauricio Salcedo, Gina Paola Herrera) participan en su elaboración; Darío Rincón Jaramillo aprueba como director (E).
+- [Resolución 007 de 2023](../fuentes/resolucion-007-de-2023-mesas-articulacion-interinstitucional.md): reglamenta las Mesas de Articulación Interinstitucional (MAI), lideradas por la Línea Territorial de la DCI — ver "Estructura interna" arriba.
 
 ## Datos identificados
 
@@ -56,11 +70,17 @@ El [Decreto 787 de 2015](../fuentes/decreto-787-de-2015-funciones-ansv.md), que 
   - Javier Alejandro Mateus Perafán — revisor en PR-06 (página no registrada), en PR-07 (p. 9, abreviado como "Javier Mateus") y en PR-08 (p. 9, nombre completo) — la coincidencia exacta del nombre completo entre PR-06 y PR-08 confirma que se trata de la misma persona en los tres documentos.
   - Alvaro Andrés Alfonso Gonzalez — revisor en PR-08 (p. 9) únicamente entre las fuentes ingeridas.
   - Gina Paola Herrera — contratista DCI que "proyectó" la Resolución 583 de 2023 (p. 4) — nombre nuevo para el corpus, sin otra aparición hasta ahora.
-- **Darío Rincón Jaramillo** — figura en la Resolución 583 de 2023 (p. 4) simultáneamente como "director de Comportamiento" (otra de las 7 dependencias estatutarias de la ANSV) y como **"director (E) de Coordinación Interinstitucional"** (quien aprueba la resolución), es decir, encargado de la DCI en octubre de 2023 además de titular de la Dirección de Comportamiento. Su nombre no coincide con el de Paula Katerine Ramos Navarro, documentada como Directora DCI en CA-02/PR-07 — ver incertidumbre.
+  - Edwin Antonio Miranda Corrales — Líder Equipo Enlaces Territoriales DCI, proyectó la Resolución 007 de 2023 (p. 6).
+  - Juan Bogotá — asesor de la Dirección de Coordinación Interinstitucional, revisó la Resolución 007 de 2023 (p. 6).
+- **Secuencia de Directores(as) de Coordinación Interinstitucional identificados en el corpus** (sin poder establecer aún el orden cronológico completo):
+  - Paula Katerine Ramos Navarro, "Directora de Coordinación Interinstitucional" — CA-02, PR-07, PR-06 (sin fecha de expedición registrada en esas páginas).
+  - **Carlos Vanegas Vivas**, "Director de Coordinación Interinstitucional" (sin anotación de encargo) — aprueba la Resolución 007 de 2023, **5 de enero de 2023** (p. 6).
+  - **Darío Rincón Jaramillo**, "director **(E)** de Coordinación Interinstitucional" (encargado, siendo también titular de la Dirección de Comportamiento) — aprueba la Resolución 583 de 2023, **10 de octubre de 2023** (p. 4).
+  - Con las dos resoluciones fechadas, queda establecido que Carlos Vanegas Vivas era Director titular en enero de 2023 y que, para octubre de 2023, Darío Rincón Jaramillo ejercía el cargo en encargo — es decir, Vanegas Vivas ya no estaba en el cargo (o no de forma titular) para esa fecha. Sigue sin poder ubicarse a Paula Katerine Ramos Navarro en esta secuencia, al no tener fecha — ver incertidumbre.
 - Recursos del proceso: humano (funcionarios y contratistas de la DCI), financiero (proyecto de inversión a cargo de la DCI), tecnológico (aplicativo de reporte de acciones en territorio) (fuente: CA-02, p. 3).
 
 ## Incertidumbres
 
 - `[INCIERTO]` No se ha determinado si "Cesar Mauricio Salcedo" (CA-02, p. 3) o "Alvaro Andrés Alfonso Gonzalez" (PR-08, p. 9) participan también en otros documentos del corpus aún no ingeridos.
 - `[INCIERTO]` "Directora Técnico Grado 24" (CA-02, p. 3) vs. "Directora de Coordinación Interinstitucional" (PR-07, p. 9; PR-08, p. 9): con dos de tres fuentes usando la segunda denominación, es la lectura más probable como cargo formal, pero no queda descartado que ambas coexistan (ver también CLAUDE.md, regla de incertidumbre).
-- `[INCIERTO]` No se ha determinado la secuencia temporal entre "Paula Katerine Ramos Navarro, Directora de Coordinación Interinstitucional" (CA-02/PR-07, sin fecha de expedición registrada en esas páginas) y "Darío Rincón Jaramillo, director (E) de Coordinación Interinstitucional" (Resolución 583/2023, ANSV, octubre de 2023) — podrían corresponder a periodos distintos o a un encargo temporal de Rincón Jaramillo mientras ejercía su cargo titular en la Dirección de Comportamiento; ninguna fuente del corpus lo aclara.
+- `[INCIERTO]` No se ha determinado en qué momento exacto ejerció el cargo Paula Katerine Ramos Navarro respecto de Carlos Vanegas Vivas (enero de 2023) y Darío Rincón Jaramillo (encargado, octubre de 2023) — podría ser anterior a ambos, posterior, o corresponder a un tercer periodo entre ellos; ninguna fuente del corpus lo aclara. Tampoco se sabe si Vanegas Vivas dejó el cargo por renuncia, traslado u otra razón antes de octubre de 2023.
