@@ -52,12 +52,15 @@ El [Decreto 787 de 2015](../fuentes/decreto-787-de-2015-funciones-ansv.md), que 
 - Contratistas DCI que figuran como elaboradores/revisores en los documentos ingeridos, con rotación de roles entre documentos hermanos del mismo proceso:
   - Lina Marcela Lozano Delgado — elaboradora en CA-02 (p. 3) y en PR-07 (p. 9).
   - Ivana Carolina González Murcia — elaboradora en PR-07 (p. 9); revisora en CA-02 (p. 3).
-  - Cesar Mauricio Salcedo — elaborador en CA-02 (p. 3) únicamente entre las fuentes ingeridas.
+  - Cesar Mauricio Salcedo — elaborador en CA-02 (p. 3); también contratista DCI que "proyectó" la [Resolución 583 de 2023](../fuentes/resolucion-583-de-2023-armonizacion-plsv-pnsv.md) de la ANSV (p. 4) — confirma su vinculación continuada a la DCI más allá de los documentos del sistema de gestión de calidad.
   - Javier Alejandro Mateus Perafán — revisor en PR-06 (página no registrada), en PR-07 (p. 9, abreviado como "Javier Mateus") y en PR-08 (p. 9, nombre completo) — la coincidencia exacta del nombre completo entre PR-06 y PR-08 confirma que se trata de la misma persona en los tres documentos.
   - Alvaro Andrés Alfonso Gonzalez — revisor en PR-08 (p. 9) únicamente entre las fuentes ingeridas.
+  - Gina Paola Herrera — contratista DCI que "proyectó" la Resolución 583 de 2023 (p. 4) — nombre nuevo para el corpus, sin otra aparición hasta ahora.
+- **Darío Rincón Jaramillo** — figura en la Resolución 583 de 2023 (p. 4) simultáneamente como "director de Comportamiento" (otra de las 7 dependencias estatutarias de la ANSV) y como **"director (E) de Coordinación Interinstitucional"** (quien aprueba la resolución), es decir, encargado de la DCI en octubre de 2023 además de titular de la Dirección de Comportamiento. Su nombre no coincide con el de Paula Katerine Ramos Navarro, documentada como Directora DCI en CA-02/PR-07 — ver incertidumbre.
 - Recursos del proceso: humano (funcionarios y contratistas de la DCI), financiero (proyecto de inversión a cargo de la DCI), tecnológico (aplicativo de reporte de acciones en territorio) (fuente: CA-02, p. 3).
 
 ## Incertidumbres
 
 - `[INCIERTO]` No se ha determinado si "Cesar Mauricio Salcedo" (CA-02, p. 3) o "Alvaro Andrés Alfonso Gonzalez" (PR-08, p. 9) participan también en otros documentos del corpus aún no ingeridos.
 - `[INCIERTO]` "Directora Técnico Grado 24" (CA-02, p. 3) vs. "Directora de Coordinación Interinstitucional" (PR-07, p. 9; PR-08, p. 9): con dos de tres fuentes usando la segunda denominación, es la lectura más probable como cargo formal, pero no queda descartado que ambas coexistan (ver también CLAUDE.md, regla de incertidumbre).
+- `[INCIERTO]` No se ha determinado la secuencia temporal entre "Paula Katerine Ramos Navarro, Directora de Coordinación Interinstitucional" (CA-02/PR-07, sin fecha de expedición registrada en esas páginas) y "Darío Rincón Jaramillo, director (E) de Coordinación Interinstitucional" (Resolución 583/2023, ANSV, octubre de 2023) — podrían corresponder a periodos distintos o a un encargo temporal de Rincón Jaramillo mientras ejercía su cargo titular en la Dirección de Comportamiento; ninguna fuente del corpus lo aclara.
