@@ -10,6 +10,10 @@ last_updated: 2026-09-23
 
 Dependencia de la Agencia Nacional de Seguridad Vial (ANSV) responsable del proceso misional "Coordinación y Articulación para la Implementación de la Política Pública en Seguridad Vial" y, dentro de él, del procedimiento de asistencia técnica territorial. Es la unidad ejecutora central del corpus de este trabajo de grado — el servidor o contratista de la DCI es, precisamente, quien ejecutaría el protocolo de asistencia técnica que propone la tesis.
 
+## Base legal
+
+La DCI no es una dependencia creada por reglamento interno: es una de las siete dependencias que integran la estructura estatutaria de la ANSV desde su ley de creación — [Ley 1702 de 2013](../fuentes/ley-1702-de-2013-creacion-ansv.md), Art. 10, numeral 6 (p. 7): "Dirección de Coordinación Interinstitucional." Ver también [ANSV — Agencia Nacional de Seguridad Vial](ansv-agencia-nacional-seguridad-vial.md).
+
 ## Presencia en el corpus
 
 - [ANSV-CPP-PR-06 — Procedimiento de Asistencia Técnica](../fuentes/ansv-pr-06-procedimiento-asistencia-tecnica.md): la DCI planifica, ejecuta y hace seguimiento a las asistencias técnicas (página no registrada en esta fuente — ver incertidumbre en esa página).
