@@ -2,11 +2,11 @@
 
 Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos de trabajo (INGEST/QUERY/LINT).
 
-**Estado general (2026-09-24):** 5 de 46 fuentes con página propia en `fuentes/` (PR-06 sigue `incierto` por falta de citación por página; CA-02, PR-07, PR-08 y GIP-FO-05, ingeridas con citación completa). 1 entidad (DCI) y 1 concepto (jerarquía documental del proceso DCI) creados. Las 41 fuentes restantes están relevadas por nombre de archivo únicamente; ninguna fue leída todavía.
+**Estado general (2026-09-24):** 6 de 45 fuentes con página propia en `fuentes/` (PR-06 sigue `incierto` por falta de citación por página; CA-02, PR-07, PR-08, GIP-FO-05 y los Lineamientos de cargue de evidencias, ingeridas con citación completa). 1 entidad (DCI) y 1 concepto (jerarquía documental del proceso DCI) creados. Las 39 fuentes restantes están relevadas por nombre de archivo únicamente; ninguna fue leída todavía. *(Corrección 2026-09-24: el conteo inicial de "46 fuentes" del setup era erróneo — son 45; ver `log.md`.)*
 
 ## Fuentes (`fuentes/`)
 
-### Procedimientos y anexos del sistema de gestión — ANSV / DCI (6, 5 ingeridas)
+### Procedimientos y anexos del sistema de gestión — ANSV / DCI (6, 6 ingeridas — completo)
 
 - [ANSV-CPP-PR-06 — Procedimiento de Asistencia Técnica (DCI)](fuentes/ansv-pr-06-procedimiento-asistencia-tecnica.md) — Procedimiento vigente que regula cómo la DCI planifica, ejecuta y hace seguimiento a las asistencias técnicas territoriales; uno de los mecanismos posibles para implementar una estrategia interinstitucional definida bajo PR-07. (incierto — falta citación por página)
 - [Anexo 1 — ANSV-CPP-CA-02, Caracterización del proceso](fuentes/ansv-ca-02-caracterizacion-anexo1.md) — Caracteriza el proceso misional "Coordinación y Articulación..." del cual PR-06 es solo la actividad de AT dentro del ciclo Hacer (PHVA). (ingerido)
