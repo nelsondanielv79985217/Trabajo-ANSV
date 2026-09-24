@@ -38,3 +38,14 @@ Registro cronológico, append-only. No editar entradas pasadas — solo agregar 
 - Se identificó una fuente legal externa citada por PR-08 (p. 1) y presente en el corpus sin ingerir: `Ley_1702_de_2013.pdf`, como norma creadora de los CTSV — se marcó la conexión en `index.md`. Las Resoluciones 097/2019 y 516/2022, también citadas, no forman parte del corpus.
 - Se actualizó `wiki/fuentes/ansv-pr-06-procedimiento-asistencia-tecnica.md` (conexiones) e `index.md` (fuentes, conceptos).
 - Pendiente confirmación del usuario antes de continuar con el Anexo 5 (instrucciones para el registro de acta de reunión).
+
+## [2026-09-24] ingest | Anexo 5 — ANSV-GIP-FO-05 (Formato acta de reunión)
+
+- Se leyó completo (3 páginas) `Anexo 5. Instrucciones para el registro de acta de reunión.pdf` y se creó `wiki/fuentes/ansv-gip-fo-05-formato-acta-reunion.md`, `status: ingerido`, con citación por página.
+- A diferencia de CA-02/PR-06/PR-07/PR-08, este documento es un **formato (FO)** en blanco con instrucciones de diligenciamiento, no un procedimiento ni una caracterización, y pertenece al Proceso Gestión Integral de Procesos (GIP) — no al proceso propio de la DCI, aunque es el instrumento de registro ("acta de reunión") que PR-06/PR-07/PR-08 exigen reiteradamente.
+- **Hallazgo relevante para el marco metodológico**: el campo TEMA del formato exige nombrar *toda* actividad registrada como "Asistencia Técnica [+ enfoque]", incluidos acompañamientos, capacitaciones y talleres — es decir, el instrumento documental de registro no distingue las modalidades que PR-06 sí diferencia formalmente. Se documentó como posible limitación para cualquier análisis cuantitativo de actas reales que la tesis quiera realizar.
+- Se registró la ausencia de campos para pretest/postest/evaluación de apropiación de conocimiento en este formato, pese a que PR-06 los describe como parte obligatoria del ciclo de AT — el instrumento de esa medición no está identificado en el corpus.
+- Se identificaron dos referencias externas no incluidas en el corpus: el formato ANSV-GIP-FO-06 (registro de asistencia) y el aplicativo SIG-MIPG (tercera mención en el corpus tras CA-02 y PR-08).
+- Se actualizó `wiki/fuentes/ansv-pr-06-procedimiento-asistencia-tecnica.md` (conexiones) e `index.md` (fuentes).
+- No se creó página de entidad para el Proceso Gestión Integral de Procesos (GIP): solo dos menciones tangenciales en el corpus hasta ahora (CA-02 y este anexo), ninguna centrada en GIP como objeto — no amerita todavía página propia según la regla de "no prepoblar" de `CLAUDE.md`.
+- Pendiente confirmación del usuario antes de continuar con el Anexo 6 (lineamientos para el cargue de evidencias).

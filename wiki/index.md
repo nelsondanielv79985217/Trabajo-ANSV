@@ -2,17 +2,17 @@
 
 Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos de trabajo (INGEST/QUERY/LINT).
 
-**Estado general (2026-09-23):** 4 de 46 fuentes con página propia en `fuentes/` (PR-06 sigue `incierto` por falta de citación por página; CA-02, PR-07 y PR-08, ingeridas con citación completa). 1 entidad (DCI) y 1 concepto (jerarquía documental del proceso DCI) creados. Las 42 fuentes restantes están relevadas por nombre de archivo únicamente; ninguna fue leída todavía.
+**Estado general (2026-09-24):** 5 de 46 fuentes con página propia en `fuentes/` (PR-06 sigue `incierto` por falta de citación por página; CA-02, PR-07, PR-08 y GIP-FO-05, ingeridas con citación completa). 1 entidad (DCI) y 1 concepto (jerarquía documental del proceso DCI) creados. Las 41 fuentes restantes están relevadas por nombre de archivo únicamente; ninguna fue leída todavía.
 
 ## Fuentes (`fuentes/`)
 
-### Procedimientos y anexos del sistema de gestión — ANSV / DCI (6, 4 ingeridas)
+### Procedimientos y anexos del sistema de gestión — ANSV / DCI (6, 5 ingeridas)
 
 - [ANSV-CPP-PR-06 — Procedimiento de Asistencia Técnica (DCI)](fuentes/ansv-pr-06-procedimiento-asistencia-tecnica.md) — Procedimiento vigente que regula cómo la DCI planifica, ejecuta y hace seguimiento a las asistencias técnicas territoriales; uno de los mecanismos posibles para implementar una estrategia interinstitucional definida bajo PR-07. (incierto — falta citación por página)
 - [Anexo 1 — ANSV-CPP-CA-02, Caracterización del proceso](fuentes/ansv-ca-02-caracterizacion-anexo1.md) — Caracteriza el proceso misional "Coordinación y Articulación..." del cual PR-06 es solo la actividad de AT dentro del ciclo Hacer (PHVA). (ingerido)
 - [Anexo 3 — ANSV-CPP-PR-07, Estrategias interinstitucionales](fuentes/ansv-pr-07-estrategias-interinstitucionales.md) — Define cómo la DCI formula, aprueba, implementa y da seguimiento a cualquier estrategia interinstitucional; nombra a la AT (PR-06) como una vía de implementación entre otras. (ingerido)
 - [Anexo 4 — ANSV-CPP-PR-08, Instancias territoriales](fuentes/ansv-pr-08-instancias-territoriales.md) — Regula la articulación con Consejos Territoriales (CTSV) y Comités Locales/Departamentales de Seguridad Vial (CLSV/CDSV); puerta de entrada territorial de necesidades hacia PR-07 y PR-06. Archivo con nombre truncado en el repositorio (`ANEXO4~1.PDF`), contenido real confirmado al abrirlo. (ingerido)
-- Anexo 5. Instrucciones para el registro de acta de reunión.pdf — (pendiente-ingest)
+- [Anexo 5 — ANSV-GIP-FO-05, Formato acta de reunión](fuentes/ansv-gip-fo-05-formato-acta-reunion.md) — Plantilla instructiva del registro de reuniones exigido por PR-06/PR-07/PR-08; su campo TEMA obliga a nombrar toda actividad registrada como "Asistencia Técnica", sin distinguir modalidades. Pertenece al Proceso Gestión Integral de Procesos (GIP), no al proceso de la DCI. (ingerido)
 - Anexo 6. Lineamientos para el cargue de evidencias.pdf — (pendiente-ingest)
 
 ### Marco normativo — leyes, decretos, resoluciones (11)
