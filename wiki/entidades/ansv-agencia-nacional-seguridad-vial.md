@@ -6,6 +6,7 @@ status: ingerido
 last_updated: 2026-09-24
 ---
 
+
 # ANSV — Agencia Nacional de Seguridad Vial
 
 Entidad matriz de todo el corpus de este trabajo de grado. Aunque la ANSV aparecía mencionada desde la primera fuente ingerida (PR-06), no tenía página propia porque, hasta ingerir su ley de creación, ninguna fuente había tratado a la ANSV como objeto central en sí misma — se mencionaba siempre en función de la DCI o de un procedimiento específico.
@@ -41,13 +42,26 @@ El Fondo Nacional de Seguridad Vial (Ley 1702/2013, Art. 7°) se financia con el
 
 La [Ley 1503 de 2011](../fuentes/ley-1503-de-2011-habitos-comportamientos-seguros.md), Art. 12A (p. 5, adicionado por la Ley 2050 de 2020), asigna al Ministerio de Transporte "en coordinación con la Agencia Nacional de Seguridad Vial" el diseño de un programa pedagógico de capacitación en Planes Estratégicos de Seguridad Vial (PESV). Es la **tercera fuente legal** del corpus que atribuye competencias a la ANSV (tras la Ley 1702/2013 y el Decreto 787/2015), y la única referida al PESV en lugar de a la asistencia técnica de la DCI — ver [concepto PESV](../conceptos/plan-estrategico-seguridad-vial-pesv.md).
 
+## Competencias adicionales en el Código Nacional de Tránsito (Ley 769 de 2002)
+
+La [Ley 769 de 2002](../fuentes/ley-769-de-2002-codigo-nacional-transito.md) — anterior en once años a la creación de la ANSV — fue reformada en al menos cinco puntos para insertar competencias específicas de la ANSV, ninguna de ellas referida a la asistencia técnica territorial de la DCI:
+
+1. **Art. 7°, Parágrafo 3** (p. 8): asistencia técnica del Ministerio de Transporte, a través de la ANSV, a Instituciones de Educación Superior que ofrezcan formación/especialización en seguridad vial.
+2. **Art. 14°, Parágrafo 2** (p. 11): definición conjunta (Mintransporte–ANSV) de la malla curricular o pensum de formación de conductores.
+3. **Art. 106°, Parágrafo 2** (p. 31) y **Art. 107°, Parágrafo 2** (p. 32): metodología conjunta Mintransporte–ANSV para establecer límites de velocidad en vías colombianas.
+4. **Art. 158A** (p. 51, adicionado por el Art. 18 de la Ley 2251 de 2022): criterios de seguridad vial para ayudas tecnológicas de detección de infracciones (fotomultas), fijados conjuntamente por Mintransporte y la ANSV.
+
+Es la **cuarta fuente legal** del corpus que atribuye competencias a la ANSV (tras la Ley 1702/2013, el Decreto 787/2015 y la Ley 1503/2011), y confirma que su abanico de funciones normativas excede ampliamente lo documentado en el sistema de gestión de la DCI (formación de conductores, velocidad, fotodetección — no asistencia técnica territorial). Ver también [Genealogía normativa de "asistencia técnica"](../conceptos/genealogia-asistencia-tecnica.md).
+
 ## Presencia en el corpus
 
 - [Ley 1702 de 2013](../fuentes/ley-1702-de-2013-creacion-ansv.md): ley de creación.
 - [Decreto 787 de 2015](../fuentes/decreto-787-de-2015-funciones-ansv.md): reglamenta las funciones detalladas de cada dependencia.
 - [Ley 1503 de 2011](../fuentes/ley-1503-de-2011-habitos-comportamientos-seguros.md), Art. 12A: competencia en el programa pedagógico de PESV (ver arriba).
+- [Ley 769 de 2002](../fuentes/ley-769-de-2002-codigo-nacional-transito.md): cinco competencias adicionales insertadas por reforma posterior (ver arriba).
 - Todas las fuentes del sistema de gestión de calidad ingeridas hasta ahora (CA-02, PR-06, PR-07, PR-08, GIP-FO-05, Lineamientos de cargue de evidencias) documentan la operación de una de sus siete dependencias, la DCI.
 
 ## Incertidumbres
 
 - No se ha verificado en este corpus el contenido de las normas posteriores que modifican la Ley 1702/2013 (Ley 2294 de 2023 Art. 177, Ley 2222 de 2022 Art. 3) ni el Decreto 1479 de 2014 — ver incertidumbres en la página de la ley.
+- No se han verificado en este corpus las normas específicas que introdujeron cada una de las cinco competencias catalogadas arriba en la Ley 769/2002 (más allá de lo que anota EVA-Gestor Normativo dentro del propio texto), salvo el Art. 158A (Ley 2251 de 2022, Art. 18).

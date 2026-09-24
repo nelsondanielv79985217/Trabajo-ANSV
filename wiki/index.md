@@ -2,7 +2,7 @@
 
 Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos de trabajo (INGEST/QUERY/LINT).
 
-**Estado general (2026-09-24):** 10 de 45 fuentes con página propia en `fuentes/` (PR-06 sigue `incierto` por falta de citación por página; las demás, ingeridas con citación completa). 3 entidades (DCI, ANSV, Corporación Fondo de Prevención Vial) y 2 conceptos (jerarquía documental del proceso DCI; Plan Estratégico de Seguridad Vial — PESV) creados. Las 35 fuentes restantes están relevadas por nombre de archivo únicamente; ninguna fue leída todavía. *(Corrección 2026-09-24: el conteo inicial de "46 fuentes" del setup era erróneo — son 45; ver `log.md`.)*
+**Estado general (2026-09-24):** 11 de 45 fuentes con página propia en `fuentes/` (PR-06 sigue `incierto` por falta de citación por página; las demás, ingeridas con citación completa). 3 entidades (DCI, ANSV, Corporación Fondo de Prevención Vial) y 4 conceptos (jerarquía documental del proceso DCI; Plan Estratégico de Seguridad Vial — PESV; Organismos y autoridades de tránsito; Genealogía normativa de "asistencia técnica") creados. Las 34 fuentes restantes están relevadas por nombre de archivo únicamente; ninguna fue leída todavía. *(Corrección 2026-09-24: el conteo inicial de "46 fuentes" del setup era erróneo — son 45; ver `log.md`.)*
 
 ## Fuentes (`fuentes/`)
 
@@ -15,16 +15,16 @@ Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos 
 - [Anexo 5 — ANSV-GIP-FO-05, Formato acta de reunión](fuentes/ansv-gip-fo-05-formato-acta-reunion.md) — Plantilla instructiva del registro de reuniones exigido por PR-06/PR-07/PR-08; su campo TEMA obliga a nombrar toda actividad registrada como "Asistencia Técnica", sin distinguir modalidades. Pertenece al Proceso Gestión Integral de Procesos (GIP), no al proceso de la DCI. (ingerido)
 - [Anexo 6 — Lineamientos para el cargue de evidencias](fuentes/ansv-dci-lineamientos-cargue-evidencias.md) — Instructivo interno de la DCI (sin código ni aprobación SIG) que endurece la obligación de nombrar todo como "Asistencia Técnica"; aporta el único ejemplo real del corpus (ACTA No. 4, Ajuste PDSV). (ingerido)
 
-### Marco normativo — leyes, decretos, resoluciones (11, 4 ingeridas)
+### Marco normativo — leyes, decretos, resoluciones (11, 5 ingeridas)
 
 - [Ley 1702 de 2013 — Creación de la ANSV](fuentes/ley-1702-de-2013-creacion-ansv.md) — Ley fundacional de la ANSV; crea sus 7 dependencias estatutarias (incluida la DCI), el Consejo Directivo, el Fondo Nacional de Seguridad Vial y el Consejo Territorial de Seguridad Vial (base legal de los CTSV que cita PR-08). (ingerido)
 - [Decreto 787 de 2015 — Funciones de la estructura interna](fuentes/decreto-787-de-2015-funciones-ansv.md) — Reglamenta la Ley 1702/2013; desarrolla las 14 funciones estatutarias de la DCI (Art. 10). Hallazgo: la "asistencia técnica" no aparece nombrada como tal en el decreto — es una figura operativa posterior de PR-06, no de rango legal/reglamentario. (ingerido)
 - [Decreto 2851 de 2013 — Reglamenta la Ley 1503/2011 (educación vial, PESV, alcohol)](fuentes/decreto-2851-de-2013-educacion-vial-pesv.md) — Anterior en 3 semanas a la Ley 1702/2013 (no menciona ANSV/DCI). Define el Plan Estratégico de Seguridad Vial (PESV), instrumento distinto y anterior a la AT de la DCI; segundo uso del término "asistencia técnica" en el corpus (Mineducación, educación vial escolar). (ingerido)
 - [Ley 1503 de 2011 — Hábitos y comportamientos seguros en la vía](fuentes/ley-1503-de-2011-habitos-comportamientos-seguros.md) — Ley madre reglamentada por el Decreto 2851/2013; crea el PESV (Art. 12) y, en su Art. 12A (adicionado en 2020), es la tercera fuente legal que atribuye competencias a la ANSV. Hallazgo: el régimen de aval del PESV descrito por el Decreto 2851/2013 podría estar tácitamente derogado desde 2019 (Decreto 2106/2019, no incluido en el corpus). (ingerido)
+- [Ley 769 de 2002 — Código Nacional de Tránsito Terrestre](fuentes/ley-769-de-2002-codigo-nacional-transito.md) — Ley general del tránsito; base de casi todas las demás fuentes del corpus. Hallazgo central: el término "asistencia técnica" aparece ya en su redacción original de 2002 (Art. 7°), once años antes de la ANSV — ver [genealogía del término](conceptos/genealogia-asistencia-tecnica.md). Documenta 5 competencias de la ANSV insertadas por reformas posteriores (formación de conductores, velocidad, fotomultas) y el origen 2002 del mandato de Plan Nacional de Seguridad Vial. (ingerido)
 - Ley_1310_de_2009 Unificacion normas sobre Agentes de transito y grupos control vial.pdf — (pendiente-ingest)
 - Ley_1383 de 2010 Reforma la ley 769 de 2002 CNT y dicta otras disposiciones.pdf — (pendiente-ingest)
 - Ley_2251_de_2022.pdf Ley julian Esteban.pdf — (pendiente-ingest)
-- Ley_769 de 2002 Codigo Nacional de transito.pdf — (pendiente-ingest)
 - Resolucion_007_de_2023_MAI (1).pdf — (pendiente-ingest)
 - Resolucion_583_2023armonizacion PLSV con PNSV 2022 2031.pdf — (pendiente-ingest)
 - resolucion_mintransporte_4548_2013 profesionalización Agentes de transito.pdf — (pendiente-ingest)
@@ -86,6 +86,8 @@ Ninguna todavía — se crea si el usuario carga una referencia metodológica tr
 
 - [Jerarquía documental del proceso de Coordinación y Articulación Interinstitucional (DCI)](conceptos/jerarquia-documental-coordinacion-interinstitucional-dci.md) — Cruce de CA-02, PR-06, PR-07 y PR-08: mapea los tres procedimientos que operativizan el ciclo "Hacer" de CA-02, y la cadena territorio (PR-08) → estrategia (PR-07) → asistencia técnica (PR-06). Incluye hallazgo de inconsistencia en la gestión documental del SIG (PR-07 y PR-08 apuntan a PR-06 sin reciprocidad).
 - [Plan Estratégico de Seguridad Vial (PESV)](conceptos/plan-estrategico-seguridad-vial-pesv.md) — Cruce de la Ley 1503/2011 y el Decreto 2851/2013: instrumento de cumplimiento obligatorio para entidades/empresas con flotas de vehículos, distinto y anterior a la asistencia técnica de la DCI. Incluye hallazgo de posible derogatoria tácita (2019) del régimen de aval descrito en el Decreto 2851/2013.
+- [Organismos y autoridades de tránsito](conceptos/organismos-y-autoridades-de-transito.md) — Definición legal (Ley 769/2002, Arts. 3, 6, 7) del sujeto territorial con el que trabaja directamente la DCI (PR-06, PR-08); confirma que la ANSV/DCI no tienen, en el corpus ingerido, carácter de autoridad u organismo de tránsito en sentido estricto sobre los entes territoriales.
+- [Genealogía normativa de "asistencia técnica"](conceptos/genealogia-asistencia-tecnica.md) — Línea de tiempo del término desde la Ley 769/2002 (2002, autoridades de tránsito en general) hasta PR-06 (2025, DCI), pasando por el Decreto 2851/2013 (2013, Mineducación) y la reforma del Art. 7° Par. 3 del propio Código (ANSV). Hallazgo: el concepto no es una invención de la DCI; lo nuevo en 2025 es el procedimiento, no el término.
 
 ## Entidades (`entidades/`)
 
