@@ -20,7 +20,7 @@ Creada por la [Ley 1702 de 2013](../fuentes/ley-1702-de-2013-creacion-ansv.md), 
 
 ## Estructura estatutaria
 
-Siete dependencias creadas por la misma ley (Ley 1702/2013, Art. 10, p. 7):
+Siete dependencias creadas por la misma ley (Ley 1702/2013, Art. 10, p. 7), con funciones específicas desarrolladas por el [Decreto 787 de 2015](../fuentes/decreto-787-de-2015-funciones-ansv.md) (que además desagrega tres oficinas asesoras bajo la Dirección General: Jurídica, Planeación y Comunicaciones, y los órganos de asesoría y coordinación):
 1. Consejo Directivo.
 2. Dirección General.
 3. Secretaría General.
@@ -40,6 +40,7 @@ El Fondo Nacional de Seguridad Vial (Ley 1702/2013, Art. 7°) se financia con el
 ## Presencia en el corpus
 
 - [Ley 1702 de 2013](../fuentes/ley-1702-de-2013-creacion-ansv.md): ley de creación.
+- [Decreto 787 de 2015](../fuentes/decreto-787-de-2015-funciones-ansv.md): reglamenta las funciones detalladas de cada dependencia.
 - Todas las fuentes del sistema de gestión de calidad ingeridas hasta ahora (CA-02, PR-06, PR-07, PR-08, GIP-FO-05, Lineamientos de cargue de evidencias) documentan la operación de una de sus siete dependencias, la DCI.
 
 ## Incertidumbres

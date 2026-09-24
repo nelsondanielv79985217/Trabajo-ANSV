@@ -70,3 +70,13 @@ Registro cronológico, append-only. No editar entradas pasadas — solo agregar 
 - **Verificación cruzada con PR-08**: se confirmó que el Art. 15.2 de esta ley efectivamente crea el "Consejo Territorial de Seguridad Vial" (permanente, liderado por el Gobernador), como afirma PR-08 (p. 1). Con dos precisiones que se documentaron en ambas páginas: la ley usa singular y no la sigla "CTSV" (convención propia de la DCI); y no menciona a los CLSV/CDSV, cuyo origen (Resoluciones 097/2019 y 516/2022) sigue sin poder verificarse por no estar esas resoluciones en el corpus.
 - Se actualizó `index.md`: fuentes (marco normativo), entidades (ANSV, DCI).
 - Pendiente confirmación del usuario antes de continuar con la siguiente fuente del marco normativo.
+
+## [2026-09-24] ingest | Decreto 787 de 2015 (funciones de la estructura interna de la ANSV)
+
+- Se leyó completo (15 hojas) `DECRETO787 de 2015 funciones ANSV.pdf` y se creó `wiki/fuentes/decreto-787-de-2015-funciones-ansv.md`, `status: ingerido`, con citación por artículo y hoja.
+- **Hallazgo central**: el Art. 10 desarrolla las 14 funciones estatutarias específicas de la DCI (coordinar, articular, desarrollar estrategias de cooperación con entidades nacionales/regionales/locales) — es el fundamento legal/reglamentario más directo y específico de todo lo que después operativizan PR-06, PR-07 y PR-08. Se transcribieron íntegras en `wiki/entidades/dci-direccion-coordinacion-interinstitucional.md`.
+- **Hallazgo relevante para el marco teórico de la tesis**: ninguno de los 14 numerales del Art. 10 usa la expresión "asistencia técnica". El mandato legal de la DCI está formulado en términos de coordinación/articulación/cooperación; la AT como figura específica es una decisión operativa que la propia entidad adoptó después (PR-06, de 2025 — diez años más tarde), no una figura de rango legal o reglamentario en sí misma. Es un dato citable para el marco conceptual: la AT es un instrumento elegido por la entidad para cumplir un mandato más amplio, no un mandato legal autónomo.
+- Se documentó una diferencia de forma (no de fondo) entre la estructura del Art. 2 de este decreto y el Art. 10 de la Ley 1702/2013: el decreto reordena la Secretaría General y desagrega tres oficinas asesoras (Jurídica, Planeación, Comunicaciones) que la ley no itemizaba.
+- Se actualizaron las entidades DCI y ANSV, e `index.md` (fuentes, marco normativo).
+- Incertidumbre abierta: no se puede verificar si este decreto de 2015 fue modificado tras la adición de funciones a la ANSV por el Art. 177 de la Ley 2294 de 2023 (identificada en la ficha de la Ley 1702/2013) — ningún decreto modificatorio posterior está en el corpus.
+- Pendiente confirmación del usuario antes de continuar con la siguiente fuente del marco normativo.

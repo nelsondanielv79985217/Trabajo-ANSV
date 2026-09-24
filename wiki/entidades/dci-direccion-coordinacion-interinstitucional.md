@@ -14,8 +14,28 @@ Dependencia de la Agencia Nacional de Seguridad Vial (ANSV) responsable del proc
 
 La DCI no es una dependencia creada por reglamento interno: es una de las siete dependencias que integran la estructura estatutaria de la ANSV desde su ley de creación — [Ley 1702 de 2013](../fuentes/ley-1702-de-2013-creacion-ansv.md), Art. 10, numeral 6 (p. 7): "Dirección de Coordinación Interinstitucional." Ver también [ANSV — Agencia Nacional de Seguridad Vial](ansv-agencia-nacional-seguridad-vial.md).
 
+### Funciones estatutarias (Decreto 787 de 2015, Art. 10)
+
+El [Decreto 787 de 2015](../fuentes/decreto-787-de-2015-funciones-ansv.md), que reglamenta la Ley 1702/2013, desarrolla 14 funciones específicas de la DCI (Art. 10, Hojas 10–11). Es el fundamento legal/reglamentario más directo de todo lo que después operativizan PR-06, PR-07 y PR-08:
+1. Coordinar y articular la implementación y ejecución de políticas públicas, estrategias, programas, planes y proyectos en materia de seguridad vial.
+2–3. Coordinar a actores nacionales, regionales y locales en la elaboración e implementación/revisión periódica del Plan Nacional de Seguridad Vial.
+4. Desarrollar estrategias de cooperación para generar alianzas nacionales, regionales y locales.
+5. Coordinar procesos de evaluación de efectividad de normas reglamentarias de seguridad vial.
+6. Definir las obligaciones de los Organismos de Tránsito según su categorización.
+7. Coordinar la identificación y unificación de la información oficial suministrada a la ciudadanía.
+8. Coordinar la implementación de estrategias, prioridades y planes de acción de cumplimiento normativo.
+9. Identificar e informar a la Dirección General conductas que ameriten solicitar suspensión de habilitación de organismos de tránsito/apoyo o de licencias de conducción.
+10. Coordinar la divulgación de campañas de prevención vial.
+11. Coordinar, articular y apoyar acciones de los Ministerios para alineamiento con el PNSV.
+12. **Articular acciones con las entidades territoriales** para alineamiento con el PNSV.
+13. Adelantar acciones de colaboración de agentes económicos, sociales y académicos.
+14. Demás funciones asignadas.
+
+**Hallazgo relevante**: ninguno de estos 14 numerales usa la expresión "asistencia técnica". El mandato legal de la DCI está en términos de coordinación y articulación; la AT como figura específica es una decisión operativa posterior de la propia entidad (PR-06, de 2025), no una figura de rango legal o reglamentario en sí misma.
+
 ## Presencia en el corpus
 
+- [Decreto 787 de 2015](../fuentes/decreto-787-de-2015-funciones-ansv.md): fija sus 14 funciones estatutarias (Art. 10) — ver arriba.
 - [ANSV-CPP-PR-06 — Procedimiento de Asistencia Técnica](../fuentes/ansv-pr-06-procedimiento-asistencia-tecnica.md): la DCI planifica, ejecuta y hace seguimiento a las asistencias técnicas (página no registrada en esta fuente — ver incertidumbre en esa página).
 - [Anexo 1 — ANSV-CPP-CA-02, Caracterización del proceso](../fuentes/ansv-ca-02-caracterizacion-anexo1.md): la DCI es responsable/líder del proceso completo (p. 1) y ejecutora de todas sus actividades PHVA (pp. 1–2).
 - [Anexo 3 — ANSV-CPP-PR-07, Estrategias interinstitucionales](../fuentes/ansv-pr-07-estrategias-interinstitucionales.md): la DCI diseña, aprueba, implementa y da seguimiento a toda estrategia interinstitucional, de la cual la AT es solo un mecanismo de implementación posible (pp. 4, 7).
