@@ -24,4 +24,8 @@ El protocolo de asistencia técnica que propone este trabajo de grado no está c
 ## Incertidumbres
 
 - No se ha verificado en este corpus la fecha ni la norma exacta que introdujo el Parágrafo 3 del Art. 7° de la Ley 769/2002 (la mención que liga expresamente el término a la ANSV) — solo consta que es una reforma posterior a 2013, según las notas de modificación del texto consolidado de EVA-Gestor Normativo.
-- Quedan 3 fuentes de "marco normativo" y varias de "planeación sectorial" (incluido el CONPES 4091, cuyo nombre de archivo lo identifica como "asistencia técnica 4091") aún sin ingerir que podrían añadir más eslabones a esta genealogía — esta página se actualizará cuando corresponda.
+- Quedan 2 fuentes de "marco normativo" y varias de "planeación sectorial" (incluido el CONPES 4091, cuyo nombre de archivo lo identifica como "asistencia técnica 4091") aún sin ingerir que podrían añadir más eslabones a esta genealogía — esta página se actualizará cuando corresponda.
+
+## Nota (2026-09-24, tras ingerir la Ley 1383 de 2010)
+
+Se ingirió el texto primario de la [Ley 1383 de 2010](../fuentes/ley-1383-de-2010-reforma-codigo-nacional-transito.md), reforma puntual del Código anterior a la ANSV. No modifica el Art. 7° del Código (donde está la mención de 2002 a "asistencia técnica") ni menciona el término en ninguno de sus 28 artículos. Es evidencia por ausencia, no una confirmación directa, pero es consistente con la línea de tiempo ya trazada: en 2010, la cláusula de 2002 sobre "asistencia técnica" seguía intacta, y la reforma que la ligó expresamente a la ANSV (Art. 7° Par. 3) tuvo que ser necesariamente posterior a 2013.

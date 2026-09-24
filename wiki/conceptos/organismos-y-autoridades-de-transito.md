@@ -12,7 +12,7 @@ Concepto transversal que fija, desde la ley general del tránsito, quiénes son 
 
 ## Definición legal (Ley 769 de 2002)
 
-- **Autoridades de tránsito** ([Ley 769 de 2002](../fuentes/ley-769-de-2002-codigo-nacional-transito.md), Art. 3°, modificado por el Art. 2 de la Ley 1383 de 2010, p. 6): el Ministerio de Transporte; los Gobernadores y Alcaldes; los organismos de tránsito de carácter departamental, municipal o Distrital; la Policía Nacional a través de la Dirección de Tránsito y Transporte; los Inspectores de Policía, Inspectores de Tránsito, Corregidores; la Superintendencia General de Puertos y Transporte; las Fuerzas Militares (solo parágrafo 5°); los Agentes de Tránsito y Transporte.
+- **Autoridades de tránsito** ([Ley 769 de 2002](../fuentes/ley-769-de-2002-codigo-nacional-transito.md), Art. 3°, modificado por el [Art. 2 de la Ley 1383 de 2010](../fuentes/ley-1383-de-2010-reforma-codigo-nacional-transito.md), p. 1–2 en la Ley 1383/2010; p. 6 en el texto consolidado de la Ley 769/2002 — cita verificada directamente contra el texto primario de la reforma): el Ministerio de Transporte; los Gobernadores y Alcaldes; los organismos de tránsito de carácter departamental, municipal o Distrital; la Policía Nacional a través de la Dirección de Tránsito y Transporte; los Inspectores de Policía, Inspectores de Tránsito, Corregidores; la Superintendencia General de Puertos y Transporte; las Fuerzas Militares (solo parágrafo 5°); los Agentes de Tránsito y Transporte.
 - **Organismos de tránsito** (Ley 769/2002, Art. 6°, p. 7): departamentos administrativos, institutos distritales y/o municipales de tránsito; entes designados por la autoridad local en municipios sin autoridad de tránsito propia; secretarías municipales, distritales o departamentales de tránsito.
 - **Orientación legal de su actuación** (Ley 769/2002, Art. 7°, p. 8): "Sus funciones serán de carácter regulatorio y sancionatorio y sus acciones deben ser orientadas a la prevención y la asistencia técnica y humana a los usuarios de las vías" — ver [genealogía de "asistencia técnica"](genealogia-asistencia-tecnica.md).
 
@@ -29,3 +29,7 @@ La Ley 769/2002 no menciona a la DCI ni a la ANSV en la definición misma de aut
 ## Incertidumbres
 
 - No se ha verificado en este corpus si alguna norma posterior (fuera de las cinco menciones a la ANSV catalogadas en la página de la Ley 769/2002) modifica los Arts. 3, 6 o 7 para incluir expresamente a la ANSV o la DCI como autoridad u organismo de tránsito.
+
+## Nota (2026-09-24, tras ingerir la Ley 1383 de 2010)
+
+Se ingirió el texto primario de la [Ley 1383 de 2010](../fuentes/ley-1383-de-2010-reforma-codigo-nacional-transito.md), que reforma puntualmente el Código. Confirma directamente (no solo por referencia de EVA-Gestor Normativo) que el Art. 3° vigente es el de esta reforma de 2010. La ley es anterior en tres años a la ANSV y no la menciona — consistente con el hallazgo de que la relación ANSV/DCI–organismos de tránsito territoriales sigue siendo de coordinación, no de autoridad jerárquica directa.
