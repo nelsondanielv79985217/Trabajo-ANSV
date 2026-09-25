@@ -70,6 +70,10 @@ La [Ley 2251 de 2022](../fuentes/ley-2251-de-2022-sistema-seguro.md) ("Ley Juli�
 
 Ninguna de estas diez competencias se refiere a la asistencia técnica territorial de la DCI. La ley no menciona la asistencia técnica ni a la DCI en ningún artículo.
 
+## Hallazgo — ausencia de la ANSV en la política nacional de Asistencia Técnica Territorial
+
+El [CONPES 4091 de 2022](../fuentes/conpes-4091-de-2022-politica-asistencia-tecnica-territorial.md), la Política Nacional de Asistencia Técnica Territorial liderada por el DNP (el documento de política pública de mayor jerarquía en Colombia sobre este tema), **no menciona a la ANSV ni a la DCI en ningún punto de sus 46 páginas**. Las entidades responsables de esa política son el DNP, el DAFP, el Ministerio de Hacienda, la APC-Colombia y la ESAP; los sectores que cita como antecedentes de AT territorial son agua potable/saneamiento básico, salud, educación, víctimas y bienestar familiar — no seguridad vial. Es un hallazgo relevante para el trabajo de asesoría en la DCI: la asistencia técnica que presta la ANSV/DCI en seguridad vial no aparece integrada, ni siquiera referenciada, en la arquitectura nacional de ATT que coordina el DNP (Agenda Nacional de ATT, portafolio interactivo, Modelo de ATT, sistema de seguimiento). Cualquier producto que busque situar el protocolo de AT de la DCI frente a esa política nacional debe partir de esa ausencia, no asumir una articulación que ninguna fuente confirma.
+
 ## Presencia en el corpus
 
 - [Ley 1702 de 2013](../fuentes/ley-1702-de-2013-creacion-ansv.md): ley de creación.
@@ -79,9 +83,11 @@ Ninguna de estas diez competencias se refiere a la asistencia técnica territori
 - [Ley 1383 de 2010](../fuentes/ley-1383-de-2010-reforma-codigo-nacional-transito.md): reforma del Código anterior a la ANSV; no la menciona.
 - [Ley 2251 de 2022](../fuentes/ley-2251-de-2022-sistema-seguro.md): diez competencias adicionales (ver arriba) — la fuente más densa del corpus en cuanto a número de competencias ANSV.
 - Todas las fuentes del sistema de gestión de calidad ingeridas hasta ahora (CA-02, PR-06, PR-07, PR-08, GIP-FO-05, Lineamientos de cargue de evidencias) documentan la operación de una de sus siete dependencias, la DCI.
+- [CONPES 4091 de 2022](../fuentes/conpes-4091-de-2022-politica-asistencia-tecnica-territorial.md): **ausencia notable** — no menciona a la ANSV ni a la DCI (ver hallazgo arriba).
 
 ## Incertidumbres
 
 - No se ha verificado en este corpus el contenido de las normas posteriores que modifican la Ley 1702/2013 (Ley 2294 de 2023 Art. 177, Ley 2222 de 2022 Art. 3) ni el Decreto 1479 de 2014 — ver incertidumbres en la página de la ley.
 - No se han verificado en este corpus las normas específicas que introdujeron cada una de las cinco competencias catalogadas arriba en la Ley 769/2002 (más allá de lo que anota EVA-Gestor Normativo dentro del propio texto), salvo el Art. 158A (Ley 2251 de 2022, Art. 18).
+- No se ha verificado si, con posterioridad a 2022, algún documento (no incluido en este corpus) articuló expresamente a la ANSV/DCI con la Política Nacional de Asistencia Técnica Territorial del CONPES 4091.
 - No se identifica en este corpus la norma que expide la "Metodología para establecer la velocidad límite en las vías colombianas" que tanto la Ley 769/2002 como la Ley 2251/2022 dan por hecho que la ANSV expedirá junto con Mintransporte.
