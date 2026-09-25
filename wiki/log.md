@@ -402,3 +402,12 @@ Registro cronológico, append-only. No editar entradas pasadas — solo agregar 
 - Se actualizó `wiki/entidades/dci-direccion-coordinacion-interinstitucional.md` con la confirmación fechada de Mateus Perafán.
 - Se actualizó `index.md` (fuentes: 41→42 de 45; productos propios: 1/4).
 - Continúo directamente con la siguiente fuente de la categoría (`48 Producto 2 Estado del arte Version 5 .pdf`), sin pausar.
+
+## [2026-09-25] ingest | Producto 2 — Estado del Arte: seguridad vial de motociclistas (Consorcio Prevención Motovial)
+
+- Se leyó (180 páginas; convertido con `pdftotext -layout`; lectura completa del resumen ejecutivo, introducción y secciones 6-7, síntesis estructural del resto dada su extensión) y se creó `wiki/fuentes/producto2-estado-del-arte-motociclistas.md`, `status: ingerido`.
+- Es el "Producto 2" de una consultoría real de la ANSV/DCI con el Consorcio Prevención Motovial (Director: Luis Alejandro Rodríguez), para fundamentar una guía nacional de reducción de siniestralidad de motociclistas. **Hallazgo institucional**: el supervisor del contrato por la DCI es Nelson Daniel Vega — nombre coincidente con el titular de este repositorio; se registra como dato del documento, sin inferencias adicionales.
+- Desarrolla en profundidad, con ~107 fuentes sistematizadas y benchmarking internacional (UE, México, Argentina, Australia, Brasil), las 8 áreas del Sistema Seguro aplicadas a motociclistas — se actualizó `wiki/conceptos/sistema-seguro-enfoque-politica-seguridad-vial.md` con la referencia cruzada.
+- Conclusión central del documento: el andamiaje jurídico colombiano ya es suficiente para operar bajo Sistema Seguro; la brecha real está en la ejecución territorial estandarizada (estandarización operativa, interoperabilidad de datos, ejecutabilidad sancionatoria, vigilancia de mercado, gestión de la exposición).
+- Se actualizó `index.md` (fuentes: 42→43 de 45; productos propios: 2/4).
+- Continúo directamente con la siguiente fuente de la categoría (`59 Producto 3. Caracterización Version final V 3.1 (30012026).pdf`), sin pausar.
