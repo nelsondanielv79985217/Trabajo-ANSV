@@ -317,3 +317,14 @@ Registro cronológico, append-only. No editar entradas pasadas — solo agregar 
 - Se actualizó `wiki/entidades/dci-direccion-coordinacion-interinstitucional.md` con esta nueva confirmación.
 - Se actualizó `index.md` (fuentes: 28→29 de 45; correspondencia oficial: 2/7).
 - Continúo directamente con la siguiente fuente de correspondencia oficial (`OFICIO GOBERNADORES Y ALCALDES PLAN 365 E INSTANCIAS.docx`), sin pausar.
+
+## [2026-09-25] ingest | Oficio (plantilla) — Gobernadores y Alcaldes: Plan 365 e Instancias
+
+- Se leyó completo `OFICIO GOBERNADORES Y ALCALDES PLAN 365 E INSTANCIAS.docx` (convertido con `pandoc`) y se creó `wiki/fuentes/oficio-gobernadores-alcaldes-plan-365-instancias.md`, `status: ingerido`. Otra plantilla ORFEO sin radicado diligenciado.
+- Dirigido a gobernadores y alcaldes: reitera la obligación de conformar/activar/consolidar CLSV, CDSV y CTSV, con periodicidad mínima de 4 sesiones anuales, y exige a las entidades territoriales un "Plan de Acción" 2026 en armonía con las 8 áreas del enfoque de Sistema Seguro.
+- **Hallazgo**: aporta contenido parcial nuevo sobre la **Resolución 516 de 2022** ("Por la cual se crea y estructura el Consejo Territorial de Seguridad Vial"), citada hasta ahora solo indirectamente por PR-08 sin poder verificar su contenido — se actualizó la incertidumbre correspondiente en `wiki/fuentes/ansv-pr-08-instancias-territoriales.md` (parcialmente esclarecida, no resuelta del todo: sigue sin conocerse el texto íntegro).
+- Introduce el "equipo de Regionalización" adscrito a la DCI — no se determina si es el mismo "Equipo de Enlaces Territoriales" (Línea Territorial, Resolución 007/2023) con otro nombre o un equipo distinto; se registró como incertidumbre nueva en `wiki/entidades/dci-direccion-coordinacion-interinstitucional.md`.
+- Cuarta confirmación consecutiva de Paula Katerine Ramos Navarro como Directora de la DCI; confirma la vinculación de César Mauricio Salcedo como contratista DCI hasta 2025 (ya conocido desde la Resolución 583/2023, octubre de 2023).
+- Reproduce textualmente la frase sobre "asistencia técnica" ya registrada en la Circular Conjunta 023/2025 (p. 5) — no se creó eslabón nuevo en la genealogía del término, es un uso consistente, no distinto.
+- Se actualizó `index.md` (fuentes: 29→30 de 45; correspondencia oficial: 3/7).
+- Continúo directamente con la siguiente fuente de correspondencia oficial (`ORFEO_Oficio_ANSV_2024 (22) super y procuraduría.docx`), sin pausar.

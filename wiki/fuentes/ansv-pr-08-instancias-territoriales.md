@@ -61,8 +61,9 @@ Es el **Anexo 4** que [ANSV-CPP-PR-06](ansv-pr-06-procedimiento-asistencia-tecni
 - [Jerarquía documental del proceso de Coordinación y Articulación Interinstitucional](../conceptos/jerarquia-documental-coordinacion-interinstitucional-dci.md): actualizada con este hallazgo.
 - [DCI — Dirección de Coordinación Interinstitucional](../entidades/dci-direccion-coordinacion-interinstitucional.md): actualizada con los datos de autoría de PR-08.
 - [Ley 1702 de 2013](ley-1702-de-2013-creacion-ansv.md): fuente legal citada como creadora de los CTSV (p. 1); **ingerida y verificada** — ver nota en "Contenido clave" arriba.
+- [Oficio Gobernadores y Alcaldes — Plan 365 e Instancias](oficio-gobernadores-alcaldes-plan-365-instancias.md): aporta contenido parcial nuevo sobre la Resolución 516/2022 — ver incertidumbre abajo.
 
 ## Incertidumbres
 
-- Las Resoluciones 097 de 2019 y 516 de 2022, citadas como reglamentarias de los CTSV (p. 1), no forman parte de los documentos cargados en este repositorio — no se puede verificar su contenido desde esta wiki. `[INCIERTO: contenido de las Resoluciones 097/2019 y 516/2022, no incluidas en el corpus]`.
+- Las Resoluciones 097 de 2019 y 516 de 2022, citadas como reglamentarias de los CTSV (p. 1), no forman parte de los documentos cargados en este repositorio — no se puede verificar su contenido completo desde esta wiki. **Parcialmente esclarecido (2026-09-25)**: el [Oficio Gobernadores y Alcaldes — Plan 365 e Instancias](oficio-gobernadores-alcaldes-plan-365-instancias.md) cita su objeto textual ("Resolución 516 de agosto de 2022, 'Por la cual se crea y estructura el Consejo Territorial de Seguridad Vial'") y algunas de sus funciones (seguimiento de comités municipales, planificación de acciones, campañas pedagógicas, observatorios de seguridad vial) — pero no su texto íntegro. `[INCIERTO: texto completo de las Resoluciones 097/2019 y 516/2022, no incluidas en el corpus]`.
 - No se determina en el texto si "Alvaro Andrés Alfonso Gonzalez" (revisor, p. 9) participa en otros documentos del corpus aún no ingeridos.
