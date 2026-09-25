@@ -2,7 +2,7 @@
 
 Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos de trabajo (INGEST/QUERY/LINT).
 
-**Estado general (2026-09-25):** 37 de 45 fuentes con página propia en `fuentes/` (PR-06 sigue `incierto` por falta de citación por página; las demás, ingeridas con citación completa). Las categorías **Procedimientos y anexos SGC (6/6)**, **Marco normativo (11/11)**, **Planeación sectorial (6/6)**, **Protocolos operativos y Plan 365 (4/4)**, **Correspondencia oficial (7/7)**, **Conceptos jurídicos y laborales (2/2)** y **Contratación (1/1)** quedan completas. 3 entidades (DCI, ANSV, Corporación Fondo de Prevención Vial) y 5 conceptos (jerarquía documental del proceso DCI; Plan Estratégico de Seguridad Vial — PESV; Organismos y autoridades de tránsito; Genealogía normativa de "asistencia técnica"; Sistema Seguro — enfoque de la política de seguridad vial) creados. Las 8 fuentes restantes (Financiamiento y cooperación 4, Productos propios 4) están relevadas por nombre de archivo únicamente; ninguna fue leída todavía. *Nota (2026-09-25): la wiki ya no se construye como insumo de tesis, sino como base de conocimiento para agentes de asesoría del usuario en la DCI/ANSV — ver `CLAUDE.md` y `log.md`.* *Nota (2026-09-25): el usuario pidió continuar el INGEST de las fuentes restantes sin pausar a pedir autorización entre cada una — ver `CLAUDE.md` y `log.md`.* *(Corrección 2026-09-24: el conteo inicial de "46 fuentes" del setup era erróneo — son 45; ver `log.md`.)*
+**Estado general (2026-09-25):** 41 de 45 fuentes con página propia en `fuentes/` (PR-06 sigue `incierto` por falta de citación por página; las demás, ingeridas con citación completa). Las categorías **Procedimientos y anexos SGC (6/6)**, **Marco normativo (11/11)**, **Planeación sectorial (6/6)**, **Protocolos operativos y Plan 365 (4/4)**, **Correspondencia oficial (7/7)**, **Conceptos jurídicos y laborales (2/2)**, **Contratación (1/1)** y **Financiamiento y cooperación (4/4)** quedan completas. 3 entidades (DCI, ANSV, Corporación Fondo de Prevención Vial) y 5 conceptos (jerarquía documental del proceso DCI; Plan Estratégico de Seguridad Vial — PESV; Organismos y autoridades de tránsito; Genealogía normativa de "asistencia técnica"; Sistema Seguro — enfoque de la política de seguridad vial) creados. Solo quedan pendientes las 4 fuentes de **Productos propios del proyecto**, relevadas por nombre de archivo únicamente; ninguna fue leída todavía. *Nota (2026-09-25): la wiki ya no se construye como insumo de tesis, sino como base de conocimiento para agentes de asesoría del usuario en la DCI/ANSV — ver `CLAUDE.md` y `log.md`.* *Nota (2026-09-25): el usuario pidió continuar el INGEST de las fuentes restantes sin pausar a pedir autorización entre cada una — ver `CLAUDE.md` y `log.md`.* *(Corrección 2026-09-24: el conteo inicial de "46 fuentes" del setup era erróneo — son 45; ver `log.md`.)*
 
 ## Fuentes (`fuentes/`)
 
@@ -69,12 +69,12 @@ Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos 
 
 - [Manual Unificado de Contratación ANSV (ANSV-CON-MG-01, V4)](fuentes/manual-unificado-contratacion-ansv.md) — Regula el proceso de gestión contractual de la ANSV (régimen público) y el Fondo Nacional de Seguridad Vial (régimen privado, vía fiducia); competencias, comité de contratación, modalidades de selección y cuantías, supervisión, régimen sancionatorio y liquidación. Instrumento genérico, sin mención específica a la DCI. (ingerido)
 
-### Financiamiento y cooperación (4)
+### Financiamiento y cooperación (4, 4 ingeridas — completo)
 
-- 2026-05-13_ Cooperación internacional Documento Base.pdf — (pendiente-ingest)
-- 2026-05-13_Alianzas privadas.pdf — (pendiente-ingest)
-- 2026-05-13_Apalancamiento público.pdf — (pendiente-ingest)
-- 2026-08-20_ABC- Apalancamiento de recursos_R4.pdf — (pendiente-ingest)
+- [ABC del apalancamiento de recursos para la seguridad vial territorial](fuentes/abc-apalancamiento-recursos-seguridad-vial.md) — Documento matriz (163 páginas) de la serie de apalancamiento: marco conceptual, fuentes tradicionales, socios externos, mecanismos innovadores (FPR, crowdfunding, finanzas mixtas, bonos temáticos), ruta metodológica y recomendaciones. Cita el contrato ANSV-035-2025. (ingerido)
+- [Apalancamiento de Recursos — Cooperación Internacional (Documento Base)](fuentes/apalancamiento-cooperacion-internacional-base.md) — Plantilla y guía para estructurar propuestas de cooperación internacional en seguridad vial; caso ilustrativo hipotético (Buenaventura). (ingerido)
+- [Apalancamiento de Recursos — Alianzas Privadas](fuentes/apalancamiento-alianzas-privadas.md) — Plantilla y guía para invitar al sector privado (RSE/ESG) a alianzas de seguridad vial; caso ilustrativo con empresa ficticia (Tocancipá). (ingerido)
+- [Apalancamiento de Recursos — Apalancamiento Público (Entidades Públicas)](fuentes/apalancamiento-publico-entidades.md) — Plantilla y guía para solicitar cofinanciación pública (MGA/SGR); caso ilustrativo (Aguachica). (ingerido)
 
 ### Productos propios del proyecto / análisis técnico (4)
 
