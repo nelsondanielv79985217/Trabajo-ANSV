@@ -254,3 +254,14 @@ Registro cronológico, append-only. No editar entradas pasadas — solo agregar 
 - **Hallazgo — inconsistencia terminológica dentro de la misma familia de instrumentos**: a diferencia del Plan 70D, que usa expresamente "asistencia técnica a las autoridades", este anexo no usa el término en ningún punto (usa "pedagogía, presencia institucional y... vigilancia y control"). Se actualizó `wiki/conceptos/genealogia-asistencia-tecnica.md` con esta evidencia de inconsistencia, y se actualizó `wiki/fuentes/plan-70d-sector-transporte.md` con el cruce.
 - Se actualizó `index.md` (fuentes: 22→23 de 45; **planeación sectorial completa, 6/6**).
 - Continúo directamente con la siguiente categoría del corpus (protocolos operativos y Plan 365, 4 fuentes: Protocolo Prácticas Seguras Motociclistas, Circular Conjunta Plan 365, Análisis de Reportes Organismos de Tránsito Plan 365, Circular Externa Videos Infracciones), sin pausar.
+
+## [2026-09-25] ingest | Protocolo de Prácticas Seguras para Motociclistas
+
+- Se leyó completo (87 páginas, documento de diseño editorial con infografías) y se creó `wiki/fuentes/protocolo-practicas-seguras-motociclistas.md`, `status: ingerido`, con citación por página.
+- Es un protocolo conjunto Ministerio de Trabajo–ANSV (Dirección de Comportamiento, versión actualizada 2023 sobre la original de 2020 del Consejo Colombiano de Seguridad), dirigido a empleadores/trabajadores que usan motocicleta como herramienta de trabajo — dominio distinto al de la DCI. No menciona a la DCI ni el término "asistencia técnica" en ningún punto.
+- **Hallazgo — confirmación del cargo de Darío Rincón Jaramillo**: la portada de 2023 lo lista como "Director de Comportamiento, ANSV", confirmando con fecha su cargo sustantivo, consistente con lo ya documentado en la entidad DCI (donde aparece como director encargado de la DCI en octubre de 2023).
+- **Hallazgo — precisión sobre la metodología PESV vigente**: confirma que la **Resolución 40595 de 2022** (Mintransporte) es la metodología PESV actualmente vigente, organizada en al menos 17 "pasos" — precisa lo que el PNSV 2022-2031 ya señalaba sobre una nueva metodología de 2020 basada en la Resolución 1565/2014 (posible actualización posterior, sin confirmación expresa de sucesión). Se actualizó `wiki/conceptos/plan-estrategico-seguridad-vial-pesv.md`.
+- Aporta varias citas normativas nuevas no verificadas en el corpus (Ley 1239/2008, Ley 1562/2012, Decreto 4125/2008, resoluciones técnicas de cascos/frenos/llantas para motocicletas).
+- Nota: el documento reporta dos cifras distintas de fallecidos 2022 (8.264 y 8.271), ambas atribuidas al ONSV, sin explicar la diferencia — registrado como incertidumbre menor.
+- Se actualizó `index.md` (fuentes: 23→24 de 45; protocolos operativos: 1/4 ingerida).
+- Continúo directamente con la siguiente fuente de protocolos operativos (Circular Conjunta Plan 365 ANSV), sin pausar.
