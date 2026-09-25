@@ -3,13 +3,13 @@ title: "ANSV — Agencia Nacional de Seguridad Vial"
 type: entidad
 tags: [ansv, marco-normativo, dci, consejo-directivo, fondo-nacional-seguridad-vial]
 status: ingerido
-last_updated: 2026-09-24
+last_updated: 2026-09-25
 ---
 
 
 # ANSV — Agencia Nacional de Seguridad Vial
 
-Entidad matriz de todo el corpus de este trabajo de grado. Aunque la ANSV aparecía mencionada desde la primera fuente ingerida (PR-06), no tenía página propia porque, hasta ingerir su ley de creación, ninguna fuente había tratado a la ANSV como objeto central en sí misma — se mencionaba siempre en función de la DCI o de un procedimiento específico.
+Entidad matriz de todo el corpus de este proyecto. Aunque la ANSV aparecía mencionada desde la primera fuente ingerida (PR-06), no tenía página propia porque, hasta ingerir su ley de creación, ninguna fuente había tratado a la ANSV como objeto central en sí misma — se mencionaba siempre en función de la DCI o de un procedimiento específico.
 
 ## Naturaleza jurídica y creación
 
@@ -32,7 +32,7 @@ Siete dependencias creadas por la misma ley (Ley 1702/2013, Art. 10, p. 7), con 
 
 **Consejo Directivo** (Art. 12): 9 miembros — Secretario General de la Presidencia (preside), Ministro de Transporte, Ministro de Salud, Ministro de Educación (o sus delegados), Viceministro de Transporte, Director de Planeación Nacional, Director de la Policía de Tránsito y Transporte, un Gobernador y un Alcalde.
 
-**Instancias de apoyo** (Art. 15): Comisiones Interministeriales (temporales), el Consejo Territorial de Seguridad Vial (permanente, base legal de lo que [PR-08](../fuentes/ansv-pr-08-instancias-territoriales.md) llama CTSV — ver esa fuente para la verificación cruzada de nomenclatura), el Comité Operativo y el Consejo Consultivo de Seguridad Vial.
+**Instancias de apoyo** (Art. 15): Comisiones Interministeriales (temporales), el Consejo Territorial de Seguridad Vial (permanente, base legal de lo que [PR-08](../fuentes/ansv-pr-08-instancias-territoriales.md) llama CTSV — ver esa fuente para la verificación cruzada de nomenclatura), el Comité Operativo y el Consejo Consultivo de Seguridad Vial. El [PNSV 2022-2031](../fuentes/pnsv-2022-2031-documento-tecnico-soporte.md) confirma esta lista y añade el **Consejo Operativo de Seguridad Vial** (Resolución 083 de 2019: ANSV, Mintransporte, Policía, ANI e Invías) y las **Mesas de Articulación Interinstitucional (MAI)** — ver [DCI](dci-direccion-coordinacion-interinstitucional.md) — como instancias adicionales no creadas directamente por la Ley 1702/2013 sino por acto administrativo posterior de la propia ANSV.
 
 ## Financiamiento
 
@@ -74,9 +74,18 @@ Ninguna de estas diez competencias se refiere a la asistencia técnica territori
 
 El [CONPES 4091 de 2022](../fuentes/conpes-4091-de-2022-politica-asistencia-tecnica-territorial.md), la Política Nacional de Asistencia Técnica Territorial liderada por el DNP (el documento de política pública de mayor jerarquía en Colombia sobre este tema), **no menciona a la ANSV ni a la DCI en ningún punto de sus 46 páginas**. Las entidades responsables de esa política son el DNP, el DAFP, el Ministerio de Hacienda, la APC-Colombia y la ESAP; los sectores que cita como antecedentes de AT territorial son agua potable/saneamiento básico, salud, educación, víctimas y bienestar familiar — no seguridad vial. Es un hallazgo relevante para el trabajo de asesoría en la DCI: la asistencia técnica que presta la ANSV/DCI en seguridad vial no aparece integrada, ni siquiera referenciada, en la arquitectura nacional de ATT que coordina el DNP (Agenda Nacional de ATT, portafolio interactivo, Modelo de ATT, sistema de seguimiento). Cualquier producto que busque situar el protocolo de AT de la DCI frente a esa política nacional debe partir de esa ausencia, no asumir una articulación que ninguna fuente confirma.
 
+## El PNSV 2022-2031 — autocrítica institucional y gestión del conocimiento
+
+El [PNSV 2022-2031](../fuentes/pnsv-2022-2031-documento-tecnico-soporte.md) (documento técnico de soporte, 214 páginas, capítulo de Gobernanza) contiene una autoevaluación explícita de la propia ANSV, útil para cualquier producto de asesoría que necesite diagnosticar honestamente el estado de la gestión institucional: según la evaluación del PNSV 2011-2021, el **86,7 % de las entidades del orden nacional con responsabilidades asignadas tuvo dificultades para cumplirlas** (28,9 % en riesgo alto, 57,8 % en riesgo medio, solo 13,3 % en riesgo bajo). El documento también reconoce debilidades en la calidad de los datos de siniestralidad (subregistro en el IPAT), en la articulación con la academia y con el sector privado, y en la falta de claridad normativa sobre las responsabilidades de las entidades territoriales en seguridad vial.
+
+**Observatorio Nacional de Seguridad Vial (ONSV)**: una de las siete dependencias estatutarias; miembro del IRTAD (OCDE) y del OISEVI. Lidera la **Red de Observatorios Territoriales de Seguridad Vial (ROT)**, creada mediante Acuerdo de Entendimiento ANSV-006-2021 (10 de marzo de 2021), con cobertura a 2021 de 23 departamentos y 75 municipios.
+
+**Directores Generales de la ANSV identificados en el corpus, con fecha**: Juan Carlos Beltrán Bedoya (5 de enero de 2023, firma la [Resolución 007 de 2023](../fuentes/resolucion-007-de-2023-mesas-articulacion-interinstitucional.md)) → Mariantonia Tabares Pulgarín (10 de octubre de 2023, firma la [Resolución 583 de 2023](../fuentes/resolucion-583-de-2023-armonizacion-plsv-pnsv.md)) — cambio de Dirección General entre esas dos fechas, sin fuente en el corpus que lo explique.
+
 ## Presencia en el corpus
 
 - [Ley 1702 de 2013](../fuentes/ley-1702-de-2013-creacion-ansv.md): ley de creación.
+- [PNSV 2022-2031 — Documento técnico de soporte](../fuentes/pnsv-2022-2031-documento-tecnico-soporte.md): plan vigente de la ANSV (Decreto 1430/2022); autocrítica institucional, ONSV/ROT, indicadores de asistencia técnica — ver arriba.
 - [Decreto 787 de 2015](../fuentes/decreto-787-de-2015-funciones-ansv.md): reglamenta las funciones detalladas de cada dependencia.
 - [Ley 1503 de 2011](../fuentes/ley-1503-de-2011-habitos-comportamientos-seguros.md), Art. 12A: competencia en el programa pedagógico de PESV (ver arriba).
 - [Ley 769 de 2002](../fuentes/ley-769-de-2002-codigo-nacional-transito.md): cinco competencias adicionales insertadas por reforma posterior (ver arriba).

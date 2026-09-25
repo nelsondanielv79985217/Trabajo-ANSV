@@ -3,12 +3,12 @@ title: "Sistema Seguro — enfoque de la política de seguridad vial"
 type: concepto
 tags: [sistema-seguro, safe-system, politica-publica, ansv, marco-teorico]
 status: ingerido
-last_updated: 2026-09-24
+last_updated: 2026-09-25
 ---
 
 # Sistema Seguro — enfoque de la política de seguridad vial
 
-Concepto transversal, con una única fuente hasta ahora, pero de relevancia potencial para el marco teórico de la tesis: es el paradigma normativo con el que el Congreso de Colombia ordena, desde 2022, diseñar e implementar toda la política pública de seguridad vial del país.
+Concepto transversal, de relevancia central para cualquier producto de asesoría que la DCI produzca sobre seguridad vial: es el paradigma normativo con el que el Congreso de Colombia ordena, desde 2022, diseñar e implementar toda la política pública de seguridad vial del país, y el marco bajo el cual opera el PNSV 2022-2031 vigente.
 
 ## Definición legal
 
@@ -20,29 +20,28 @@ Los otros tres principios que la ley asocia al Sistema Seguro (Art. 2°, lits. b
 
 ## El Plan Nacional de Seguridad Vial 2022-2031 y sus ocho áreas de acción
 
-La [Resolución 583 de 2023](../fuentes/resolucion-583-de-2023-armonizacion-plsv-pnsv.md) (ANSV), Considerandos (p. 2), cita el **Decreto 1430 de 2022** (29 de julio de 2022 — norma que **no está en este corpus**, conocida aquí solo por esta referencia indirecta) como el acto que aprobó el "Plan Nacional de Seguridad Vial 2022-2031" y que, mediante él, "adoptó el enfoque de Sistema Seguro en Colombia", definiendo ocho áreas de acción: **velocidades seguras, vehículos seguros, infraestructura vial segura, comportamiento seguro en los actores viales, cumplimiento de normas de tránsito en materia de seguridad vial, atención integral a víctimas de siniestros viales, gobernanza y gestión del conocimiento.**
+El [PNSV 2022-2031](../fuentes/pnsv-2022-2031-documento-tecnico-soporte.md) (Decreto 1430 de 2022, 29 de julio de 2022; documento técnico de soporte ya ingerido íntegramente, 214 páginas) es el instrumento que desarrolla el enfoque de Sistema Seguro en Colombia, organizado en ocho áreas de acción: **velocidades seguras, vehículos seguros, infraestructura vial segura, comportamiento seguro en los actores viales, cumplimiento de normas de tránsito en materia de seguridad vial, atención integral a víctimas de siniestros viales, gobernanza y gestión del conocimiento.** Esta estructura fue citada antes de forma indirecta por la [Resolución 583 de 2023](../fuentes/resolucion-583-de-2023-armonizacion-plsv-pnsv.md) y la [Resolución 007 de 2023](../fuentes/resolucion-007-de-2023-mesas-articulacion-interinstitucional.md); ahora está confirmada contra el texto primario completo del PNSV.
 
-Es la primera vez que el corpus documenta el área de acción **"gobernanza"** dentro del enfoque de Sistema Seguro — un punto de contacto textual plausible con la función coordinadora de la DCI, pero no una vinculación expresa: ni el Decreto 1430/2022 (no incluido) ni la Resolución 583/2023 (que solo lo cita de forma indirecta) mencionan a la DCI ni a la asistencia técnica territorial en relación con esa área de acción específica.
+## Gobernanza y asistencia técnica — confirmado con texto primario, y medido con indicadores oficiales
 
-## Actualización (2026-09-24, tras ingerir la Resolución 007 de 2023): el PNSV 2022-2031 sí nombra la "asistencia técnica" territorial
+El área de acción **Gobernanza** del PNSV incluye la acción nacional "Ofrecer asistencia técnica a las entidades territoriales para la adopción del enfoque Sistema Seguro" (p. 123): "implementación de una estrategia de asistencia técnica y pedagógica dirigida a las entidades territoriales con el fin de fortalecer el conocimiento del enfoque Sistema Seguro y ofrecer acompañamiento en la gestión de los factores de riesgo de la seguridad vial y generar conocimiento en la formulación de los planes locales de seguridad vial" — replicada, con matices, en las ocho estrategias regionales del Plan.
 
-La [Resolución 007 de 2023](../fuentes/resolucion-007-de-2023-mesas-articulacion-interinstitucional.md) (ANSV), Considerando (p. 3), cita también al PNSV 2022-2031/Decreto 1430 de 2022, y aporta una cita más específica que la de la Resolución 583/2023: el PNSV incluye entre sus acciones "fortalecer las políticas públicas territoriales para la protección de la vida de los actores viales, **asistiendo técnicamente a las entidades territoriales en la gestión de la Seguridad Vial**". Esto sí es un vínculo textual —aunque indirecto, vía dos resoluciones que citan un decreto no incluido en el corpus— entre el marco de Sistema Seguro/PNSV 2022-2031 y la asistencia técnica territorial. Ver desarrollo en [Genealogía normativa de "asistencia técnica"](genealogia-asistencia-tecnica.md).
+Más importante aún para el trabajo de asesoría: el PNSV **mide** esta asistencia técnica con indicadores oficiales y metas a 2031 (Tabla 18, pp. 199–200), entre ellos el más directamente ligado a Sistema Seguro: **"Municipios asistidos técnicamente en la implementación del enfoque de Sistema Seguro"** (línea base 2021: 24 %; meta 2031: 41 %). Ver el conjunto completo de indicadores de "asistencia técnica" en [Genealogía normativa de "asistencia técnica"](genealogia-asistencia-tecnica.md).
 
-**Lo que esta cita no dice, y que sigue sin poder afirmarse**: ni esta cita ni ninguna otra fuente del corpus identifican a la DCI por su nombre, ni al procedimiento PR-06 específicamente, como el mecanismo mediante el cual el PNSV 2022-2031 "asiste técnicamente" a las entidades territoriales. Es razonable inferir que la DCI —única dependencia de la ANSV con funciones de coordinación territorial documentadas— sería la ejecutora natural de esa acción del PNSV, pero esa inferencia sigue siendo una construcción argumentativa del autor de la tesis, no un hallazgo textual.
+**Lo que estas citas no dicen, y que sigue sin poder afirmarse**: ni estos indicadores ni ninguna otra fuente del corpus identifican a la DCI por su nombre, ni al procedimiento PR-06 específicamente, como el mecanismo mediante el cual el PNSV 2022-2031 "asiste técnicamente" a las entidades territoriales — el PNSV atribuye estas acciones e indicadores de forma general "a la ANSV". Es razonable inferir que la DCI —única dependencia de la ANSV con funciones de coordinación territorial documentadas— sería la ejecutora natural de esa acción del PNSV y aportaría al indicador de Gobernanza, pero esa inferencia sigue siendo una construcción propia de quien redacte el producto de asesoría, no un hallazgo textual, y debe presentarse marcada como tal.
 
-## Relevancia para el trabajo de grado
+## Relevancia para el trabajo de asesoría en la DCI/ANSV
 
-`[INCIERTO]` Con la Resolución 007/2023, el vínculo entre Sistema Seguro/PNSV 2022-2031 y "asistencia técnica" territorial deja de ser una inferencia propia y pasa a tener respaldo textual (aunque indirecto). Lo que sigue siendo interpretación propia del autor, no hallazgo de fuente, es identificar a la DCI y a PR-06 como el mecanismo concreto de esa asistencia técnica del PNSV — eso debe presentarse marcado como tal.
+Con el PNSV 2022-2031 ya ingerido íntegramente, el vínculo entre Sistema Seguro y "asistencia técnica" territorial deja de ser una inferencia y tiene respaldo textual directo, incluidos indicadores oficiales medibles. Lo que sigue siendo interpretación propia de quien redacte el producto, no hallazgo de fuente, es identificar a la DCI y a PR-06 como el mecanismo concreto de esa asistencia técnica del PNSV — eso debe presentarse marcado como tal en cualquier oficio, concepto o informe.
 
 ## Presencia en el corpus
 
 - [Ley 2251 de 2022](../fuentes/ley-2251-de-2022-sistema-seguro.md): fuente que lo define, Arts. 1°–2°.
-- [Resolución 583 de 2023](../fuentes/resolucion-583-de-2023-armonizacion-plsv-pnsv.md): cita indirecta del Decreto 1430/2022 (PNSV 2022-2031) y sus ocho áreas de acción.
-- [Resolución 007 de 2023](../fuentes/resolucion-007-de-2023-mesas-articulacion-interinstitucional.md): cita indirecta del PNSV 2022-2031 vinculando expresamente "asistencia técnica" con entidades territoriales.
+- [PNSV 2022-2031](../fuentes/pnsv-2022-2031-documento-tecnico-soporte.md): fuente primaria completa; desarrolla las ocho áreas de acción, la acción de Gobernanza sobre asistencia técnica, y los indicadores oficiales con metas a 2031.
+- [Resolución 583 de 2023](../fuentes/resolucion-583-de-2023-armonizacion-plsv-pnsv.md) y [Resolución 007 de 2023](../fuentes/resolucion-007-de-2023-mesas-articulacion-interinstitucional.md): ambas citan el PNSV de forma indirecta; sus citas quedan confirmadas contra el texto primario.
 
 ## Incertidumbres
 
-- El Decreto 1430 de 2022 (Plan Nacional de Seguridad Vial 2022-2031) no está en este corpus; todo lo que se documenta de él en esta página proviene de citas indirectas de las Resoluciones 583/2023 y 007/2023, no de lectura directa del decreto. Si el usuario carga ese decreto, esta página debe actualizarse con la fuente primaria.
-- No se ha verificado si el concepto de Sistema Seguro aparece también en otras fuentes del corpus aún no ingeridas (candidatas probables por su tema: Documento técnico de soporte PNSV 2022-2031, CONPES 4091) — esta página se actualizará si aparece.
-- No hay en este corpus una fuente bibliográfica o académica (más allá del propio texto legal) que desarrolle el origen internacional del concepto de *Safe System* — cualquier referencia a su origen (p. ej., Suecia, Visión Cero, OCDE) que la tesis quiera incluir debe sustentarse en una fuente externa citada aparte, no en este corpus, conforme a la regla de fuente exclusiva del proyecto.
-- No se verifica en este corpus si el Decreto 1430/2022 o el PNSV 2022-2031 asignan expresamente a la DCI (y no solo a la ANSV en general) la ejecución de la "asistencia técnica a las entidades territoriales" que mencionan.
+- El Decreto 1430 de 2022 en sí mismo (el acto administrativo que aprobó el PNSV) sigue sin estar disponible como texto primario en este corpus; el documento técnico de soporte ingerido es el desarrollo íntegro de lo que aprobó, pero no el decreto mismo.
+- No hay en este corpus una fuente bibliográfica o académica (más allá del propio texto legal) que desarrolle el origen internacional del concepto de *Safe System* — cualquier referencia a su origen (p. ej., Suecia, Visión Cero, OCDE) que se quiera incluir en un producto de asesoría debe sustentarse en una fuente externa citada aparte, no en este corpus, conforme a la regla de fuente exclusiva del proyecto. La bibliografía del propio PNSV (pp. 203–213 del documento técnico) cita varias fuentes sobre el origen del enfoque, pero esas fuentes externas no forman parte del corpus.
+- No se verifica en este corpus si el Decreto 1430/2022 o el PNSV asignan expresamente a la DCI (y no solo a la ANSV en general) la ejecución de las acciones e indicadores de "asistencia técnica" que documentan.
