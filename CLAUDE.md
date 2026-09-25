@@ -82,14 +82,14 @@ Registro cronológico, **append-only** (nunca se edita retroactivamente, solo se
 
 ## Flujo INGEST
 
-Se procesa **una fuente a la vez** — nunca todo el repo de una pasada, salvo pedido explícito del usuario para lote (como se documenta en `log.md` cuando ocurra). El usuario se queda involucrado revisando cada actualización antes de seguir con la próxima ("metodología Karpathy": un paso, revisar el resultado, recién ahí seguir con el próximo).
+Se procesa **una fuente a la vez** (nunca se mezclan varias fuentes en una sola página), pero — *desde 2026-09-25, por pedido explícito del usuario (ver `log.md`)* — **sin pausar a pedir autorización entre una fuente y la siguiente**: se encadena el INGEST de todas las fuentes pendientes de manera continua, mantiene el mismo rigor de citación exacta y trazabilidad en cada una, y se reporta el avance de forma resumida en vez de esperar confirmación turno a turno. Si el usuario pide expresamente volver a pausar entre fuentes, se retoma esa pausa y se documenta el cambio aquí mismo.
 
 1. Leer la fuente completa (PDF vía skill `pdf`, o el `.docx` correspondiente).
-2. Discutir los puntos clave con el usuario (objeto, alcance, hallazgos, relevancia para el trabajo de asesoría del usuario en la DCI/ANSV).
+2. Identificar los puntos clave (objeto, alcance, hallazgos, relevancia para el trabajo de asesoría del usuario en la DCI/ANSV).
 3. Escribir/actualizar la página de `fuentes/`, registrando página/sección exacta de cada dato citable. Puede tocar varias páginas: crear/actualizar conceptos y entidades relevantes con link a esta fuente.
 4. Actualizar `index.md`.
 5. Agregar entrada a `log.md` con prefijo `## [YYYY-MM-DD] ingest | <nombre de la fuente>`.
-6. Pausar y esperar confirmación del usuario antes de pasar a la próxima fuente.
+6. Continuar directamente con la siguiente fuente pendiente, sin pausar.
 
 ## Flujo QUERY
 
