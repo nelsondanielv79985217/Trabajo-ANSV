@@ -275,3 +275,13 @@ Registro cronológico, append-only. No editar entradas pasadas — solo agregar 
 - **Hallazgo — errores de cita en un documento oficial vigente**: la propia tabla de marco normativo de esta circular contiene al menos tres imprecisiones verificables contra fuentes ya ingeridas (cita "Ley 1702 de 2003" en vez de 2013; "Decreto 143 de 2022" en vez de 1430; "Ley 1310 de 2014" en vez de 2009). Se registró como hallazgo relevante para el trabajo de asesoría: ni los documentos oficiales vigentes están libres de errores de cita. Se actualizó `wiki/entidades/ansv-agencia-nacional-seguridad-vial.md`.
 - Se actualizó `index.md` (fuentes: 24→25 de 45; protocolos operativos: 2/4 ingeridas).
 - Continúo directamente con la siguiente fuente de protocolos operativos (Análisis de Reportes Organismos de Tránsito Plan 365), sin pausar.
+
+## [2026-09-25] ingest | Análisis de los Reportes Presentados por los Organismos de Tránsito — Plan 365
+
+- Se leyó completo (13 páginas) y se creó `wiki/fuentes/analisis-reportes-organismos-transito-plan-365.md`, `status: ingerido`, con citación por página. Es un **producto propio de la DCI** (encabezado del documento: "Dirección de Coordinación Interinstitucional"), la fuente más reciente del corpus junto con el CONPES 4091 (metadatos: 5 de noviembre de 2025), firmado por Andrés A. González — confirma que Andrés Alfonso González (ya documentado como contratista DCI) seguía vinculado a la DCI hasta al menos esa fecha.
+- **Hallazgo central**: de 625 municipios priorizados por el Plan 365 en 2025, el **44 % (276) no reportó ninguna acción** en el aplicativo dispuesto por la ANSV; de esos no reportantes, el 39 % (108) presentó aumento de siniestralidad y el 61 % (168) presentó reducción/contención pese a no reportar. Se detalla también el universo de 323 municipios no priorizados que sí participaron voluntariamente.
+- Es un hallazgo de uso directo para el trabajo de asesoría: mide con precisión el nivel de cumplimiento de reporte de los organismos de tránsito frente a una estrategia real y vigente de la DCI, con desagregación departamental y municipal.
+- No usa el término "asistencia técnica" explícitamente — no se actualizó la página de genealogía.
+- Se actualizó `wiki/entidades/dci-direccion-coordinacion-interinstitucional.md` con este producto propio de seguimiento.
+- Se actualizó `index.md` (fuentes: 25→26 de 45; protocolos operativos: 3/4 ingeridas).
+- Continúo directamente con la última fuente de protocolos operativos (Circular Externa Videos Infracciones Mintransporte), sin pausar.
