@@ -328,3 +328,11 @@ Registro cronológico, append-only. No editar entradas pasadas — solo agregar 
 - Reproduce textualmente la frase sobre "asistencia técnica" ya registrada en la Circular Conjunta 023/2025 (p. 5) — no se creó eslabón nuevo en la genealogía del término, es un uso consistente, no distinto.
 - Se actualizó `index.md` (fuentes: 29→30 de 45; correspondencia oficial: 3/7).
 - Continúo directamente con la siguiente fuente de correspondencia oficial (`ORFEO_Oficio_ANSV_2024 (22) super y procuraduría.docx`), sin pausar.
+
+## [2026-09-25] ingest | ORFEO_Oficio_ANSV_2024 (22) — plantilla del oficio SuperTransporte/Procuraduría
+
+- Se leyó completo `ORFEO_Oficio_ANSV_2024 (22) super y procuraduría.docx` (convertido con `pandoc`) y se creó `wiki/fuentes/orfeo-oficio-22-super-procuraduria.md`, `status: ingerido`.
+- **Hallazgo**: es la plantilla/borrador ORFEO (sin radicado diligenciado) del mismo oficio ya ingerido como `wiki/fuentes/oficio-20254000114441-supertransporte-plan-365.md` — coincide en destinatarios, asunto, firmantes, anexo y copia. Se documenta como fuente propia (regla de "una fuente a la vez"), pero limitando el contenido nuevo a su valor incremental real, sin repetir el análisis ya hecho de la fuente principal.
+- **Valor incremental**: texto verbatim completo (antes parafraseado/truncado) de la Ley 1702/2013, Art. 19, numeral 11, y de la Ley 336/1996, Art. 46, literal c — se completaron ambas citas en `wiki/fuentes/ley-1702-de-2013-creacion-ansv.md`. También aporta una cita textual entrecomillada sobre el Plan 365 y la asistencia técnica, sin identificar su fuente exacta (registrado como incertidumbre).
+- Se actualizó `index.md` (fuentes: 30→31 de 45; correspondencia oficial: 4/7).
+- Continúo directamente con la siguiente fuente de correspondencia oficial (`Solicita info 365 Oficio_ANSV_2024 (22) super y procuraduría.docx`), sin pausar.
