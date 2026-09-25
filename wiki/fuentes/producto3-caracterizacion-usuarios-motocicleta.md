@@ -52,6 +52,7 @@ La siniestralidad de motociclistas **no responde a un patrón único**: se confi
 - [Producto 2 — Estado del Arte: seguridad vial de motociclistas](producto2-estado-del-arte-motociclistas.md): documento hermano de la misma consultoría (Consorcio Prevención Motovial, mismo supervisor DCI); aporta el número de contrato (IAP-009-2024) que faltaba en esa página, y confirma con datos primarios varios hallazgos allí documentados solo con literatura secundaria (baja certificación de cascos, brechas de fiscalización territorial).
 - [DCI — Dirección de Coordinación Interinstitucional](../entidades/dci-direccion-coordinacion-interinstitucional.md): confirma nuevamente a Nelson Daniel Vega (Samaca) como supervisor del contrato.
 - [Análisis Técnico de la Siniestralidad Vial — Mateus (2026)](analisis-tecnico-siniestralidad-vial-mateus-2026.md): coincide en el hallazgo de fuerte heterogeneidad territorial de la siniestralidad de motociclistas, con metodología y fuente de datos distintas (registros administrativos ONSV vs. encuesta primaria).
+- [Producto 4 — Análisis de información estadística](producto4-analisis-informacion-estadistica-motociclistas.md): documento hermano de la misma consultoría (contrato IAP-009-2024), que trabaja con registros oficiales INMLCF 2015-2024 y confirma, con otra fuente y método, la fuerte heterogeneidad territorial de la siniestralidad de motociclistas.
 
 ## Incertidumbres
 

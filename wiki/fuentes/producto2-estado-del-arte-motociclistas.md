@@ -51,6 +51,7 @@ Colombia comparada con **cuatro países referentes**: Unión Europea, México, A
 - [DCI — Dirección de Coordinación Interinstitucional](../entidades/dci-direccion-coordinacion-interinstitucional.md): identifica a Nelson Daniel Vega como supervisor del contrato desde la DCI.
 - [Análisis Técnico de la Siniestralidad Vial — Mateus (2026)](analisis-tecnico-siniestralidad-vial-mateus-2026.md): coincide en el diagnóstico de fondo (los motociclistas como grupo de mayor mortalidad vial en Colombia), con cifras de periodos distintos.
 - [Producto 3 — Caracterización de usuarios de motocicleta](producto3-caracterizacion-usuarios-motocicleta.md): documento hermano de la misma consultoría; aporta el número de contrato (IAP-009-2024) y datos primarios (encuesta + cualitativo) que complementan la revisión bibliográfica de este Estado del Arte.
+- [Producto 4 — Análisis de información estadística](producto4-analisis-informacion-estadistica-motociclistas.md): documento hermano de la misma consultoría, con el análisis estadístico oficial (INMLCF 2015-2024) y la priorización territorial (matriz multicriterio, municipio de Yopal) que cierra la secuencia de los tres productos.
 
 ## Incertidumbres
 
