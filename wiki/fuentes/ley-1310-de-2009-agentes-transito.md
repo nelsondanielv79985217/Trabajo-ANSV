@@ -39,15 +39,15 @@ Es la ley que profesionaliza y organiza jerárquicamente a los **agentes de trá
 
 1. **No menciona la ANSV ni la "asistencia técnica"**: consistente con la cronología ya trazada (anterior en 4 años a la ANSV). No aporta nuevos eslabones a la [Genealogía normativa de "asistencia técnica"](../conceptos/genealogia-asistencia-tecnica.md).
 2. **Perfil profesional exigible al Director de Organismo de Tránsito** (Art. 8°, ver arriba): dato directamente utilizable en la tesis para caracterizar al interlocutor territorial del protocolo de AT propuesto.
-3. **Posible antecedente directo de una fuente pendiente**: el `resolucion_mintransporte_4548_2013 profesionalización Agentes de transito.pdf`, aún sin ingerir, es candidata muy probable a reglamentar o desarrollar el Art. 3° de esta ley (profesionalismo, pénsum de capacitación) — se verificará al ingerir esa fuente.
+3. **Confirmado (2026-09-25): la [Resolución 4548 de 2013](resolucion-4548-de-2013-profesionalizacion-agentes-transito.md) reglamenta directamente el Art. 3° y el numeral 5 del Art. 7° de esta ley** — la hipótesis planteada aquí quedó verificada al ingerir esa fuente, que fija el contenido curricular exacto de la formación de agentes de tránsito.
 
 ## Conexiones
 
 - [Ley 769 de 2002](ley-769-de-2002-codigo-nacional-transito.md): se actualiza con la cita del Art. 4°, inciso 1° (modificado por el Art. 8° de esta ley), no registrada antes.
 - [Organismos y autoridades de tránsito](../conceptos/organismos-y-autoridades-de-transito.md): se actualiza con las definiciones de "Organismo de Tránsito y Transporte", "Agente de Tránsito y Transporte" y "Grupo de Control Vial", complementarias a las de la Ley 769/2002.
 - [Corporación Fondo de Prevención Vial](../entidades/corporacion-fondo-prevencion-vial.md): nueva mención (Art. 13°, num. 4).
+- [Resolución 4548 de 2013](resolucion-4548-de-2013-profesionalizacion-agentes-transito.md): reglamenta directamente el Art. 3° y el numeral 5 del Art. 7° de esta ley.
 
 ## Incertidumbres
 
 - No se ha verificado en este corpus el Decreto Nacional 2885 de 2013 (reglamenta el Art. 14°, uniformes) — no está incluido.
-- No se ha verificado si el `resolucion_mintransporte_4548_2013` (pendiente de ingreso) efectivamente reglamenta el Art. 3° de esta ley — se confirmará al ingerir esa fuente.

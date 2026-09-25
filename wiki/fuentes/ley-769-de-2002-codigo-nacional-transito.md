@@ -51,6 +51,8 @@ Ninguna de estas cinco competencias de la ANSV en este código se refiere a la a
 
 **Perfil profesional del Director de Organismo de Tránsito** (Art. 4°, inciso 1°, modificado por el [Art. 8° de la Ley 1310 de 2009](ley-1310-de-2009-agentes-transito.md)): "Los Directores de los Organismos de Tránsito o Secretarías de Tránsito de las entidades territoriales deberán acreditar formación profesional relacionada y experiencia en el ramo de dos (2) años o en su defecto estudios de diplomado o posgrado en la materia" — cita verificada directamente contra el texto primario de la Ley 1310/2009, directamente relevante para caracterizar al interlocutor territorial del protocolo de asistencia técnica que propone la tesis.
 
+**Formación de cuerpos especializados de policía de tránsito** (Art. 4°, Parágrafo 2°, citado en la [Resolución 4548 de 2013](resolucion-4548-de-2013-profesionalizacion-agentes-transito.md), p. 1): "Los cuerpos especializados de Policía de Tránsito Urbano y Policía de Carreteras de la Policía Nacional y los cuerpos especializados de agentes de policía de tránsito dependientes de los organismos de tránsito departamental, metropolitano, distrital y municipal, deberán acreditar formación técnica o tecnológica en la materia" — cita nueva para el corpus, conocida por transcripción de la Resolución 4548/2013, no por lectura directa de este artículo en el PDF original de la Ley 769/2002 (no se ha vuelto a leer ese documento completo desde su ingest inicial).
+
 ## Sanciones (estructura, sin transcripción íntegra)
 
 **Tipos de sanciones** (Art. 122, modificado por el Art. 20 de la Ley 1383 de 2010, p. 35): amonestación, multa, suspensión de la licencia de conducción, suspensión o cancelación del permiso o registro, inmovilización del vehículo, retención preventiva del vehículo, cancelación definitiva de la licencia de conducción.
@@ -64,6 +66,7 @@ Las multas se organizan en seis categorías (A a F, Arts. 130–131, pp. 38–44
 - [ANSV — Agencia Nacional de Seguridad Vial](../entidades/ansv-agencia-nacional-seguridad-vial.md): se actualiza con las cinco competencias adicionales identificadas en este código (formación de conductores, velocidad, fotomultas).
 - [DCI — Dirección de Coordinación Interinstitucional](../entidades/dci-direccion-coordinacion-interinstitucional.md): se actualiza con el hallazgo del origen 2002 de la "asistencia técnica".
 - [Ley 1310 de 2009](ley-1310-de-2009-agentes-transito.md): confirma y modifica el inciso 1° del Art. 4° (perfil profesional del Director de Organismo de Tránsito).
+- [Resolución 4548 de 2013](resolucion-4548-de-2013-profesionalizacion-agentes-transito.md): aporta la cita del Art. 4°, Parágrafo 2° (formación de cuerpos especializados de policía de tránsito), no registrada antes.
 
 ## Incertidumbres
 
