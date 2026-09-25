@@ -16,6 +16,15 @@ Concepto transversal que fija, desde la ley general del tránsito, quiénes son 
 - **Organismos de tránsito** (Ley 769/2002, Art. 6°, p. 7): departamentos administrativos, institutos distritales y/o municipales de tránsito; entes designados por la autoridad local en municipios sin autoridad de tránsito propia; secretarías municipales, distritales o departamentales de tránsito.
 - **Orientación legal de su actuación** (Ley 769/2002, Art. 7°, p. 8): "Sus funciones serán de carácter regulatorio y sancionatorio y sus acciones deben ser orientadas a la prevención y la asistencia técnica y humana a los usuarios de las vías" — ver [genealogía de "asistencia técnica"](genealogia-asistencia-tecnica.md).
 
+## Definiciones complementarias (Ley 1310 de 2009)
+
+La [Ley 1310 de 2009](../fuentes/ley-1310-de-2009-agentes-transito.md), Art. 2° (p. 1), precisa tres categorías que la Ley 769/2002 no define con el mismo detalle:
+- **Organismo de Tránsito y Transporte**: "entidades públicas del orden municipal, distrital o departamental que tienen como función organizar, dirigir y controlar el tránsito y el transporte en su respectiva jurisdicción."
+- **Agente de Tránsito y Transporte**: "todo empleado público investido de autoridad para regular la circulación vehicular y peatonal, vigilar, controlar e intervenir en el cumplimiento de las normas de tránsito y transporte en cada uno de los entes territoriales."
+- **Grupo de Control Vial o Cuerpo de Agentes de Tránsito**: "grupo de empleados públicos investidos de autoridad como agentes de tránsito y transporte vinculados legal y reglamentariamente a los organismos de tránsito y transporte."
+
+La misma ley (Art. 8°) fija el perfil profesional mínimo del Director de Organismo de Tránsito: formación profesional relacionada y 2 años de experiencia, o diplomado/posgrado en la materia (modifica el inciso 1° del Art. 4° de la Ley 769/2002) — dato directamente relevante para caracterizar al interlocutor territorial del protocolo de asistencia técnica que propone la tesis.
+
 ## Cómo lo retoma el corpus del sistema de gestión de la DCI
 
 - [Decreto 787 de 2015](../fuentes/decreto-787-de-2015-funciones-ansv.md), Art. 10, numeral 6: entre las 14 funciones estatutarias de la DCI está "definir las obligaciones de los Organismos de Tránsito según su categorización" — la DCI no crea la categoría legal de "organismo de tránsito", la presupone tal como la define la Ley 769/2002 y actúa sobre ella.

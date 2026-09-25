@@ -157,3 +157,14 @@ Registro cronológico, append-only. No editar entradas pasadas — solo agregar 
 - Nota de calidad del documento: la última hoja del PDF original encabeza erróneamente "RESOLUCIÓN NÚMERO 964 DE 2022" en vez de "007 DE 2023" — error de plantilla del documento original, registrado sin corregir.
 - Se actualizó `index.md` (fuentes: 14→15 de 45; marco normativo: 8→9 ingeridas).
 - Pendiente confirmación del usuario antes de continuar con la siguiente fuente del marco normativo (restan: Ley 1310/2009, Resolución 4548/2013 Mintransporte) — con esto, el marco normativo queda a solo dos fuentes de completarse.
+
+## [2026-09-25] ingest | Ley 1310 de 2009 (unificación de normas sobre agentes de tránsito)
+
+- Se leyó completa (4 páginas) y se creó `wiki/fuentes/ley-1310-de-2009-agentes-transito.md`, `status: ingerido`, con citación por artículo y página.
+- **Hallazgo — nueva cita para la Ley 769/2002**: el Art. 8° de esta ley modifica el inciso 1° del Art. 4° del Código, fijando el perfil profesional exigible al Director de Organismo de Tránsito (formación profesional + 2 años de experiencia, o diplomado/posgrado) — no estaba registrado antes en la página de la Ley 769/2002; se actualizó con esta cita, directamente relevante para caracterizar al interlocutor territorial del protocolo de AT que propone la tesis.
+- Se actualizó `wiki/conceptos/organismos-y-autoridades-de-transito.md` con las definiciones de "Organismo de Tránsito y Transporte", "Agente de Tránsito y Transporte" y "Grupo de Control Vial" (Art. 2°), complementarias a las ya registradas de la Ley 769/2002.
+- Se actualizó `wiki/entidades/corporacion-fondo-prevencion-vial.md` con una nueva mención (Art. 13°, num. 4), tres años antes de la Ley 1702/2013.
+- No menciona la ANSV ni el término "asistencia técnica" — consistente con la cronología ya trazada (anterior en 4 años a la ANSV); no se actualizó la página de genealogía.
+- Nota: se identifica como posible antecedente directo de la fuente pendiente `resolucion_mintransporte_4548_2013` (profesionalización de agentes de tránsito) — se verificará al ingerirla.
+- Se actualizó `index.md` (fuentes: 15→16 de 45; marco normativo: 9→10 ingeridas, falta 1).
+- Pendiente confirmación del usuario antes de continuar. Con esta fuente, el marco normativo queda a una sola fuente de completarse: Resolución 4548/2013 (Mintransporte, profesionalización de Agentes de Tránsito).
