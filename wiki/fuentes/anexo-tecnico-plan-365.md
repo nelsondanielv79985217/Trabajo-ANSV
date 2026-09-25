@@ -57,14 +57,15 @@ El resto del documento (93 páginas) es una tabla de **2.307 filas**, una por ca
 
 **Nota del propio documento** (p. 95): "Las cifras y municipios priorizados obedecen a datos preliminares del ONSV" y "el presente anexo técnico será susceptible de modificaciones o ajustes de acuerdo con la emisión de las cifras definitivas para la vigencia 2024."
 
-## Hallazgo — variación terminológica frente al Plan 70D
+## Nota — este anexo no usa "asistencia técnica"; su documento matriz sí (corrección 2026-09-25)
 
-A diferencia del [Plan 70D](plan-70d-sector-transporte.md), que describe sus acciones como "control correctivas, preventivas y pedagógicas, acompañadas de la **asistencia técnica** a las autoridades", el asunto de esta Circular Conjunta 023/2025 usa un lenguaje distinto: "pedagogía, **presencia institucional** y la vigilancia y el control" — sin usar el término "asistencia técnica" en ningún punto del documento. Es un dato relevante para la [Genealogía normativa de "asistencia técnica"](../conceptos/genealogia-asistencia-tecnica.md): confirma que, incluso dentro de la misma familia de instrumentos operativos del Sector Transporte (70D/365), el uso del término no es consistente de un documento a otro.
+El asunto de este anexo (y de la Circular Conjunta 023/2025 que lo acompaña) usa el lenguaje "pedagogía, **presencia institucional** y la vigilancia y el control", sin mencionar "asistencia técnica" en las 95 páginas de este documento. Al ingerir este anexo por separado se interpretó esto como una inconsistencia terminológica frente al [Plan 70D](plan-70d-sector-transporte.md). Tras ingerir la **[Circular Conjunta No. 023 de 2025](circular-conjunta-023-2025-plan-365.md)** completa (el documento matriz del que este anexo es solo el soporte estadístico), se corrigió esa lectura: la propia circular sí usa expresamente "asistencia técnica" (p. 5) al describir el Plan 365 — el anexo simplemente no lo repite porque es una tabla de cifras, no el documento rector. Ver desarrollo completo en [Genealogía normativa de "asistencia técnica"](../conceptos/genealogia-asistencia-tecnica.md).
 
 ## Conexiones
 
 - [Plan 70D — Sector Transporte](plan-70d-sector-transporte.md): instrumento complementario (no sucesor) de cobertura de fin/inicio de año; comparte metodología ("gráfica de la ballena"), entidades ejecutoras y enfoque de Sistema Seguro.
-- [Genealogía normativa de "asistencia técnica"](../conceptos/genealogia-asistencia-tecnica.md): aporta un dato de ausencia/variación terminológica del término, no un nuevo eslabón positivo.
+- [Circular Conjunta No. 023 de 2025](circular-conjunta-023-2025-plan-365.md): documento matriz de este anexo; usa expresamente "asistencia técnica" (ver nota arriba).
+- [Genealogía normativa de "asistencia técnica"](../conceptos/genealogia-asistencia-tecnica.md): actualizada con la corrección de la lectura inicial.
 
 ## Incertidumbres
 
