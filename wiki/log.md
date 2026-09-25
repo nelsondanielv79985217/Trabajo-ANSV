@@ -222,3 +222,12 @@ Registro cronológico, append-only. No editar entradas pasadas — solo agregar 
 - **Hallazgo sin resolver**: un "Dr. Darío Rincón" aparece liderando el evento de conmemoración a víctimas en Medellín (17 de noviembre de 2024) — posible misma persona que "Darío Rincón Jaramillo", director (E) de la DCI en octubre de 2023, pero sin datos suficientes para confirmarlo ni para establecer en qué cargo actuaba en esa fecha.
 - Se actualizó `index.md` (fuentes: 19→20 de 45; planeación sectorial: 2→3 de 6 ingeridas).
 - Pendiente confirmación del usuario antes de continuar con la siguiente fuente de planeación sectorial (restan: Plan estratégico de control SIT, Manual metodológico FPSV, Anexo Técnico Plan 365).
+
+## [2026-09-25] ingest | Resolución 10110 de 2023 (PECCIT/SISI — Superintendencia de Transporte)
+
+- Se leyó completa (16 páginas: resolución + anexo técnico) y se creó `wiki/fuentes/resolucion-10110-de-2023-peccit-supertransporte.md`, `status: ingerido`, con citación por artículo/sección y página.
+- **Hallazgo**: es un acto de la Superintendencia de Transporte, no de la ANSV/DCI — ni una ni otra aparecen mencionadas. Crea el PECCIT (Plan Estratégico de Control al Cumplimiento del Marco Normativo en Transporte) y su sistema digital SISI, con obligación de reporte periódico (mensual/trimestral/anual) para los mismos organismos de tránsito y municipios sin organismo propio con los que trabaja el protocolo de AT de la DCI. Relevante para dimensionar la carga administrativa preexistente del interlocutor territorial. Se actualizó `wiki/conceptos/organismos-y-autoridades-de-transito.md` con una nueva sección al respecto.
+- **Nueva cita para la Ley 769/2002**: Art. 3°, Parágrafo 3° (faculta a SuperTransporte para vigilar y controlar autoridades/organismos de tránsito), citada por esta resolución (pp. 1-2) y no registrada antes. Se actualizó `wiki/fuentes/ley-769-de-2002-codigo-nacional-transito.md`.
+- No menciona "asistencia técnica" ni a la ANSV/DCI — no se actualizó la página de genealogía del término.
+- Se actualizó `index.md` (fuentes: 20→21 de 45; planeación sectorial: 3→4 de 6 ingeridas).
+- Pendiente confirmación del usuario antes de continuar con la siguiente fuente de planeación sectorial (restan: Manual metodológico FPSV, Anexo Técnico Plan 365).

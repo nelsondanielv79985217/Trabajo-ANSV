@@ -32,6 +32,8 @@ Es el Código Nacional de Tránsito Terrestre, la ley general que regula todo lo
 
 **Autoridades de tránsito** (Art. 3°, modificado por el Art. 2 de la Ley 1383 de 2010, p. 6): el Ministerio de Transporte; los Gobernadores y Alcaldes; los organismos de tránsito de carácter departamental, municipal o Distrital; la Policía Nacional a través de la Dirección de Tránsito y Transporte; los Inspectores de Policía, Inspectores de Tránsito, Corregidores; la Superintendencia General de Puertos y Transporte; las Fuerzas Militares (solo para el parágrafo 5°); los Agentes de Tránsito y Transporte.
 
+**Facultad de vigilancia y control de la Superintendencia de Transporte** (Art. 3°, Parágrafo 3°, citado en la [Resolución 10110 de 2023](resolucion-10110-de-2023-peccit-supertransporte.md), pp. 1–2): faculta a la Superintendencia de Transporte para "vigilar y controlar a las autoridades, los organismos de tránsito" — cita nueva para el corpus, conocida por transcripción de esa resolución, no por lectura directa de este parágrafo en el PDF original.
+
 **Organismos de tránsito** (Art. 6°, p. 7): son organismos de tránsito en su respectiva jurisdicción: a) los departamentos administrativos, institutos distritales y/o municipales de tránsito; b) los designados por la autoridad local única y exclusivamente en municipios sin autoridad de tránsito; c) las secretarías municipales de tránsito; d) las secretarías distritales de tránsito; e) las secretarías departamentales de tránsito o el organismo designado por la autoridad, única y exclusivamente en municipios sin autoridad de tránsito.
 
 **Cumplimiento del régimen normativo** (Art. 7°, p. 8): "Las autoridades de transito velarán por la seguridad de las personas y las cosas en la vía pública y privadas abiertas al público. **Sus funciones serán de carácter regulatorio y sancionatorio y sus acciones deben ser orientadas a la prevención y la asistencia técnica y humana a los usuarios de las vías.**"
@@ -67,6 +69,7 @@ Las multas se organizan en seis categorías (A a F, Arts. 130–131, pp. 38–44
 - [DCI — Dirección de Coordinación Interinstitucional](../entidades/dci-direccion-coordinacion-interinstitucional.md): se actualiza con el hallazgo del origen 2002 de la "asistencia técnica".
 - [Ley 1310 de 2009](ley-1310-de-2009-agentes-transito.md): confirma y modifica el inciso 1° del Art. 4° (perfil profesional del Director de Organismo de Tránsito).
 - [Resolución 4548 de 2013](resolucion-4548-de-2013-profesionalizacion-agentes-transito.md): aporta la cita del Art. 4°, Parágrafo 2° (formación de cuerpos especializados de policía de tránsito), no registrada antes.
+- [Resolución 10110 de 2023](resolucion-10110-de-2023-peccit-supertransporte.md): aporta la cita del Art. 3°, Parágrafo 3° (facultad de vigilancia/control de SuperTransporte), no registrada antes.
 
 ## Incertidumbres
 
