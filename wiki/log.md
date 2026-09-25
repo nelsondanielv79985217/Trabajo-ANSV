@@ -179,3 +179,10 @@ Registro cronológico, append-only. No editar entradas pasadas — solo agregar 
 - Nota de trazabilidad normativa: esta resolución fue recompilada en 2022 (Resolución 20223040045295) y modificada en 2014 (Resolución 1943) en cuanto a su vigencia — ninguna de las dos está en el corpus.
 - Se actualizó `index.md` (fuentes: 16→17 de 45; marco normativo: **completo, 11/11**).
 - Pendiente confirmación del usuario antes de continuar con la siguiente categoría del corpus — planeación sectorial, protocolos operativos, correspondencia oficial, conceptos jurídicos, contratación, financiamiento, o productos propios del proyecto.
+
+## [2026-09-25] setup | Reencuadre de propósito de la wiki
+
+- El usuario aclaró, durante el ingest del CONPES 4091, que esta wiki **no se está construyendo como insumo para una tesis**, sino como base de conocimiento reutilizable para agentes que lo apoyen en la generación de productos de su trabajo como servidor/contratista de la DCI/ANSV (oficios, conceptos técnicos/jurídicos, informes, protocolos, respuestas a peticiones, etc.).
+- Se actualizó `CLAUDE.md` (sección "Propósito", reglas del proyecto, descripción del tipo `sintesis`, paso 2 del flujo INGEST) para reflejar este reencuadre. Las reglas de fuente exclusiva, citación exacta y no alucinación se mantienen sin cambios — son igual o más relevantes cuando el destino de la wiki son documentos oficiales de asesoría, no un capítulo de tesis.
+- No se reescribieron retroactivamente las páginas ya creadas (fuentes, conceptos, entidades): sus secciones "relevancia para la tesis"/"lectura para la tesis" quedan como están, con la salvedad de que ese lenguaje debe leerse ahora como "relevancia para el trabajo de asesoría en la DCI/ANSV" — el contenido factual y las citas no se ven afectados por este reencuadre, solo el marco de uso previsto.
+- De aquí en adelante, las páginas nuevas usarán el lenguaje de asesoría/productos ANSV en vez de "tesis"/"marco teórico".

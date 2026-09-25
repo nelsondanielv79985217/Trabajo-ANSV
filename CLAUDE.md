@@ -6,14 +6,14 @@ La estructura y convenciones de este archivo replican el schema ya validado en e
 
 ## Propósito
 
-Este repo es la base documental de un trabajo de grado de maestría en Administración: propuesta para implementar un protocolo de asistencia técnica en seguridad vial, dirigido a un municipio u organismo de tránsito, ejecutado por un servidor o contratista de la Dirección de Coordinación Interinstitucional (DCI) de la Agencia Nacional de Seguridad Vial (ANSV). Las fuentes son normativa (leyes, decretos, resoluciones), procedimientos y anexos del sistema de gestión de calidad de la ANSV, protocolos operativos, documentos de planeación sectorial, correspondencia oficial, conceptos jurídicos y productos/entregables propios del proyecto. En vez de releer y re-derivar todo desde cero cada vez que se necesita algo de ellas, se mantiene una wiki en Markdown (`/wiki`) que acumula resúmenes, páginas de conceptos/entidades y un índice — así el trabajo de lectura y síntesis se conserva entre sesiones.
+*(Reencuadrado 2026-09-25 — ver `log.md` para la nota de cambio.)* Este repo es la base documental de trabajo del usuario como servidor/contratista de la Dirección de Coordinación Interinstitucional (DCI) de la Agencia Nacional de Seguridad Vial (ANSV). **La wiki no es un insumo para una tesis**: es una base de conocimiento reutilizable para que agentes (Claude u otros) generen productos de asesoría en el trabajo diario del usuario en la ANSV — oficios, conceptos técnicos y jurídicos, protocolos, informes de seguimiento, respuestas a peticiones, insumos para toma de decisiones — con citación exacta y trazable a las fuentes normativas e institucionales reales del corpus, sin inventar ni extrapolar contenido. Las fuentes son normativa (leyes, decretos, resoluciones), procedimientos y anexos del sistema de gestión de calidad de la ANSV, protocolos operativos, documentos de planeación sectorial, correspondencia oficial, conceptos jurídicos y productos/entregables propios del trabajo del usuario en la ANSV. En vez de releer y re-derivar todo desde cero cada vez que se necesita algo de ellas, se mantiene una wiki en Markdown (`/wiki`) que acumula resúmenes, páginas de conceptos/entidades y un índice — así el trabajo de lectura y síntesis se conserva entre sesiones y queda disponible para cualquier agente que deba producir un entregable citando estas fuentes con precisión.
 
 ## Reglas del proyecto que gobiernan esta wiki (no negociables)
 
-Estas reglas, definidas por el usuario para todo el proyecto de tesis, aplican también al contenido de `/wiki`:
+Estas reglas aplican al contenido de `/wiki`, precisamente porque los agentes que la usarán producirán documentos oficiales/técnicos donde una cita mal atribuida o un hallazgo inventado tiene consecuencias reales:
 
 1. **Fuente exclusiva**: solo se usa información contenida en los archivos cargados a este repositorio. No se usa conocimiento general, memoria del modelo ni resultados de búsqueda externa como sustento, salvo pedido explícito del usuario para un propósito distinto (ej. contexto normativo público).
-2. **Citación exacta**: toda página de `fuentes/` debe registrar, cuando el documento lo permita identificar, el apartado/sección y el número de página exacto de cada dato, cifra o afirmación relevante que luego pueda citarse en el cuerpo de la tesis (formato APA 7). Si no se puede identificar la ubicación precisa, la página debe decirlo explícitamente en vez de aproximarla — esto habilita que la wiki sirva de insumo citable, no solo de resumen.
+2. **Citación exacta**: toda página de `fuentes/` debe registrar, cuando el documento lo permita identificar, el apartado/sección y el número de página exacto de cada dato, cifra o afirmación relevante que luego pueda citarse en un producto de asesoría (oficio, concepto, informe). Si no se puede identificar la ubicación precisa, la página debe decirlo explícitamente en vez de aproximarla — esto habilita que la wiki sirva de insumo citable, no solo de resumen.
 3. **Sin datos disponibles = decirlo**: si una fuente no aclara algo, se marca (`status: incierto` y/o nota `[INCIERTO: ...]`) en vez de completar el hueco.
 4. **Sin alucinación/extrapolación**: ninguna página de la wiki puede afirmar algo que no esté respaldado por el contenido real del PDF/DOCX correspondiente.
 
@@ -39,7 +39,7 @@ Tipos de página:
 - **fuente** — un documento del repo. Resume objeto/alcance, contenido clave, y qué conceptos/entidades toca, registrando página/sección de cada dato citable. Nunca reemplaza al documento original, es un resumen navegable con referencias exactas.
 - **concepto** — un tema transversal (ej. "Asistencia Técnica como mecanismo de transferencia de conocimiento", "Sistema Seguro", "Gobernanza territorial en seguridad vial"). Agrega qué dice cada fuente sobre ese tema, con links a `fuentes/`.
 - **entidad** — un organismo, dependencia (ej. DCI, ANSV, Mintransporte, organismos de tránsito territoriales) o persona firmante recurrente.
-- **sintesis** — cruces entre conceptos/fuentes que valen la pena conservar (ej. respuestas de QUERY que el usuario decide guardar), o borradores de marco teórico/capítulos de la tesis. Todo borrador de texto de tesis generado acá debe seguir cumpliendo APA 7 y citación exacta.
+- **sintesis** — cruces entre conceptos/fuentes que valen la pena conservar (ej. respuestas de QUERY que el usuario decide guardar), o borradores de productos de asesoría (oficios, conceptos técnicos/jurídicos, informes) que se elaboran a partir de la wiki. Todo borrador generado acá debe seguir cumpliendo citación exacta y trazabilidad a la fuente.
 - **metodo**: no aplica corpus metodológico propio todavía; se agrega si el usuario carga una referencia metodológica transversal (ej. un manual de investigación).
 
 Una página de concepto/entidad se crea la primera vez que hace falta (durante un INGEST), no se prepoblán de antemano — evita inventar categorías antes de tener evidencia real de que se repiten.
@@ -85,7 +85,7 @@ Registro cronológico, **append-only** (nunca se edita retroactivamente, solo se
 Se procesa **una fuente a la vez** — nunca todo el repo de una pasada, salvo pedido explícito del usuario para lote (como se documenta en `log.md` cuando ocurra). El usuario se queda involucrado revisando cada actualización antes de seguir con la próxima ("metodología Karpathy": un paso, revisar el resultado, recién ahí seguir con el próximo).
 
 1. Leer la fuente completa (PDF vía skill `pdf`, o el `.docx` correspondiente).
-2. Discutir los puntos clave con el usuario (objeto, alcance, hallazgos, relevancia para el protocolo de AT propuesto).
+2. Discutir los puntos clave con el usuario (objeto, alcance, hallazgos, relevancia para el trabajo de asesoría del usuario en la DCI/ANSV).
 3. Escribir/actualizar la página de `fuentes/`, registrando página/sección exacta de cada dato citable. Puede tocar varias páginas: crear/actualizar conceptos y entidades relevantes con link a esta fuente.
 4. Actualizar `index.md`.
 5. Agregar entrada a `log.md` con prefijo `## [YYYY-MM-DD] ingest | <nombre de la fuente>`.
