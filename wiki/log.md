@@ -394,3 +394,11 @@ Registro cronológico, append-only. No editar entradas pasadas — solo agregar 
 - El ABC aporta un nuevo eslabón (2026) al uso del término "asistencia técnica" en sus recomendaciones al nivel nacional — dirigido a los territorios en materia de formulación/evaluación de proyectos de financiamiento, sin nombrar a la DCI específicamente. Se actualizó `wiki/conceptos/genealogia-asistencia-tecnica.md` únicamente con la referencia cruzada (no se creó un eslabón numerado nuevo, dado que no aporta un uso cualitativamente distinto de los ya documentados).
 - Se actualizó `index.md` (fuentes: 37→41 de 45; financiamiento y cooperación: 4/4, categoría completa).
 - Continúo directamente con la última categoría pendiente (Productos propios del proyecto / análisis técnico, 4 fuentes), sin pausar.
+
+## [2026-09-25] ingest | Análisis Técnico de la Siniestralidad Vial en Colombia — comparativo 1er semestre 2025-2026 (Mateus)
+
+- Se leyó completo (19 páginas) y se creó `wiki/fuentes/analisis-tecnico-siniestralidad-vial-mateus-2026.md`, `status: ingerido`. Es un **producto propio de la DCI**, con autoría individual identificada y firma digital: CR® Javier Alejandro Mateus Perafán, Contratista DCI-ANSV, 14 de septiembre de 2026 — confirma su vinculación continuada (ya documentado como revisor de PR-06/PR-07/PR-08) hasta esta fecha.
+- **Hallazgo central**: 4.751 personas fallecidas en siniestros viales en el primer semestre de 2026 (+792 frente a 2025, +20,0 %); los usuarios de motocicleta explican el 87,5 % del incremento nacional; diez departamentos concentran ~79 % del incremento; motociclistas y peatones concentran conjuntamente 86,3 % de las fatalidades; concentración en fin de semana (domingo 22,6 %), franja 18:00-20:59 y zona urbana (61,7 %).
+- Se actualizó `wiki/entidades/dci-direccion-coordinacion-interinstitucional.md` con la confirmación fechada de Mateus Perafán.
+- Se actualizó `index.md` (fuentes: 41→42 de 45; productos propios: 1/4).
+- Continúo directamente con la siguiente fuente de la categoría (`48 Producto 2 Estado del arte Version 5 .pdf`), sin pausar.

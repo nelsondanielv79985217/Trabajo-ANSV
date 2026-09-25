@@ -2,7 +2,7 @@
 
 Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos de trabajo (INGEST/QUERY/LINT).
 
-**Estado general (2026-09-25):** 41 de 45 fuentes con página propia en `fuentes/` (PR-06 sigue `incierto` por falta de citación por página; las demás, ingeridas con citación completa). Las categorías **Procedimientos y anexos SGC (6/6)**, **Marco normativo (11/11)**, **Planeación sectorial (6/6)**, **Protocolos operativos y Plan 365 (4/4)**, **Correspondencia oficial (7/7)**, **Conceptos jurídicos y laborales (2/2)**, **Contratación (1/1)** y **Financiamiento y cooperación (4/4)** quedan completas. 3 entidades (DCI, ANSV, Corporación Fondo de Prevención Vial) y 5 conceptos (jerarquía documental del proceso DCI; Plan Estratégico de Seguridad Vial — PESV; Organismos y autoridades de tránsito; Genealogía normativa de "asistencia técnica"; Sistema Seguro — enfoque de la política de seguridad vial) creados. Solo quedan pendientes las 4 fuentes de **Productos propios del proyecto**, relevadas por nombre de archivo únicamente; ninguna fue leída todavía. *Nota (2026-09-25): la wiki ya no se construye como insumo de tesis, sino como base de conocimiento para agentes de asesoría del usuario en la DCI/ANSV — ver `CLAUDE.md` y `log.md`.* *Nota (2026-09-25): el usuario pidió continuar el INGEST de las fuentes restantes sin pausar a pedir autorización entre cada una — ver `CLAUDE.md` y `log.md`.* *(Corrección 2026-09-24: el conteo inicial de "46 fuentes" del setup era erróneo — son 45; ver `log.md`.)*
+**Estado general (2026-09-25):** 42 de 45 fuentes con página propia en `fuentes/` (PR-06 sigue `incierto` por falta de citación por página; las demás, ingeridas con citación completa). Las categorías **Procedimientos y anexos SGC (6/6)**, **Marco normativo (11/11)**, **Planeación sectorial (6/6)**, **Protocolos operativos y Plan 365 (4/4)**, **Correspondencia oficial (7/7)**, **Conceptos jurídicos y laborales (2/2)**, **Contratación (1/1)** y **Financiamiento y cooperación (4/4)** quedan completas. **Productos propios del proyecto (1/4)** en curso. *Nota (2026-09-25): la wiki ya no se construye como insumo de tesis, sino como base de conocimiento para agentes de asesoría del usuario en la DCI/ANSV — ver `CLAUDE.md` y `log.md`.* *Nota (2026-09-25): el usuario pidió continuar el INGEST de las fuentes restantes sin pausar a pedir autorización entre cada una — ver `CLAUDE.md` y `log.md`.* *(Corrección 2026-09-24: el conteo inicial de "46 fuentes" del setup era erróneo — son 45; ver `log.md`.)*
 
 ## Fuentes (`fuentes/`)
 
@@ -76,9 +76,9 @@ Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos 
 - [Apalancamiento de Recursos — Alianzas Privadas](fuentes/apalancamiento-alianzas-privadas.md) — Plantilla y guía para invitar al sector privado (RSE/ESG) a alianzas de seguridad vial; caso ilustrativo con empresa ficticia (Tocancipá). (ingerido)
 - [Apalancamiento de Recursos — Apalancamiento Público (Entidades Públicas)](fuentes/apalancamiento-publico-entidades.md) — Plantilla y guía para solicitar cofinanciación pública (MGA/SGR); caso ilustrativo (Aguachica). (ingerido)
 
-### Productos propios del proyecto / análisis técnico (4)
+### Productos propios del proyecto / análisis técnico (4, 1 ingerida)
 
-- 140926 ANÁLISIS TÉCNICO DE LA SINIESTRALIDAD VIAL EN COLOMBIA (Mateus).pdf — (pendiente-ingest)
+- [Análisis Técnico de la Siniestralidad Vial en Colombia — comparativo 1er semestre 2025-2026 (Mateus)](fuentes/analisis-tecnico-siniestralidad-vial-mateus-2026.md) — Producto propio de la DCI (14 sept. 2026), autoría individual identificada (Javier Alejandro Mateus Perafán); incremento del 20 % en fallecidos, con motociclistas explicando 87,5 % del aumento. (ingerido)
 - 48 Producto 2 Estado del arte Version 5 .pdf — (pendiente-ingest; posible entregable propio de un contrato/consultoría — verificar autoría y estatus (fuente primaria propia vs. bibliografía externa) durante el ingest)
 - 59 Producto 3. Caracterización Version final V 3.1 (30012026).pdf — (pendiente-ingest; ídem)
 - 56 Producto 4 Analisis de informacion V5 final.pdf — (pendiente-ingest; ídem)
