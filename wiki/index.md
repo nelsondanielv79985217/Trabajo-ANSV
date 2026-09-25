@@ -2,7 +2,7 @@
 
 Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos de trabajo (INGEST/QUERY/LINT).
 
-**Estado general (2026-09-25):** 34 de 45 fuentes con página propia en `fuentes/` (PR-06 sigue `incierto` por falta de citación por página; las demás, ingeridas con citación completa). Las categorías **Procedimientos y anexos SGC (6/6)**, **Marco normativo (11/11)**, **Planeación sectorial (6/6)**, **Protocolos operativos y Plan 365 (4/4)** y **Correspondencia oficial (7/7)** quedan completas. 3 entidades (DCI, ANSV, Corporación Fondo de Prevención Vial) y 5 conceptos (jerarquía documental del proceso DCI; Plan Estratégico de Seguridad Vial — PESV; Organismos y autoridades de tránsito; Genealogía normativa de "asistencia técnica"; Sistema Seguro — enfoque de la política de seguridad vial) creados. Las 11 fuentes restantes están relevadas por nombre de archivo únicamente; ninguna fue leída todavía. *Nota (2026-09-25): la wiki ya no se construye como insumo de tesis, sino como base de conocimiento para agentes de asesoría del usuario en la DCI/ANSV — ver `CLAUDE.md` y `log.md`.* *Nota (2026-09-25): el usuario pidió continuar el INGEST de las fuentes restantes sin pausar a pedir autorización entre cada una — ver `CLAUDE.md` y `log.md`.* *(Corrección 2026-09-24: el conteo inicial de "46 fuentes" del setup era erróneo — son 45; ver `log.md`.)*
+**Estado general (2026-09-25):** 36 de 45 fuentes con página propia en `fuentes/` (PR-06 sigue `incierto` por falta de citación por página; las demás, ingeridas con citación completa). Las categorías **Procedimientos y anexos SGC (6/6)**, **Marco normativo (11/11)**, **Planeación sectorial (6/6)**, **Protocolos operativos y Plan 365 (4/4)**, **Correspondencia oficial (7/7)** y **Conceptos jurídicos y laborales (2/2)** quedan completas. 3 entidades (DCI, ANSV, Corporación Fondo de Prevención Vial) y 5 conceptos (jerarquía documental del proceso DCI; Plan Estratégico de Seguridad Vial — PESV; Organismos y autoridades de tránsito; Genealogía normativa de "asistencia técnica"; Sistema Seguro — enfoque de la política de seguridad vial) creados. Las 9 fuentes restantes (Contratación 1, Financiamiento y cooperación 4, Productos propios 4) están relevadas por nombre de archivo únicamente; ninguna fue leída todavía. *Nota (2026-09-25): la wiki ya no se construye como insumo de tesis, sino como base de conocimiento para agentes de asesoría del usuario en la DCI/ANSV — ver `CLAUDE.md` y `log.md`.* *Nota (2026-09-25): el usuario pidió continuar el INGEST de las fuentes restantes sin pausar a pedir autorización entre cada una — ver `CLAUDE.md` y `log.md`.* *(Corrección 2026-09-24: el conteo inicial de "46 fuentes" del setup era erróneo — son 45; ver `log.md`.)*
 
 ## Fuentes (`fuentes/`)
 
@@ -60,10 +60,10 @@ Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos 
 - Respuesta a peticion congresista 20266600072782.docx — (pendiente-ingest)
 - 16032026 2.2.1 Estrategia de Asistencia...s entidades territoriales.pdf — (pendiente-ingest)
 
-### Conceptos jurídicos y laborales (2)
+### Conceptos jurídicos y laborales (2, 2 ingeridas — completo)
 
-- 20266700034703 Concepto Estabilidad Laboral Reforzada 07092026.pdf — (pendiente-ingest)
-- Solicitud concepto estabilidad ocupacional (1).pdf — (pendiente-ingest)
+- [Concepto de Estabilidad Ocupacional Reforzada (2026)](fuentes/concepto-estabilidad-ocupacional-reforzada-2026.md) — Pronunciamiento del Grupo de Gestión Contractual sobre estabilidad ocupacional reforzada de contratistas (salud, prepensión, maternidad/lactancia, paternidad), con citación completa de jurisprudencia y conceptos CCE. Hallazgo: nueva Directora General de la ANSV (Alexandra Acelas Rodríguez, sept. 2026). (ingerido)
+- [Solicitud de concepto — estabilidad ocupacional (DIV)](fuentes/solicitud-concepto-estabilidad-ocupacional-div.md) — Solicitud de la Dirección de Infraestructura y Vehículos sobre tres casos de estabilidad ocupacional reforzada; trámite distinto al concepto anterior pese al mismo tema. (ingerido)
 
 ### Contratación (1)
 
