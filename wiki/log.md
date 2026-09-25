@@ -246,3 +246,11 @@ Registro cronológico, append-only. No editar entradas pasadas — solo agregar 
 - No menciona a la DCI ni el término "asistencia técnica" — es una fuente de otra dependencia de la ANSV (el ONSV); no se actualizó la página de genealogía del término.
 - Se actualizó `index.md` (fuentes: 21→22 de 45; planeación sectorial: 4→5 de 6 ingeridas).
 - Continúo directamente con la última fuente de planeación sectorial (Anexo Técnico Plan 365), sin pausar.
+
+## [2026-09-25] ingest | Anexo Técnico Plan 365 (Circular Conjunta 023/2025)
+
+- Se leyó el documento completo (95 páginas: 2 de contexto/resumen + 93 de tabla detallada) y se creó `wiki/fuentes/anexo-tecnico-plan-365.md`, `status: ingerido`, con citación por página. **Se completa la categoría "Planeación sectorial y política pública" (6/6).** No se transcribió el detalle fila por fila de las 2.307 combinaciones festivo-municipio (excede el propósito de un resumen navegable); se documentó la tabla resumen por festivo y la estructura completa, dejando el detalle granular disponible en el PDF original.
+- **Hallazgo**: es el instrumento complementario (no sucesor) del Plan 70D, de cobertura anual — mismas entidades ejecutoras (Mintransporte, ANSV, SuperTransporte, DITRA), misma metodología ("gráfica de la ballena"), mismo enfoque de Sistema Seguro. Prioriza 2.307 combinaciones festivo-municipio para 2025 según siniestralidad histórica (8.271 fallecidos nacionales en 2024, cifras preliminares ONSV).
+- **Hallazgo — inconsistencia terminológica dentro de la misma familia de instrumentos**: a diferencia del Plan 70D, que usa expresamente "asistencia técnica a las autoridades", este anexo no usa el término en ningún punto (usa "pedagogía, presencia institucional y... vigilancia y control"). Se actualizó `wiki/conceptos/genealogia-asistencia-tecnica.md` con esta evidencia de inconsistencia, y se actualizó `wiki/fuentes/plan-70d-sector-transporte.md` con el cruce.
+- Se actualizó `index.md` (fuentes: 22→23 de 45; **planeación sectorial completa, 6/6**).
+- Continúo directamente con la siguiente categoría del corpus (protocolos operativos y Plan 365, 4 fuentes: Protocolo Prácticas Seguras Motociclistas, Circular Conjunta Plan 365, Análisis de Reportes Organismos de Tránsito Plan 365, Circular Externa Videos Infracciones), sin pausar.

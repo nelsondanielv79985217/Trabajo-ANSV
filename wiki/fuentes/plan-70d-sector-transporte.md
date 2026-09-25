@@ -45,6 +45,7 @@ Es un nuevo eslabón para la [Genealogía normativa de "asistencia técnica"](..
 ## Conexiones
 
 - [Genealogía normativa de "asistencia técnica"](../conceptos/genealogia-asistencia-tecnica.md): se actualiza con la mención de "asistencia técnica a las autoridades" como componente del Plan 70D.
+- [Anexo Técnico Plan 365](anexo-tecnico-plan-365.md): instrumento complementario de cobertura anual (mismas entidades, misma metodología de "gráfica de la ballena"); ese documento no usa el término "asistencia técnica", solo "presencia institucional" — variación terminológica dentro de la misma familia de instrumentos.
 - [PNSV 2022-2031](pnsv-2022-2031-documento-tecnico-soporte.md): el Plan 70D prioriza expresamente uno de los objetivos específicos del PNSV (cumplimiento de normas de tránsito); usa las mismas 8 regiones de la estrategia territorial del Plan.
 - [DCI — Dirección de Coordinación Interinstitucional](../entidades/dci-direccion-coordinacion-interinstitucional.md): posible nueva referencia a Darío Rincón Jaramillo (evento de conmemoración a víctimas, Medellín, noviembre de 2024) — ver incertidumbre.
 - [ANSV — Agencia Nacional de Seguridad Vial](../entidades/ansv-agencia-nacional-seguridad-vial.md): se actualiza con la alianza de cooperación internacional (Bloomberg Philanthropies, Vital Strategies) para la estrategia de comunicaciones de este plan — candidata a cruzarse con las fuentes pendientes de la categoría "Financiamiento y cooperación".
