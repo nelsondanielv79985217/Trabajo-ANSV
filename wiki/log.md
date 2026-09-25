@@ -306,3 +306,14 @@ Registro cronológico, append-only. No editar entradas pasadas — solo agregar 
 - Se añadió a Tania Marcela Suárez Ortíz (Profesional Especializado, Grado 20, DCI) a la nómina de contratistas/funcionarios de la DCI — nombre nuevo para el corpus.
 - Se actualizó `index.md` (fuentes: 27→28 de 45; correspondencia oficial: 1/7).
 - Continúo directamente con la siguiente fuente de correspondencia oficial (`OFICIO CONVOCATORIA SOCIALIZACIÓN 14-11-2025.docx`), sin pausar.
+
+## [2026-09-25] ingest | Oficio (plantilla) — Convocatoria socialización 14-11-2025 (Plan 365)
+
+- Se leyó completo `OFICIO CONVOCATORIA SOCIALIZACIÓN 14-11-2025.docx`, convertido a texto plano con `pandoc` (el `Read` estándar no procesa `.docx` binarios — patrón a reutilizar para los demás `.docx` pendientes del corpus). Se creó `wiki/fuentes/oficio-convocatoria-socializacion-14-11-2025.md`, `status: ingerido`.
+- Es una **plantilla de oficio** (campos de fusión ORFEO sin diligenciar, sin radicado ni fecha de expedición propia verificable) que convoca a una jornada virtual de socialización de acciones del Plan 365 para el cierre de 2025 e inicio de 2026, el 21 de noviembre de 2025 — única fecha exacta que aporta el documento.
+- Confirma, por tercera fuente consecutiva y de forma consistente con el oficio anterior, a Paula Katerine Ramos Navarro como Directora de Coordinación Interinstitucional, con el mismo equipo (Andrés Alfonso González, Tania Marcela Suárez Ortíz).
+- Nuevo uso del término "asistencia técnica" (2025, "asistencia técnica a los territorios" en la ejecución del Plan 365) — consistente con los eslabones ya documentados en `wiki/conceptos/genealogia-asistencia-tecnica.md` (no se modificó esa página; el uso no aporta un eslabón cualitativamente distinto).
+- Incertidumbre registrada: el documento cita como meta del PNSV una reducción de siniestralidad "para el 2030", mientras que el documento técnico de soporte del PNSV ya ingerido tiene como horizonte 2031 — posible imprecisión, no verificada.
+- Se actualizó `wiki/entidades/dci-direccion-coordinacion-interinstitucional.md` con esta nueva confirmación.
+- Se actualizó `index.md` (fuentes: 28→29 de 45; correspondencia oficial: 2/7).
+- Continúo directamente con la siguiente fuente de correspondencia oficial (`OFICIO GOBERNADORES Y ALCALDES PLAN 365 E INSTANCIAS.docx`), sin pausar.
