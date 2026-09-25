@@ -356,3 +356,14 @@ Registro cronológico, append-only. No editar entradas pasadas — solo agregar 
 - Incertidumbre registrada: un bloque de contenido pedagógico ajeno al cuestionario se repite 4 veces al final del archivo, de origen no identificado — posible fragmento pegado por error.
 - Se actualizó `index.md` (fuentes: 32→33 de 45; correspondencia oficial: 6/7).
 - Continúo directamente con la última fuente de correspondencia oficial (`16032026 2.2.1 Estrategia de Asistencia...s entidades territoriales.pdf`), sin pausar.
+
+## [2026-09-25] ingest | Estrategia de Asistencia Técnica y Pedagógica dirigida a las entidades territoriales — Acción 2.2.1 (PNSV, Gobernanza)
+
+- Se leyó completo (13 páginas) y se creó `wiki/fuentes/estrategia-asistencia-tecnica-pedagogica-sistema-seguro.md`, `status: ingerido`. **Se completa la categoría "Correspondencia oficial / oficios" (7/7).**
+- Es el documento estratégico propio de la DCI (versión 2, 2026; versión 1 de 2022) que define formalmente las dos líneas de asistencia técnica territorial de la DCI (articulación/gestión interinstitucional local; fortalecimiento de políticas públicas locales), vinculado a la Acción 2.2.1 del área de Gobernanza del PNSV.
+- **Hallazgo central, resuelve una incertidumbre repetida en el corpus**: la fuente de información del indicador oficial "Municipios asistidos técnicamente en la implementación del enfoque de Sistema Seguro" (Tabla 18 del PNSV) son los "Registros de Asistencia y acta de reunión de asistencia Técnica realizados por la Dirección de Coordinación Interinstitucional" — confirma, por primera vez con fuente primaria y explícita, que la DCI es responsable de ese indicador. Se actualizaron `wiki/conceptos/genealogia-asistencia-tecnica.md` y `wiki/conceptos/sistema-seguro-enfoque-politica-seguridad-vial.md` (incertidumbres marcadas como resueltas, sin borrar el texto original, siguiendo la regla del proyecto).
+- Aporta las metas anuales completas 2022-2031 del indicador (24 %→41 %) y su fórmula matemática (municipios asistidos / 1.102 municipios con riesgo de siniestralidad, base 2021) — más granular que la Tabla 18 del PNSV, que solo tenía línea base y meta final.
+- Confirma a Paula Katerine Ramos Navarro como Directora de la DCI hasta el 19 de mayo de 2026 (extiende el rango de confirmación desde noviembre de 2025); añade a Leydi Vanesa Márquez González (nueva) y confirma el apellido completo de Gina Paola Herrera Ávila. Se actualizó `wiki/entidades/dci-direccion-coordinacion-interinstitucional.md`.
+- Incertidumbre registrada: la fecha de aprobación de Ramos Navarro (19/05/2026) es anterior a dos fechas de revisión del mismo documento (26/05/2026) — no se aclara si es un error de diligenciamiento.
+- Se actualizó `index.md` (fuentes: 33→34 de 45; correspondencia oficial: 7/7, categoría completa).
+- Continúo directamente con la siguiente categoría pendiente (Conceptos jurídicos y laborales, 2 fuentes), sin pausar.
