@@ -411,3 +411,12 @@ Registro cronológico, append-only. No editar entradas pasadas — solo agregar 
 - Conclusión central del documento: el andamiaje jurídico colombiano ya es suficiente para operar bajo Sistema Seguro; la brecha real está en la ejecución territorial estandarizada (estandarización operativa, interoperabilidad de datos, ejecutabilidad sancionatoria, vigilancia de mercado, gestión de la exposición).
 - Se actualizó `index.md` (fuentes: 42→43 de 45; productos propios: 2/4).
 - Continúo directamente con la siguiente fuente de la categoría (`59 Producto 3. Caracterización Version final V 3.1 (30012026).pdf`), sin pausar.
+
+## [2026-09-25] ingest | Producto 3 — Caracterización sociodemográfica y económica de usuarios de motocicleta
+
+- Se leyó (146 páginas; convertido con `pdftotext -layout`; lectura completa de resumen ejecutivo, introducción, marco de referencia y conclusiones, muestreo representativo del resto dada su extensión) y se creó `wiki/fuentes/producto3-caracterizacion-usuarios-motocicleta.md`, `status: ingerido`.
+- Es el "Producto 3" de la misma consultoría del Producto 2 (Consorcio Prevención Motovial, mismo supervisor DCI: Nelson Daniel Vega Samaca, nombre con segundo apellido confirmado) — pero, a diferencia de aquel (revisión bibliográfica), es un estudio empírico primario (encuesta nacional + entrevistas/grupos focales regionales). Aporta el número de contrato **IAP-009-2024**, que se usó para completar una incertidumbre dejada abierta en la página del Producto 2.
+- **Hallazgo central**: la siniestralidad de motociclistas no responde a un patrón único, sino que varía fuertemente por las 8 regiones ANSV/DCI (ejemplos: condición de la vía, señalización, causas atribuidas al siniestro e influencia de la prisa muestran contrastes de más de 35 puntos porcentuales entre regiones). También documenta que el uso laboral de la motocicleta convierte el riesgo vial en riesgo ocupacional, y advierte un subregistro relevante de siniestros no reportados en las estadísticas oficiales.
+- Se actualizó `wiki/fuentes/producto2-estado-del-arte-motociclistas.md` con el número de contrato y la referencia cruzada.
+- Se actualizó `index.md` (fuentes: 43→44 de 45; productos propios: 3/4).
+- Continúo directamente con la última fuente pendiente del corpus (`56 Producto 4 Analisis de informacion V5 final.pdf`), sin pausar.
