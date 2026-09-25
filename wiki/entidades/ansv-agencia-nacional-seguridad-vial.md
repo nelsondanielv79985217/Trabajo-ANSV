@@ -82,6 +82,8 @@ El [PNSV 2022-2031](../fuentes/pnsv-2022-2031-documento-tecnico-soporte.md) (doc
 
 **Directores Generales de la ANSV identificados en el corpus, con fecha**: Juan Carlos Beltrán Bedoya (5 de enero de 2023, firma la [Resolución 007 de 2023](../fuentes/resolucion-007-de-2023-mesas-articulacion-interinstitucional.md)) → Mariantonia Tabares Pulgarín (10 de octubre de 2023, firma la [Resolución 583 de 2023](../fuentes/resolucion-583-de-2023-armonizacion-plsv-pnsv.md)) — cambio de Dirección General entre esas dos fechas, sin fuente en el corpus que lo explique.
 
+**Cooperación internacional (hallazgo, [Plan 70D](../fuentes/plan-70d-sector-transporte.md), noviembre-diciembre de 2024)**: la estrategia de comunicaciones del Plan 70D (control de velocidad) se desarrolló en alianza con **Bloomberg Philanthropies** y **Vital Strategies** — primera mención en el corpus de cooperación internacional activa de la ANSV; candidata a cruzarse con las fuentes aún pendientes de la categoría "Financiamiento y cooperación".
+
 ## Presencia en el corpus
 
 - [Ley 1702 de 2013](../fuentes/ley-1702-de-2013-creacion-ansv.md): ley de creación.
