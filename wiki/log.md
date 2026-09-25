@@ -336,3 +336,12 @@ Registro cronológico, append-only. No editar entradas pasadas — solo agregar 
 - **Valor incremental**: texto verbatim completo (antes parafraseado/truncado) de la Ley 1702/2013, Art. 19, numeral 11, y de la Ley 336/1996, Art. 46, literal c — se completaron ambas citas en `wiki/fuentes/ley-1702-de-2013-creacion-ansv.md`. También aporta una cita textual entrecomillada sobre el Plan 365 y la asistencia técnica, sin identificar su fuente exacta (registrado como incertidumbre).
 - Se actualizó `index.md` (fuentes: 30→31 de 45; correspondencia oficial: 4/7).
 - Continúo directamente con la siguiente fuente de correspondencia oficial (`Solicita info 365 Oficio_ANSV_2024 (22) super y procuraduría.docx`), sin pausar.
+
+## [2026-09-25] ingest | Solicita info 365 Oficio (22) — tercera versión del oficio SuperTransporte/Procuraduría
+
+- Se leyó completo (convertido con `pandoc`) y se creó `wiki/fuentes/solicita-info-365-oficio-22-super-procuraduria.md`, `status: ingerido`. **Tercera versión** del mismo oficio ya documentado en las dos fuentes anteriores (mismos destinatarios, firmantes, anexo, copia a Procuraduría).
+- **Valor incremental**: cita verbatim del Art. 19 de la Ley 1702/2013 con su propio encabezado, y del Art. 46 de la Ley 336/1996 con el rango sancionatorio completo (1 a 2.000 SMLMV) — se completaron ambas citas en `wiki/fuentes/ley-1702-de-2013-creacion-ansv.md`.
+- **Hallazgo más relevante de esta versión**: encuadra expresamente el Informe Consolidado/análisis de reportes como **prueba** de la presunta configuración de la causal de suspensión/cancelación (Art. 19 num. 11) — revela una intención jurídico-sancionatoria explícita, no solo de seguimiento administrativo, en el escalamiento de la DCI ante SuperTransporte por el incumplimiento del Plan 365.
+- Se completa la categoría de las **tres versiones del mismo oficio** (20254000114441, ORFEO (22), Solicita info 365 (22)) — no se ha podido determinar cuál es la versión final radicada, aunque el archivo con número de radicado completo es la hipótesis más probable.
+- Se actualizó `index.md` (fuentes: 31→32 de 45; correspondencia oficial: 5/7).
+- Continúo directamente con la siguiente fuente de correspondencia oficial (`Respuesta a peticion congresista 20266600072782.docx`), sin pausar.
