@@ -285,3 +285,13 @@ Registro cronológico, append-only. No editar entradas pasadas — solo agregar 
 - Se actualizó `wiki/entidades/dci-direccion-coordinacion-interinstitucional.md` con este producto propio de seguimiento.
 - Se actualizó `index.md` (fuentes: 25→26 de 45; protocolos operativos: 3/4 ingeridas).
 - Continúo directamente con la última fuente de protocolos operativos (Circular Externa Videos Infracciones Mintransporte), sin pausar.
+
+## [2026-09-25] ingest | Circular Externa 20244000000157 de 2024 (videos como prueba de infracciones)
+
+- Se leyó completa (4 páginas) y se creó `wiki/fuentes/circular-externa-157-2024-videos-infracciones.md`, `status: ingerido`, con citación por página. **Se completa la categoría "Protocolos operativos y Plan 365" (4/4).**
+- Es una circular de la Dirección de Transporte y Tránsito del Ministerio de Transporte (no ANSV/DCI) que instruye a organismos de tránsito sobre el procesamiento de videos de infracciones difundidos en redes/medios como prueba, con fundamento en el CPACA (Ley 1437/2011) y la Sentencia C-321/2022 sobre responsabilidad solidaria del propietario.
+- No menciona a la ANSV ni a la DCI ni el término "asistencia técnica" — instrumento de otra entidad, dirigido al mismo universo de organismos de tránsito con el que trabaja la DCI, en lógica de control/procesal.
+- Nota: el documento cita una reforma del Art. 8° de la Ley 769/2002 por la "Ley 2197", que no coincide con ninguna reforma ya verificada en el corpus (Ley 1383/2010, Ley 2251/2022) — posible otro error de cita o norma no incluida; se registró como incertidumbre.
+- Se corrigió una línea duplicada preexistente en `index.md` (el archivo de esta fuente aparecía dos veces como "pendiente-ingest").
+- Se actualizó `index.md` (fuentes: 26→27 de 45; protocolos operativos: completo, 4/4).
+- Continúo directamente con la primera fuente de la siguiente categoría (correspondencia oficial / oficios, 7 fuentes), sin pausar.
