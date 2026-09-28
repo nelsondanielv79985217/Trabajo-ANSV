@@ -4,7 +4,7 @@ type: fuente
 tags: [asistencia-tecnica, procedimiento, dci, ansv, transferencia-conocimiento, sistema-seguro]
 fuente_pdf: "ANSV-CPP-PR-06 procedimiento de asistencia tecnica.pdf"
 status: incierto
-last_updated: 2026-09-23
+last_updated: 2026-09-28
 ---
 
 # ANSV-CPP-PR-06 — Procedimiento de Asistencia Técnica (DCI)

@@ -4,7 +4,7 @@ type: fuente
 tags: [circular-externa, mintransporte, organismos-transito, infracciones, video-prueba, protocolos-operativos]
 fuente_pdf: "circular externa 20244000000157  VIDEOS INFRACCIONES Mintransporte.pdf"
 status: ingerido
-last_updated: 2026-09-25
+last_updated: 2026-09-28
 ---
 
 # Circular Externa 20244000000157 de 2024 — Publicaciones de videos que permiten establecer la comisión de infracciones de alto riesgo

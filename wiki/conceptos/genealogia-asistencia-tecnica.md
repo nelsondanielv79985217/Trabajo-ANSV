@@ -3,7 +3,7 @@ title: "Genealogía normativa de 'asistencia técnica'"
 type: concepto
 tags: [asistencia-tecnica, genealogia, dci, ansv, codigo-nacional-transito, mineducacion]
 status: ingerido
-last_updated: 2026-09-25
+last_updated: 2026-09-28
 ---
 
 # Genealogía normativa de "asistencia técnica"

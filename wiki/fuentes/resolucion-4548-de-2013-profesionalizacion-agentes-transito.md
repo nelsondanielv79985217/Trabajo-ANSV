@@ -4,7 +4,7 @@ type: fuente
 tags: [resolucion, marco-normativo, mintransporte, agentes-transito, profesionalizacion, asistencia-tecnica, codigo-nacional-transito]
 fuente_pdf: "resolucion_mintransporte_4548_2013 profesionalización Agentes de transito.pdf"
 status: ingerido
-last_updated: 2026-09-25
+last_updated: 2026-09-28
 ---
 
 # Resolución 4548 de 2013 — "Por la cual se reglamenta el artículo 3° y el numeral 5 del artículo 7° de la Ley 1310 de 2009"

@@ -3,7 +3,7 @@ title: "DCI — Dirección de Coordinación Interinstitucional (ANSV)"
 type: entidad
 tags: [dci, ansv, asistencia-tecnica, coordinacion-interinstitucional]
 status: ingerido
-last_updated: 2026-09-25
+last_updated: 2026-09-28
 ---
 
 

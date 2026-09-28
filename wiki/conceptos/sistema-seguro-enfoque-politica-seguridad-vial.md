@@ -3,7 +3,7 @@ title: "Sistema Seguro — enfoque de la política de seguridad vial"
 type: concepto
 tags: [sistema-seguro, safe-system, politica-publica, ansv, marco-teorico]
 status: ingerido
-last_updated: 2026-09-25
+last_updated: 2026-09-28
 ---
 
 # Sistema Seguro — enfoque de la política de seguridad vial
