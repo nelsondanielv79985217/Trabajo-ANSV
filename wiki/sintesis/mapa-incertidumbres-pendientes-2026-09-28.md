@@ -40,10 +40,12 @@ Si alguno de estos se carga, se puede cerrar la incertidumbre correspondiente:
 
 1. **Fecha exacta de la transición Luis Yair Aguilar Rojas → Paula Katerine Ramos Navarro** en la titularidad de la DCI (entre marzo y noviembre de 2025), y si hubo un período intermedio — [DCI](../entidades/dci-direccion-coordinacion-interinstitucional.md), [Oficio 20254000114441/2025](../fuentes/oficio-20254000114441-supertransporte-plan-365.md).
 2. Por qué o cuándo **Carlos Vanegas Vivas** dejó la Dirección de la DCI antes de octubre de 2023 — [DCI](../entidades/dci-direccion-coordinacion-interinstitucional.md).
-3. Si el **"equipo de Regionalización"** (Oficio Gobernadores y Alcaldes, 2025) es el mismo **"Equipo de Enlaces Territoriales"** de la Línea Territorial (Resolución 007/2023), una evolución, o un equipo distinto — [DCI](../entidades/dci-direccion-coordinacion-interinstitucional.md), [Oficio Gobernadores y Alcaldes](../fuentes/oficio-gobernadores-alcaldes-plan-365-instancias.md).
-4. Fecha exacta en que **Alexandra Acelas Rodríguez** asumió la Dirección General de la ANSV, y si hubo encargo/transición desde Mariantonia Tabares Pulgarín — [Concepto Estabilidad Ocupacional Reforzada 2026](../fuentes/concepto-estabilidad-ocupacional-reforzada-2026.md).
-5. Si **"Directora Técnico Grado 24"** (CA-02) y **"Directora de Coordinación Interinstitucional"** (PR-07, PR-08, otros) son el mismo cargo o coexisten — [DCI](../entidades/dci-direccion-coordinacion-interinstitucional.md).
+3. ~~Si el "equipo de Regionalización" es el mismo "Equipo de Enlaces Territoriales"~~ **Resuelto (2026-09-28) por confirmación directa del usuario, no por una fuente documental del corpus**: son el mismo equipo — [DCI](../entidades/dci-direccion-coordinacion-interinstitucional.md), [Oficio Gobernadores y Alcaldes](../fuentes/oficio-gobernadores-alcaldes-plan-365-instancias.md).
+4. ~~Fecha exacta en que Alexandra Acelas Rodríguez asumió la Dirección General de la ANSV~~ **Resuelto parcialmente (2026-09-28) por confirmación directa del usuario, no por una fuente documental del corpus**: semana del 28 de agosto de 2026 — [ANSV](../entidades/ansv-agencia-nacional-seguridad-vial.md), [Concepto Estabilidad Ocupacional Reforzada 2026](../fuentes/concepto-estabilidad-ocupacional-reforzada-2026.md). Sigue sin poder establecerse desde el corpus si hubo un periodo de encargo previo a esa fecha.
+5. ~~Si "Directora Técnico Grado 24" y "Directora de Coordinación Interinstitucional" son el mismo cargo~~ **Resuelto (2026-09-28) por confirmación directa del usuario, no por una fuente documental del corpus**: es el mismo cargo — [DCI](../entidades/dci-direccion-coordinacion-interinstitucional.md).
 6. Si **Cesar Mauricio Salcedo** o **Alvaro Andrés Alfonso González** participan en documentos adicionales no identificados — nota: ambos nombres ya están confirmados en múltiples fuentes del corpus (Salcedo: CA-02, Resolución 583/2023, Estrategia AT, Oficio Gobernadores y Alcaldes; González: 8 fuentes distintas del bloque Plan 365/70D) — la incertidumbre original se refería a documentos *fuera* de este corpus, no verificable desde acá.
+
+**Nota (2026-09-28)**: de los 3 ítems resueltos arriba, ninguno se confirmó contra un documento del corpus — la fuente es información directa del usuario. Se marcaron así, expresamente, para que cualquier producto de asesoría que los use no los cite como si provinieran de una fuente documental (violaría la regla de citación exacta y trazabilidad de `CLAUDE.md`).
 
 ## D. Contenido no transcrito en documentos largos (decisión deliberada de "ingest estructural", no un vacío real)
 
@@ -62,6 +64,8 @@ Aplica principalmente a los anexos técnicos, tablas extensas y desarrollos norm
 ## Conclusión
 
 De los ~70 marcadores revisados, ninguno resultó ser un error de la wiki ni resoluble con el corpus actual — el trabajo de cruce entre fuentes ya hecho en sesiones anteriores fue riguroso. Los únicos accionables de corto plazo son los de la **categoría A** (piden una confirmación directa del usuario) y la **categoría B** (piden cargar un documento adicional al repositorio). Las categorías C, D, E y F no requieren ninguna acción — están correctamente marcadas como incertidumbres genuinas o como decisiones metodológicas deliberadas.
+
+**Actualización (2026-09-28)**: el usuario confirmó directamente 3 ítems de la categoría C (equipo de Regionalización = Equipo de Enlaces Territoriales; fecha de asunción de Alexandra Acelas Rodríguez, semana del 28 de agosto de 2026; "Directora Técnico Grado 24" = "Directora de Coordinación Interinstitucional"). Se incorporaron a las páginas correspondientes de `fuentes/` y `entidades/`, marcados expresamente como confirmación directa del usuario y no como hallazgo documental, para preservar la trazabilidad exigida por `CLAUDE.md`.
 
 ## Incertidumbres
 

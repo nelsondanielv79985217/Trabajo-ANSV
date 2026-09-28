@@ -4,7 +4,7 @@ type: fuente
 tags: [correspondencia-oficial, plan-365, dci, clsv, cdsv, ctsv, asistencia-tecnica, regionalizacion]
 fuente_pdf: "OFICIO GOBERNADORES Y ALCALDES PLAN 365 E INSTANCIAS.docx"
 status: ingerido
-last_updated: 2026-09-25
+last_updated: 2026-09-28
 ---
 
 # Oficio (plantilla) — Comunicación a gobernadores y alcaldes: instancias de coordinación (CLSV/CDSV/CTSV) y fortalecimiento del Plan 365
@@ -29,7 +29,7 @@ Es un oficio dirigido a las máximas autoridades territoriales (gobernadores y a
 
 **Producto exigido a las entidades territoriales**: un "Plan de Acción" que integre los instrumentos de planificación territorial y sectorial, con acciones a corto plazo (año 2026), en armonía con las 8 áreas de acción del enfoque de Sistema Seguro, y cuyo seguimiento debe quedar evidenciado en actas firmadas de cada sesión.
 
-**Equipo de Regionalización de la DCI**: "Como parte de la oferta de la ANSV hacia las entidades territoriales se cuenta con el **equipo de Regionalización**, adscrito a la Dirección de Coordinación Interinstitucional de la Agencia, que brinda orientación técnica y acompañamiento continuo en el desarrollo, consolidación y funcionamiento" de CLSV/CDSV/CTSV. **Nombre de equipo nuevo para el corpus** — no coincide literalmente con el "Equipo de Enlaces Territoriales" (Línea Territorial) documentado a partir de la Resolución 007 de 2023; no puede determinarse si es el mismo equipo con otra denominación, una evolución posterior, o un equipo distinto (ver incertidumbre).
+**Equipo de Regionalización de la DCI**: "Como parte de la oferta de la ANSV hacia las entidades territoriales se cuenta con el **equipo de Regionalización**, adscrito a la Dirección de Coordinación Interinstitucional de la Agencia, que brinda orientación técnica y acompañamiento continuo en el desarrollo, consolidación y funcionamiento" de CLSV/CDSV/CTSV. El nombre no coincide literalmente con el "Equipo de Enlaces Territoriales" (Línea Territorial) documentado a partir de la Resolución 007 de 2023 — **confirmado por el usuario (2026-09-28, no por una fuente documental del corpus)** que se trata del mismo equipo: "equipo de Regionalización" y "Equipo de Enlaces Territoriales" designan la misma unidad. Cualquier producto de asesoría que cite este dato debe atribuirlo a confirmación directa del usuario, no a un documento del corpus.
 
 **Documento externo referenciado**: "Orientaciones Metodológicas para la Preparación y Realización de Comités Locales de Seguridad Vial" (ANSV), disponible en `https://ansv.gov.co/sites/default/files/2024/Gobernanza/Orientaciones_Metodologicas_CLSV.pdf` — no incluido en este corpus.
 
@@ -47,6 +47,6 @@ Es un oficio dirigido a las máximas autoridades territoriales (gobernadores y a
 ## Incertidumbres
 
 - `[INCIERTO]` No se puede determinar la fecha exacta de expedición de este documento (plantilla sin radicado diligenciado).
-- `[INCIERTO]` No se ha determinado si el "equipo de Regionalización" (adscrito a la DCI) es el mismo "Equipo de Enlaces Territoriales" de la Línea Territorial ya documentado (Resolución 007/2023), una evolución/renombramiento posterior, o un equipo distinto dentro de la DCI — ninguna fuente del corpus lo aclara.
+- ~~`[INCIERTO]` No se ha determinado si el "equipo de Regionalización" (adscrito a la DCI) es el mismo "Equipo de Enlaces Territoriales" de la Línea Territorial ya documentado (Resolución 007/2023), una evolución/renombramiento posterior, o un equipo distinto dentro de la DCI.~~ **Resuelto (2026-09-28) por confirmación directa del usuario** — ver nota arriba.
 - `[INCIERTO]` El contenido completo de la Resolución 516 de 2022 y de la Resolución 097 de 2019 sigue sin poder verificarse — este oficio solo aporta su objeto general y algunas funciones de los CTSV, no el texto íntegro de la norma.
 - `[INCIERTO]` No se verifica en este corpus el documento "Orientaciones Metodológicas para la Preparación y Realización de Comités Locales de Seguridad Vial" referenciado por URL externa.

@@ -4,7 +4,7 @@ type: fuente
 tags: [concepto-juridico, estabilidad-ocupacional-reforzada, contratos-prestacion-servicios, salud, prepension, maternidad, paternidad, gestion-contractual]
 fuente_pdf: "20266700034703 Concepto Estabilidad Laboral Reforzada 07092026.pdf"
 status: ingerido
-last_updated: 2026-09-25
+last_updated: 2026-09-28
 ---
 
 # Concepto jurídico — Pronunciamiento sobre estabilidad ocupacional reforzada en contratos de prestación de servicios (ANSV)
@@ -58,6 +58,6 @@ Cuatro contratistas nombrados: **Juan Carlos Chávez Gamboa** (prepensión — n
 
 ## Incertidumbres
 
-- `[INCIERTO]` No se determina la fecha exacta en la que Alexandra Acelas Rodríguez asumió la Dirección General de la ANSV, ni si hubo algún periodo de encargo o transición entre Mariantonia Tabares Pulgarín (confirmada hasta el 10 de noviembre de 2025) y ella.
+- ~~`[INCIERTO]` No se determina la fecha exacta en la que Alexandra Acelas Rodríguez asumió la Dirección General de la ANSV, ni si hubo algún periodo de encargo o transición entre Mariantonia Tabares Pulgarín (confirmada hasta el 10 de noviembre de 2025, y por fuente documental hasta el 17 de febrero de 2026) y ella.~~ **Parcialmente resuelto (2026-09-28) por confirmación directa del usuario, no por una fuente documental del corpus**: Acelas Rodríguez asumió en la semana del 28 de agosto de 2026 — ver [ANSV — Agencia Nacional de Seguridad Vial](../entidades/ansv-agencia-nacional-seguridad-vial.md). Sigue sin poder establecerse desde el corpus si hubo un periodo de encargo previo a esa fecha.
 - `[INCIERTO]` No se identifica si "Johanna Alexandra Espinosa Velásquez" (precedente judicial citado) tiene alguna otra aparición en el corpus o en fuentes externas al mismo.
 - `[INCIERTO]` No se verifica si la posición institucional propuesta en este concepto (tabla de la sección 5) fue efectivamente adoptada como política formal de la ANSV, ni el resultado final de los cuatro casos examinados (Chávez Gamboa, Valencia, Viñas Zabaleta, Restrepo).
