@@ -2,7 +2,7 @@
 
 Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos de trabajo (INGEST/QUERY/LINT).
 
-**Estado general (2026-09-28):** La wiki se migró de la rama `Contractual-OPS` a la rama `main` (ver `log.md`, entrada de migración) — desde ahora todo el trabajo continúa en `main`. **96 fuentes ingeridas** (las 45 migradas de `Contractual-OPS`, con categorías originales completas, más 51 de las 100 fuentes nuevas) — de las 45 originales, 2 páginas (Concepto de Estabilidad Ocupacional Reforzada y su Solicitud DIV) referencian un `fuente_pdf` que no está presente en `main` (ver incertidumbre en `log.md`). **41 fuentes nuevas pendientes de ingest**, cargadas directamente por el usuario en `main` y relevadas por nombre de archivo en las secciones nuevas más abajo. Total del corpus: 145 fuentes. 3 entidades y 5 conceptos creados hasta ahora. *Nota (2026-09-25, heredada de `Contractual-OPS`): la wiki no se construye como insumo de tesis, sino como base de conocimiento para agentes de asesoría del usuario en la DCI/ANSV.* *Nota: el usuario pidió continuar el INGEST sin pausar a pedir autorización entre cada fuente — se mantiene para las fuentes nuevas.*
+**Estado general (2026-09-28):** La wiki se migró de la rama `Contractual-OPS` a la rama `main` (ver `log.md`, entrada de migración) — desde ahora todo el trabajo continúa en `main`. **102 fuentes ingeridas** (las 45 migradas de `Contractual-OPS`, con categorías originales completas, más 57 de las 100 fuentes nuevas) — de las 45 originales, 2 páginas (Concepto de Estabilidad Ocupacional Reforzada y su Solicitud DIV) referencian un `fuente_pdf` que no está presente en `main` (ver incertidumbre en `log.md`). **35 fuentes nuevas pendientes de ingest**, cargadas directamente por el usuario en `main` y relevadas por nombre de archivo en las secciones nuevas más abajo. Total del corpus: 145 fuentes. 3 entidades y 6 conceptos creados hasta ahora. *Nota (2026-09-25, heredada de `Contractual-OPS`): la wiki no se construye como insumo de tesis, sino como base de conocimiento para agentes de asesoría del usuario en la DCI/ANSV.* *Nota: el usuario pidió continuar el INGEST sin pausar a pedir autorización entre cada fuente — se mantiene para las fuentes nuevas.*
 
 ## Fuentes (`fuentes/`)
 
@@ -138,14 +138,16 @@ Bloque más numeroso de la carga nueva: conceptos jurídicos, circulares y resol
 - [Cartilla — Presupuesto Público al Alcance de los Organismos de Tránsito (FCM, 2016)](fuentes/cartilla-presupuesto-publico-organismos-transito-fcm.md) — clasificación tripartita de OT (central/adscrito/vinculado); régimen de multas como renta endógena/exógena. Ingest estructural (152 páginas, la fuente más extensa del corpus). (ingerido)
 - [Circular Externa 00000018 de 2012 — Requisitos para cursos a infractores en OT y CIA](fuentes/circular-externa-00000018-2012-supertransporte-cursos-cia.md) — texto verbatim de ambas versiones del Art. 136 CNT; régimen previo a la nulidad de 2019 de las Resoluciones 3204/4230 de 2010. (ingerido)
 
-### Fotodetección y circulares de control ya conocidas — versiones adicionales (5, pendientes)
+### Fotodetección y circulares de control ya conocidas — versiones adicionales (6, 6 ingeridas — completo)
 
-- Circular_Externa_016_de_2025 zonas urbanas, escolares, dotación y residenciales.pdf — (pendiente-ingest)
-- Circular_Externa_051_de_2025 foto detención.pdf — (pendiente-ingest)
-- Circular_Externa_Fotodeteccion 2023300074061-2023.pdf — (pendiente-ingest)
-- Circular-externa-05-de-2017 siras.pdf — (pendiente-ingest)
-- Circular_042_de_2024 SAST.pdf — (pendiente-ingest)
-- Circular_049_de_2024.pdf — (pendiente-ingest)
+- [Circular Externa ANSV No. 016 de 2025 — Límites de velocidad en zonas urbanas, escolares, dotacionales y residenciales](fuentes/circular-016-2025-limites-velocidad-zonas-urbanas-escolares.md) — 50 km/h en vías urbanas, 30 km/h en zonas escolares/residenciales (Ley 2251/2022). (ingerido)
+- [Circular Externa ANSV No. 051 de 2025 — SAST, aclaraciones de definiciones e indicadores](fuentes/circular-051-2025-sast-criterios-operacion-indicadores.md) — definiciones de control aéreo/control en vía/detección electrónica; indicadores anuales. (ingerido)
+- [Circular Externa ANSV 20233000074061 de 2023 — Cronograma de renovación de autorizaciones SAST](fuentes/circular-externa-20233000074061-2023-cronograma-sast.md) — 344 equipos en 39 municipios con vencimiento el 22-11-2024. (ingerido)
+- [Circular Externa MinSalud No. 00005 de 2017 — Inicio de operación del SIRAS](fuentes/circular-externa-05-2017-siras-minsalud.md) — el archivo estaba mal clasificado en el bloque de fotodetección; su contenido real es el reporte de atención en salud a víctimas de accidentes de tránsito. (ingerido)
+- [Circular ANSV No. 042 de 2024 — Criterios técnicos de operación SAST](fuentes/circular-042-2024-sast-criterios-operacion.md) — certificado de viabilidad de infraestructura vial. (ingerido)
+- [Circular Externa ANSV No. 049 de 2024 — Renovación de autorizaciones SAST](fuentes/circular-049-2024-sast-renovacion-autorizaciones.md) — aplica por analogía el Art. 35 del Decreto Ley 019/2012. (ingerido)
+
+Se creó el concepto [Régimen de autorización SAST/fotodetección](conceptos/sast-fotodeteccion-regimen-autorizacion.md), que consolida la cadena normativa (Ley 1843/2017 → Decreto 2106/2019 → Resolución 20203040011245/2020 → Ley 2251/2022) y la secuencia de las 4 circulares SAST de esta sección.
 
 ### ROT — Red de Observatorios Territoriales y gestión del conocimiento (5 catalogados; 1 ingerido —los 3 archivos de la resolución son duplicados exactos—, 2 pendientes)
 
