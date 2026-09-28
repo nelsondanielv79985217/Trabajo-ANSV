@@ -37,6 +37,7 @@ Es la resolución "sombrilla" del Ministerio de Transporte que **compila y racio
 ## Conexiones
 
 - [Resolución 20263040005765 de 2026 — ROT](resolucion-20263040005765-2026-rot.md): adiciona el Capítulo 9 al Título 7 de esta resolución.
+- [Resolución 3027 de 2010 — Codificación de infracciones y Manual de Infracciones](resolucion-3027-de-2010-codificacion-infracciones-manual.md): confirmado que esta resolución compila íntegramente la Resolución 3027/2010 en su Título 8, Capítulo 5 (codificación de infracciones y Manual de Infracciones a las Normas de Tránsito).
 - [Resolución 4548 de 2013 — Profesionalización de agentes de tránsito](resolucion-4548-de-2013-profesionalizacion-agentes-transito.md): compilada íntegramente en el Título 2, Capítulo 1, de esta resolución.
 - [ANSV-CPP-PR-08 — Instancias territoriales](ansv-pr-08-instancias-territoriales.md): el Título 7, Capítulo 1 (designación de alcaldes de los CTSV) es la fuente reglamentaria de ese mecanismo, complementaria a la Ley 1702/2013, Art. 15.2, ya citada por PR-08.
 - [Plan Estratégico de Seguridad Vial (PESV) — concepto](../conceptos/plan-estrategico-seguridad-vial-pesv.md): el Título 7, Capítulo 2, podría corresponder o estar relacionado con la Resolución 40595 de 2022 ya referenciada en ese concepto como metodología PESV vigente — no se verifica en este ingest si son la misma norma o normas distintas (ver incertidumbre).

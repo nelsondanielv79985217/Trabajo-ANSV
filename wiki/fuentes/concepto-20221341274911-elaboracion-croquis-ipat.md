@@ -30,6 +30,7 @@ Concepto técnico-jurídico sobre el diligenciamiento del croquis (Campo 17, Hoj
 
 ## Conexiones
 
+- [Resolución 0011268 de 2012 — Manual de Diligenciamiento del IPAT](resolucion-0011268-de-2012-manual-diligenciamiento-ipat.md): norma base de este concepto, con texto e imágenes primarias del Manual completo; aporta el dato adicional de que la Sentencia C-429/2003 de la Corte Constitucional exime al conductor de la obligación de firmar el IPAT.
 - [Producto 4 — Análisis de información estadística de motociclistas](producto4-analisis-informacion-estadistica-motociclistas.md) y demás fuentes que usan datos de siniestralidad: el IPAT (y la calidad de su diligenciamiento, incluido el croquis) es la fuente primaria de campo de buena parte de esos datos — este concepto documenta el estándar técnico exigible en su elaboración.
 - [ANSV — Agencia Nacional de Seguridad Vial](../entidades/ansv-agencia-nacional-seguridad-vial.md) / Observatorio Nacional de Seguridad Vial: relevancia indirecta como fuente de calidad del dato de siniestralidad que alimenta el ONSV.
 
