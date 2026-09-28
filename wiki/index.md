@@ -2,7 +2,7 @@
 
 Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos de trabajo (INGEST/QUERY/LINT).
 
-**Estado general (2026-09-28):** La wiki se migró de la rama `Contractual-OPS` a la rama `main` (ver `log.md`, entrada de migración) — desde ahora todo el trabajo continúa en `main`. **138 fuentes ingeridas** (las 45 migradas de `Contractual-OPS`, con categorías originales completas, más 93 de las 100 fuentes nuevas) — de las 45 originales, 2 páginas (Concepto de Estabilidad Ocupacional Reforzada y su Solicitud DIV) referencian un `fuente_pdf` que no está presente en `main` (ver incertidumbre en `log.md`). **7 fuentes nuevas pendientes de ingest**, cargadas directamente por el usuario en `main` y relevadas por nombre de archivo en las secciones nuevas más abajo. Total del corpus: 145 fuentes. 3 entidades y 6 conceptos creados hasta ahora. *Nota (2026-09-25, heredada de `Contractual-OPS`): la wiki no se construye como insumo de tesis, sino como base de conocimiento para agentes de asesoría del usuario en la DCI/ANSV.* *Nota: el usuario pidió continuar el INGEST sin pausar a pedir autorización entre cada fuente — se mantiene para las fuentes nuevas.*
+**Estado general (2026-09-28):** La wiki se migró de la rama `Contractual-OPS` a la rama `main` (ver `log.md`, entrada de migración) — desde ahora todo el trabajo continúa en `main`. **139 fuentes ingeridas** (las 45 migradas de `Contractual-OPS`, con categorías originales completas, más 94 de las 100 fuentes nuevas) — de las 45 originales, 2 páginas (Concepto de Estabilidad Ocupacional Reforzada y su Solicitud DIV) referencian un `fuente_pdf` que no está presente en `main` (ver incertidumbre en `log.md`). **5 fuentes nuevas pendientes de ingest**, cargadas directamente por el usuario en `main` y relevadas por nombre de archivo en las secciones nuevas más abajo. Total del corpus: 145 fuentes. 3 entidades y 6 conceptos creados hasta ahora. *Nota (2026-09-25, heredada de `Contractual-OPS`): la wiki no se construye como insumo de tesis, sino como base de conocimiento para agentes de asesoría del usuario en la DCI/ANSV.* *Nota: el usuario pidió continuar el INGEST sin pausar a pedir autorización entre cada fuente — se mantiene para las fuentes nuevas.*
 
 ## Fuentes (`fuentes/`)
 
@@ -88,10 +88,9 @@ Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos 
 - [Guía de Control en Velocidad (ANSV, 2024)](fuentes/guia-control-velocidad-ansv-2024.md) — recorrido normativo 1970-2022; decálogo del control manual; +900 municipios sin estructura especializada de control. (ingerido)
 - [Uso de Tecnologías para el Cumplimiento de Límites de Velocidad (ANSV, 2025)](fuentes/uso-tecnologias-cumplimiento-limites-velocidad-ansv-2025.md) — catálogo de 13 tecnologías (infraestructura/control/monitoreo); 49% de fatalidades 2023 por exceso de velocidad. (ingerido)
 
-### Alcoholimetría y control metrológico (2, pendientes)
+### Alcoholimetría y control metrológico (2, 1 fuente única — completo)
 
-- CONTROL METROLOGICO ALCOHOSENSORES Resolucion-88919-de-2017.pdf — (pendiente-ingest)
-- REGLAMENTO-TECNICO-ALCOHOSENSORES.pdf — (pendiente-ingest; posible relación directa con la resolución anterior — verificar)
+- [Resolución SIC 88919 de 2017 — Control metrológico de alcoholímetros/etilómetros/alcohosensores evidenciales](fuentes/resolucion-88919-2017-control-metrologico-alcohosensores.md) — verificado que ambos archivos (`CONTROL METROLOGICO ALCOHOSENSORES...pdf`, escaneado, y `REGLAMENTO-TECNICO-ALCOHOSENSORES.pdf`, texto) son el mismo acto administrativo; distingue dispositivos de "screening" (sin valor sancionatorio) de alcoholímetros evidenciales certificados. (ingerido)
 
 ### Organismos y agentes de tránsito — conceptos y circulares Mintransporte (36, 36 ingeridas — completo)
 
