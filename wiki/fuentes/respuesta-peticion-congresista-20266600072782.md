@@ -4,7 +4,7 @@ type: fuente
 tags: [correspondencia-oficial, congreso, control-politico, pnsv, asistencia-tecnica, dci, onsv, presupuesto, siniestralidad, borrador]
 fuente_pdf: "Respuesta a peticion congresista 20266600072782.docx"
 status: ingerido
-last_updated: 2026-09-25
+last_updated: 2026-09-28
 ---
 
 # Respuesta a petición congresista — Radicado ANSV 20266600072782 (Debate de Control Político, Comisión Sexta del Senado)
@@ -67,5 +67,5 @@ Es un hallazgo directamente relevante para el trabajo de asesoría: son, en la p
 
 - `[INCIERTO]` No se puede determinar si este borrador corresponde a la versión final efectivamente radicada ante el Congreso, ni si las preguntas 7-10 (DCI) fueron finalmente respondidas en una versión posterior no incluida en este corpus.
 - `[INCIERTO]` No se identifica el origen del bloque repetido (4 veces) de contenido pedagógico al final del documento — parece un fragmento pegado por error desde otra fuente (posible índice de una plataforma o documento de recursos de la Dirección de Comportamiento).
-- `[INCIERTO]` No se verifica en este corpus el contenido íntegro de la Resolución 20263040005765 de 2026 (ROT), ni de las Resoluciones 20233040025995/2023, 20233040025895/2023 y 20253040037125/2025 (DIV/Comportamiento) — solo se registra lo que este documento cita de ellas.
+- ~~`[INCIERTO]` No se verifica en este corpus el contenido íntegro de la Resolución 20263040005765 de 2026 (ROT)~~ **Resuelto (2026-09-28)**: ver [Resolución 20263040005765 de 2026 — ROT](resolucion-20263040005765-2026-rot.md), con texto completo. `[INCIERTO]` persiste para las Resoluciones 20233040025995/2023, 20233040025895/2023 y 20253040037125/2025 (DIV/Comportamiento) — solo se registra lo que este documento cita de ellas.
 - `[INCIERTO]` No se identifica el nombre del "jefe de área" ni el cargo que finalmente habría firmado la versión radicada (campos sin diligenciar en este borrador).

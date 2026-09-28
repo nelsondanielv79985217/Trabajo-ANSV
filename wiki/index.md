@@ -2,7 +2,7 @@
 
 Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos de trabajo (INGEST/QUERY/LINT).
 
-**Estado general (2026-09-28):** La wiki se migró de la rama `Contractual-OPS` a la rama `main` (ver `log.md`, entrada de migración) — desde ahora todo el trabajo continúa en `main`. **51 fuentes ingeridas** (las 45 migradas de `Contractual-OPS`, con categorías originales completas, más 6 de las 100 fuentes nuevas: la Circular 20234000000677/Ley 2197-2022, la Ley 336/1996, la Ley 2294/2023 y el Decreto 2106/2019) — de las 45 originales, 2 páginas (Concepto de Estabilidad Ocupacional Reforzada y su Solicitud DIV) referencian un `fuente_pdf` que no está presente en `main` (ver incertidumbre en `log.md`). **94 fuentes nuevas pendientes de ingest**, cargadas directamente por el usuario en `main` y relevadas por nombre de archivo en las secciones nuevas más abajo. Total del corpus: 145 fuentes. 3 entidades y 5 conceptos creados hasta ahora. *Nota (2026-09-25, heredada de `Contractual-OPS`): la wiki no se construye como insumo de tesis, sino como base de conocimiento para agentes de asesoría del usuario en la DCI/ANSV.* *Nota: el usuario pidió continuar el INGEST sin pausar a pedir autorización entre cada fuente — se mantiene para las fuentes nuevas.*
+**Estado general (2026-09-28):** La wiki se migró de la rama `Contractual-OPS` a la rama `main` (ver `log.md`, entrada de migración) — desde ahora todo el trabajo continúa en `main`. **52 fuentes ingeridas** (las 45 migradas de `Contractual-OPS`, con categorías originales completas, más 7 de las 100 fuentes nuevas: la Circular 20234000000677/Ley 2197-2022, la Ley 336/1996, la Ley 2294/2023, el Decreto 2106/2019 y la Resolución 20263040005765/2026 —ROT—) — de las 45 originales, 2 páginas (Concepto de Estabilidad Ocupacional Reforzada y su Solicitud DIV) referencian un `fuente_pdf` que no está presente en `main` (ver incertidumbre en `log.md`). **91 fuentes nuevas pendientes de ingest**, cargadas directamente por el usuario en `main` y relevadas por nombre de archivo en las secciones nuevas más abajo. Total del corpus: 145 fuentes. 3 entidades y 5 conceptos creados hasta ahora. *Nota (2026-09-25, heredada de `Contractual-OPS`): la wiki no se construye como insumo de tesis, sino como base de conocimiento para agentes de asesoría del usuario en la DCI/ANSV.* *Nota: el usuario pidió continuar el INGEST sin pausar a pedir autorización entre cada fuente — se mantiene para las fuentes nuevas.*
 
 ## Fuentes (`fuentes/`)
 
@@ -150,11 +150,9 @@ Bloque más numeroso de la carga nueva: conceptos jurídicos, circulares y resol
 - Circular_042_de_2024 SAST.pdf — (pendiente-ingest)
 - Circular_049_de_2024.pdf — (pendiente-ingest)
 
-### ROT — Red de Observatorios Territoriales y gestión del conocimiento (5, pendientes)
+### ROT — Red de Observatorios Territoriales y gestión del conocimiento (5 catalogados; 1 ingerido —los 3 archivos de la resolución son duplicados exactos—, 2 pendientes)
 
-- Resolución No 20263040005765 de 17-02-2026 ROT.pdf — (pendiente-ingest; ya citada indirectamente en `fuentes/producto4-analisis-informacion-estadistica-motociclistas.md` y `fuentes/respuesta-peticion-congresista-20266600072782.md` — ingest prioritario para verificación con texto primario)
-- resolucion 20263040005765 17-02-2026.pdf — (pendiente-ingest; posible duplicado exacto del archivo anterior — verificar)
-- RESOL SE ADOPA LA ROT 2026.pdf — (pendiente-ingest; ¿tercera copia o documento distinto? verificar)
+- [Resolución 20263040005765 de 2026 — Estructuración de la ROT](fuentes/resolucion-20263040005765-2026-rot.md) — verificado por MD5 que los tres archivos (`Resolución No 20263040005765 de 17-02-2026 ROT.pdf`, `resolucion 20263040005765 17-02-2026.pdf`, `RESOL SE ADOPA LA ROT 2026.pdf`) son el mismo archivo cargado tres veces. Resuelve la incertidumbre sobre el contenido íntegro de esta resolución en `fuentes/respuesta-peticion-congresista-20266600072782.md`; confirma a Mariantonia Tabares Pulgarín como Directora ANSV vigente al 17-02-2026. (ingerido)
 - METADATOS EFSV 2021-2026.pdf — (pendiente-ingest)
 - Modelo Nacional de Gestión del Conocimiento V2.pdf — (pendiente-ingest)
 
