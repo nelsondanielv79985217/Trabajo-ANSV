@@ -2,7 +2,7 @@
 
 Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos de trabajo (INGEST/QUERY/LINT).
 
-**Estado general (2026-09-28):** La wiki se migró de la rama `Contractual-OPS` a la rama `main` (ver `log.md`, entrada de migración) — desde ahora todo el trabajo continúa en `main`. **80 fuentes ingeridas** (las 45 migradas de `Contractual-OPS`, con categorías originales completas, más 35 de las 100 fuentes nuevas) — de las 45 originales, 2 páginas (Concepto de Estabilidad Ocupacional Reforzada y su Solicitud DIV) referencian un `fuente_pdf` que no está presente en `main` (ver incertidumbre en `log.md`). **57 fuentes nuevas pendientes de ingest**, cargadas directamente por el usuario en `main` y relevadas por nombre de archivo en las secciones nuevas más abajo. Total del corpus: 145 fuentes. 3 entidades y 5 conceptos creados hasta ahora. *Nota (2026-09-25, heredada de `Contractual-OPS`): la wiki no se construye como insumo de tesis, sino como base de conocimiento para agentes de asesoría del usuario en la DCI/ANSV.* *Nota: el usuario pidió continuar el INGEST sin pausar a pedir autorización entre cada fuente — se mantiene para las fuentes nuevas.*
+**Estado general (2026-09-28):** La wiki se migró de la rama `Contractual-OPS` a la rama `main` (ver `log.md`, entrada de migración) — desde ahora todo el trabajo continúa en `main`. **84 fuentes ingeridas** (las 45 migradas de `Contractual-OPS`, con categorías originales completas, más 39 de las 100 fuentes nuevas) — de las 45 originales, 2 páginas (Concepto de Estabilidad Ocupacional Reforzada y su Solicitud DIV) referencian un `fuente_pdf` que no está presente en `main` (ver incertidumbre en `log.md`). **53 fuentes nuevas pendientes de ingest**, cargadas directamente por el usuario en `main` y relevadas por nombre de archivo en las secciones nuevas más abajo. Total del corpus: 145 fuentes. 3 entidades y 5 conceptos creados hasta ahora. *Nota (2026-09-25, heredada de `Contractual-OPS`): la wiki no se construye como insumo de tesis, sino como base de conocimiento para agentes de asesoría del usuario en la DCI/ANSV.* *Nota: el usuario pidió continuar el INGEST sin pausar a pedir autorización entre cada fuente — se mantiene para las fuentes nuevas.*
 
 ## Fuentes (`fuentes/`)
 
@@ -128,10 +128,10 @@ Bloque más numeroso de la carga nueva: conceptos jurídicos, circulares y resol
 - RESOLUCION ORGANISMOS DE APOYO AL TRANSITO 21-08-2020.pdf — (pendiente-ingest)
 - Resolucion_0011268_2012 manual elaboración informe de siniestros.pdf — (pendiente-ingest)
 - Resolucion_3027 de 2010  Mintransporte actualiza la codificacion de infracciones.pdf — (pendiente-ingest)
-- CHALECOS 20241340489771.pdf — (pendiente-ingest)
-- REINSIDENCIA.pdf — (pendiente-ingest)
-- concepto mintransporte agentes de tránstio.pdf — (pendiente-ingest)
-- organismos de tránsito y agentes de tránsito.pdf — (pendiente-ingest)
+- [Concepto Mintransporte 20241340489771 de 2024 — Chalecos reflectivos para motociclistas](fuentes/concepto-20241340489771-chalecos-reflectivos.md) — obligatoriedad de prenda reflectiva (Arts. 94 y 96 CNT, modificado por la Ley 2251/2022). (ingerido)
+- [Oficio FCM-S-2024-026630-DTI-400 — Infractores reincidentes 2023-2024](fuentes/oficio-fcm-reincidentes-2023-2024.md) — correspondencia recibida por la DCI; 732.259 (2023) y 496.349 (2024) reincidentes; el SIMIT no puede trazar qué infracciones causan cada suspensión por reincidencia. (ingerido)
+- [Concepto Mintransporte 20241340468701 de 2024 — Técnico laboral vs. profesional](fuentes/concepto-20241340468701-tecnico-laboral-profesional-agentes.md) — la equivalencia de formación para agentes de tránsito la deciden las unidades de personal territoriales, no el Ministerio. (ingerido)
+- [Concepto Mintransporte 20211340825591 de 2021 — Creación de OT y proporción de agentes](fuentes/concepto-20211340825591-creacion-organismos-agentes-transito.md) — no existe fórmula legal de agentes por habitante; la evalúa cada ente territorial. (ingerido)
 - ´20251340026531 CONCEPTO FUNCIONES DE LOS INSPECTORES DE POLICIA CON FUNCIONES DE TRÁNSITO.pdf — (pendiente-ingest)
 - PROPUESTA PARA MEJORAR LA EFECTIVIDAD EL SISTEMA SANCIONATORIO DE INFRACCIONES DE TRÁNSITO EN COLOMBIA.pdf — (pendiente-ingest)
 - manual-de-policia-judicial.pdf — (pendiente-ingest)
