@@ -2,7 +2,7 @@
 
 Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos de trabajo (INGEST/QUERY/LINT).
 
-**Estado general (2026-09-28):** La wiki se migró de la rama `Contractual-OPS` a la rama `main` (ver `log.md`, entrada de migración) — desde ahora todo el trabajo continúa en `main`. **133 fuentes ingeridas** (las 45 migradas de `Contractual-OPS`, con categorías originales completas, más 88 de las 100 fuentes nuevas) — de las 45 originales, 2 páginas (Concepto de Estabilidad Ocupacional Reforzada y su Solicitud DIV) referencian un `fuente_pdf` que no está presente en `main` (ver incertidumbre en `log.md`). **12 fuentes nuevas pendientes de ingest**, cargadas directamente por el usuario en `main` y relevadas por nombre de archivo en las secciones nuevas más abajo. Total del corpus: 145 fuentes. 3 entidades y 6 conceptos creados hasta ahora. *Nota (2026-09-25, heredada de `Contractual-OPS`): la wiki no se construye como insumo de tesis, sino como base de conocimiento para agentes de asesoría del usuario en la DCI/ANSV.* *Nota: el usuario pidió continuar el INGEST sin pausar a pedir autorización entre cada fuente — se mantiene para las fuentes nuevas.*
+**Estado general (2026-09-28):** La wiki se migró de la rama `Contractual-OPS` a la rama `main` (ver `log.md`, entrada de migración) — desde ahora todo el trabajo continúa en `main`. **138 fuentes ingeridas** (las 45 migradas de `Contractual-OPS`, con categorías originales completas, más 93 de las 100 fuentes nuevas) — de las 45 originales, 2 páginas (Concepto de Estabilidad Ocupacional Reforzada y su Solicitud DIV) referencian un `fuente_pdf` que no está presente en `main` (ver incertidumbre en `log.md`). **7 fuentes nuevas pendientes de ingest**, cargadas directamente por el usuario en `main` y relevadas por nombre de archivo en las secciones nuevas más abajo. Total del corpus: 145 fuentes. 3 entidades y 6 conceptos creados hasta ahora. *Nota (2026-09-25, heredada de `Contractual-OPS`): la wiki no se construye como insumo de tesis, sino como base de conocimiento para agentes de asesoría del usuario en la DCI/ANSV.* *Nota: el usuario pidió continuar el INGEST sin pausar a pedir autorización entre cada fuente — se mantiene para las fuentes nuevas.*
 
 ## Fuentes (`fuentes/`)
 
@@ -80,13 +80,13 @@ Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos 
 - [Producto 3 — Caracterización de usuarios de motocicleta (Consorcio Prevención Motovial)](fuentes/producto3-caracterizacion-usuarios-motocicleta.md) — Misma consultoría (contrato IAP-009-2024), estudio mixto (encuesta nacional + cualitativo) con desagregación por las 8 regiones ANSV/DCI; hallazgo central: la siniestralidad de motociclistas no sigue un patrón único, varía fuertemente por territorio. (ingerido)
 - [Producto 4 — Análisis de información estadística de la siniestralidad en motocicleta (Consorcio Prevención Motovial)](fuentes/producto4-analisis-informacion-estadistica-motociclistas.md) — Análisis estadístico oficial (INMLCF 2015-2024) por las 8 regiones ANSV/DCI, con matriz multicriterio de priorización territorial (municipio priorizado: Yopal, Casanare, tasa de 31,17 fallecidos por 100.000 hab.) y tramos críticos georreferenciados. Cierra la secuencia de los tres productos de esta consultoría (contrato IAP-009-2024). (ingerido)
 
-### Gestión de la velocidad (5, pendientes)
+### Gestión de la velocidad (5, 5 ingeridas — completo)
 
-- 230607 - Anexo - Lineamientos Planes gestión de la velocidad V4.pdf — (pendiente-ingest)
-- 230607 - Programa Nacional de Gestión de velocidad.pdf — (pendiente-ingest)
-- Guia_de_Control_en_Velocidad (1).pdf — (pendiente-ingest)
-- R. 20233040025895 - 22-06-2023 planes de gestión de velocidad.pdf — (pendiente-ingest; posible duplicado o versión distinta del Anexo/Lineamientos PGV V4 — verificar durante el ingest)
-- Uso_de_Tecnologias_para_el_Cumplimiento_de_Limites_de_Velocidad.pdf — (pendiente-ingest)
+- [Programa Nacional de Gestión de la Velocidad (ANSV, 2023)](fuentes/programa-nacional-gestion-velocidad-ansv-2023.md) — documento técnico completo (126 p.); motociclistas 67,5% de fallecidos por exceso de velocidad 2017-2021. (ingerido)
+- [Anexo — Lineamientos para la construcción de Planes de Gestión de la Velocidad V4](fuentes/anexo-lineamientos-planes-gestion-velocidad-v4.md) — versión condensada y vinculante del Programa, incorporada como anexo de la Resolución 20233040025895/2023. (ingerido)
+- [Resolución 20233040025895 de 2023 — Reglamenta Planes de Gestión de la Velocidad](fuentes/resolucion-20233040025895-2023-planes-gestion-velocidad.md) — verificado que NO es duplicado del Anexo, sino el acto administrativo que lo incorpora; desarrolla el Art. 14, Parágrafo 2° de la Ley 2251/2022. (ingerido)
+- [Guía de Control en Velocidad (ANSV, 2024)](fuentes/guia-control-velocidad-ansv-2024.md) — recorrido normativo 1970-2022; decálogo del control manual; +900 municipios sin estructura especializada de control. (ingerido)
+- [Uso de Tecnologías para el Cumplimiento de Límites de Velocidad (ANSV, 2025)](fuentes/uso-tecnologias-cumplimiento-limites-velocidad-ansv-2025.md) — catálogo de 13 tecnologías (infraestructura/control/monitoreo); 49% de fatalidades 2023 por exceso de velocidad. (ingerido)
 
 ### Alcoholimetría y control metrológico (2, pendientes)
 
