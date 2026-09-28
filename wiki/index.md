@@ -94,7 +94,7 @@ Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos 
 
 - [Resolución SIC 88919 de 2017 — Control metrológico de alcoholímetros/etilómetros/alcohosensores evidenciales](fuentes/resolucion-88919-2017-control-metrologico-alcohosensores.md) — verificado que ambos archivos (`CONTROL METROLOGICO ALCOHOSENSORES...pdf`, escaneado, y `REGLAMENTO-TECNICO-ALCOHOSENSORES.pdf`, texto) son el mismo acto administrativo; distingue dispositivos de "screening" (sin valor sancionatorio) de alcoholímetros evidenciales certificados. (ingerido)
 
-### Organismos y agentes de tránsito — conceptos y circulares Mintransporte (36, 36 ingeridas — completo)
+### Organismos y agentes de tránsito — conceptos y circulares Mintransporte (40, 40 ingeridas — completo; encabezado corregido 2026-09-28, venía desactualizado en "36" pese a tener 40 entradas listadas)
 
 Bloque más numeroso de la carga nueva: conceptos jurídicos, circulares y resoluciones de Mintransporte/ANSV sobre habilitación, categorización, competencias, sanciones y funcionamiento de Organismos de Tránsito (OT) y Agentes de Tránsito (AT). Varios archivos comparten número de radicado o de resolución — no se asume duplicación de contenido sin verificar cada uno durante el ingest.
 
