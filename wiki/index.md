@@ -2,7 +2,7 @@
 
 Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos de trabajo (INGEST/QUERY/LINT).
 
-**Estado general (2026-09-28):** La wiki se migró de la rama `Contractual-OPS` a la rama `main` (ver `log.md`, entrada de migración) — desde ahora todo el trabajo continúa en `main`. **112 fuentes ingeridas** (las 45 migradas de `Contractual-OPS`, con categorías originales completas, más 67 de las 100 fuentes nuevas) — de las 45 originales, 2 páginas (Concepto de Estabilidad Ocupacional Reforzada y su Solicitud DIV) referencian un `fuente_pdf` que no está presente en `main` (ver incertidumbre en `log.md`). **24 fuentes nuevas pendientes de ingest**, cargadas directamente por el usuario en `main` y relevadas por nombre de archivo en las secciones nuevas más abajo. Total del corpus: 145 fuentes. 3 entidades y 6 conceptos creados hasta ahora. *Nota (2026-09-25, heredada de `Contractual-OPS`): la wiki no se construye como insumo de tesis, sino como base de conocimiento para agentes de asesoría del usuario en la DCI/ANSV.* *Nota: el usuario pidió continuar el INGEST sin pausar a pedir autorización entre cada fuente — se mantiene para las fuentes nuevas.*
+**Estado general (2026-09-28):** La wiki se migró de la rama `Contractual-OPS` a la rama `main` (ver `log.md`, entrada de migración) — desde ahora todo el trabajo continúa en `main`. **113 fuentes ingeridas** (las 45 migradas de `Contractual-OPS`, con categorías originales completas, más 68 de las 100 fuentes nuevas) — de las 45 originales, 2 páginas (Concepto de Estabilidad Ocupacional Reforzada y su Solicitud DIV) referencian un `fuente_pdf` que no está presente en `main` (ver incertidumbre en `log.md`). **23 fuentes nuevas pendientes de ingest**, cargadas directamente por el usuario en `main` y relevadas por nombre de archivo en las secciones nuevas más abajo. Total del corpus: 145 fuentes. 3 entidades y 6 conceptos creados hasta ahora. *Nota (2026-09-25, heredada de `Contractual-OPS`): la wiki no se construye como insumo de tesis, sino como base de conocimiento para agentes de asesoría del usuario en la DCI/ANSV.* *Nota: el usuario pidió continuar el INGEST sin pausar a pedir autorización entre cada fuente — se mantiene para las fuentes nuevas.*
 
 ## Fuentes (`fuentes/`)
 
@@ -186,9 +186,9 @@ Se creó el concepto [Régimen de autorización SAST/fotodetección](conceptos/s
 - [Decreto 19 de 2012 — Ley Antitrámites, SOAT y licencias de conducción](fuentes/decreto-19-de-2012-ley-antitramites.md) — Arts. 112-114 (indemnizaciones por accidentes con vehículos sin SOAT o no identificados) y 195-199 (modifican la Ley 769/2002 en licencias de conducción). Decreto ómnibus de 62 páginas; ingest estructural. (ingerido)
 - [Decreto 2106 de 2019 — Simplificación de trámites, artículos de transporte](fuentes/decreto-2106-de-2019-simplificacion-tramites.md) — resuelve la incertidumbre ya registrada en `wiki/conceptos/plan-estrategico-seguridad-vial-pesv.md`: confirma con texto primario el Art. 110 (elimina el aval del PESV) y aporta el Art. 109 (autorización conjunta Mintransporte-ANSV de sistemas de fotodetección). Decreto de 49 páginas; solo se revisaron los Arts. 108-111. (ingerido)
 
-### Contratación — Colombia Compra Eficiente (1, pendiente)
+### Contratación — Colombia Compra Eficiente (1, 1 ingerida — completo)
 
-- cce_guia_COLOMBIA COMPRA EFICIENTE ENTIDADES DE regimen_especial.pdf — (pendiente-ingest)
+- [Guía CCE para Entidades Estatales con régimen especial de contratación](fuentes/guia-cce-entidades-regimen-especial-contratacion.md) — no aplica directamente a la ANSV, cuyo régimen dual (EGCAP + Fondo fiduciario) es distinto del régimen especial que regula esta guía. (ingerido)
 
 ### Movilidad urbana, regional y políticas conexas (5, pendientes)
 
