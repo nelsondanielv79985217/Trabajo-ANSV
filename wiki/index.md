@@ -2,7 +2,7 @@
 
 Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos de trabajo (INGEST/QUERY/LINT).
 
-**Estado general (2026-09-28):** La wiki se migró de la rama `Contractual-OPS` a la rama `main` (ver `log.md`, entrada de migración) — desde ahora todo el trabajo continúa en `main`. **113 fuentes ingeridas** (las 45 migradas de `Contractual-OPS`, con categorías originales completas, más 68 de las 100 fuentes nuevas) — de las 45 originales, 2 páginas (Concepto de Estabilidad Ocupacional Reforzada y su Solicitud DIV) referencian un `fuente_pdf` que no está presente en `main` (ver incertidumbre en `log.md`). **23 fuentes nuevas pendientes de ingest**, cargadas directamente por el usuario en `main` y relevadas por nombre de archivo en las secciones nuevas más abajo. Total del corpus: 145 fuentes. 3 entidades y 6 conceptos creados hasta ahora. *Nota (2026-09-25, heredada de `Contractual-OPS`): la wiki no se construye como insumo de tesis, sino como base de conocimiento para agentes de asesoría del usuario en la DCI/ANSV.* *Nota: el usuario pidió continuar el INGEST sin pausar a pedir autorización entre cada fuente — se mantiene para las fuentes nuevas.*
+**Estado general (2026-09-28):** La wiki se migró de la rama `Contractual-OPS` a la rama `main` (ver `log.md`, entrada de migración) — desde ahora todo el trabajo continúa en `main`. **118 fuentes ingeridas** (las 45 migradas de `Contractual-OPS`, con categorías originales completas, más 73 de las 100 fuentes nuevas) — de las 45 originales, 2 páginas (Concepto de Estabilidad Ocupacional Reforzada y su Solicitud DIV) referencian un `fuente_pdf` que no está presente en `main` (ver incertidumbre en `log.md`). **18 fuentes nuevas pendientes de ingest**, cargadas directamente por el usuario en `main` y relevadas por nombre de archivo en las secciones nuevas más abajo. Total del corpus: 145 fuentes. 3 entidades y 6 conceptos creados hasta ahora. *Nota (2026-09-25, heredada de `Contractual-OPS`): la wiki no se construye como insumo de tesis, sino como base de conocimiento para agentes de asesoría del usuario en la DCI/ANSV.* *Nota: el usuario pidió continuar el INGEST sin pausar a pedir autorización entre cada fuente — se mantiene para las fuentes nuevas.*
 
 ## Fuentes (`fuentes/`)
 
@@ -190,13 +190,13 @@ Se creó el concepto [Régimen de autorización SAST/fotodetección](conceptos/s
 
 - [Guía CCE para Entidades Estatales con régimen especial de contratación](fuentes/guia-cce-entidades-regimen-especial-contratacion.md) — no aplica directamente a la ANSV, cuyo régimen dual (EGCAP + Fondo fiduciario) es distinto del régimen especial que regula esta guía. (ingerido)
 
-### Movilidad urbana, regional y políticas conexas (5, pendientes)
+### Movilidad urbana, regional y políticas conexas (5, 5 ingeridas — completo)
 
-- 3991 DE 2020 POL NAC MOVI URBANA Y REGIONAL.pdf — (pendiente-ingest)
-- 4034 APOYO GOB NAC ACTUA PROGRAMA MOVI DE LA REGIÓN BOGOTA-CUNDINAMARCA 2021.pdf — (pendiente-ingest)
-- 4161 vias para la paz.pdf — (pendiente-ingest)
-- compes D.C 036 -2024 distaL PP DEL PEATON, EN BOGOTÁ PRIMERO EL PEATON 2023-2035.pdf — (pendiente-ingest)
-- cartilla-movilidad-sss MINSALUD.pdf — (pendiente-ingest)
+- [CONPES 3991 de 2020 — Política Nacional de Movilidad Urbana y Regional](fuentes/conpes-3991-2020-politica-movilidad-urbana-regional.md) — recomendación expresa a la ANSV sobre penalización comportamental; motociclistas 50% de fatales, peatones 26% (2018). (ingerido)
+- [CONPES 4034 de 2021 — PIMRC Bogotá-Cundinamarca](fuentes/conpes-4034-2021-pimrc-bogota-cundinamarca.md) — diagnóstico regional de siniestralidad 2016-2019; sin recomendación a la ANSV. (ingerido)
+- [CONPES 4161 de 2025 — Vías para la Paz](fuentes/conpes-4161-2025-vias-para-la-paz.md) — declaración de importancia estratégica fiscal de infraestructura vial; sin política propia de seguridad vial ni mención a la ANSV. (ingerido)
+- [CONPES D.C. 36 — Política Pública del Peatón, Bogotá 2023-2035](fuentes/conpes-dc-036-politica-publica-peaton-bogota.md) — 1.121 peatones fallecidos en Bogotá 2018-2022; motocicleta como principal actor en conflicto; enfoque Sistema Seguro/Visión Cero a nivel distrital. (ingerido)
+- [Guía para la implementación de la estrategia de movilidad segura, saludable y sostenible (MinSalud, 2019)](fuentes/guia-movilidad-saludable-segura-sostenible-minsalud.md) — ruta de asistencia técnica territorial del sector salud, paralela a la de la DCI. (ingerido)
 - cartilla_movilidad_segura.pdf — (pendiente-ingest; ¿misma cartilla que la anterior u otra? verificar)
 
 ### Presentaciones y materiales de difusión (2, pendientes)
