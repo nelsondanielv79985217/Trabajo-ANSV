@@ -484,3 +484,16 @@ Registro cronológico, append-only. No editar entradas pasadas — solo agregar 
 - Con estas cuatro fuentes se **completa la categoría "Marco normativo adicional — leyes y decretos" (7/7 ingeridas)** de las 100 fuentes nuevas.
 - Se actualizó `index.md` (fuentes ingeridas 55→59 de 145; pendientes 83→79; categoría "Marco normativo adicional" marcada como completa).
 - Continúo directamente con las 79 fuentes nuevas pendientes restantes, sin pausar entre una y la siguiente.
+
+## [2026-09-28] ingest | Bloque de 7 conceptos jurídicos y circulares de Mintransporte (2020-2023) sobre organismos de tránsito y procedimiento contravencional
+
+- Se leyeron 7 fuentes nuevas del bloque "Organismos y agentes de tránsito" (4 escaneadas sin texto, leídas con el skill de imágenes; 3 con texto extraíble vía `pdftotext -layout`):
+  - **Concepto 20201340148641/2020** — habilitación de Centros Integrales de Atención (CIA): hallazgo jurisprudencial reutilizable (Consejo de Estado, 18-07-2019, nulidad de las Resoluciones 3204/2010 y 4230/2010, con efectos ex tunc que no afectan situaciones consolidadas). `wiki/fuentes/concepto-20201340148641-habilitacion-cia.md`.
+  - **Concepto 20201340395541/2020** — puestos de control (retenes): régimen de garantías del conductor requerido, aporta texto verbatim adicional de los Arts. 1°, 2°, 3°, 6° y 135 de la Ley 769/2002. `wiki/fuentes/concepto-20201340395541-puestos-control.md`.
+  - **Circular 20214201376171/2021** — incorporación de CIA al RUNT: desenlace administrativo de la nulidad de 2019 (nuevo esquema de registro por la Resolución 20203040011355/2020). `wiki/fuentes/circular-20214201376171-incorporacion-cia-runt.md`.
+  - **Concepto 20221340926831/2022** — régimen sancionatorio comparado de OT/OAT: cuadro comparativo completo Ley 769/2002 vs. Ley 1702/2013 vs. Ley 2050/2020 (aplicación, conductas, sanciones, procedimiento); confirma que ninguna derogó a las otras. `wiki/fuentes/concepto-20221340926831-causales-perdida-habilitacion-ot-at.md`.
+  - **Concepto 20221341034361/2022** — agente de tránsito competente y negativa a prueba de alcoholemia: texto verbatim de los Arts. 135 y 152 CNT; **cuarta fuente independiente** que confirma la reforma del Art. 56 de la Ley 2197/2022 sobre el Art. 2° de la Ley 1310/2009. `wiki/fuentes/concepto-20221341034361-agente-transito-alcoholemia.md`.
+  - **Concepto 20221341274911/2022** — elaboración del croquis en el IPAT: estándar técnico (Resolución 11268/2012) del Informe Policial de Accidentes de Tránsito, insumo de las estadísticas de siniestralidad. `wiki/fuentes/concepto-20221341274911-elaboracion-croquis-ipat.md`.
+  - **Concepto 20231341331961/2023** — Formulario Único Nacional de Comparendo: **hallazgo institucional** — el Ministerio de Transporte reconoce expresamente no ser superior jerárquico de los Organismos de Tránsito, por ser autónomos e independientes. `wiki/fuentes/concepto-20231341331961-formulario-comparendo.md`.
+- Se actualizó `index.md` (fuentes ingeridas 59→66 de 145; pendientes 79→72).
+- Continúo directamente con las 72 fuentes nuevas pendientes restantes, sin pausar entre una y la siguiente.
