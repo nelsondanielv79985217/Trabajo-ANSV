@@ -49,6 +49,10 @@ El procedimiento de asistencia técnica de la DCI (PR-06) no está creando una f
 
 El [ABC del apalancamiento de recursos para la seguridad vial territorial](../fuentes/abc-apalancamiento-recursos-seguridad-vial.md) (documento matriz de la serie de financiamiento, 2026) recomienda al nivel nacional "brindar asistencia técnica para formulación y evaluación de proyectos" dirigida a las entidades territoriales, en materia de estructuración financiera — un uso más, de 2026, consistente con los ya documentados (dirigido a entidades territoriales, sin nombrar a la DCI específicamente como ejecutora). No se numera como eslabón nuevo en la línea de tiempo por no aportar un uso cualitativamente distinto.
 
+## Nota (2026-09-28, tras ingerir la Resolución 20253040051975/2025)
+
+La [Resolución 20253040051975 de 2025 — Zona Diferencial de Transporte Escolar en La Guajira](../fuentes/resolucion-20253040051975-de-2025-zona-diferencial-transporte-escolar-guajira.md), Art. 22 Parágrafo 2°, dispone que los informes de seguimiento de los organismos de control "serán tenidos en cuenta por los Ministerios de Transporte y Educación Nacional para efectuar sus funciones de asistencia técnica, control y vigilancia del servicio de transporte escolar en cada municipio". Es un uso más del término (nación hacia municipios), consistente en estructura con los ya documentados (Mintransporte/Mineducación como sujeto activo, entidad territorial como sujeto pasivo). No se numera como eslabón nuevo en la línea de tiempo, por no aportar un uso cualitativamente distinto.
+
 ## Incertidumbres
 
 - No se ha verificado en este corpus la fecha ni la norma exacta que introdujo el Parágrafo 3 del Art. 7° de la Ley 769/2002 (la mención que liga expresamente el término a la ANSV) — solo consta que es una reforma posterior a 2013, según las notas de modificación del texto consolidado de EVA-Gestor Normativo.
