@@ -2,7 +2,7 @@
 
 Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos de trabajo (INGEST/QUERY/LINT).
 
-**Estado general (2026-09-28):** La wiki se migró de la rama `Contractual-OPS` a la rama `main` (ver `log.md`, entrada de migración) — desde ahora todo el trabajo continúa en `main`. **52 fuentes ingeridas** (las 45 migradas de `Contractual-OPS`, con categorías originales completas, más 7 de las 100 fuentes nuevas: la Circular 20234000000677/Ley 2197-2022, la Ley 336/1996, la Ley 2294/2023, el Decreto 2106/2019 y la Resolución 20263040005765/2026 —ROT—) — de las 45 originales, 2 páginas (Concepto de Estabilidad Ocupacional Reforzada y su Solicitud DIV) referencian un `fuente_pdf` que no está presente en `main` (ver incertidumbre en `log.md`). **91 fuentes nuevas pendientes de ingest**, cargadas directamente por el usuario en `main` y relevadas por nombre de archivo en las secciones nuevas más abajo. Total del corpus: 145 fuentes. 3 entidades y 5 conceptos creados hasta ahora. *Nota (2026-09-25, heredada de `Contractual-OPS`): la wiki no se construye como insumo de tesis, sino como base de conocimiento para agentes de asesoría del usuario en la DCI/ANSV.* *Nota: el usuario pidió continuar el INGEST sin pausar a pedir autorización entre cada fuente — se mantiene para las fuentes nuevas.*
+**Estado general (2026-09-28):** La wiki se migró de la rama `Contractual-OPS` a la rama `main` (ver `log.md`, entrada de migración) — desde ahora todo el trabajo continúa en `main`. **53 fuentes ingeridas** (las 45 migradas de `Contractual-OPS`, con categorías originales completas, más 8 de las 100 fuentes nuevas: la Circular 20234000000677/Ley 2197-2022, la Ley 336/1996, la Ley 2294/2023, el Decreto 2106/2019, la Resolución 20263040005765/2026 —ROT— y la Resolución 20223040045295/2022 —Única Compilatoria de Tránsito—) — de las 45 originales, 2 páginas (Concepto de Estabilidad Ocupacional Reforzada y su Solicitud DIV) referencian un `fuente_pdf` que no está presente en `main` (ver incertidumbre en `log.md`). **87 fuentes nuevas pendientes de ingest**, cargadas directamente por el usuario en `main` y relevadas por nombre de archivo en las secciones nuevas más abajo. Total del corpus: 145 fuentes. 3 entidades y 5 conceptos creados hasta ahora. *Nota (2026-09-25, heredada de `Contractual-OPS`): la wiki no se construye como insumo de tesis, sino como base de conocimiento para agentes de asesoría del usuario en la DCI/ANSV.* *Nota: el usuario pidió continuar el INGEST sin pausar a pedir autorización entre cada fuente — se mantiene para las fuentes nuevas.*
 
 ## Fuentes (`fuentes/`)
 
@@ -212,12 +212,9 @@ Bloque más numeroso de la carga nueva: conceptos jurídicos, circulares y resol
 - ManualControldeVelocidadpdf 2008.pdf — (pendiente-ingest)
 - Matriz diánostico acción 1.1.2.xls — (pendiente-ingest; único archivo en formato Excel de todo el corpus — requiere lectura con herramienta distinta a PDF/docx)
 
-### Resoluciones sobre estándares técnicos de vehículos — posible mismo acto en varias versiones (3, pendientes)
+### Resoluciones sobre estándares técnicos de vehículos — mismo acto en varias versiones, verificado (4 archivos, ingeridos)
 
-- RESOLUCION 20223040045295 de 2022.pdf — (pendiente-ingest)
-- esca RESOLUCION 20223040045295 de 2022.pdf — (pendiente-ingest; mismo número de resolución que el anterior — verificar si "esca" indica una copia escaneada o un anexo distinto)
-- Titulo 5 Res. 2022040045295 2022 (1).pdf — (pendiente-ingest; posible extracto/título específico de la misma resolución)
-- MinTransporte-Resolucion-2022-N0045295_20220804.pdf — (pendiente-ingest; cuarto archivo con el mismo número — verificar)
+- [Resolución 20223040045295 de 2022 — Única Compilatoria en materia de Tránsito](fuentes/resolucion-20223040045295-de-2022-unica-compilatoria-transito.md) — ingerida de forma estructural (330 páginas, 9 Títulos). Verificado que `RESOLUCION 20223040045295 de 2022.pdf` y `Titulo 5 Res. 2022040045295 2022 (1).pdf` son el mismo extracto (Título 5) de esta resolución, y que `MinTransporte-Resolucion-2022-N0045295_20220804.pdf` es la versión completa (fuente usada). `esca RESOLUCION 20223040045295 de 2022.pdf` resultó ser, al leerla, **una resolución distinta** (20223040065295/2022, modificatoria del Programa de Modernización del Parque Automotor de Carga) — el nombre de archivo indujo a error. Es la norma base que la Resolución 20263040005765/2026 (ROT) adicionó, y compila la Resolución 4548/2013 ya ingerida. (ingerido)
 - PLANEACIÓN CIRCULAR INTERNA NASV.pdf — (pendiente-ingest)
 
 ## Método (`fuentes/`, type: metodo)

@@ -48,6 +48,7 @@ Es un uso del término distinto a todos los documentados hasta ahora en la [Gene
 - [Ley 769 de 2002](ley-769-de-2002-codigo-nacional-transito.md): se actualiza con la cita del Art. 4°, Parágrafo 2° (formación técnica/tecnológica de cuerpos especializados de policía de tránsito), no registrada antes.
 - [Genealogía normativa de "asistencia técnica"](../conceptos/genealogia-asistencia-tecnica.md): se añade un nuevo uso del término, dirigido a conductores individuales, distinto de los ya catalogados.
 - [Organismos y autoridades de tránsito](../conceptos/organismos-y-autoridades-de-transito.md): completa el perfil de formación exigible a los agentes de tránsito, complementando el perfil del Director ya documentado desde la Ley 1310/2009.
+- [Resolución 20223040045295 de 2022 — Única Compilatoria en materia de Tránsito](resolucion-20223040045295-de-2022-unica-compilatoria-transito.md): compila íntegramente esta resolución en su Título 2, Capítulo 1 (confirmado 2026-09-28).
 
 ## Incertidumbres
 
