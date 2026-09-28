@@ -2,7 +2,7 @@
 
 Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos de trabajo (INGEST/QUERY/LINT).
 
-**Estado general (2026-09-28):** La wiki se migró de la rama `Contractual-OPS` a la rama `main` (ver `log.md`, entrada de migración) — desde ahora todo el trabajo continúa en `main`. **139 fuentes ingeridas** (las 45 migradas de `Contractual-OPS`, con categorías originales completas, más 94 de las 100 fuentes nuevas) — de las 45 originales, 2 páginas (Concepto de Estabilidad Ocupacional Reforzada y su Solicitud DIV) referencian un `fuente_pdf` que no está presente en `main` (ver incertidumbre en `log.md`). **5 fuentes nuevas pendientes de ingest**, cargadas directamente por el usuario en `main` y relevadas por nombre de archivo en las secciones nuevas más abajo. Total del corpus: 145 fuentes. 3 entidades y 6 conceptos creados hasta ahora. *Nota (2026-09-25, heredada de `Contractual-OPS`): la wiki no se construye como insumo de tesis, sino como base de conocimiento para agentes de asesoría del usuario en la DCI/ANSV.* *Nota: el usuario pidió continuar el INGEST sin pausar a pedir autorización entre cada fuente — se mantiene para las fuentes nuevas.*
+**Estado general (2026-09-28):** La wiki se migró de la rama `Contractual-OPS` a la rama `main` (ver `log.md`, entrada de migración) — desde ahora todo el trabajo continúa en `main`. **141 fuentes ingeridas** (las 45 migradas de `Contractual-OPS`, con categorías originales completas, más 96 de las 100 fuentes nuevas) — de las 45 originales, 2 páginas (Concepto de Estabilidad Ocupacional Reforzada y su Solicitud DIV) referencian un `fuente_pdf` que no está presente en `main` (ver incertidumbre en `log.md`). **3 fuentes nuevas pendientes de ingest** (todas en la sección "Estudios técnicos, académicos y de referencia"), cargadas directamente por el usuario en `main`. Total del corpus: 145 fuentes. 3 entidades y 6 conceptos creados hasta ahora. *Nota (2026-09-25, heredada de `Contractual-OPS`): la wiki no se construye como insumo de tesis, sino como base de conocimiento para agentes de asesoría del usuario en la DCI/ANSV.* *Nota: el usuario pidió continuar el INGEST sin pausar a pedir autorización entre cada fuente — se mantiene para las fuentes nuevas.*
 
 ## Fuentes (`fuentes/`)
 
@@ -203,17 +203,17 @@ Se creó el concepto [Régimen de autorización SAST/fotodetección](conceptos/s
 - [Presentación — 1ª sesión AT-OT funciones y competencias (Presidencia/Mintransporte, 2021)](fuentes/presentacion-sesion1-at-ot-funciones-competencias.md) — destinación de recaudos por infracciones (Art. 160 CNT), límites a la contratación/delegación de funciones de tránsito, ZET/Zonas Diferenciales. (ingerido)
 - [Presentación Supertransporte — IUIT vs. Comparendos](fuentes/presentacion-supertransporte-iuit-comparendos.md) — único archivo .pptx del corpus (leído vía `python-pptx`); tabla comparativa IUIT/comparendo (naturaleza, formato, prescripción, caducidad). (ingerido)
 
-### Estudios técnicos, académicos y de referencia (5, pendientes)
+### Estudios técnicos, académicos y de referencia (4, 1 ingerida)
 
 - SDP-publication2 BID ESTUDIO DE CASO.pdf — (pendiente-ingest)
 - REGIMEN JURIDICO DE TRANSITO ALTA FINAL (1) version 2012 oscar david gomez pineda.pdf — (pendiente-ingest; posible tesis/monografía externa — verificar autoría y estatus como fuente secundaria durante el ingest)
 - ManualControldeVelocidadpdf 2008.pdf — (pendiente-ingest)
-- Matriz diánostico acción 1.1.2.xls — (pendiente-ingest; único archivo en formato Excel de todo el corpus — requiere lectura con herramienta distinta a PDF/docx)
+- [Matriz de Diagnóstico — Acción 1.1.2 del PNSV](fuentes/matriz-diagnostico-accion-1.1.2-pnsv-control-dci.md) — único archivo .xls del corpus (leído vía `xlrd`); 25 dificultades normativas/institucionales para el control operativo de tránsito y transporte, producto propio de la DCI (autoría confirmada por metadatos del archivo: Tania Marcela Suárez Ortiz). (ingerido)
 
 ### Resoluciones sobre estándares técnicos de vehículos — mismo acto en varias versiones, verificado (4 archivos, ingeridos)
 
 - [Resolución 20223040045295 de 2022 — Única Compilatoria en materia de Tránsito](fuentes/resolucion-20223040045295-de-2022-unica-compilatoria-transito.md) — ingerida de forma estructural (330 páginas, 9 Títulos). Verificado que `RESOLUCION 20223040045295 de 2022.pdf` y `Titulo 5 Res. 2022040045295 2022 (1).pdf` son el mismo extracto (Título 5) de esta resolución, y que `MinTransporte-Resolucion-2022-N0045295_20220804.pdf` es la versión completa (fuente usada). `esca RESOLUCION 20223040045295 de 2022.pdf` resultó ser, al leerla, **una resolución distinta** (20223040065295/2022, modificatoria del Programa de Modernización del Parque Automotor de Carga) — el nombre de archivo indujo a error. Es la norma base que la Resolución 20263040005765/2026 (ROT) adicionó, y compila la Resolución 4548/2013 ya ingerida. (ingerido)
-- PLANEACIÓN CIRCULAR INTERNA NASV.pdf — (pendiente-ingest)
+- [Circular Interna ANSV No. 054 de 2025 — Lineamientos Planeación Institucional 2026](fuentes/circular-interna-054-2025-lineamientos-planeacion-institucional-2026.md) — cronograma 2025-2026 de PAI, planes del Decreto 612/2018, PAA e indicadores de proceso; último ciclo de planeación del actual período de gobierno. (ingerido — nota: archivo agrupado por nombre bajo la sección de resoluciones técnicas de vehículos, pero su contenido no es afín a esa categoría; es una circular administrativa de planeación institucional)
 
 ## Método (`fuentes/`, type: metodo)
 
