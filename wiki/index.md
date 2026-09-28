@@ -2,7 +2,7 @@
 
 Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos de trabajo (INGEST/QUERY/LINT).
 
-**Estado general (2026-09-28):** La wiki se migró de la rama `Contractual-OPS` a la rama `main` (ver `log.md`, entrada de migración) — desde ahora todo el trabajo continúa en `main`. **107 fuentes ingeridas** (las 45 migradas de `Contractual-OPS`, con categorías originales completas, más 62 de las 100 fuentes nuevas) — de las 45 originales, 2 páginas (Concepto de Estabilidad Ocupacional Reforzada y su Solicitud DIV) referencian un `fuente_pdf` que no está presente en `main` (ver incertidumbre en `log.md`). **29 fuentes nuevas pendientes de ingest**, cargadas directamente por el usuario en `main` y relevadas por nombre de archivo en las secciones nuevas más abajo. Total del corpus: 145 fuentes. 3 entidades y 6 conceptos creados hasta ahora. *Nota (2026-09-25, heredada de `Contractual-OPS`): la wiki no se construye como insumo de tesis, sino como base de conocimiento para agentes de asesoría del usuario en la DCI/ANSV.* *Nota: el usuario pidió continuar el INGEST sin pausar a pedir autorización entre cada fuente — se mantiene para las fuentes nuevas.*
+**Estado general (2026-09-28):** La wiki se migró de la rama `Contractual-OPS` a la rama `main` (ver `log.md`, entrada de migración) — desde ahora todo el trabajo continúa en `main`. **109 fuentes ingeridas** (las 45 migradas de `Contractual-OPS`, con categorías originales completas, más 64 de las 100 fuentes nuevas) — de las 45 originales, 2 páginas (Concepto de Estabilidad Ocupacional Reforzada y su Solicitud DIV) referencian un `fuente_pdf` que no está presente en `main` (ver incertidumbre en `log.md`). **27 fuentes nuevas pendientes de ingest**, cargadas directamente por el usuario en `main` y relevadas por nombre de archivo en las secciones nuevas más abajo. Total del corpus: 145 fuentes. 3 entidades y 6 conceptos creados hasta ahora. *Nota (2026-09-25, heredada de `Contractual-OPS`): la wiki no se construye como insumo de tesis, sino como base de conocimiento para agentes de asesoría del usuario en la DCI/ANSV.* *Nota: el usuario pidió continuar el INGEST sin pausar a pedir autorización entre cada fuente — se mantiene para las fuentes nuevas.*
 
 ## Fuentes (`fuentes/`)
 
@@ -162,10 +162,10 @@ Se creó el concepto [Régimen de autorización SAST/fotodetección](conceptos/s
 - [Anexo Técnico — Circular Conjunta No. 058 de 2024](fuentes/anexo-tecnico-circular-conjunta-058-2024-cifras-siniestralidad.md) — cifras de siniestralidad por festivo/municipio 2023-2024 (766 fallecidos, 1.364 lesionados en 7 festivos analizados). (ingerido)
 - [Circular Conjunta No. 058 de 2024 — Vigilancia y control fin de año, Plan 70D](fuentes/circular-conjunta-058-2024-plan-70d-control-vigilancia.md) — 4 profesionales de la DCI en su elaboración; dos errores de fecha en su tabla normativa (Ley 769 "de 2022", Ley 1702 "de 2003"). (ingerido)
 
-### SOAT, aseguramiento y atención a víctimas (2, pendientes)
+### SOAT, aseguramiento y atención a víctimas (2, 2 ingeridas — completo)
 
-- Situación del SOAT 2024.pdf — (pendiente-ingest)
-- 20254000000597 LINEAMIENTOS ASEGURAMIENTO -VICTIMAS RESP CIVIL EXTRA DE LAS EMPRESAS.pdf — (pendiente-ingest)
+- [Situación del SOAT 2024 — Informe Anual al Congreso (ONSV)](fuentes/situacion-soat-2024-informe-congreso-onsv.md) — 48,4% del parque automotor sin SOAT vigente; 30% de vehículos en siniestros viales 2011-2024 no tenían SOAT. (ingerido)
+- [Circular Externa 20254000000597 de 2025 — Lineamientos de aseguramiento (RCC/RCE empresas de transporte)](fuentes/circular-externa-20254000000597-2025-lineamientos-aseguramiento.md) — prohíbe que los fondos de responsabilidad (Art. 61, Ley 336/1996) sustituyan las pólizas obligatorias; prohíbe sobreprecios a propietarios vinculados. (ingerido)
 
 ### Informes de gestión y seguimiento del PNSV (2, pendientes)
 
