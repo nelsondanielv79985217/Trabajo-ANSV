@@ -635,3 +635,10 @@ Registro cronológico, append-only. No editar entradas pasadas — solo agregar 
 - Se actualizó `wiki/entidades/dci-direccion-coordinacion-interinstitucional.md` con este hallazgo de desempeño medible de la DCI.
 - Se actualizó `index.md`: bloque "Informes PNSV" pasa de "(2, pendientes)" a "completo"; fuentes ingeridas 109→111 de 145; pendientes 27→25.
 - Continúo directamente con las 25 fuentes nuevas pendientes restantes (Movilidad escolar —1—, Contratación CCE —1—, Movilidad urbana/regional —5—, Presentaciones —2—, Estudios técnicos —5—, y demás bloques marcados "pendientes" en `index.md`), sin pausar entre una y la siguiente.
+
+## [2026-09-28] ingest | Bloque "Movilidad escolar" — 1 fuente (cierra el bloque)
+
+- Se ingirió la única fuente pendiente del bloque, **cerrándolo por completo (1/1)**.
+- **Guía de Seguimiento al Plan de Movilidad Escolar para Entidades de Gobiernos Locales (ANSV, 28 páginas, Contrato Interadministrativo ANSV-009-2024 con las Unidades Tecnológicas de Santander)**: guía práctica dirigida específicamente a alcaldías/secretarías territoriales para acompañar (no fiscalizar) los Planes de Movilidad Escolar (PME) de las instituciones educativas, en 3 momentos (antes/durante/después), con 6 pilares, 7 pasos de elaboración, indicadores de resultado/actividad/impacto y enfoque de género/diferencial transversal. Confirma que en Colombia (2021-2023) la siniestralidad vial fue la segunda causa de muerte violenta en niñas, niños y adolescentes. Se creó `wiki/fuentes/guia-seguimiento-plan-movilidad-escolar-gobiernos-locales.md`.
+- Se actualizó `index.md`: bloque "Movilidad escolar" pasa de "(1, pendiente)" a "completo"; fuentes ingeridas 111→112 de 145; pendientes 25→24.
+- Continúo directamente con las 24 fuentes nuevas pendientes restantes (Contratación CCE —1—, Movilidad urbana/regional —5—, Presentaciones —2—, Estudios técnicos —5—, y demás bloques marcados "pendientes" en `index.md`), sin pausar entre una y la siguiente.
