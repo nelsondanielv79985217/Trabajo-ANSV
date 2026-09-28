@@ -3,7 +3,7 @@ title: "ANSV — Agencia Nacional de Seguridad Vial"
 type: entidad
 tags: [ansv, marco-normativo, dci, consejo-directivo, fondo-nacional-seguridad-vial]
 status: ingerido
-last_updated: 2026-09-25
+last_updated: 2026-09-28
 ---
 
 
@@ -52,6 +52,13 @@ La [Ley 769 de 2002](../fuentes/ley-769-de-2002-codigo-nacional-transito.md) —
 4. **Art. 158A** (p. 51, adicionado por el Art. 18 de la Ley 2251 de 2022): criterios de seguridad vial para ayudas tecnológicas de detección de infracciones (fotomultas), fijados conjuntamente por Mintransporte y la ANSV.
 
 Es la **cuarta fuente legal** del corpus que atribuye competencias a la ANSV (tras la Ley 1702/2013, el Decreto 787/2015 y la Ley 1503/2011), y confirma que su abanico de funciones normativas excede ampliamente lo documentado en el sistema de gestión de la DCI (formación de conductores, velocidad, fotodetección — no asistencia técnica territorial). Ver también [Genealogía normativa de "asistencia técnica"](../conceptos/genealogia-asistencia-tecnica.md).
+
+## Ampliación de mandato — Ley 2294 de 2023 (Plan Nacional de Desarrollo) y Decreto 2106 de 2019
+
+- [Ley 2294 de 2023 — PND 2022-2026](../fuentes/ley-2294-de-2023-plan-nacional-desarrollo.md), Art. 177: adiciona funciones al Art. 9 de la Ley 1702/2013 y **extiende el mandato de la ANSV a los modos de transporte férreo y fluvial** (originalmente limitado, según la Ley 1702/2013, al modo carretero/terrestre), con funciones de prevención, planificación y gestión de siniestros en esos modos, y obligación de que toda investigación técnica de accidentes férreos/fluviales (pública o privada) se remita en copia a la ANSV. Art. 178: obliga a la ANSV a implementar, en máximo 3 meses desde la ley, una estrategia de prevención de siniestralidad con campañas masivas de concientización. Art. 180: la ANSV define las tecnologías de detección de infracciones por falta de SOAT y/o revisión técnico-mecánica, en coordinación con las entidades territoriales.
+- [Decreto 2106 de 2019](../fuentes/decreto-2106-de-2019-simplificacion-tramites.md), Art. 109: modifica el Art. 2 de la Ley 1843 de 2017 y atribuye a la ANSV, junto con el Ministerio de Transporte, la **autorización conjunta de sistemas automáticos/semiautomáticos de detección de infracciones al tránsito** (fotodetección) — con vigencia de 5 años por autorización.
+
+Es la **quinta y sexta fuente legal** del corpus que atribuye competencias a la ANSV (tras la Ley 1702/2013, el Decreto 787/2015, la Ley 1503/2011 y la Ley 769/2002), y confirma que el mandato de la entidad se ha ampliado progresivamente por vía de leyes posteriores a su creación (2013), sin que ninguna de estas ampliaciones se refiera a la asistencia técnica territorial de la DCI.
 
 ## Competencias en la Ley 2251 de 2022 (enfoque de Sistema Seguro) — la fuente más densa del corpus en este punto
 

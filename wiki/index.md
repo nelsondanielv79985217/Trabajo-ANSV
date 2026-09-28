@@ -2,7 +2,7 @@
 
 Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos de trabajo (INGEST/QUERY/LINT).
 
-**Estado general (2026-09-28):** La wiki se migró de la rama `Contractual-OPS` a la rama `main` (ver `log.md`, entrada de migración) — desde ahora todo el trabajo continúa en `main`. **45 fuentes ya ingeridas** con las categorías originales completas (Procedimientos y anexos SGC 6/6, Marco normativo 11/11, Planeación sectorial 6/6, Protocolos operativos y Plan 365 4/4, Correspondencia oficial 7/7, Conceptos jurídicos y laborales 2/2, Contratación 1/1, Financiamiento y cooperación 4/4, Productos propios del proyecto 4/4) — de estas, 2 páginas (Concepto de Estabilidad Ocupacional Reforzada y su Solicitud DIV) referencian un `fuente_pdf` que no está presente en `main` (ver incertidumbre en `log.md`). **100 fuentes nuevas pendientes de ingest**, cargadas directamente por el usuario en `main` y relevadas por nombre de archivo en las secciones nuevas más abajo — ninguna leída todavía. Total del corpus: 145 fuentes. 3 entidades y 5 conceptos creados hasta ahora. *Nota (2026-09-25, heredada de `Contractual-OPS`): la wiki no se construye como insumo de tesis, sino como base de conocimiento para agentes de asesoría del usuario en la DCI/ANSV.* *Nota: el usuario pidió continuar el INGEST sin pausar a pedir autorización entre cada fuente — se mantiene para las 100 fuentes nuevas.*
+**Estado general (2026-09-28):** La wiki se migró de la rama `Contractual-OPS` a la rama `main` (ver `log.md`, entrada de migración) — desde ahora todo el trabajo continúa en `main`. **51 fuentes ingeridas** (las 45 migradas de `Contractual-OPS`, con categorías originales completas, más 6 de las 100 fuentes nuevas: la Circular 20234000000677/Ley 2197-2022, la Ley 336/1996, la Ley 2294/2023 y el Decreto 2106/2019) — de las 45 originales, 2 páginas (Concepto de Estabilidad Ocupacional Reforzada y su Solicitud DIV) referencian un `fuente_pdf` que no está presente en `main` (ver incertidumbre en `log.md`). **94 fuentes nuevas pendientes de ingest**, cargadas directamente por el usuario en `main` y relevadas por nombre de archivo en las secciones nuevas más abajo. Total del corpus: 145 fuentes. 3 entidades y 5 conceptos creados hasta ahora. *Nota (2026-09-25, heredada de `Contractual-OPS`): la wiki no se construye como insumo de tesis, sino como base de conocimiento para agentes de asesoría del usuario en la DCI/ANSV.* *Nota: el usuario pidió continuar el INGEST sin pausar a pedir autorización entre cada fuente — se mantiene para las fuentes nuevas.*
 
 ## Fuentes (`fuentes/`)
 
@@ -104,9 +104,7 @@ Bloque más numeroso de la carga nueva: conceptos jurídicos, circulares y resol
 - 20221341034361 Tránsito. Agente de tránsito competente. negarse a la prueba de alcoholimetria.pdf — (pendiente-ingest)
 - 20221341274911 de 3-11-2022 como elaborar IPAT.pdf — (pendiente-ingest)
 - 20231341331961 TR_NSITO - Formulario _nico Nacional de Comparendo.pdf — (pendiente-ingest)
-- 20234000000677 CIRULAR EFECTOS LEY 2197 DE 2022 MINTRANSPORTE.pdf — (pendiente-ingest; **posible resolución de la incertidumbre "Ley 2197" ya registrada en `fuentes/circular-externa-157-2024-videos-infracciones.md`** — verificar con prioridad)
-- 20234000000677 municipio y la función de control y vigilancia.pdf — (pendiente-ingest; mismo radicado que el anterior — verificar si es el mismo acto o uno distinto)
-- MT 20234000000677 EFECTOS LEY 2197 DE 2022.pdf — (pendiente-ingest; tercer archivo con el mismo radicado — verificar)
+- [Circular Externa 20234000000677 de 2023 — Efectos de la Ley 2197 de 2022](fuentes/circular-externa-20234000000677-ley-2197-2022.md) — resuelve la incertidumbre "Ley 2197" ya registrada en `fuentes/circular-externa-157-2024-videos-infracciones.md`: es una norma real y distinta (seguridad ciudadana), cuyo Art. 58 reforma el Art. 7 de la Ley 769/2002. Los tres archivos con este radicado (`20234000000677 CIRULAR EFECTOS LEY 2197 DE 2022 MINTRANSPORTE.pdf`, `20234000000677 municipio y la función de control y vigilancia.pdf` y `MT 20234000000677 EFECTOS LEY 2197 DE 2022.pdf`) corresponden al mismo acto administrativo (dos son escaneos duplicados sin texto extraíble; el tercero, con texto OCR, fue la fuente usada). (ingerido)
 - 2024000000257 explica proc para asigna rangos a los municipios.pdf — (pendiente-ingest)
 - 202411000000277 a las auto nacion ANSV-ANI-INVIAS EXCPE DEL USO DE LA CONTRAT DIREC.pdf — (pendiente-ingest)
 - 20241340092641 organismos de transito su denominación y tipo de organización.pdf — (pendiente-ingest)
@@ -181,15 +179,15 @@ Bloque más numeroso de la carga nueva: conceptos jurídicos, circulares y resol
 
 - Guia_de_Seguimiento_al_Plan_de_Movilidad_Escolar_para_Entidades_de_Gobiernos_Locales.pdf — (pendiente-ingest)
 
-### Marco normativo adicional — leyes y decretos (7, pendientes)
+### Marco normativo adicional — leyes y decretos (7 catalogados; 3 ingeridos, 4 pendientes)
 
 - Ley 105 de 1993 - Gestor Normativo - Función Pública.pdf — (pendiente-ingest)
 - Ley 1242 de 2008 - Gestor Normativo - Función Pública.pdf — (pendiente-ingest)
-- Ley 336 de 1996 - Gestor Normativo - Función Pública.pdf — (pendiente-ingest; ya citada indirectamente, sin texto primario, en `fuentes/oficio-20254000114441-supertransporte-plan-365.md` y sus versiones — ingest prioritario)
-- Ley_2294_de_2023.pdf — (pendiente-ingest; ya citada indirectamente en `fuentes/ley-1702-de-2013-creacion-ansv.md` — ingest prioritario)
+- [Ley 336 de 1996 — Estatuto Nacional de Transporte](fuentes/ley-336-de-1996-estatuto-nacional-transporte.md) — completa con texto primario las citas ya registradas (Art. 46 lit. c, sanciones; Arts. 40-42, CONSET) en `fuentes/oficio-20254000114441-supertransporte-plan-365.md` y otras. (ingerido)
+- [Ley 2294 de 2023 — PND 2022-2026, artículos sobre seguridad vial y ANSV](fuentes/ley-2294-de-2023-plan-nacional-desarrollo.md) — Arts. 174-180: amplía el mandato de la ANSV a los modos férreo y fluvial (Art. 177), ordena estrategia de campañas (Art. 178) y tecnologías de control (Art. 180). Ley ómnibus de 159 páginas; solo se revisó el capítulo de transporte. (ingerido)
 - Decreto_1147_1971 categorias OT.pdf — (pendiente-ingest)
 - Decreto_19_de_2012.pdf — (pendiente-ingest)
-- Decreto_2106_de_2019.pdf — (pendiente-ingest; **ya citado indirectamente y considerado "resuelto" en `wiki/conceptos/plan-estrategico-seguridad-vial-pesv.md` a partir del PNSV** — ingest prioritario para confirmar con texto primario)
+- [Decreto 2106 de 2019 — Simplificación de trámites, artículos de transporte](fuentes/decreto-2106-de-2019-simplificacion-tramites.md) — resuelve la incertidumbre ya registrada en `wiki/conceptos/plan-estrategico-seguridad-vial-pesv.md`: confirma con texto primario el Art. 110 (elimina el aval del PESV) y aporta el Art. 109 (autorización conjunta Mintransporte-ANSV de sistemas de fotodetección). Decreto de 49 páginas; solo se revisaron los Arts. 108-111. (ingerido)
 
 ### Contratación — Colombia Compra Eficiente (1, pendiente)
 
