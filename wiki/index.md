@@ -2,7 +2,7 @@
 
 Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos de trabajo (INGEST/QUERY/LINT).
 
-**Estado general (2026-09-28):** La wiki se migró de la rama `Contractual-OPS` a la rama `main` (ver `log.md`, entrada de migración) — desde ahora todo el trabajo continúa en `main`. **102 fuentes ingeridas** (las 45 migradas de `Contractual-OPS`, con categorías originales completas, más 57 de las 100 fuentes nuevas) — de las 45 originales, 2 páginas (Concepto de Estabilidad Ocupacional Reforzada y su Solicitud DIV) referencian un `fuente_pdf` que no está presente en `main` (ver incertidumbre en `log.md`). **35 fuentes nuevas pendientes de ingest**, cargadas directamente por el usuario en `main` y relevadas por nombre de archivo en las secciones nuevas más abajo. Total del corpus: 145 fuentes. 3 entidades y 6 conceptos creados hasta ahora. *Nota (2026-09-25, heredada de `Contractual-OPS`): la wiki no se construye como insumo de tesis, sino como base de conocimiento para agentes de asesoría del usuario en la DCI/ANSV.* *Nota: el usuario pidió continuar el INGEST sin pausar a pedir autorización entre cada fuente — se mantiene para las fuentes nuevas.*
+**Estado general (2026-09-28):** La wiki se migró de la rama `Contractual-OPS` a la rama `main` (ver `log.md`, entrada de migración) — desde ahora todo el trabajo continúa en `main`. **104 fuentes ingeridas** (las 45 migradas de `Contractual-OPS`, con categorías originales completas, más 59 de las 100 fuentes nuevas) — de las 45 originales, 2 páginas (Concepto de Estabilidad Ocupacional Reforzada y su Solicitud DIV) referencian un `fuente_pdf` que no está presente en `main` (ver incertidumbre en `log.md`). **33 fuentes nuevas pendientes de ingest**, cargadas directamente por el usuario en `main` y relevadas por nombre de archivo en las secciones nuevas más abajo. Total del corpus: 145 fuentes. 3 entidades y 6 conceptos creados hasta ahora. *Nota (2026-09-25, heredada de `Contractual-OPS`): la wiki no se construye como insumo de tesis, sino como base de conocimiento para agentes de asesoría del usuario en la DCI/ANSV.* *Nota: el usuario pidió continuar el INGEST sin pausar a pedir autorización entre cada fuente — se mantiene para las fuentes nuevas.*
 
 ## Fuentes (`fuentes/`)
 
@@ -149,11 +149,11 @@ Bloque más numeroso de la carga nueva: conceptos jurídicos, circulares y resol
 
 Se creó el concepto [Régimen de autorización SAST/fotodetección](conceptos/sast-fotodeteccion-regimen-autorizacion.md), que consolida la cadena normativa (Ley 1843/2017 → Decreto 2106/2019 → Resolución 20203040011245/2020 → Ley 2251/2022) y la secuencia de las 4 circulares SAST de esta sección.
 
-### ROT — Red de Observatorios Territoriales y gestión del conocimiento (5 catalogados; 1 ingerido —los 3 archivos de la resolución son duplicados exactos—, 2 pendientes)
+### ROT — Red de Observatorios Territoriales y gestión del conocimiento (5 catalogados; 3 ingeridos —los 3 archivos de la resolución son duplicados exactos— completo)
 
 - [Resolución 20263040005765 de 2026 — Estructuración de la ROT](fuentes/resolucion-20263040005765-2026-rot.md) — verificado por MD5 que los tres archivos (`Resolución No 20263040005765 de 17-02-2026 ROT.pdf`, `resolucion 20263040005765 17-02-2026.pdf`, `RESOL SE ADOPA LA ROT 2026.pdf`) son el mismo archivo cargado tres veces. Resuelve la incertidumbre sobre el contenido íntegro de esta resolución en `fuentes/respuesta-peticion-congresista-20266600072782.md`; confirma a Mariantonia Tabares Pulgarín como Directora ANSV vigente al 17-02-2026. (ingerido)
-- METADATOS EFSV 2021-2026.pdf — (pendiente-ingest)
-- Modelo Nacional de Gestión del Conocimiento V2.pdf — (pendiente-ingest)
+- [Metadatos EFSV 2021-A-2026 — ONSV](fuentes/metadatos-efsv-2021-2026-onsv.md) — ficha de metadatos de la operación estadística oficial de mortalidad vial (estándar de 30 días, fuente SIRDEC/INMLCF, NTC PE 1000). (ingerido)
+- [Modelo Nacional de Gestión del Conocimiento — ONSV (V2, 2025)](fuentes/modelo-nacional-gestion-conocimiento-onsv-v2.md) — aporta el antecedente fundacional de la ROT (Acuerdo de Entendimiento AE002-2023), no documentado en la resolución de 2026. Ingest estructural (42 páginas). (ingerido)
 
 ### Plan 365 / Plan 70D — materiales adicionales (4, pendientes)
 
