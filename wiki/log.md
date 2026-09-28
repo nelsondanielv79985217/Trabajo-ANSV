@@ -572,3 +572,11 @@ Registro cronológico, append-only. No editar entradas pasadas — solo agregar 
 - Se actualizó `wiki/fuentes/concepto-20251340026531-inspectores-policia-funciones-transito.md` (incertidumbre resuelta).
 - Se actualizó `index.md` (fuentes ingeridas 92→93 de 145; pendientes 45→44).
 - Continúo directamente con las 44 fuentes nuevas pendientes restantes, sin pausar entre una y la siguiente.
+
+## [2026-09-28] ingest | Cartilla — Presupuesto Público al Alcance de los Organismos de Tránsito (FCM, 2016)
+
+- Se ingirió de forma estructural (152 páginas, texto extraíble vía `pdftotext -layout`; se identificó la estructura completa de los 6 capítulos, con lectura de detalle en el Capítulo 1 —naturaleza jurídica de las multas de tránsito como renta endógena/exógena— y el Capítulo 6 —tipología organizacional de los Organismos de Tránsito y reglas presupuestales por modalidad—, sin transcribir los Capítulos 2-5, de derecho presupuestal general no específico del sector tránsito) la cartilla de la Federación Colombiana de Municipios (FCM). Se creó `wiki/fuentes/cartilla-presupuesto-publico-organismos-transito-fcm.md`.
+- Aporta una clasificación tripartita (administración central / entidades adscritas / entidades vinculadas) de los Organismos de Tránsito, más sistemática que la ya documentada en el Concepto 20241340092641, y confirma la autonomía territorial para determinar la modalidad organizacional.
+- Archivo con nombre acentuado (`Actualización Cartilla manejo presupuestal multas tránsito OT 2016.pdf.pdf`), accedido vía workaround python3/glob.
+- Se actualizó `index.md` (fuentes ingeridas 93→94 de 145; pendientes 44→43).
+- Continúo directamente con las 43 fuentes nuevas pendientes restantes, sin pausar entre una y la siguiente.
