@@ -13,7 +13,7 @@ La estructura y convenciones de este archivo replican el schema ya validado en e
 Estas reglas aplican al contenido de `/wiki`, precisamente porque los agentes que la usarán producirán documentos oficiales/técnicos donde una cita mal atribuida o un hallazgo inventado tiene consecuencias reales:
 
 1. **Fuente exclusiva**: solo se usa información contenida en los archivos cargados a este repositorio. No se usa conocimiento general, memoria del modelo ni resultados de búsqueda externa como sustento, salvo pedido explícito del usuario para un propósito distinto (ej. contexto normativo público).
-2. **Citación exacta**: toda página de `fuentes/` debe registrar, cuando el documento lo permita identificar, el apartado/sección y el número de página exacto de cada dato, cifra o afirmación relevante que luego pueda citarse en un producto de asesoría (oficio, concepto, informe). Si no se puede identificar la ubicación precisa, la página debe decirlo explícitamente en vez de aproximarla — esto habilita que la wiki sirva de insumo citable, no solo de resumen.
+2. **Citación exacta**: toda página de `fuentes/` debe registrar, cuando el documento lo permita identificar, el apartado/sección y el número de página exacto de cada dato, cifra o afirmación relevante que luego pueda citarse en un producto de asesoría (oficio, concepto, informe). Si no se puede identificar la ubicación precisa, la página debe decirlo explícitamente en vez de aproximarla — esto habilita que la wiki sirva de insumo citable, no solo de resumen. *Aclaración (2026-09-28, ver `log.md`): en documentos largos y estructurados por Título/Capítulo/Artículo/numeral (códigos comentados, resoluciones compilatorias, manuales técnicos de decenas o cientos de páginas), citar por esa estructura formal (p. ej. "Art. 106°, Par. 2") satisface la citación exacta igual o mejor que un número de página suelto — es la ubicación que efectivamente se usará al citar el documento en un producto de asesoría, y no cambia entre ediciones/reimpresiones del mismo documento como sí puede cambiar la paginación. El número de página sigue siendo la referencia por defecto para documentos sin esa estructura formal (circulares, oficios, conceptos, presentaciones).*
 3. **Sin datos disponibles = decirlo**: si una fuente no aclara algo, se marca (`status: incierto` y/o nota `[INCIERTO: ...]`) en vez de completar el hueco.
 4. **Sin alucinación/extrapolación**: ninguna página de la wiki puede afirmar algo que no esté respaldado por el contenido real del PDF/DOCX correspondiente.
 
@@ -106,7 +106,7 @@ Cuando se pida, revisar la wiki en busca de:
 - Páginas huérfanas: sin links entrantes desde `index.md` u otras páginas.
 - Conceptos/entidades mencionados en el texto de una página pero sin página propia.
 - Cross-references faltantes.
-- Citas sin número de página cuando el documento sí lo permite identificar.
+- Citas sin número de página ni referencia estructural (Título/Capítulo/Artículo/numeral) cuando el documento permite identificar alguna de las dos.
 
 Reportar hallazgos al usuario antes de corregir, salvo que pida corrección automática.
 
