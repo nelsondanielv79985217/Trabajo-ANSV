@@ -2,14 +2,14 @@
 title: "Circular Conjunta No. 023 de 2025 — Plan 365"
 type: fuente
 tags: [circular-conjunta, plan-365, ansv, dci, supertransporte, ditra, asistencia-tecnica, sistema-seguro, protocolos-operativos]
-fuente_pdf: "CIRCULAR CONJUNTA PLAN 365 ANSV_VF.pdf"
+fuente_pdf: "CIRCULAR CONJUNTA PLAN 365 ANSV_VF.pdf (duplicado verificado: 'CIRCULAR CONJUNTA 023 DE 2025 plan 365 de 2025.pdf', mismo contenido, distinto escaneo/MD5)"
 status: ingerido
-last_updated: 2026-09-25
+last_updated: 2026-09-28
 ---
 
 # Circular Conjunta No. 023 de 2025
 
-**Archivo fuente:** `CIRCULAR CONJUNTA PLAN 365 ANSV_VF.pdf` (6 páginas)
+**Archivo fuente:** `CIRCULAR CONJUNTA PLAN 365 ANSV_VF.pdf` (6 páginas). **Verificado (2026-09-28)** que el archivo `CIRCULAR CONJUNTA 023 DE 2025 plan 365 de 2025.pdf`, cargado posteriormente en `main`, es el mismo documento (comparación textual directa vía `pdftotext -layout`; MD5 distinto por tratarse de un escaneo/exportación diferente, con solo variaciones de espaciado y un guion largo vs. corto — sin diferencias de contenido sustantivo). No se crea página adicional.
 **Fecha:** Bogotá D.C., 20 de marzo de 2025 (p. 6).
 **Para:** Autoridades de Tránsito, Organismos de Tránsito, Policía Nacional — DITRA, ANI, INVÍAS, Terminales de Transporte, Organismos de Socorro y demás entidades del Sistema Nacional del Transporte.
 **De:** Ministerio de Transporte, Agencia Nacional de Seguridad Vial, Superintendencia de Transporte y DITRA.

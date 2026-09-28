@@ -2,7 +2,7 @@
 
 Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos de trabajo (INGEST/QUERY/LINT).
 
-**Estado general (2026-09-28):** La wiki se migró de la rama `Contractual-OPS` a la rama `main` (ver `log.md`, entrada de migración) — desde ahora todo el trabajo continúa en `main`. **104 fuentes ingeridas** (las 45 migradas de `Contractual-OPS`, con categorías originales completas, más 59 de las 100 fuentes nuevas) — de las 45 originales, 2 páginas (Concepto de Estabilidad Ocupacional Reforzada y su Solicitud DIV) referencian un `fuente_pdf` que no está presente en `main` (ver incertidumbre en `log.md`). **33 fuentes nuevas pendientes de ingest**, cargadas directamente por el usuario en `main` y relevadas por nombre de archivo en las secciones nuevas más abajo. Total del corpus: 145 fuentes. 3 entidades y 6 conceptos creados hasta ahora. *Nota (2026-09-25, heredada de `Contractual-OPS`): la wiki no se construye como insumo de tesis, sino como base de conocimiento para agentes de asesoría del usuario en la DCI/ANSV.* *Nota: el usuario pidió continuar el INGEST sin pausar a pedir autorización entre cada fuente — se mantiene para las fuentes nuevas.*
+**Estado general (2026-09-28):** La wiki se migró de la rama `Contractual-OPS` a la rama `main` (ver `log.md`, entrada de migración) — desde ahora todo el trabajo continúa en `main`. **107 fuentes ingeridas** (las 45 migradas de `Contractual-OPS`, con categorías originales completas, más 62 de las 100 fuentes nuevas) — de las 45 originales, 2 páginas (Concepto de Estabilidad Ocupacional Reforzada y su Solicitud DIV) referencian un `fuente_pdf` que no está presente en `main` (ver incertidumbre en `log.md`). **29 fuentes nuevas pendientes de ingest**, cargadas directamente por el usuario en `main` y relevadas por nombre de archivo en las secciones nuevas más abajo. Total del corpus: 145 fuentes. 3 entidades y 6 conceptos creados hasta ahora. *Nota (2026-09-25, heredada de `Contractual-OPS`): la wiki no se construye como insumo de tesis, sino como base de conocimiento para agentes de asesoría del usuario en la DCI/ANSV.* *Nota: el usuario pidió continuar el INGEST sin pausar a pedir autorización entre cada fuente — se mantiene para las fuentes nuevas.*
 
 ## Fuentes (`fuentes/`)
 
@@ -155,12 +155,12 @@ Se creó el concepto [Régimen de autorización SAST/fotodetección](conceptos/s
 - [Metadatos EFSV 2021-A-2026 — ONSV](fuentes/metadatos-efsv-2021-2026-onsv.md) — ficha de metadatos de la operación estadística oficial de mortalidad vial (estándar de 30 días, fuente SIRDEC/INMLCF, NTC PE 1000). (ingerido)
 - [Modelo Nacional de Gestión del Conocimiento — ONSV (V2, 2025)](fuentes/modelo-nacional-gestion-conocimiento-onsv-v2.md) — aporta el antecedente fundacional de la ROT (Acuerdo de Entendimiento AE002-2023), no documentado en la resolución de 2026. Ingest estructural (42 páginas). (ingerido)
 
-### Plan 365 / Plan 70D — materiales adicionales (4, pendientes)
+### Plan 365 / Plan 70D — materiales adicionales (4, 3 fuentes únicas — completo)
 
-- CIRCULAR CONJUNTA 023 DE 2025 plan 365 de 2025.pdf — (pendiente-ingest; posible copia adicional de la ya ingerida `fuentes/circular-conjunta-023-2025-plan-365.md` — verificar si el contenido es idéntico)
-- La grafica de la ballena_24_dic_2025.pdf — (pendiente-ingest)
-- aNEXO TECNICO CIRCULAR CONJUNTA 058 DE 2024.pdf — (pendiente-ingest)
-- cIRCULAR CONJUNTA 058 DE 2024 LINEAMIENTOS AUT FORTALECER EL EJERCICIO DEL CONTROL.pdf — (pendiente-ingest)
+- CIRCULAR CONJUNTA 023 DE 2025 plan 365 de 2025.pdf — verificado (comparación textual directa) que es el mismo contenido de la ya ingerida `fuentes/circular-conjunta-023-2025-plan-365.md` (distinto escaneo/MD5, sin diferencias sustantivas); esa página se actualizó con la nota de duplicado. (ingerido, sin página adicional)
+- [La Gráfica de la Ballena — ONSV (diciembre 2025)](fuentes/la-grafica-de-la-ballena-onsv-2025.md) — modelo NBREG: el domingo genera hasta 3x más vidas salvadas por comparendo que un día laboral; el motociclista tiene 12x más riesgo que el ciclista. (ingerido)
+- [Anexo Técnico — Circular Conjunta No. 058 de 2024](fuentes/anexo-tecnico-circular-conjunta-058-2024-cifras-siniestralidad.md) — cifras de siniestralidad por festivo/municipio 2023-2024 (766 fallecidos, 1.364 lesionados en 7 festivos analizados). (ingerido)
+- [Circular Conjunta No. 058 de 2024 — Vigilancia y control fin de año, Plan 70D](fuentes/circular-conjunta-058-2024-plan-70d-control-vigilancia.md) — 4 profesionales de la DCI en su elaboración; dos errores de fecha en su tabla normativa (Ley 769 "de 2022", Ley 1702 "de 2003"). (ingerido)
 
 ### SOAT, aseguramiento y atención a víctimas (2, pendientes)
 
