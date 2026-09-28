@@ -4,7 +4,7 @@ type: fuente
 tags: [plan-365, circular-conjunta, ansv, supertransporte, ditra, municipios-priorizados, siniestralidad, sistema-seguro, planeacion-sectorial]
 fuente_pdf: "ANEXO TÉCNICO PLAN 365.pdf"
 status: ingerido
-last_updated: 2026-09-25
+last_updated: 2026-09-28
 ---
 
 # Anexo Técnico — Circular Conjunta No. 023 de 2025 (Plan 365)
@@ -22,7 +22,7 @@ Es el anexo técnico que soporta la Circular Conjunta No. 023 de 2025 — el ins
 
 ## Contenido — resumen (pp. 1–2)
 
-- **Cifra nacional**: 8.271 personas fallecidas por siniestros viales entre enero y diciembre de 2024 (cifras preliminares).
+- **Cifra nacional**: el documento afirma textualmente (p. 1) que "entre enero y diciembre de 2024 se registró la cantidad nacional **definitiva** de 8.271 personas fallecidas" por siniestros viales — pero la nota final del mismo documento (p. 95, ver abajo) califica esas mismas cifras como **preliminares** y "susceptibles de modificaciones o ajustes de acuerdo con la emisión de las cifras definitivas". **Contradicción interna del propio documento fuente** (no de esta página de la wiki): llama "definitiva" a la cifra en la p. 1 y "preliminar" a la misma cifra en la p. 95 — verificada directamente contra el PDF primario (2026-09-28). Se cita aquí ambas calificaciones sin resolver cuál prevalece.
 - **"Gráfica de la ballena"** (p. 2): reproduce el mismo argumento ya documentado en el [Plan 70D](plan-70d-sector-transporte.md) — a mayor control (comparendos) entre semana, menor fatalidad; los domingos concentran la mayor fatalidad (21,98 % del total semanal) con el menor nivel de comparendos (10,73 %), lo que sustenta reforzar el control los fines de semana.
 - **Tabla resumen de 19 festivos priorizados para 2025** (p. 2), con columnas Plan operativo, día, lesionados, fallecidos, total y municipios priorizados:
 
@@ -71,4 +71,4 @@ El asunto de este anexo (y de la Circular Conjunta 023/2025 que lo acompaña) us
 
 - No se ha verificado en este corpus el texto completo de la Circular Conjunta No. 023 de 2025 en sí (el cuerpo de la circular, distinto de este anexo técnico) — solo se cuenta con el anexo.
 - No se verifica si la DCI participa específicamente en la ejecución del Plan 365 (el documento nombra a "la ANSV" y a DITRA/SuperTransporte de forma general, sin desagregar por dependencia interna de la ANSV).
-- Las cifras de este anexo son preliminares (ONSV, 2024) y el propio documento advierte que están sujetas a ajuste — no deben tratarse como cifras definitivas en un producto de asesoría sin verificar la versión más reciente.
+- El propio documento se contradice sobre el estatus de sus cifras: las llama "cantidad nacional definitiva" en la p. 1 y "datos preliminares... susceptibles de modificaciones" en la p. 95 (ver arriba) — no deben tratarse como cifras definitivas en un producto de asesoría sin verificar la versión más reciente publicada por el ONSV.

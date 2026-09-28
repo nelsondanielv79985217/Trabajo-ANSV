@@ -4,7 +4,7 @@ type: fuente
 tags: [protocolo, motociclistas, sg-sst, pesv, ministerio-trabajo, ansv, direccion-comportamiento, epp, protocolos-operativos]
 fuente_pdf: "Protocolo_Practicas_Seguras_Motociclistas.pdf"
 status: ingerido
-last_updated: 2026-09-25
+last_updated: 2026-09-28
 ---
 
 # Protocolo de Prácticas Seguras para los Trabajadores que Usan la Motocicleta como Herramienta de Trabajo
@@ -20,7 +20,8 @@ Es un protocolo conjunto Ministerio de Trabajo–ANSV, dirigido a empleadores, c
 ## Diagnóstico (cifras clave)
 
 - Parque automotor colombiano 2022: 18.082.451 vehículos registrados (RUNT), 61 % motocicletas. Crecimiento del parque de motocicletas: de 4,49 millones (2012) a 11,2 millones (2022) — aumento del 249 % en una década.
-- Siniestralidad 2022: **8.264–8.271 personas fallecidas** (la cifra varía levemente entre pp. 11 y 14 del propio documento, ambas atribuidas al ONSV — se registra la inconsistencia menor sin resolverla, probablemente por cifras preliminares vs. ajustadas en distintos momentos de la elaboración del documento); motociclistas representan 59,9–62,1 % del total de fallecidos.
+- **Siniestralidad nacional 2022** (p. 11, atribuida al ONSV): **8.264 personas fallecidas** (aumento del 22,2 % frente al promedio de los últimos cinco años) y 29.093 valoraciones médico-legales por lesiones — "la mayor cantidad de víctimas fatales... desde que se lleva registro de estos en el año 1991, superando las 8.000 víctimas fatales". Tasa nacional: 15,56 fallecidos por cada 100.000 habitantes. Motociclistas: **59,9 %** del total de fallecidos y 59,1 % del total de casos valorados en 2022.
+- **Siniestralidad nacional enero-junio de 2023** (pp. 11-13, dato distinto y de menor alcance temporal, no una segunda medición del mismo hecho de 2022): 4.029 personas fallecidas (+6,5 % frente al mismo semestre de 2022), de las cuales 2.502 fueron motociclistas — **62,10 %** del total del semestre (cifra que el documento repite más adelante, atribuida también al ONSV, para el mismo período enero-junio 2023, junto con peatones 21,25 % y ciclistas 5,34 % de los fallecidos, dentro del 88 % de usuarios vulnerables).
 - Según cifras de ARL Sura (2015–2017), el 40 % de los fallecidos en accidentes laborales se movilizaban en motocicleta; según el ONSV, en el 87 % de los siniestros del país está involucrada una moto.
 - Departamentos con mayor fatalidad de motociclistas: Antioquia (13 %), Valle del Cauca (12 %), Cundinamarca (6 %), Santander (6 %), Huila (5 %).
 
@@ -54,6 +55,6 @@ Confirma varias citas ya registradas en el corpus (Ley 769/2002; Ley 1503/2011; 
 
 ## Incertidumbres
 
-- El documento reporta dos cifras distintas de fallecidos 2022 (8.264 y 8.271), ambas atribuidas al ONSV, sin explicar la diferencia — probablemente cifras preliminares vs. ajustadas capturadas en momentos distintos de la elaboración del documento.
+- **Corrección (2026-09-28, tras verificar directamente el PDF primario tal como lo pidió el usuario)**: esta página afirmaba anteriormente que el documento reportaba "8.264–8.271 personas fallecidas" en 2022, como una inconsistencia interna sin resolver entre las pp. 11 y 14. **Esa segunda cifra (8.271) no existe en ningún punto del documento** — se verificó exhaustivamente (búsqueda de texto completa sobre el PDF reextraído) y no aparece ni una sola vez. Era un error del ingest original de esta página, no un hallazgo real del documento fuente. La única cifra de fallecidos 2022 que reporta el documento es 8.264 (p. 11); la aparente "página 14" citada como fuente de la segunda cifra corresponde en realidad al título del capítulo 14 ("Recomendaciones finales"), cerca del final del documento, sin relación con cifras de siniestralidad — probablemente una confusión entre número de capítulo y número de página durante el ingest original. De la misma forma, el rango "59,9–62,1 %" tampoco era una inconsistencia real: son dos cifras genuinamente distintas para dos períodos distintos y claramente identificados en el documento (59,9 % para el año 2022 completo; 62,10 % para enero-junio de 2023), no dos mediciones contradictorias del mismo hecho. Se corrige el texto de "Diagnóstico" arriba en consecuencia.
 - No se ha verificado en este corpus el texto de la Ley 1239 de 2008, el Decreto 4125 de 2008, ni la mayoría de las resoluciones técnicas citadas (frenos, llantas, cascos) — ninguna está incluida de forma independiente.
 - No menciona a la DCI ni el término "asistencia técnica" en ningún punto — es un instrumento de la Dirección de Comportamiento de la ANSV y del Ministerio de Trabajo, de dominio distinto al de la coordinación territorial de la DCI.
