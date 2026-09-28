@@ -41,5 +41,5 @@ Los Inspectores de Policía con funciones de tránsito son autoridades de tráns
 
 ## Incertidumbres
 
-- No se verifica en este corpus el texto íntegro del Manual de Policía Judicial de la Fiscalía General de la Nación más allá del extracto citado en este concepto (fuente pendiente de ingest en el corpus).
+- ~~No se verifica en este corpus el texto íntegro del Manual de Policía Judicial de la Fiscalía General de la Nación más allá del extracto citado en este concepto (fuente pendiente de ingest en el corpus).~~ **Resuelto (2026-09-28)**: ver [Manual Único de Policía Judicial (Versión 2)](manual-unico-policia-judicial-fiscalia.md), con el texto primario confirmado y el marco general de clasificación de órganos de policía judicial.
 - No se verifica si la limitación del 10% de remuneración a la inversión privada en fotodetección (Parágrafo 5°, Art. 7° CNT) tiene alguna excepción o desarrollo reglamentario adicional.

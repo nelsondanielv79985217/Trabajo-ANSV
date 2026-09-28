@@ -564,3 +564,11 @@ Registro cronológico, append-only. No editar entradas pasadas — solo agregar 
 - Se actualizó `wiki/fuentes/decreto-2106-de-2019-simplificacion-tramites.md` con los Arts. 118 y 119 (no cubiertos en su ingest estructural original).
 - Se actualizó `index.md` (fuentes ingeridas 91→92 de 145; pendientes 46→45).
 - Continúo directamente con las 45 fuentes nuevas pendientes restantes, sin pausar entre una y la siguiente.
+
+## [2026-09-28] ingest | Manual Único de Policía Judicial (Fiscalía General de la Nación)
+
+- Se ingirió de forma estructural (80 páginas, texto extraíble vía `pdftotext -layout`; se leyó la estructura completa de los 18 capítulos y en detalle el Capítulo 1 —clasificación de órganos de policía judicial— y el Capítulo 3 —actuaciones de policía judicial en accidentes de tránsito—, sin transcribir los capítulos generales ajenos al objeto del corpus) el Manual de Policía Judicial ya citado y anexado en el Concepto 20251340026531/2025. Se creó `wiki/fuentes/manual-unico-policia-judicial-fiscalia.md`.
+- **Confirma con la fuente primaria completa** el texto ya citado en ese concepto sobre las facultades de las autoridades de tránsito para inspeccionar cadáveres en homicidios/lesiones por accidentes de tránsito, y aporta el marco general de clasificación de órganos de policía judicial (permanente, en lugares sin servidores de policía judicial, y de manera especial —donde se ubican las autoridades de tránsito junto con alcaldes, inspectores de Policía y otras entidades—). Identifica además que el Capítulo 15 (servicios forenses) incluye la "reconstrucción analítica de accidentes de tránsito" como servicio pericial especializado del INMLCF.
+- Se actualizó `wiki/fuentes/concepto-20251340026531-inspectores-policia-funciones-transito.md` (incertidumbre resuelta).
+- Se actualizó `index.md` (fuentes ingeridas 92→93 de 145; pendientes 45→44).
+- Continúo directamente con las 44 fuentes nuevas pendientes restantes, sin pausar entre una y la siguiente.
