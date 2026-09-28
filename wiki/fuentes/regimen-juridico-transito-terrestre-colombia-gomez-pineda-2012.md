@@ -1,0 +1,48 @@
+---
+title: "Régimen Jurídico del Tránsito Terrestre en Colombia — Segunda Edición (Óscar David Gómez Pineda, Corporación Fondo de Prevención Vial, 2012)"
+type: fuente
+tags: [codigo-nacional-transito, ley-769-2002, compilacion-normativa, doctrina, jurisprudencia, fondo-prevencion-vial, obra-de-referencia]
+fuente_pdf: "REGIMEN JURIDICO DE TRANSITO ALTA FINAL (1) version 2012 oscar david gomez pineda.pdf"
+status: ingerido
+last_updated: 2026-09-28
+---
+
+# Régimen Jurídico del Tránsito Terrestre en Colombia — Segunda Edición (Óscar David Gómez Pineda, Corporación Fondo de Prevención Vial, 2012)
+
+**Archivo fuente:** `REGIMEN JURIDICO DE TRANSITO ALTA FINAL (1) version 2012 oscar david gomez pineda.pdf` (520 páginas, texto extraíble vía `pdftotext -layout`, PDF generado en Adobe InDesign, metadatos internos: título "REGIMEN JURIDICO DE TRANSITO.indd", creado el 22 de marzo de 2012). **Ingest estructural**: se leyó íntegramente la presentación institucional, el índice temático completo (que permite reconstruir la estructura completa de la obra), el "Texto del Editor" introductorio sobre evolución constitucional del Código de Tránsito, un artículo comentado completo a modo de muestra del formato (Art. 1°), y las páginas finales; no se transcribió el desarrollo artículo por artículo de los 170 artículos de la Ley 769 de 2002 (cada uno con sus comentarios jurisprudenciales y doctrinales, sección "Texto del Editor"), ni el índice normativo de concordancias (que remite cada artículo del Código a decretos y resoluciones reglamentarias entre 1991 y 2012), dado el volumen y el carácter de obra de consulta/referencia más que de fuente citable en un producto de asesoría puntual.
+
+**Resolución de la incertidumbre marcada en `index.md`**: este archivo **NO es una tesis o monografía académica externa** de autoría individual sin relación institucional, como se especulaba en el índice previo al ingest. Es una **obra editorial institucional**: la segunda edición (febrero de 2012) de "Régimen Jurídico del Tránsito Terrestre en Colombia", publicada por la **Corporación Fondo de Prevención Vial** (entidad predecesora directa de la ANSV, creada por la Ley 1702 de 2013), con Óscar David Gómez Pineda como **editor, compilador y comentador** —no autor único de contenido normativo, sino jurista responsable de la compilación y anotación—. La presentación institucional está firmada por Alexandra Rojas Lopera, entonces Directora Ejecutiva de la Corporación Fondo de Prevención Vial, quien la describe como "herramienta para el fortalecimiento institucional" y como "instrumento para respaldar las acciones de vigilancia y control que ejercen las distintas autoridades a nivel local y nacional". Es, por tanto, una **fuente institucional legítima del corpus** (antecesora directa de la ANSV/DCI), aunque de naturaleza doctrinal/compilatoria y no normativa en sí misma.
+
+## Qué es y por qué es relevante
+
+Es un **código comentado**: reproduce el texto completo y vigente a febrero de 2012 de la Ley 769 de 2002 (Código Nacional de Tránsito Terrestre), artículo por artículo, incorporando las modificaciones introducidas hasta esa fecha (p. ej., por la Ley 1383 de 2010 y el Decreto-Ley 019 de 2012), y acompaña cada artículo de: (i) notas de concordancia con decretos y resoluciones reglamentarias; (ii) extractos de jurisprudencia de la Corte Constitucional aplicable; y (iii) "Texto del Editor" — ensayos doctrinales del compilador sobre el contexto, alcance e interpretación de cada disposición. Es relevante para el corpus como **obra de referencia rápida y de contexto histórico-jurídico** (2002-2012) del régimen de tránsito colombiano, útil para reconstruir el estado del Código antes de las reformas posteriores (Ley 1696/2013 sobre alcoholemia, Ley 2251/2022, Resolución Única Compilatoria 20223040045295/2022, entre otras ya ingeridas en el corpus), y para ubicar rápidamente, mediante su índice normativo de concordancias, la reglamentación vigente en 2012 de cada artículo del Código.
+
+## Estructura de la obra
+
+- **Presentación institucional** (Alexandra Rojas Lopera, Corporación Fondo de Prevención Vial).
+- **"Texto del Editor" introductorio**: "Evolución Constitucional del Código de Tránsito a la Luz de la Jurisprudencia Constitucional Colombiana" — sistematiza la relación entre el Código de Tránsito y los derechos constitucionales al espacio público, al medio ambiente sano y a la libertad de locomoción, citando sentencias de la Corte Constitucional (C-362/1996, C-355/2003, T-031/2002, C-066/1999, entre otras).
+- **Título I — Disposiciones Generales** (Arts. 1-11): principios y ámbito de aplicación, autoridades de tránsito, demarcación y señalización, organismos de tránsito, registros de información (RUNT, SIMIT).
+- **Título II — Régimen Nacional de Tránsito** (Arts. 12-121): centros de enseñanza automovilística, licencia de conducción, vehículos, licencia de tránsito, seguros obligatorios, placas, registro nacional automotor, revisión técnico-mecánica.
+- **Título III — Normas de Comportamiento** (Arts. 55-121): peatones, conducción de vehículos, transporte público, ciclistas y motociclistas, tránsito de otros vehículos y animales, actividades colectivas en vías públicas, protección ambiental, clasificación y uso de vías, límites de velocidad, señales de tránsito, procedimientos de control de tránsito.
+- **Título IV — Sanciones y Procedimientos** (Arts. 122-170): tipos de sanciones, sanciones por incumplimiento, competencia, actuación en caso de comparendo, recursos, procedimiento en caso de daños a cosas, actuación en caso de infracciones penales, actuación en caso de embriaguez, sanciones especiales, ejecución de la sanción, caducidad, aplicación de otros códigos y disposiciones finales.
+- **Apéndice normativo**: texto completo de la Ley 1503 de 2011 (educación vial) y de resoluciones reglamentarias adicionales (p. ej., Resolución sobre Registro Nacional Automotor, Remolques y Maquinaria Agrícola, con vigencia desde el 1° de noviembre de 2009).
+- **Índice normativo de concordancias**: tabla exhaustiva que relaciona, artículo por artículo, cada Ley, Decreto y Resolución citados en la obra (Ley 100/1993, Ley 191/1995, Ley 336/1996, Decreto-Ley 019 de 2012, y decenas de resoluciones reglamentarias del período 1991-2012) con las páginas donde se comentan.
+
+## Contenido relevante (muestra)
+
+El Artículo 1° (Ámbito de Aplicación y Principios, modificado por el Art. 1° de la Ley 1383 de 2010) se presenta con el siguiente formato de anotación, ilustrativo del resto de la obra: texto vigente del artículo, seguido de un bloque de "Jurisprudencia" que cita la Sentencia T-423 de 1993 de la Corte Constitucional sobre la regulación de vías privadas abiertas al uso público. El "Texto del Editor" que antecede al articulado desarrolla el argumento de que el Código de Tránsito es "el límite razonable por excelencia del derecho a la libertad de locomoción", que "restringe la potestad de circular de manera absolutamente libre" pero a la vez "materializa" ese derecho al proveer el marco normativo necesario para el ejercicio ordenado de la circulación.
+
+## Conclusión
+
+Es una obra de referencia jurídica-institucional (no una fuente normativa en sí misma) producida por la entidad predecesora de la ANSV en 2012, de valor para reconstruir el estado histórico del Código Nacional de Tránsito Terrestre y su interpretación jurisprudencial hasta esa fecha, y para ubicar rápidamente la reglamentación vigente en 2012 de cada artículo mediante su índice de concordancias. **Su uso en productos de asesoría de la DCI debe hacerse con la advertencia expresa de que su contenido normativo corresponde al estado del Código a febrero de 2012** —han transcurrido más de 13 años, y el corpus ya documenta numerosas reformas posteriores (Ley 1696/2013 sobre alcoholemia y sustancias psicoactivas, Ley 2251/2022, la Resolución Única Compilatoria 20223040045295/2022, y la reciente Resolución 20263040005765/2026 de reglamento operativo de tránsito, entre otras)— por lo que cualquier cita textual del articulado o de sus comentarios debe verificarse contra la normativa vigente antes de emplearse en un concepto jurídico o técnico actual.
+
+## Conexiones
+
+- [Resolución 20223040045295 de 2022 — Única Compilatoria en materia de Tránsito](resolucion-20223040045295-de-2022-unica-compilatoria-transito.md): compilación normativa posterior (10 años después) que reemplaza en gran medida el estado reglamentario que esta obra documenta para 2012.
+- Cualquier fuente del corpus que cite artículos específicos de la Ley 769 de 2002 puede contrastarse con el estado de esos artículos a 2012 documentado en esta obra, como punto de referencia histórico, nunca como fuente de vigencia actual.
+
+## Incertidumbres
+
+- No se transcribió el desarrollo artículo por artículo de los 170 artículos del Código (cada uno con su bloque de jurisprudencia y "Texto del Editor"), ni el índice normativo de concordancias completo, por el volumen de la obra (520 páginas) y su naturaleza de obra de consulta más que de fuente citable de forma puntual — si se requiere el comentario específico a un artículo determinado para un producto de asesoría, debe releerse directamente esa sección del PDF.
+- No se verifica si Óscar David Gómez Pineda mantiene o mantuvo vínculo contractual o institucional con la ANSV con posterioridad a la Corporación Fondo de Prevención Vial (2012); el corpus no contiene información posterior sobre esta persona.
+- No se determina si existe una edición posterior (tercera o siguiente) de esta obra, dado el amplio lapso transcurrido desde 2012 y la creación de la ANSV en 2013.
