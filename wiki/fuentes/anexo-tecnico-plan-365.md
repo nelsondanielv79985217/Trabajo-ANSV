@@ -66,6 +66,7 @@ El asunto de este anexo (y de la Circular Conjunta 023/2025 que lo acompaña) us
 - [Plan 70D — Sector Transporte](plan-70d-sector-transporte.md): instrumento complementario (no sucesor) de cobertura de fin/inicio de año; comparte metodología ("gráfica de la ballena"), entidades ejecutoras y enfoque de Sistema Seguro.
 - [Circular Conjunta No. 023 de 2025](circular-conjunta-023-2025-plan-365.md): documento matriz de este anexo; usa expresamente "asistencia técnica" (ver nota arriba).
 - [Genealogía normativa de "asistencia técnica"](../conceptos/genealogia-asistencia-tecnica.md): actualizada con la corrección de la lectura inicial.
+- [Forensis 2024 (INMLCF)](forensis-2024-inmlcf-muertes-lesiones-eventos-transporte.md): fuente forense primaria e independiente del ONSV; reporta 8.479 fallecidos 2024 frente a los 8.271 de este anexo — discrepancia de 208 casos, documentada sin resolver en esa página.
 
 ## Incertidumbres
 

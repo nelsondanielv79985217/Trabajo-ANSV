@@ -40,6 +40,7 @@ El [Modelo Nacional de Gestión del Conocimiento en Seguridad Vial (ONSV, V2, 20
 
 - [Ley 1702 de 2013](../fuentes/ley-1702-de-2013-creacion-ansv.md): lo crea como dependencia estatutaria de la ANSV (Art. 10.7).
 - [Manual Metodológico EFSV](../fuentes/manual-metodologico-efsv-onsv.md): fuente primaria metodológica de todas las cifras de siniestralidad del corpus.
+- [Forensis 2024 (INMLCF)](../fuentes/forensis-2024-inmlcf-muertes-lesiones-eventos-transporte.md): fuente forense **anterior en la cadena** al ONSV — el INMLCF produce el dato original (SIRDEC/SICLICO) que el ONSV recibe y procesa; reporta 8.479 fallecidos 2024 frente a los 8.271 ya publicados por el ONSV en el Plan 365, discrepancia de 208 casos no resuelta en el corpus.
 - [Resolución 20263040005765 de 2026 — ROT](../fuentes/resolucion-20263040005765-2026-rot.md) y [Modelo Nacional de Gestión del Conocimiento V2](../fuentes/modelo-nacional-gestion-conocimiento-onsv-v2.md): rol de nodo central/Secretaría Técnica de la Red de Observatorios Territoriales.
 - [PNSV 2022-2031](../fuentes/pnsv-2022-2031-documento-tecnico-soporte.md) y [Segundo Informe de Seguimiento al PNSV](../fuentes/informe-seguimiento-pnsv-2024-segundo-informe.md): área de acción de Gestión de Conocimiento, avance de sus acciones.
 - Numerosos productos de difusión estadística ya ingeridos (La Gráfica de la Ballena, Situación del SOAT 2024, Informe Anual al Congreso, Metadatos EFSV 2021-2026, Anexo Técnico Circular Conjunta 058/2024) — todos productos del ONSV.
