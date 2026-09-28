@@ -2,7 +2,7 @@
 
 Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos de trabajo (INGEST/QUERY/LINT).
 
-**Estado general (2026-09-28):** La wiki se migró de la rama `Contractual-OPS` a la rama `main` (ver `log.md`, entrada de migración) — desde ahora todo el trabajo continúa en `main`. **75 fuentes ingeridas** (las 45 migradas de `Contractual-OPS`, con categorías originales completas, más 30 de las 100 fuentes nuevas) — de las 45 originales, 2 páginas (Concepto de Estabilidad Ocupacional Reforzada y su Solicitud DIV) referencian un `fuente_pdf` que no está presente en `main` (ver incertidumbre en `log.md`). **62 fuentes nuevas pendientes de ingest**, cargadas directamente por el usuario en `main` y relevadas por nombre de archivo en las secciones nuevas más abajo. Total del corpus: 145 fuentes. 3 entidades y 5 conceptos creados hasta ahora. *Nota (2026-09-25, heredada de `Contractual-OPS`): la wiki no se construye como insumo de tesis, sino como base de conocimiento para agentes de asesoría del usuario en la DCI/ANSV.* *Nota: el usuario pidió continuar el INGEST sin pausar a pedir autorización entre cada fuente — se mantiene para las fuentes nuevas.*
+**Estado general (2026-09-28):** La wiki se migró de la rama `Contractual-OPS` a la rama `main` (ver `log.md`, entrada de migración) — desde ahora todo el trabajo continúa en `main`. **80 fuentes ingeridas** (las 45 migradas de `Contractual-OPS`, con categorías originales completas, más 35 de las 100 fuentes nuevas) — de las 45 originales, 2 páginas (Concepto de Estabilidad Ocupacional Reforzada y su Solicitud DIV) referencian un `fuente_pdf` que no está presente en `main` (ver incertidumbre en `log.md`). **57 fuentes nuevas pendientes de ingest**, cargadas directamente por el usuario en `main` y relevadas por nombre de archivo en las secciones nuevas más abajo. Total del corpus: 145 fuentes. 3 entidades y 5 conceptos creados hasta ahora. *Nota (2026-09-25, heredada de `Contractual-OPS`): la wiki no se construye como insumo de tesis, sino como base de conocimiento para agentes de asesoría del usuario en la DCI/ANSV.* *Nota: el usuario pidió continuar el INGEST sin pausar a pedir autorización entre cada fuente — se mantiene para las fuentes nuevas.*
 
 ## Fuentes (`fuentes/`)
 
@@ -118,11 +118,11 @@ Bloque más numeroso de la carga nueva: conceptos jurídicos, circulares y resol
 - [Concepto Mintransporte 20251340953491 de 2025 — Responsabilidad del propietario del vehículo (foto-detección)](fuentes/concepto-20251340953491-responsabilidad-propietario-vehiculo.md) — sistematiza la Sentencia C-321/2022: obligaciones de resultado (vehículo bajo custodia) vs. de medio (vehículo prestado) del propietario. (ingerido)
 - 2025400000037 circula zonas diferenciales para la pres ser públi instrucción ejercicio de control.pdf — (pendiente-ingest)
 - zonaas diferenciales.pdf — (pendiente-ingest; posible material de apoyo del anterior)
-- 20254000000377 DEL 17-07-2025 INST EMP TRAN PUBL ESCO USO CINTURON DE TRES PUNTOS SEGURIDAD NIÑOS.pdf — (pendiente-ingest)
-- 20254000000387 BAHIAS DE ASCENSO Y DESCENSO DE PASAJEROS LINEAMIENTOS A LAS AUT SEGURIDAD VIAL.pdf — (pendiente-ingest)
-- 20254000000567 CIRCULAR INSTRUCCION AGENTES DE TRÁNSITO Y DITRA VEH DE CARGA PROCESO.pdf — (pendiente-ingest)
-- 20254000000627 de 24-09-2025 ordena la inmoviliz vehiculos con traspaso a persona indeterminada.pdf — (pendiente-ingest)
-- FACULTADES AGENTES DE TRANSITO MT 20231340406361 -2023.pdf — (pendiente-ingest)
+- [Circular Externa 20254000000377 de 2025 — Cinturón de tres puntos en transporte escolar](fuentes/circular-externa-20254000000377-cinturon-tres-puntos-escolar.md) — aplica la Ley 2393/2024; principio de responsabilidad *in vigilando*. (ingerido)
+- [Circular Externa 20254000000387 de 2025 — Bahías de ascenso y descenso](fuentes/circular-externa-20254000000387-bahias-ascenso-descenso.md) — pruebas de alcoholimetría obligatorias en toda infraestructura de despacho, no solo terminales habilitadas. (ingerido)
+- [Circular Externa 20254000000567 de 2025 — Vehículos especiales de carga](fuentes/circular-externa-20254000000567-vehiculos-especiales-carga.md) — ámbito de aplicación de la Resolución 5967/2009 frente a la 4100/2004. (ingerido)
+- [Circular Externa 20254000000627 de 2025 — Traspaso a persona indeterminada](fuentes/circular-externa-20254000000627-traspaso-persona-indeterminada.md) — cifra oficial: 722.698 vehículos en situación irregular por más de 3 años. (ingerido)
+- [Concepto Mintransporte 20231340406361 de 2023 — Facultades de agentes de tránsito](fuentes/concepto-20231340406361-facultades-agentes-transito.md) — no exigibilidad de colegiatura profesional (COPNIA/CPTIVC); texto verbatim de los Arts. 3°, 6° y 7° de la Ley 1310/2009. (ingerido)
 - GUÍA PARA EL REGISTRO DE ENTIDADES COMO ORGANISMOS DE APOYO.pdf — (pendiente-ingest)
 - ANEXO 1 A LA GUIA PARA EL REPORTE.pdf — (pendiente-ingest; posible anexo del anterior — verificar)
 - RESOLUCION ORGANISMOS DE APOYO AL TRANSITO 21-08-2020.pdf — (pendiente-ingest)

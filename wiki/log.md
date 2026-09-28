@@ -518,3 +518,13 @@ Registro cronológico, append-only. No editar entradas pasadas — solo agregar 
 - Se actualizó `wiki/fuentes/ley-2294-de-2023-plan-nacional-desarrollo.md` con dos conexiones nuevas (Arts. 206 y 353, no cubiertos en el ingest original).
 - Se actualizó `index.md` (fuentes ingeridas 70→75 de 145; pendientes 67→62).
 - Continúo directamente con las 62 fuentes nuevas pendientes restantes, sin pausar entre una y la siguiente.
+
+## [2026-09-28] ingest | 5 circulares/concepto más: cinturón escolar, bahías de despacho, vehículos de carga especial, traspaso a persona indeterminada, facultades de agentes
+
+- **Circular Externa 20254000000377/2025** (4 páginas, imagen) — cinturón de tres puntos en transporte escolar: aplica la **Ley 2393 de 2024** (cita nueva), con plazos de adaptación 2025/2026 según zona urbana/rural. `wiki/fuentes/circular-externa-20254000000377-cinturon-tres-puntos-escolar.md`.
+- **Circular Externa 20254000000387/2025** (7 páginas, imagen) — bahías de ascenso/descenso de pasajeros: fija que las pruebas de alcoholimetría (Resoluciones 4222/2002, 2734/2018, 14306/2024) son obligatorias en toda infraestructura de despacho, no solo en terminales habilitadas; desarrolla el balance autonomía territorial vs. coordinación/subsidiariedad. `wiki/fuentes/circular-externa-20254000000387-bahias-ascenso-descenso.md`.
+- **Circular Externa 20254000000567/2025** (3 páginas, imagen) — ámbito de aplicación de la Resolución 5967/2009 (vehículos especiales de carga) frente a la Resolución 4100/2004, dirigida a agentes de tránsito y DITRA. `wiki/fuentes/circular-externa-20254000000567-vehiculos-especiales-carga.md`.
+- **Circular Externa 20254000000627/2025** (4 páginas, imagen) — vehículos con traspaso a persona indeterminada que superaron el plazo de 3 años: **cifra oficial — 722.698 vehículos en situación irregular**, de 762.880 traspasos históricos desde 2008; ordena suspensión de registro e inmovilización. `wiki/fuentes/circular-externa-20254000000627-traspaso-persona-indeterminada.md`.
+- **Concepto Mintransporte 20231340406361/2023** (7 páginas, texto extraíble) — facultades de agentes de tránsito: confirma que no es exigible la inscripción ante el COPNIA ni el CPTIVC; aporta texto verbatim de los Arts. 3°, 6° y 7° de la Ley 1310/2009 (profesionalismo, jerarquía, requisitos de ingreso), completando la Resolución 4548/2013 ya ingerida. `wiki/fuentes/concepto-20231340406361-facultades-agentes-transito.md`.
+- Se actualizó `index.md` (fuentes ingeridas 75→80 de 145; pendientes 62→57).
+- Continúo directamente con las 57 fuentes nuevas pendientes restantes, sin pausar entre una y la siguiente.
