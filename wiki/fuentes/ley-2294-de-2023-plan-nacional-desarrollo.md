@@ -33,6 +33,7 @@ Ley del Plan Nacional de Desarrollo del cuatrienio 2022-2026, que en sus Arts. 1
 - [ANSV — Agencia Nacional de Seguridad Vial](../entidades/ansv-agencia-nacional-seguridad-vial.md): se actualiza con la ampliación de mandato (modos férreo y fluvial) y la obligación de estrategia de campañas (Art. 178) y de definición de tecnologías de control (Art. 180).
 - [Ley 336 de 1996 — Estatuto Nacional de Transporte](ley-336-de-1996-estatuto-nacional-transporte.md): la publicación EVA-Gestor Normativo de esa ley anota modificaciones adicionales por esta Ley 2294/2023 (Art. 177 en genérico) — verificado aquí que el Art. 177 modifica específicamente la Ley 1702/2013, no la Ley 336/1996 directamente.
 - [Ley 769 de 2002 — Código Nacional de Tránsito](ley-769-de-2002-codigo-nacional-transito.md): el Art. 179 de esta ley modifica el Art. 52 del Código (primera revisión técnico-mecánica) — pendiente verificar si la página de esa fuente ya registra esta modificación o si debe actualizarse.
+- [Circular Externa 20244000000877 de 2024](circular-externa-20244000000877-control-tecnomecanica-soat.md): implementa el Art. 180 de esta ley (instrucción directa a la ANSV) y aporta cifras oficiales de evasión de revisión técnico-mecánica (57%) y SOAT (48%) a septiembre de 2024.
 
 ## Incertidumbres
 

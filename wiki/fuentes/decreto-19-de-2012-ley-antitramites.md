@@ -30,9 +30,12 @@ Es el decreto ley "antitrámites" original (2012), predecesor directo del Decret
 - **Art. 198** (modifica el Art. 23 — Renovación): trámite máximo de 24 horas ante cualquier organismo de tránsito o entidad autorizada; no se renueva/recategoriza mientras subsista sanción vigente o no haya paz y salvo de multas (con reglas de paz y salvo: sanción cumplida, prescripción de 3 años sin mandamiento de pago, o convenio de pago al día).
 - **Art. 199**: adiciona un segundo inciso al Art. 39 (matrículas y traslados de cuenta) — no se transcribió en detalle.
 
+**Art. 206** (modifica el Art. 159 de la Ley 769/2002 — cumplimiento y prescripción de sanciones de tránsito, 3 años): confirmado y desarrollado en detalle en los [Conceptos sobre prescripción en materia de tránsito](conceptos-prescripcion-materia-transito.md), ya ingeridos.
+
 ## Conexiones
 
 - [Decreto 2106 de 2019 — Simplificación de trámites](decreto-2106-de-2019-simplificacion-tramites.md): decreto sucesor bajo la misma lógica de racionalización; ambos modifican directamente la Ley 769/2002.
+- [Conceptos sobre prescripción en materia de tránsito (2021 y 2025)](conceptos-prescripcion-materia-transito.md): desarrollan en detalle el Art. 206 de este decreto (modificatorio del Art. 159 CNT sobre prescripción de sanciones de tránsito).
 - [Ley 769 de 2002 — Código Nacional de Tránsito](ley-769-de-2002-codigo-nacional-transito.md): se recomienda verificar si su página de fuente ya registra estas modificaciones de los Arts. 18, 19, 22, 23 y 39 introducidas por este decreto (no verificado en este ingest).
 - Categoría pendiente "SOAT, aseguramiento y atención a víctimas" del corpus (`Situación del SOAT 2024.pdf`, `20254000000597 LINEAMIENTOS ASEGURAMIENTO...`): este decreto es la base normativa del régimen de atención a víctimas sin SOAT o con vehículo no identificado, tema central de esa categoría pendiente.
 
