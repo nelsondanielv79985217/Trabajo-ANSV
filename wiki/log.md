@@ -556,3 +556,11 @@ Registro cronológico, append-only. No editar entradas pasadas — solo agregar 
 - Se actualizaron `wiki/conceptos/genealogia-asistencia-tecnica.md` (sexto eslabón) y `wiki/fuentes/ansv-pr-06-procedimiento-asistencia-tecnica.md` (referencia cruzada al Anexo 1 de reporte, con nota explícita de que es un "Anexo 1" distinto del ya documentado).
 - Se actualizó `index.md` (fuentes ingeridas 86→91 de 145; pendientes 51→46).
 - Continúo directamente con las 46 fuentes nuevas pendientes restantes, sin pausar entre una y la siguiente.
+
+## [2026-09-28] ingest | Resolución 20203040011355 de 2020 — Registro de Organismos de Apoyo al Tránsito
+
+- Se ingirió de forma estructural (45 páginas, texto extraíble vía `pdftotext -layout`; se leyó la estructura completa de los 54 artículos, con detalle en los Arts. 20-24 sobre CIA) la norma base del registro RUNT de los Organismos de Apoyo al Tránsito, citada indirectamente en 3 fuentes ya ingeridas. Se creó `wiki/fuentes/resolucion-20203040011355-de-2020-registro-organismos-apoyo.md`.
+- Confirma que reemplazó el antiguo régimen de habilitación de CIA (Resoluciones 3204/4230 de 2010, anuladas por el Consejo de Estado en 2019) por el esquema de registro RUNT vigente, y que sus considerandos explican la cadena completa de modificaciones normativas: Decreto 19/2012 → Decreto Ley 2106/2019 (Arts. 111, 118, 119, modificando los Arts. 53, 136 y 19 de la Ley 769/2002) → esta resolución de 2020.
+- Se actualizó `wiki/fuentes/decreto-2106-de-2019-simplificacion-tramites.md` con los Arts. 118 y 119 (no cubiertos en su ingest estructural original).
+- Se actualizó `index.md` (fuentes ingeridas 91→92 de 145; pendientes 46→45).
+- Continúo directamente con las 45 fuentes nuevas pendientes restantes, sin pausar entre una y la siguiente.

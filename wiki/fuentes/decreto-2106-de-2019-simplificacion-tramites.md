@@ -34,6 +34,7 @@ Decreto ley de simplificación de trámites que **resuelve una incertidumbre ya 
 - [PNSV 2022-2031 — Documento técnico de soporte](pnsv-2022-2031-documento-tecnico-soporte.md): fuente que citaba este Art. 110 de forma indirecta (p. 124), ahora confirmada con el texto primario.
 - [Circular Externa 20244000000157 de 2024 — Videos como prueba de infracciones](circular-externa-157-2024-videos-infracciones.md) y demás fuentes sobre fotodetección: el Art. 109 de este decreto es la base normativa de la competencia conjunta Mintransporte–ANSV para autorizar sistemas automáticos/semiautomáticos de detección de infracciones — cita nueva para el corpus, no registrada antes en las fuentes sobre fotodetección ya ingeridas.
 - [ANSV — Agencia Nacional de Seguridad Vial](../entidades/ansv-agencia-nacional-seguridad-vial.md): se actualiza con la función de autorización conjunta (con Mintransporte) de sistemas de fotodetección (Art. 109).
+- [Resolución 20203040011355 de 2020 — Registro de Organismos de Apoyo al Tránsito](resolucion-20203040011355-de-2020-registro-organismos-apoyo.md): confirma que este decreto también modificó, con los Arts. 118 y 119 (no revisados en el ingest estructural original de este decreto), los Arts. 136 y 19 de la Ley 769/2002, respectivamente — datos que completan el alcance de este decreto sobre licencias de conducción y procedimiento de comparendo.
 
 ## Incertidumbres
 
