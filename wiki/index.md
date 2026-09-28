@@ -248,4 +248,4 @@ Otras candidatas visibles solo por nombre de archivo (a confirmar durante el ing
 
 ## Síntesis (`sintesis/`)
 
-Ninguna todavía — se crean cuando una respuesta de QUERY o un borrador de capítulo de tesis vale la pena conservar.
+- [Mapa de incertidumbres `[INCIERTO]` pendientes en la wiki (corte 2026-09-28)](sintesis/mapa-incertidumbres-pendientes-2026-09-28.md) — Respuesta de QUERY guardada: organiza los ~70 marcadores `[INCIERTO]` del corpus en 6 categorías por accionabilidad (requieren confirmación del usuario; requieren un documento no cargado; vacíos de cronología sin cierre posible; contenido deliberadamente no transcrito en documentos largos; anomalías de la fuente primaria ya señaladas; fechas no verificables). Verificado directamente contra el corpus completo y, en el caso de los Productos 2/3/4, contra los PDF crudos — ninguno resultó mal marcado.
