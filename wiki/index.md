@@ -2,7 +2,7 @@
 
 Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos de trabajo (INGEST/QUERY/LINT).
 
-**Estado general (2026-09-28):** La wiki se migró de la rama `Contractual-OPS` a la rama `main` (ver `log.md`, entrada de migración) — desde ahora todo el trabajo continúa en `main`. **55 fuentes ingeridas** (las 45 migradas de `Contractual-OPS`, con categorías originales completas, más 10 de las 100 fuentes nuevas: la Circular 20234000000677/Ley 2197-2022, la Ley 336/1996, la Ley 2294/2023, el Decreto 2106/2019, la Resolución 20263040005765/2026 —ROT—, la Resolución 20223040045295/2022 —Única Compilatoria de Tránsito—, el Concepto 20241340750291/2024 y la Circular 20244000000407/2024) — de las 45 originales, 2 páginas (Concepto de Estabilidad Ocupacional Reforzada y su Solicitud DIV) referencian un `fuente_pdf` que no está presente en `main` (ver incertidumbre en `log.md`). **83 fuentes nuevas pendientes de ingest**, cargadas directamente por el usuario en `main` y relevadas por nombre de archivo en las secciones nuevas más abajo. Total del corpus: 145 fuentes. 3 entidades y 5 conceptos creados hasta ahora. *Nota (2026-09-25, heredada de `Contractual-OPS`): la wiki no se construye como insumo de tesis, sino como base de conocimiento para agentes de asesoría del usuario en la DCI/ANSV.* *Nota: el usuario pidió continuar el INGEST sin pausar a pedir autorización entre cada fuente — se mantiene para las fuentes nuevas.*
+**Estado general (2026-09-28):** La wiki se migró de la rama `Contractual-OPS` a la rama `main` (ver `log.md`, entrada de migración) — desde ahora todo el trabajo continúa en `main`. **59 fuentes ingeridas** (las 45 migradas de `Contractual-OPS`, con categorías originales completas, más 14 de las 100 fuentes nuevas — ver categoría "Marco normativo adicional", ya completa 7/7, y las demás en las secciones siguientes) — de las 45 originales, 2 páginas (Concepto de Estabilidad Ocupacional Reforzada y su Solicitud DIV) referencian un `fuente_pdf` que no está presente en `main` (ver incertidumbre en `log.md`). **79 fuentes nuevas pendientes de ingest**, cargadas directamente por el usuario en `main` y relevadas por nombre de archivo en las secciones nuevas más abajo. Total del corpus: 145 fuentes. 3 entidades y 5 conceptos creados hasta ahora. *Nota (2026-09-25, heredada de `Contractual-OPS`): la wiki no se construye como insumo de tesis, sino como base de conocimiento para agentes de asesoría del usuario en la DCI/ANSV.* *Nota: el usuario pidió continuar el INGEST sin pausar a pedir autorización entre cada fuente — se mantiene para las fuentes nuevas.*
 
 ## Fuentes (`fuentes/`)
 
@@ -175,14 +175,14 @@ Bloque más numeroso de la carga nueva: conceptos jurídicos, circulares y resol
 
 - Guia_de_Seguimiento_al_Plan_de_Movilidad_Escolar_para_Entidades_de_Gobiernos_Locales.pdf — (pendiente-ingest)
 
-### Marco normativo adicional — leyes y decretos (7 catalogados; 3 ingeridos, 4 pendientes)
+### Marco normativo adicional — leyes y decretos (7 catalogados — completo, 7/7 ingeridos)
 
-- Ley 105 de 1993 - Gestor Normativo - Función Pública.pdf — (pendiente-ingest)
-- Ley 1242 de 2008 - Gestor Normativo - Función Pública.pdf — (pendiente-ingest)
+- [Ley 105 de 1993 — Disposiciones básicas sobre transporte](fuentes/ley-105-de-1993-estatuto-basico-transporte.md) — completa con texto primario las citas ya registradas (Art. 2° lit. b y e; Art. 3°) en la Resolución 10110/2023 (PECCIT) y la Resolución ROT 2026. (ingerido)
+- [Ley 1242 de 2008 — Código Nacional de Navegación y Actividades Portuarias Fluviales](fuentes/ley-1242-de-2008-codigo-navegacion-fluvial.md) — marco sectorial fluvial preexistente a la ampliación de mandato de la ANSV a ese modo (Ley 2294/2023, Art. 177). Ingest estructural (21 páginas). (ingerido)
 - [Ley 336 de 1996 — Estatuto Nacional de Transporte](fuentes/ley-336-de-1996-estatuto-nacional-transporte.md) — completa con texto primario las citas ya registradas (Art. 46 lit. c, sanciones; Arts. 40-42, CONSET) en `fuentes/oficio-20254000114441-supertransporte-plan-365.md` y otras. (ingerido)
 - [Ley 2294 de 2023 — PND 2022-2026, artículos sobre seguridad vial y ANSV](fuentes/ley-2294-de-2023-plan-nacional-desarrollo.md) — Arts. 174-180: amplía el mandato de la ANSV a los modos férreo y fluvial (Art. 177), ordena estrategia de campañas (Art. 178) y tecnologías de control (Art. 180). Ley ómnibus de 159 páginas; solo se revisó el capítulo de transporte. (ingerido)
-- Decreto_1147_1971 categorias OT.pdf — (pendiente-ingest)
-- Decreto_19_de_2012.pdf — (pendiente-ingest)
+- [Decreto 1147 de 1971 — Reglamentación del Código Nacional de Tránsito, categorías de OT](fuentes/decreto-1147-de-1971-categorias-organismos-transito.md) — norma histórica más antigua del corpus (1971); antecedente directo de la categorización de Organismos de Tránsito por clases. (ingerido)
+- [Decreto 19 de 2012 — Ley Antitrámites, SOAT y licencias de conducción](fuentes/decreto-19-de-2012-ley-antitramites.md) — Arts. 112-114 (indemnizaciones por accidentes con vehículos sin SOAT o no identificados) y 195-199 (modifican la Ley 769/2002 en licencias de conducción). Decreto ómnibus de 62 páginas; ingest estructural. (ingerido)
 - [Decreto 2106 de 2019 — Simplificación de trámites, artículos de transporte](fuentes/decreto-2106-de-2019-simplificacion-tramites.md) — resuelve la incertidumbre ya registrada en `wiki/conceptos/plan-estrategico-seguridad-vial-pesv.md`: confirma con texto primario el Art. 110 (elimina el aval del PESV) y aporta el Art. 109 (autorización conjunta Mintransporte-ANSV de sistemas de fotodetección). Decreto de 49 páginas; solo se revisaron los Arts. 108-111. (ingerido)
 
 ### Contratación — Colombia Compra Eficiente (1, pendiente)
