@@ -3,7 +3,7 @@ title: "Organismos y autoridades de tránsito"
 type: concepto
 tags: [organismos-transito, autoridades-transito, codigo-nacional-transito, dci, territorial]
 status: ingerido
-last_updated: 2026-09-28
+last_updated: 2026-09-29
 ---
 
 # Organismos y autoridades de tránsito
