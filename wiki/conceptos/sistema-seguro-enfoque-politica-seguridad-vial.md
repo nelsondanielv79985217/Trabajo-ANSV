@@ -46,6 +46,7 @@ El [Manual de Control de Velocidad (GRSP/OMS/Banco Mundial/FIA Foundation, 2008)
 - [PNSV 2022-2031](../fuentes/pnsv-2022-2031-documento-tecnico-soporte.md): fuente primaria completa; desarrolla las ocho áreas de acción, la acción de Gobernanza sobre asistencia técnica, y los indicadores oficiales con metas a 2031.
 - [Resolución 583 de 2023](../fuentes/resolucion-583-de-2023-armonizacion-plsv-pnsv.md) y [Resolución 007 de 2023](../fuentes/resolucion-007-de-2023-mesas-articulacion-interinstitucional.md): ambas citan el PNSV de forma indirecta; sus citas quedan confirmadas contra el texto primario.
 - [Manual de Control de Velocidad (GRSP/OMS/Banco Mundial/FIA Foundation, 2008)](../fuentes/manual-control-velocidad-grsp-oms-2008.md): fuente internacional del origen conceptual del enfoque (Visión Cero-Suecia, Seguridad Sustentable-Países Bajos, Sistema Seguro-Australia) — ver sección arriba.
+- [Cartilla de lineamientos de seguridad vial para instrumentos de planificación territorial (ANSV)](../fuentes/cartilla-lineamientos-seguridad-vial-instrumentos-planificacion-territorial.md): aplica el enfoque Sistema Seguro y las 8 áreas de acción del PNSV al nivel territorial (POT/PDT/PM/PEMP); no aporta contenido normativo nuevo sobre las áreas (tablas de acciones no recuperables por OCR), pero confirma la centralidad de esa estructura como eje organizador incluso en materiales de divulgación territorial.
 
 ## Incertidumbres
 
