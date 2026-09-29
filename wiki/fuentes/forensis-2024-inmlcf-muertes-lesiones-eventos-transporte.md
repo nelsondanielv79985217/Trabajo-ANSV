@@ -4,7 +4,7 @@ type: fuente
 tags: [forensis, inmlcf, medicina-legal, siniestralidad-vial, sirdec, siclico, cifras-oficiales, fuente-forense-primaria]
 fuente_pdf: "Forensis_2024.pdf"
 status: ingerido
-last_updated: 2026-09-28
+last_updated: 2026-09-29
 ---
 
 # Forensis 2024 — Datos para la Vida (INMLCF), capítulo "Comportamiento de las muertes y lesiones en eventos de transporte, Colombia 2024"
@@ -93,6 +93,7 @@ El Forensis 2024 es la fuente forense primaria y autónoma (INMLCF, sin concilia
 
 ## Conexiones
 
+- [INMLCF — Instituto Nacional de Medicina Legal y Ciencias Forenses](../entidades/inmlcf-instituto-nacional-medicina-legal-ciencias-forenses.md): página de entidad del INMLCF (creada 2026-09-29), que resume su naturaleza institucional, su rol forense/judicial más allá de esta fuente estadística, y la discrepancia de 208 casos documentada abajo.
 - [Manual Metodológico EFSV (ONSV, 2021)](manual-metodologico-efsv-onsv.md): describe cómo el ONSV recibe y procesa los datos del INMLCF/SIRDEC — este documento es la fuente primaria de ese flujo, ahora incorporada directamente al corpus.
 - [Anexo Técnico Plan 365](anexo-tecnico-plan-365.md) y [Circular Conjunta 023/2025](circular-conjunta-023-2025-plan-365.md): reportan 8.271 fallecidos 2024 (ONSV) frente a los 8.479 de este informe (INMLCF) — discrepancia documentada arriba, no resuelta.
 - [Segundo Informe de Seguimiento al PNSV](informe-seguimiento-pnsv-2024-segundo-informe.md): ya documentaba el subregistro del estándar de mortalidad "a 30 días" del ONSV frente a otros métodos de conteo — posible explicación de la discrepancia numérica señalada arriba.

@@ -4,7 +4,7 @@ type: fuente
 tags: [onsv, observatorio, estadisticas, metodologia, cooperacion-internacional, bloomberg, vital-strategies, siniestralidad]
 fuente_pdf: "manual-metodologico operacion estadistica FPSV.pdf"
 status: ingerido
-last_updated: 2026-09-28
+last_updated: 2026-09-29
 ---
 
 # Manual Metodológico de la Operación Estadística de Estadísticas de Fallecidos por Siniestros Viales (EFSV)
@@ -47,6 +47,7 @@ OMS, OPS, ITF (Foro Internacional de Transporte, integrado a la OCDE), FIA, PIAR
 - [Ley 1702 de 2013](ley-1702-de-2013-creacion-ansv.md): confirma la cita del Art. 18 (acceso gratuito a registros públicos).
 - [PNSV 2022-2031](pnsv-2022-2031-documento-tecnico-soporte.md) y [Plan 70D](plan-70d-sector-transporte.md): ambas fuentes citan cifras de siniestralidad del ONSV — este manual es la fuente metodológica de esos datos.
 - [Forensis 2024 (INMLCF)](forensis-2024-inmlcf-muertes-lesiones-eventos-transporte.md): la fuente forense primaria descrita metodológicamente por este manual (INMLCF/SIRDEC/SICLICO) ya está incorporada directamente al corpus; aporta la descripción del INMLCF de su propia metodología (definición de caso, criterios de exclusión, aspectos éticos), complementando este manual desde el lado de quien produce el dato original.
+- [INMLCF — Instituto Nacional de Medicina Legal y Ciencias Forenses](../entidades/inmlcf-instituto-nacional-medicina-legal-ciencias-forenses.md): página de entidad creada 2026-09-29; este manual es la fuente que describe con más detalle el flujo de datos INMLCF→ONSV y la Mesa Técnica Nacional Asesora.
 
 ## Incertidumbres
 
