@@ -3,7 +3,7 @@ title: "Genealogía normativa de 'asistencia técnica'"
 type: concepto
 tags: [asistencia-tecnica, genealogia, dci, ansv, codigo-nacional-transito, mineducacion]
 status: ingerido
-last_updated: 2026-09-28
+last_updated: 2026-09-30
 ---
 
 # Genealogía normativa de "asistencia técnica"
@@ -56,6 +56,10 @@ La [Resolución 20253040051975 de 2025 — Zona Diferencial de Transporte Escola
 ## Nota (2026-09-28, tras ingerir la Presentación 1ª sesión AT-OT)
 
 La [Presentación — 1ª sesión AT-OT funciones y competencias](../fuentes/presentacion-sesion1-at-ot-funciones-competencias.md) (Presidencia/Mintransporte, 2021) define la finalidad de las autoridades de tránsito incluyendo "la prevención y la **asistencia técnica y humana a los usuarios de las vías**" — un uso más del término, con un sujeto pasivo enteramente distinto de los ya documentados: no una entidad territorial, ni un organismo de tránsito, ni una IES, sino los **usuarios de la vía** (personas naturales). No se numera como eslabón nuevo por tratarse de una mención genérica de finalidad institucional, sin desarrollo propio, pero se deja registrado por ampliar aún más el espectro de sujetos pasivos del término en el corpus.
+
+## Nota (2026-09-30, tras ingerir la Ley 2635 de 2026)
+
+La [Ley 2635 de 2026 — Protección de ciclistas y peatones](../fuentes/ley-2635-de-2026-proteccion-ciclistas-peatones.md), Art. 3°, dispone textualmente: "El Ministerio de Transporte y la ANSV brindarán asistencia técnica a las entidades territoriales y propiciarán la armonización de lo dispuesto en este artículo, conforme con las políticas públicas territoriales vigentes sobre bicicleta y peatón, respetando la autonomía territorial." Es un eslabón con dos rasgos nuevos frente a los ya documentados: (1) el sujeto activo es el **Mintransporte y la ANSV conjuntamente** (no la DCI en solitario, ni la ANSV sola como en el resto del corpus), y (2) el objeto material es, por primera vez, la seguridad de **ciclistas y peatones** específicamente, no el Sistema Seguro en general ni un sujeto territorial genérico. Por sancionarse apenas 8 días antes de este ingest, es la norma más reciente de todo el corpus que usa el término.
 
 ## Incertidumbres
 

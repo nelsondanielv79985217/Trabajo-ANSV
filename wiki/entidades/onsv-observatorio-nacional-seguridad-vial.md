@@ -3,7 +3,7 @@ title: "ONSV — Observatorio Nacional de Seguridad Vial"
 type: entidad
 tags: [onsv, ansv, observatorio, estadisticas, rot, gestion-del-conocimiento, dependencia-estatutaria]
 status: ingerido
-last_updated: 2026-09-28
+last_updated: 2026-09-30
 ---
 
 # ONSV — Observatorio Nacional de Seguridad Vial
@@ -34,6 +34,8 @@ El [Modelo Nacional de Gestión del Conocimiento en Seguridad Vial (ONSV, V2, 20
 
 **Hallazgo de cruce, relevante para el trabajo de asesoría**: el mismo nombre —**Rubiel Zuleta Carmona**— figura en la [Circular Conjunta 058 de 2024](../fuentes/circular-conjunta-058-2024-plan-70d-control-vigilancia.md) (octubre de 2024) como **"Contratista/Profesional Especializado de la DCI"**, junto con Andrés Alfonso González, Tania Marcela Suárez y Nelson Vega. Si se trata de la misma persona (coincidencia de nombre y apellido compuestos, sin segundo apellido "de Jesús" confirmado en la circular de 2024), esto documentaría una transición de personal de la DCI a la Dirección del ONSV en un lapso de menos de un año (octubre 2024 → septiembre 2025) — dato relevante para trazar la circulación de personal técnico entre dependencias de la ANSV que trabajan asistencia técnica territorial. **No se puede confirmar con este corpus si es la misma persona** — ninguna fuente cruza explícitamente ambos cargos.
 
+**Evidencia adicional, tampoco concluyente (2026-09-30)**: el documento [Documentando el Plan 70D — Informe de resultados y Plan Navidad 2024](../fuentes/documentando-plan-70d-plan-navidad-2024-2025.md) (22 de enero de 2025) lista como coautor a **"Rubiel de Jesús Zuleta Carmona"** — con el nombre completo, incluido "de Jesús" — en una fecha intermedia entre la circular de la DCI (octubre 2024) y su confirmación como Director del ONSV (septiembre 2025). El documento no indica desde qué dependencia firmaba. Se registra como un dato más a favor de la hipótesis de que es la misma persona, sin que constituya una confirmación.
+
 - Personal técnico adicional confirmado en producción documental del ONSV (2021-2025): Sergio D. Martínez M., Carlos A. Hernández L. (Manual EFSV, 2021); Sebastián Arias Muriel, Leonardo Alexis Calvo García, José David Pulido Stubbs, Óscar Eduardo Sosa, Óscar Ismael Sánchez, John Reina Carrillo (Modelo Nacional de Gestión del Conocimiento V2, 2025); Angie Valentina Castiblanco Sabogal, Nubia Esmeralda Herrera Velosa (Segundo Informe PNSV, 2025).
 
 ## Presencia en el corpus
@@ -44,6 +46,7 @@ El [Modelo Nacional de Gestión del Conocimiento en Seguridad Vial (ONSV, V2, 20
 - [Resolución 20263040005765 de 2026 — ROT](../fuentes/resolucion-20263040005765-2026-rot.md) y [Modelo Nacional de Gestión del Conocimiento V2](../fuentes/modelo-nacional-gestion-conocimiento-onsv-v2.md): rol de nodo central/Secretaría Técnica de la Red de Observatorios Territoriales.
 - [PNSV 2022-2031](../fuentes/pnsv-2022-2031-documento-tecnico-soporte.md) y [Segundo Informe de Seguimiento al PNSV](../fuentes/informe-seguimiento-pnsv-2024-segundo-informe.md): área de acción de Gestión de Conocimiento, avance de sus acciones.
 - Numerosos productos de difusión estadística ya ingeridos (La Gráfica de la Ballena, Situación del SOAT 2024, Informe Anual al Congreso, Metadatos EFSV 2021-2026, Anexo Técnico Circular Conjunta 058/2024) — todos productos del ONSV.
+- [Ley 2635 de 2026](../fuentes/ley-2635-de-2026-proteccion-ciclistas-peatones.md): norma más reciente del corpus; asigna al ONSV el seguimiento de la nueva línea de acción de seguridad vial de ciclistas/peatones (Art. 3°).
 
 ## Incertidumbres
 

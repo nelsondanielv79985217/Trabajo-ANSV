@@ -4,7 +4,7 @@ type: fuente
 tags: [plan-70d, planeacion-sectorial, ansv, ditra, ani, invias, supertransporte, asistencia-tecnica, cooperacion-internacional]
 fuente_pdf: "PLAN 70D SECTOR TRANSPORTE.pdf"
 status: ingerido
-last_updated: 2026-09-25
+last_updated: 2026-09-30
 ---
 
 # Plan 70D — Sector Transporte
@@ -49,6 +49,7 @@ Es un nuevo eslabón para la [Genealogía normativa de "asistencia técnica"](..
 - [PNSV 2022-2031](pnsv-2022-2031-documento-tecnico-soporte.md): el Plan 70D prioriza expresamente uno de los objetivos específicos del PNSV (cumplimiento de normas de tránsito); usa las mismas 8 regiones de la estrategia territorial del Plan.
 - [DCI — Dirección de Coordinación Interinstitucional](../entidades/dci-direccion-coordinacion-interinstitucional.md): la [Circular Conjunta 023/2025](circular-conjunta-023-2025-plan-365.md) resuelve tres de las incertidumbres de nombres de este documento (ver abajo) y confirma que Darío Rincón Jaramillo seguía como Director de Comportamiento de la ANSV en marzo de 2025.
 - [ANSV — Agencia Nacional de Seguridad Vial](../entidades/ansv-agencia-nacional-seguridad-vial.md): se actualiza con la alianza de cooperación internacional (Bloomberg Philanthropies, Vital Strategies) para la estrategia de comunicaciones de este plan — candidata a cruzarse con las fuentes pendientes de la categoría "Financiamiento y cooperación".
+- [Documentando el Plan 70D — Informe de resultados y Plan Navidad 2024](documentando-plan-70d-plan-navidad-2024-2025.md): informe de resultados (ex post, 22 de enero de 2025) de este mismo plan — esta presentación es su planeación (ex ante, 1 de noviembre de 2024). Cargado el 2026-09-30.
 
 ## Incertidumbres
 

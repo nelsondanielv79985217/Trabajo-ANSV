@@ -4,7 +4,7 @@ type: fuente
 tags: [ley, marco-normativo, codigo-nacional-transito, organismos-transito, autoridades-transito, asistencia-tecnica, ansv, pnsv, sanciones]
 fuente_pdf: "Ley_769 de 2002 Codigo Nacional de transito.pdf"
 status: ingerido
-last_updated: 2026-09-24
+last_updated: 2026-09-30
 ---
 
 # Ley 769 de 2002 — Por la cual se expide el Código Nacional de Tránsito Terrestre y se dictan otras disposiciones
@@ -70,6 +70,7 @@ Las multas se organizan en seis categorías (A a F, Arts. 130–131, pp. 38–44
 - [Ley 1310 de 2009](ley-1310-de-2009-agentes-transito.md): confirma y modifica el inciso 1° del Art. 4° (perfil profesional del Director de Organismo de Tránsito).
 - [Resolución 4548 de 2013](resolucion-4548-de-2013-profesionalizacion-agentes-transito.md): aporta la cita del Art. 4°, Parágrafo 2° (formación de cuerpos especializados de policía de tránsito), no registrada antes.
 - [Resolución 10110 de 2023](resolucion-10110-de-2023-peccit-supertransporte.md): aporta la cita del Art. 3°, Parágrafo 3° (facultad de vigilancia/control de SuperTransporte), no registrada antes.
+- [Ley 2635 de 2026](ley-2635-de-2026-proteccion-ciclistas-peatones.md): modifica directamente el Art. 60° (adiciona Parágrafo 3° — distancia mínima de 1,50 m para adelantar ciclistas, multa Art. 131 literal D6, suspensión de licencia hasta 10 años si hay lesión/muerte).
 
 ## Incertidumbres
 

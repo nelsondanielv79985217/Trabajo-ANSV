@@ -3,7 +3,7 @@ title: "ANSV — Agencia Nacional de Seguridad Vial"
 type: entidad
 tags: [ansv, marco-normativo, dci, consejo-directivo, fondo-nacional-seguridad-vial]
 status: ingerido
-last_updated: 2026-09-28
+last_updated: 2026-09-30
 ---
 
 
@@ -108,6 +108,7 @@ El [PNSV 2022-2031](../fuentes/pnsv-2022-2031-documento-tecnico-soporte.md) (doc
 - [Ley 2251 de 2022](../fuentes/ley-2251-de-2022-sistema-seguro.md): diez competencias adicionales (ver arriba) — la fuente más densa del corpus en cuanto a número de competencias ANSV.
 - Todas las fuentes del sistema de gestión de calidad ingeridas hasta ahora (CA-02, PR-06, PR-07, PR-08, GIP-FO-05, Lineamientos de cargue de evidencias) documentan la operación de una de sus siete dependencias, la DCI.
 - [CONPES 4091 de 2022](../fuentes/conpes-4091-de-2022-politica-asistencia-tecnica-territorial.md): **ausencia notable** — no menciona a la ANSV ni a la DCI (ver hallazgo arriba).
+- [Ley 2635 de 2026](../fuentes/ley-2635-de-2026-proteccion-ciclistas-peatones.md): norma más reciente del corpus; asigna a la ANSV, junto con Mintransporte, la fijación de criterios de priorización de infraestructura para ciclistas/peatones (Art. 2° Par. 3°) y un nuevo mandato de asistencia técnica a entidades territoriales en esa materia (Art. 3°).
 
 ## Incertidumbres
 

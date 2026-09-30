@@ -3,7 +3,7 @@ title: "Ministerio de Transporte (Mintransporte)"
 type: entidad
 tags: [mintransporte, cabeza-sector-transporte, autoridad-transito, conset, marco-normativo]
 status: ingerido
-last_updated: 2026-09-28
+last_updated: 2026-09-30
 ---
 
 # Ministerio de Transporte (Mintransporte)
@@ -64,6 +64,7 @@ Cambio de Ministro de Transporte entre 2023 y marzo de 2025, sin fuente en el co
 - [Ley 2251 de 2022](../fuentes/ley-2251-de-2022-sistema-seguro.md): cinco competencias conjuntas con la ANSV.
 - Bloque completo "Organismos y agentes de tránsito — conceptos y circulares Mintransporte" (40 fuentes, ver `index.md`): la producción normativa/doctrinal más numerosa de una sola entidad en todo el corpus.
 - [Circular Conjunta 023/2025 — Plan 365](../fuentes/circular-conjunta-023-2025-plan-365.md) y [Circular Conjunta 058/2024 — Plan 70D](../fuentes/circular-conjunta-058-2024-plan-70d-control-vigilancia.md): coordinación interinstitucional anual junto con ANSV, SuperTransporte y DITRA.
+- [Ley 2635 de 2026](../fuentes/ley-2635-de-2026-proteccion-ciclistas-peatones.md): norma más reciente del corpus; el Mintransporte, junto con la ANSV, queda a cargo de la articulación de políticas de protección a ciclistas/peatones (Art. 3°) y de reglamentar el enfoque diferencial dentro de los 6 meses siguientes a su promulgación (Art. 6°).
 
 ## Incertidumbres
 
