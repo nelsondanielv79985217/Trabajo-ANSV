@@ -893,3 +893,15 @@ Con esto quedan cerrados todos los hallazgos de la pasada de LINT completa del 2
 
 - Se guardó como síntesis el razonamiento y las fuentes de la propuesta de respuesta elaborada el 2026-10-05 (documento de Claude y Word en `/mnt/project-files/entregables/derecho-peticion-radares/`). Las nuevas fuentes resuelven dos puntos abiertos: el término (Ley 1755, Art. 21) y que el control en vía con dispositivo operado por un agente no requiere autorización de la ANSV (Circular 051/2025, p. 4).
 - Página creada: `sintesis/respuesta-dp-radares-grupo-cipe-2026.md`. `index.md` actualizado (139 fuentes: 137 ingeridas + 2 incierto).
+
+## [2026-10-07] ingest | Decreto 1049 de 2026 — Comisión Intersectorial para la Cooperación y Asistencia Técnica Territorial
+
+- Subido al repo en el commit 6faffbb. Escaneo de 8 páginas; la capa OCR de las pp. 2-4 está degradada, por lo que esas páginas se leyeron sobre la imagen. Se cita por artículo y página impresa.
+- Hallazgos: la Comisión la preside el DNP y su secretaría técnica es del DAFP; Mintransporte y la ANSV no son miembros (solo invitados especiales, Par. 1). La instancia es posterior al inventario de instancias de la ANSV (corte junio 2026). Posible choque de numeración con la remisión al art. 2.2.11.4.5 que ya existía en el Decreto 1082 compilado.
+- Página creada: `fuentes/decreto-1049-de-2026-comision-intersectorial-asistencia-tecnica-territorial.md`. Actualizadas: CONPES 4091, genealogía de asistencia técnica, inventario de instancias, entidad DCI.
+
+## [2026-10-07] ingest | Decreto 1082 de 2015 — DUR del sector Planeación Nacional
+
+- Subido al repo en el commit 6faffbb. Compilación DAFP de 283 páginas, con fecha de corte contradictoria (encabezado de 2024, contenido de 2025). Ingest parcial deliberado: estructura completa y artículos de uso previsible en la DCI (contratación directa, convenios interadministrativos, prestación de servicios, CONPES, Título 11, convenios solidarios). No menciona seguridad vial ni asistencia técnica.
+- Página creada: `fuentes/decreto-1082-de-2015-dur-sector-planeacion-nacional.md`. `index.md` actualizado (141 fuentes: 139 ingeridas + 2 incierto).
+- Ninguna de las dos fuentes cambia la propuesta de respuesta al derecho de petición sobre radares.

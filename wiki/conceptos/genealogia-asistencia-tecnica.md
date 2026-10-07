@@ -3,7 +3,7 @@ title: "Genealogía normativa de 'asistencia técnica'"
 type: concepto
 tags: [asistencia-tecnica, genealogia, dci, ansv, codigo-nacional-transito, mineducacion]
 status: ingerido
-last_updated: 2026-09-30
+last_updated: 2026-10-07
 ---
 
 # Genealogía normativa de "asistencia técnica"
@@ -60,6 +60,10 @@ La [Presentación — 1ª sesión AT-OT funciones y competencias](../fuentes/pre
 ## Nota (2026-09-30, tras ingerir la Ley 2635 de 2026)
 
 La [Ley 2635 de 2026 — Protección de ciclistas y peatones](../fuentes/ley-2635-de-2026-proteccion-ciclistas-peatones.md), Art. 3°, dispone textualmente: "El Ministerio de Transporte y la ANSV brindarán asistencia técnica a las entidades territoriales y propiciarán la armonización de lo dispuesto en este artículo, conforme con las políticas públicas territoriales vigentes sobre bicicleta y peatón, respetando la autonomía territorial." Es un eslabón con dos rasgos nuevos frente a los ya documentados: (1) el sujeto activo es el **Mintransporte y la ANSV conjuntamente** (no la DCI en solitario, ni la ANSV sola como en el resto del corpus), y (2) el objeto material es, por primera vez, la seguridad de **ciclistas y peatones** específicamente, no el Sistema Seguro en general ni un sujeto territorial genérico. Por sancionarse apenas 8 días antes de este ingest, es la norma más reciente de todo el corpus que usa el término.
+
+## Nota (2026-10-07, tras ingerir el Decreto 1049 de 2026)
+
+El [Decreto 1049 de 2026](../fuentes/decreto-1049-de-2026-comision-intersectorial-asistencia-tecnica-territorial.md) crea la Comisión Intersectorial para la Cooperación y Asistencia Técnica Territorial, adicionando el Capítulo 4 al Título 11 de la Parte 2 del Libro 2 del [Decreto 1082 de 2015](../fuentes/decreto-1082-de-2015-dur-sector-planeacion-nacional.md). Con él, la noción técnica de ATT del CONPES 4091 pasa a tener una instancia permanente de gobierno, presidida por el DNP y con secretaría técnica del DAFP (arts. 2.2.11.4.3 y 2.2.11.4.7, pp. 4-6). Entre sus funciones están caracterizar la oferta y la demanda de asistencia técnica del Gobierno nacional, aprobar una Agenda Nacional de ATT y recomendar un Modelo de ATT dentro del MIPG (art. 2.2.11.4.4, nums. 1, 3 y 8, pp. 5-6). La ANSV y Mintransporte no son miembros (pp. 4-5). Para quien redacte un producto sobre el protocolo de asistencia técnica de la DCI, este decreto es ahora el referente normativo vigente de la ATT a nivel nacional, por encima del CONPES, que es un documento de política y no una norma (Decreto 1082, art. 2.2.12.1.1, p. 260).
 
 ## Incertidumbres
 

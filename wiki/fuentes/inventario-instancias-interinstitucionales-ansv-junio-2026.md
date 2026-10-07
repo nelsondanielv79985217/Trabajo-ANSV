@@ -61,6 +61,8 @@ last_updated: 2026-10-07
 - [Resolución 20263040005765 de 2026 — ROT](resolucion-20263040005765-2026-rot.md): fila 17.
 - [ONSV](../entidades/onsv-observatorio-nacional-seguridad-vial.md): responsable de la ROT.
 
+- [Decreto 1049 de 2026](decreto-1049-de-2026-comision-intersectorial-asistencia-tecnica-territorial.md): crea una instancia nacional de asistencia técnica territorial posterior al corte de este inventario. La ANSV no es miembro; podría participar como invitada especial.
+
 ## Incertidumbres
 
 - El archivo no está firmado (columna de firma vacía, filas 31-35) ni tiene código del sistema de gestión: no consta si es la versión oficial aprobada.

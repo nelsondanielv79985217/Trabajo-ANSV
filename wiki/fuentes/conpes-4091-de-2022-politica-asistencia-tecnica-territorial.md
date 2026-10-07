@@ -4,7 +4,7 @@ type: fuente
 tags: [conpes, politica-publica, asistencia-tecnica, asistencia-tecnica-territorial, dnp, capacidades-institucionales, mipg, marco-conceptual]
 fuente_pdf: "COMPES  Asistencia tecnica 4091.pdf"
 status: ingerido
-last_updated: 2026-09-25
+last_updated: 2026-10-07
 ---
 
 # CONPES 4091 de 2022 — "Política para la Asistencia Técnica Territorial"
@@ -110,8 +110,11 @@ Transcripción de las definiciones que la política fija para sí misma, útiles
 - [ANSV — Agencia Nacional de Seguridad Vial](../entidades/ansv-agencia-nacional-seguridad-vial.md): se actualiza señalando que ni la ANSV ni la DCI aparecen mencionadas en este CONPES, pese a ser la política nacional de ATT de mayor jerarquía.
 - [Resolución 007 de 2023](resolucion-007-de-2023-mesas-articulacion-interinstitucional.md): coincidencia terminológica (no textualmente vinculada) en el uso de "gobernanza" como componente de fortalecimiento territorial, presente tanto en el PNSV 2022-2031 como en el CONPES 4007 citado aquí.
 
+- [Decreto 1049 de 2026](decreto-1049-de-2026-comision-intersectorial-asistencia-tecnica-territorial.md): crea la Comisión Intersectorial para la Cooperación y Asistencia Técnica Territorial en desarrollo de la Acción 5.3.1 de este CONPES (Decreto 1049, considerandos, p. 3). Sus siete miembros no incluyen a Mintransporte ni a la ANSV (art. 2.2.11.4.3, pp. 4-5).
+
 ## Incertidumbres
 
+- *Actualización (2026-10-07)*: el [Decreto 1049 de 2026](decreto-1049-de-2026-comision-intersectorial-asistencia-tecnica-territorial.md) es la primera norma posterior del corpus sobre la gobernanza de esta política. No articula a la ANSV: solo deja abierta su participación como invitada especial (Par. 1 del art. 2.2.11.4.3, p. 5).
 - No se ha verificado si, con posterioridad a 2022, alguna norma o documento de política articuló expresamente a la ANSV/DCI con la Política Nacional de ATT del DNP (Agenda Nacional de ATT, portafolio interactivo, Modelo de ATT) — no hay ninguna fuente en este corpus que lo confirme o descarte de forma concluyente.
 - El Anexo A (Plan de Acción y Seguimiento, PAS) no está incluido en el archivo PDF del corpus (la tabla de contenido lo referencia en la p. 44, pero el documento no la reproduce) — el detalle operativo de indicadores/metas/responsables por acción no puede verificarse desde este corpus.
 - El CONPES 4007 (Estrategia para el Fortalecimiento de la Gobernanza en el Sistema de Administración del Territorio) se menciona solo de paso (p. 16); no está en este corpus y no se puede verificar si tiene relación con el uso de "gobernanza" en el PNSV 2022-2031 más allá de la coincidencia terminológica.

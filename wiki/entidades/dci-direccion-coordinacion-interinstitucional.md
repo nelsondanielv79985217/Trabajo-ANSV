@@ -3,7 +3,7 @@ title: "DCI — Dirección de Coordinación Interinstitucional (ANSV)"
 type: entidad
 tags: [dci, ansv, asistencia-tecnica, coordinacion-interinstitucional]
 status: ingerido
-last_updated: 2026-09-30
+last_updated: 2026-10-07
 ---
 
 
@@ -96,6 +96,8 @@ Instancia de coordinación territorial creada por la Resolución 007/2023, lider
   - **Paula Katerine Ramos Navarro**, "Directora de Coordinación Interinstitucional" — ya figuraba en CA-02, PR-07 y PR-06 sin fecha de expedición registrada en esas páginas. **Confirmada con fecha exacta (2026-09-25, tras ingerir el Oficio 20254000114441 de 2025)**: revisó ese oficio el **10 de noviembre de 2025** (p. 4) con el título expreso "Directora de Coordinación Interinstitucional, Agencia Nacional de Seguridad Vial – ANSV". **Confirmación extendida (2026-09-25, tras ingerir la [Estrategia de AT y Pedagógica — Acción 2.2.1](../fuentes/estrategia-asistencia-tecnica-pedagogica-sistema-seguro.md))**: aprobó ese documento el **19 de mayo de 2026** con el mismo título — es ahora el dato más reciente del corpus sobre la titularidad de la DCI, confirmando su continuidad por al menos seis meses más allá de noviembre de 2025.
   - Con las fuentes fechadas, la secuencia más probable (no confirmada en su totalidad) es: Vanegas Vivas (enero 2023, titular) → Rincón Jaramillo (octubre 2023, encargado) → Aguilar Rojas (marzo 2025, vinculación sin título confirmado) → Ramos Navarro (confirmada con título y fecha, desde el 10 de noviembre de 2025 hasta al menos el 19 de mayo de 2026). El momento exacto de la transición entre Aguilar Rojas y Ramos Navarro, y si hubo algún periodo intermedio no documentado, sigue sin poder establecerse — ver incertidumbre.
 - Recursos del proceso: humano (funcionarios y contratistas de la DCI), financiero (proyecto de inversión a cargo de la DCI), tecnológico (aplicativo de reporte de acciones en territorio) (fuente: CA-02, p. 3).
+
+- *(2026-10-07)* [Decreto 1049 de 2026](../fuentes/decreto-1049-de-2026-comision-intersectorial-asistencia-tecnica-territorial.md): crea la Comisión Intersectorial de Asistencia Técnica Territorial (DNP, DAFP y otros), de la que la ANSV no es miembro. La DCI, como dependencia que presta asistencia técnica territorial, es la más directamente afectada por sus lineamientos sobre oferta, demanda y seguimiento (art. 2.2.11.4.4, pp. 5-6).
 
 ## Incertidumbres
 
