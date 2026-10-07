@@ -3,7 +3,7 @@ title: "Régimen de autorización de Sistemas Automáticos, Semiautomáticos y o
 type: concepto
 tags: [sast, fotodeteccion, ansv, autorizacion, ley-1843-2017, decreto-2106-2019, resolucion-20203040011245-2020]
 status: ingerido
-last_updated: 2026-09-28
+last_updated: 2026-10-07
 ---
 
 # Régimen de autorización de Sistemas Automáticos, Semiautomáticos y otros medios Tecnológicos (SAST / fotodetección)
@@ -12,7 +12,7 @@ Concepto transversal que consolida el marco jurídico y el desarrollo administra
 
 ## Cadena normativa
 
-1. **Ley 1843 de 2017**, Art. 2° (original): regula la instalación y puesta en marcha de sistemas automáticos/semiautomáticos/otros medios tecnológicos para detección de infracciones; exige criterios técnicos de seguridad vial fijados por Mintransporte y la ANSV; autorización con duración de 5 años.
+1. **[Ley 1843 de 2017](../fuentes/ley-1843-de-2017-sast-deteccion-infracciones.md)** (texto primario en el corpus desde 2026-10-07), Art. 2° (original): regula la instalación y puesta en marcha de sistemas automáticos/semiautomáticos/otros medios tecnológicos para detección de infracciones; exige criterios técnicos de seguridad vial fijados por Mintransporte y la ANSV; autorización con duración de 5 años.
 2. **Decreto Ley 2106 de 2019, Art. 109**: modifica el Art. 2° de la Ley 1843/2017 — mantiene la competencia conjunta Mintransporte-ANSV para fijar criterios técnicos, traslada a la ANSV la autorización (antes en cabeza del Ministerio), con un parágrafo transitorio de 180 días para la transición de competencia (ver también [Decreto 2106 de 2019](../fuentes/decreto-2106-de-2019-simplificacion-tramites.md), Art. 109, ya documentado en el corpus).
 3. **Resolución 20203040011245 de 2020** (Mintransporte-ANSV): reglamenta los criterios técnicos de seguridad vial para instalación y operación de SAST; deroga la Resolución 718/2018; Art. 5° asigna a la Dirección de Infraestructura y Vehículos de la ANSV la competencia de autorización; Art. 8° fija los criterios técnicos de operación (viabilidad de infraestructura vial, calibración, señalización); Art. 20° dispone que las autorizaciones otorgadas por el Ministerio antes del Decreto 2106/2019 no requieren refrendación, pero sí cuentan con vigencia de 5 años desde la entrada en vigor de ese decreto (22 de noviembre de 2019 → vencimiento 22 de noviembre de 2024). Complementada por la Resolución No. 181 de 2020 (ANSV, citada por referencia, no ingerida en el corpus).
 4. **Ley 2251 de 2022 ("Ley Julián Esteban"), Art. 18** (adiciona el Art. 158A a la Ley 769/2002): sanciona a la autoridad de tránsito que use ayudas tecnológicas sin cumplir los criterios de seguridad vial con multa equivalente al doble del valor recaudado por las multas derivadas de esas ayudas; las multas impuestas sin autorización deben revocarse de oficio en máx. 30 días hábiles tras la decisión en firme de la Superintendencia de Transporte; los recursos de la multa ingresan al presupuesto de la Superintendencia.
@@ -44,6 +44,11 @@ Las autorizaciones otorgadas por el Ministerio de Transporte antes del Decreto 2
 ## Lectura para el trabajo de asesoría en la DCI/ANSV
 
 El régimen SAST es un ejemplo consolidado de competencia técnica conjunta Mintransporte-ANSV (autorización, criterios técnicos, indicadores), con la particularidad de que la vigencia de 5 años de las autorizaciones —fijada desde la Ley 1843/2017— generó un vencimiento masivo simultáneo en noviembre de 2024 que obligó a la ANSV a desplegar, en menos de dos años, cuatro circulares sucesivas de gestión operativa (cronograma, criterios, renovación, aclaración de definiciones). Es un caso útil de referencia para dimensionar la carga operativa que un vencimiento normativo masivo puede generar sobre la Dirección de Infraestructura y Vehículos, relevante para cualquier producto de asesoría sobre planeación de trámites recurrentes con plazos legales fijos.
+
+## Fuentes añadidas (2026-10-07)
+
+- [Ley 1843 de 2017](../fuentes/ley-1843-de-2017-sast-deteccion-infracciones.md): además del Art. 2°, el Art. 13 num. 3 exige "un cuerpo de agentes de tránsito capacitado" (p. 4) y el Art. 14 asigna al Instituto Nacional de Metrología la trazabilidad y, transitoriamente, la calibración de los medidores de velocidad (p. 4).
+- [Concepto Mintransporte 20261340911921 de 2026](../fuentes/concepto-20261340911921-camaras-velocidad-notificacion-comparendos.md): no hay periodicidad legal única de recalibración; la valoración probatoria de los registros corresponde a la autoridad de tránsito (p. 9).
 
 ## Incertidumbres
 

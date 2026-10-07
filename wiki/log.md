@@ -863,3 +863,33 @@ Con esto quedan cerrados todos los hallazgos de la pasada de LINT completa del 2
 - Se creó `wiki/fuentes/documentando-plan-70d-plan-navidad-2024-2025.md`. Se actualizaron cross-references en `wiki/fuentes/plan-70d-sector-transporte.md`, `wiki/entidades/onsv-observatorio-nacional-seguridad-vial.md` y `wiki/entidades/dci-direccion-coordinacion-interinstitucional.md`.
 - Se actualizó `index.md`: bloque "Protocolos operativos y Plan 365" de 4 a 5 fuentes; header general de 133 a 135 fuentes de página (133 ingeridas + 2 incierto).
 - Pendiente: el Anuario Nacional de Siniestralidad Vial 2023 del ONSV, que el usuario anunció que subiría pero aún no está en el repositorio.
+
+## [2026-10-07] ingest | Ley 1843 de 2017 — SAST (texto original sancionado)
+
+- PDF escaneado de 6 páginas con OCR deficiente; se leyó completo. El Art. 2° es la versión original (autorización de Mintransporte), modificada luego por el Art. 109 del Decreto Ley 2106 de 2019 (ya en el corpus).
+- Hallazgos: Art. 13 num. 3 exige "un cuerpo de agentes de tránsito capacitado" (p. 4), única exigencia legal del corpus que liga capacitación con equipos de detección; Art. 14 asigna al Instituto Nacional de Metrología la trazabilidad y, transitoriamente, la calibración de medidores de velocidad (p. 4).
+- Incertidumbre: el concepto Mintransporte 20261340911921 transcribe un Art. 2° con un Par. 2° (carriles exclusivos) que no está en este PDF ni en el Decreto 2106/2019.
+- Página creada: `fuentes/ley-1843-de-2017-sast-deteccion-infracciones.md`. Actualizado: `conceptos/sast-fotodeteccion-regimen-autorizacion.md`.
+
+## [2026-10-07] ingest | Ley 1755 de 2015 — Derecho de petición
+
+- 7 páginas (EVA-Gestor Normativo), leído completo. Arts. 13 a 33 del CPACA sustituidos.
+- Hallazgos: Art. 14 (15/10/30 días; el texto no dice si son hábiles); Art. 21 (traslado en 5 días; el término corre desde la recepción por la autoridad competente); Art. 28 (conceptos no vinculantes).
+- Página creada: `fuentes/ley-1755-de-2015-derecho-de-peticion.md`.
+
+## [2026-10-07] ingest | Concepto Mintransporte 20261340911921 de 2026 (archivo "respuesta a peticion anterior SAST.pdf")
+
+- 10 páginas, leído completo. Pese al nombre del archivo, es un concepto de la Oficina Asesora Jurídica de Mintransporte (25-06-2026), no una respuesta de la ANSV.
+- Hallazgos: notificación por operadores postales habilitados (Ley 1369/2009); no hay periodicidad legal única de recalibración (p. 9); sin cadena de custodia penal, la valoración probatoria es de la autoridad de tránsito (p. 9); cita la Resolución INM 352 de 2020 (no está en el corpus).
+- Página creada: `fuentes/concepto-20261340911921-camaras-velocidad-notificacion-comparendos.md`.
+
+## [2026-10-07] ingest | Inventario de las instancias interinstitucionales de la ANSV (junio 2026, xlsx)
+
+- Ya estaba en el repo desde el commit 7b737bc pero no se había ingerido. Dos hojas: `Inventario ` (20 instancias, corte junio) y `Seguimiento a las instancias` (oculta, 11 instancias, corte marzo, columnas de seguimiento vacías). Citado por hoja y fila.
+- Hallazgos: la DCI responde por 7 instancias; la numeración salta del 10 al 12; errores de referencia del propio archivo ("Decreto 787 de 2025"); la Resolución 007/2023 (MAI) no aparece; archivo sin firmas.
+- Página creada: `fuentes/inventario-instancias-interinstitucionales-ansv-junio-2026.md`.
+
+## [2026-10-07] query | Propuesta de respuesta al derecho de petición sobre radares (Grupo Cipe)
+
+- Se guardó como síntesis el razonamiento y las fuentes de la propuesta de respuesta elaborada el 2026-10-05 (documento de Claude y Word en `/mnt/project-files/entregables/derecho-peticion-radares/`). Las nuevas fuentes resuelven dos puntos abiertos: el término (Ley 1755, Art. 21) y que el control en vía con dispositivo operado por un agente no requiere autorización de la ANSV (Circular 051/2025, p. 4).
+- Página creada: `sintesis/respuesta-dp-radares-grupo-cipe-2026.md`. `index.md` actualizado (139 fuentes: 137 ingeridas + 2 incierto).
