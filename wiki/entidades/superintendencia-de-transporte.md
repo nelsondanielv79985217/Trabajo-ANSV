@@ -3,7 +3,7 @@ title: "Superintendencia de Transporte (SuperTransporte)"
 type: entidad
 tags: [supertransporte, vigilancia-y-control, peccit, sisi, plan-365, sancionatorio]
 status: ingerido
-last_updated: 2026-09-28
+last_updated: 2026-10-07
 ---
 
 # Superintendencia de Transporte (SuperTransporte)
@@ -52,6 +52,10 @@ Tres nombres distintos en la titularidad/encargo de la Superintendencia en un la
 - [Circular Conjunta 023/2025 — Plan 365](../fuentes/circular-conjunta-023-2025-plan-365.md) y [Circular Conjunta 058/2024 — Plan 70D](../fuentes/circular-conjunta-058-2024-plan-70d-control-vigilancia.md): coordinación interinstitucional anual junto con Mintransporte, ANSV y DITRA.
 - [Oficio ANSV 20254000114441 de 2025](../fuentes/oficio-20254000114441-supertransporte-plan-365.md) y sus plantillas/versiones previas: destinataria de escalamientos formales de la DCI por incumplimiento territorial del Plan 365.
 - [Circular Externa 20255330000124 de 2025 — SICOV-OTPC](../fuentes/circular-externa-20255330000124-sicov-otpc.md): sistema de vigilancia de SuperTransporte para terminales de transporte de pasajeros.
+
+## Sanción por SAST no autorizados (añadida 2026-10-07)
+
+Según la [Circular Mintransporte 20261300000347 de 2026](../fuentes/circular-externa-20261300000347-2026-control-en-via-dispositivo-electronico.md), pp. 7-8, Supertransporte aplica el art. 158A de la Ley 769 de 2002 (adicionado por el art. 18 de la Ley 2251 de 2022) a las autoridades de tránsito que operen SAST sin cumplir los criterios técnicos. La multa equivale al doble de lo recaudado, y la autoridad debe revocar de oficio las multas del periodo sin autorización dentro de 30 días hábiles. Frente al control en vía, Supertransporte conserva solo su competencia genérica de inspección, vigilancia y control. La misma circular informa que Supertransporte coexpidió con Mintransporte la Circular Conjunta 20254000000867 de 2025, luego derogada (p. 2).
 
 ## Incertidumbres
 

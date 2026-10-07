@@ -905,3 +905,14 @@ Con esto quedan cerrados todos los hallazgos de la pasada de LINT completa del 2
 - Subido al repo en el commit 6faffbb. Compilación DAFP de 283 páginas, con fecha de corte contradictoria (encabezado de 2024, contenido de 2025). Ingest parcial deliberado: estructura completa y artículos de uso previsible en la DCI (contratación directa, convenios interadministrativos, prestación de servicios, CONPES, Título 11, convenios solidarios). No menciona seguridad vial ni asistencia técnica.
 - Página creada: `fuentes/decreto-1082-de-2015-dur-sector-planeacion-nacional.md`. `index.md` actualizado (141 fuentes: 139 ingeridas + 2 incierto).
 - Ninguna de las dos fuentes cambia la propuesta de respuesta al derecho de petición sobre radares.
+
+## [2026-10-07] ingest | Circular Externa Mintransporte 20261300000347 de 2026 — control en vía y SAST
+
+- Subida al repo en el commit decc89a con el nombre `20266600076962_Circular Externa.pdf`. Son 8 páginas con texto extraíble; el anexo (Resolución 20263040036655 de 2026) no viene incluido.
+- Hallazgos:
+  - el control en vía con dispositivo no requiere autorización de la ANSV si concurren tres condiciones materiales;
+  - la calibración con trazabilidad al INM sigue siendo exigible;
+  - la ANSV no avala, certifica ni homologa esos equipos;
+  - la ANSV se había pronunciado antes contra la Circular Conjunta derogada, pero ese documento no está en el corpus.
+- Página creada: `fuentes/circular-externa-20261300000347-2026-control-en-via-dispositivo-electronico.md`.
+- Páginas actualizadas: concepto SAST, entidad Supertransporte, síntesis del DP sobre radares (se resolvió el punto de la calibración) e `index.md` (142 fuentes: 140 ingeridas + 2 incierto).

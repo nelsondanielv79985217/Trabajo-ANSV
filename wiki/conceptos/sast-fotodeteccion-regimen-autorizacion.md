@@ -55,3 +55,11 @@ El régimen SAST es un ejemplo consolidado de competencia técnica conjunta Mint
 - No se verifica en este corpus el texto íntegro de la Resolución No. 181 de 2020 (ANSV), citada por referencia en varias de las circulares.
 - No se verifica en este corpus el texto íntegro de la Circular 040 de 2024 (ANSV), citada por referencia en la Circular 049/2024.
 - No se verifica si el vencimiento masivo de noviembre de 2024 se resolvió efectivamente dentro de los cronogramas fijados, ni el resultado final del proceso de renovación.
+
+## Circular Mintransporte 20261300000347 de 2026 (añadida 2026-10-07)
+
+La [Circular Externa 20261300000347 del 18 de septiembre de 2026](../fuentes/circular-externa-20261300000347-2026-control-en-via-dispositivo-electronico.md) es la fuente más reciente del corpus sobre la frontera entre control en vía y SAST.
+- El control en vía apoyado en dispositivo electrónico no requiere autorización de la ANSV cuando concurren materialmente tres condiciones: agente presente y visible, operación manual del dispositivo y comparendo elaborado y entregado en el sitio (p. 3). Si no concurren, el mecanismo es un SAST, cualquiera sea el nombre que le dé la autoridad (p. 4).
+- La excepción no exime de la calibración vigente de cinemómetros y alcoholímetros con trazabilidad al Instituto Nacional de Metrología (p. 3, lit. a).
+- La ANSV no autoriza, valida, avala, certifica ni homologa los equipos del control en vía (p. 6).
+- La circular socializa la derogatoria de la Circular Conjunta Mintransporte-Supertransporte 20254000000867 de 2025 por la Resolución 20263040036655 de 2026 (p. 2). Ninguno de esos dos actos está en el corpus.

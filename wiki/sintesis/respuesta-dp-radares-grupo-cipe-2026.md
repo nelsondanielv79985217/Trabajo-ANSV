@@ -27,10 +27,12 @@ Borrador de producto de asesoría elaborado en el hilo del proyecto "Actividades
 | Formación exigida a agentes (técnico laboral, instituciones registradas ante Secretarías de Educación o MinEducación) | Resolución 20223040045295 de 2022, arts. 2.1.2 a 2.1.4 (p. 4); [Resolución 4548 de 2013](../fuentes/resolucion-4548-de-2013-profesionalizacion-agentes-transito.md), arts. 2° y 4° (pp. 3-4) |
 | El control en vía con dispositivo electrónico operado por un agente **no requiere autorización de la ANSV** | [Circular Externa ANSV 051 de 2025](../fuentes/circular-051-2025-sast-criterios-operacion-indicadores.md), p. 4, que transcribe el art. 5°, par. 2° de la Resolución 20203040011245 de 2020 |
 | La valoración probatoria de los registros tecnológicos corresponde a la autoridad de tránsito en cada caso | [Concepto Mintransporte 20261340911921 de 2026](../fuentes/concepto-20261340911921-camaras-velocidad-notificacion-comparendos.md), p. 9 (no vinculante) |
+| El control en vía con radar manual no requiere autorización de la ANSV si concurren tres condiciones; la calibración con trazabilidad al INM sigue siendo exigible; la ANSV no avala, certifica ni homologa esos equipos | [Circular Mintransporte 20261300000347 de 2026](../fuentes/circular-externa-20261300000347-2026-control-en-via-dispositivo-electronico.md), pp. 3, 4 y 6 |
 | Término y traslado | [Ley 1755 de 2015](../fuentes/ley-1755-de-2015-derecho-de-peticion.md), arts. 14 y 21 (pp. 1-2 y 4) |
 
 ## Puntos que siguen abiertos
 
+- *Resuelto (2026-10-07)*: la calibración de los radares manuales sí es exigible en el control en vía, con trazabilidad al Instituto Nacional de Metrología, según la Circular Mintransporte 20261300000347 de 2026, p. 3, lit. a. La circular no se refiere a la capacitación de operadores.
 - Si la ANSV expidió el acto que desarrolla el num. 4.9 del art. 9° de la Ley 1702. No está en el corpus. Es el punto de mayor riesgo jurídico de la respuesta.
 - Si Grupo Cipe S.A.S. tiene algún convenio, autorización o registro con la ANSV. No está en el corpus.
 - Fecha de recibo en la ANSV, de la que depende el término (art. 21 de la Ley 1755). Si la solicitud se trata como petición de información, son 10 días; si como consulta, 30 (art. 14). La ley no dice si son hábiles.
