@@ -916,3 +916,14 @@ Con esto quedan cerrados todos los hallazgos de la pasada de LINT completa del 2
   - la ANSV se había pronunciado antes contra la Circular Conjunta derogada, pero ese documento no está en el corpus.
 - Página creada: `fuentes/circular-externa-20261300000347-2026-control-en-via-dispositivo-electronico.md`.
 - Páginas actualizadas: concepto SAST, entidad Supertransporte, síntesis del DP sobre radares (se resolvió el punto de la calibración) e `index.md` (142 fuentes: 140 ingeridas + 2 incierto).
+
+## [2026-10-07] ingest | Resolución Mintransporte 20263040036655 de 2026 — derogatoria de la Circular Conjunta 20254000000867 de 2025
+
+- Subida al repo en el commit cb07581 y adjuntada también en el hilo; el texto de las dos copias es idéntico. Son 4 páginas con texto extraíble.
+- Hallazgos:
+  - el art. 4 reitera que el control en vía no requiere autorización de la ANSV;
+  - la resolución no menciona la calibración ni la capacitación;
+  - consultó a la ANSV (oficio MT 20261301270321), pero solo transcribe la respuesta de Supertransporte;
+  - la firma solo Mintransporte, aunque la circular derogada era conjunta.
+- Página creada: `fuentes/resolucion-20263040036655-2026-derogatoria-circular-control-en-via.md`.
+- Páginas actualizadas: circular 20261300000347, concepto SAST, síntesis del DP sobre radares e `index.md` (143 fuentes: 141 ingeridas + 2 incierto).

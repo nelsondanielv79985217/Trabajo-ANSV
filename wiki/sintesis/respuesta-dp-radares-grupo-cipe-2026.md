@@ -28,6 +28,7 @@ Borrador de producto de asesoría elaborado en el hilo del proyecto "Actividades
 | El control en vía con dispositivo electrónico operado por un agente **no requiere autorización de la ANSV** | [Circular Externa ANSV 051 de 2025](../fuentes/circular-051-2025-sast-criterios-operacion-indicadores.md), p. 4, que transcribe el art. 5°, par. 2° de la Resolución 20203040011245 de 2020 |
 | La valoración probatoria de los registros tecnológicos corresponde a la autoridad de tránsito en cada caso | [Concepto Mintransporte 20261340911921 de 2026](../fuentes/concepto-20261340911921-camaras-velocidad-notificacion-comparendos.md), p. 9 (no vinculante) |
 | El control en vía con radar manual no requiere autorización de la ANSV si concurren tres condiciones; la calibración con trazabilidad al INM sigue siendo exigible; la ANSV no avala, certifica ni homologa esos equipos | [Circular Mintransporte 20261300000347 de 2026](../fuentes/circular-externa-20261300000347-2026-control-en-via-dispositivo-electronico.md), pp. 3, 4 y 6 |
+| Los equipos del control en vía no requieren autorización de la ANSV (parte resolutiva) | [Resolución Mintransporte 20263040036655 de 2026](../fuentes/resolucion-20263040036655-2026-derogatoria-circular-control-en-via.md), art. 4 (p. 4) |
 | Término y traslado | [Ley 1755 de 2015](../fuentes/ley-1755-de-2015-derecho-de-peticion.md), arts. 14 y 21 (pp. 1-2 y 4) |
 
 ## Puntos que siguen abiertos

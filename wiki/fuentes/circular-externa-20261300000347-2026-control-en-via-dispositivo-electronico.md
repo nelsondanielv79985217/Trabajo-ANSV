@@ -95,5 +95,7 @@ Con base en la Ley 769 y los arts. 57 y 58 de la Ley 2197 de 2022 (p. 4):
 
 ## Incertidumbres
 
+- *Actualización (2026-10-07)*: la Resolución 20263040036655 de 2026 ya está en el corpus ([página](resolucion-20263040036655-2026-derogatoria-circular-control-en-via.md)). La resolución consigna que la ANSV fue consultada, pero solo transcribe la respuesta de Supertransporte (p. 3). Por eso la afirmación de esta circular de que la ANSV se pronunció "en idéntico sentido" (p. 2) sigue sin soporte documental en el corpus.
+
 - La Resolución 20263040036655 de 2026 y la Circular Conjunta 20254000000867 de 2025 no están en el corpus. Se conocen solo por lo que dice esta circular. `[INCIERTO]`
 - No se sabe qué significa el número 20266600076962 del nombre del archivo, ni la fecha en que la ANSV recibió la circular. `[INCIERTO]`

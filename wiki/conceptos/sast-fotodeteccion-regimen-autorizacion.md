@@ -63,3 +63,7 @@ La [Circular Externa 20261300000347 del 18 de septiembre de 2026](../fuentes/cir
 - La excepción no exime de la calibración vigente de cinemómetros y alcoholímetros con trazabilidad al Instituto Nacional de Metrología (p. 3, lit. a).
 - La ANSV no autoriza, valida, avala, certifica ni homologa los equipos del control en vía (p. 6).
 - La circular socializa la derogatoria de la Circular Conjunta Mintransporte-Supertransporte 20254000000867 de 2025 por la Resolución 20263040036655 de 2026 (p. 2). Ninguno de esos dos actos está en el corpus.
+
+## Resolución Mintransporte 20263040036655 de 2026 (añadida 2026-10-07)
+
+La [Resolución 20263040036655 del 9 de septiembre de 2026](../fuentes/resolucion-20263040036655-2026-derogatoria-circular-control-en-via.md) deroga la Circular Conjunta 20254000000867 de 2025. Su art. 4 (p. 4) reitera que los equipos del control en vía no requieren autorización de la ANSV cuando un agente competente, presente y visible opera manualmente el dispositivo y elabora el comparendo en el sitio. Es la cita de mayor rango del corpus sobre la excepción. La resolución no se refiere a la calibración ni a la capacitación de operadores; para la calibración sigue siendo necesario citar la Circular 20261300000347 (p. 3) y el art. 14 de la Ley 1843.

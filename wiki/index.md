@@ -2,6 +2,8 @@
 
 Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos de trabajo (INGEST/QUERY/LINT).
 
+*Actualización (2026-10-07, cuarta)*: ingest de la Resolución Mintransporte 20263040036655 de 2026 (deroga la Circular Conjunta 20254000000867 de 2025). **143 páginas de fuente en `wiki/fuentes/`** (141 ingeridas + 2 incierto).
+
 *Actualización (2026-10-07, tercera)*: ingest de la Circular Externa Mintransporte 20261300000347 de 2026 (control en vía con dispositivo electrónico vs. SAST). **142 páginas de fuente en `wiki/fuentes/`** (140 ingeridas + 2 incierto).
 
 *Actualización (2026-10-07, segunda)*: ingest del Decreto 1049 de 2026 (Comisión Intersectorial de Asistencia Técnica Territorial) y del Decreto 1082 de 2015 (DUR de Planeación Nacional). **141 páginas de fuente en `wiki/fuentes/`** (139 ingeridas + 2 incierto).
@@ -163,7 +165,9 @@ Bloque más numeroso de la carga nueva: conceptos jurídicos, circulares y resol
 
 - [Inventario de las instancias interinstitucionales de la ANSV (corte junio 2026)](fuentes/inventario-instancias-interinstitucionales-ansv-junio-2026.md) — Hoja de cálculo con 20 instancias activas (numeración salta del 10 al 12); la DCI responde por 7. Hoja oculta con versión de marzo (11 instancias). Sin firmas. (ingerido)
 
-### Fotodetección y circulares de control ya conocidas — versiones adicionales (7, 7 ingeridas — completo)
+### Fotodetección y circulares de control ya conocidas — versiones adicionales (8, 8 ingeridas — completo)
+
+- [Resolución Mintransporte 20263040036655 de 2026 — Deroga la Circular Conjunta 20254000000867 de 2025 (control en vía)](fuentes/resolucion-20263040036655-2026-derogatoria-circular-control-en-via.md) — Art. 4: los equipos del control en vía no requieren autorización de la ANSV. La derogatoria opera hacia el futuro y no anula actuaciones en curso. Consultó a la ANSV, pero solo transcribe la respuesta de Supertransporte. (ingerido)
 
 - [Circular Externa Mintransporte 20261300000347 de 2026 — Control en vía apoyado en dispositivo electrónico vs. SAST](fuentes/circular-externa-20261300000347-2026-control-en-via-dispositivo-electronico.md) — Socializa la derogatoria de la Circular Conjunta 20254000000867 de 2025. El control en vía no requiere autorización de la ANSV si concurren tres condiciones materiales, pero exige calibración con trazabilidad al INM. La ANSV no avala, certifica ni homologa esos equipos. (ingerido)
 
