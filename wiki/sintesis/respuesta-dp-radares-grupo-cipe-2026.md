@@ -3,7 +3,7 @@ title: "Propuesta de respuesta — Derecho de petición sobre capacitación de o
 type: sintesis
 tags: [derecho-de-peticion, radares, cinemometros, sast, capacitacion, agentes-transito, supertransporte, traslado, borrador]
 status: incierto
-last_updated: 2026-10-07
+last_updated: 2026-10-08
 ---
 
 # Propuesta de respuesta — Derecho de petición sobre capacitación de operadores de radares (2026)
@@ -34,10 +34,16 @@ Borrador de producto de asesoría elaborado en el hilo del proyecto "Actividades
 ## Puntos que siguen abiertos
 
 - *Resuelto (2026-10-07)*: la calibración de los radares manuales sí es exigible en el control en vía, con trazabilidad al Instituto Nacional de Metrología, según la Circular Mintransporte 20261300000347 de 2026, p. 3, lit. a. La circular no se refiere a la capacitación de operadores.
-- Si la ANSV expidió el acto que desarrolla el num. 4.9 del art. 9° de la Ley 1702. No está en el corpus. Es el punto de mayor riesgo jurídico de la respuesta.
+- ~~Si la ANSV expidió el acto que desarrolla el num. 4.9 del art. 9° de la Ley 1702~~. Cerrado el 8 de octubre de 2026: el usuario decidió no mencionarlo en la respuesta. Sigue sin estar en el corpus si ese acto existe.
 - Si Grupo Cipe S.A.S. tiene algún convenio, autorización o registro con la ANSV. No está en el corpus.
 - Fecha de recibo en la ANSV, de la que depende el término (art. 21 de la Ley 1755). Si la solicitud se trata como petición de información, son 10 días; si como consulta, 30 (art. 14). La ley no dice si son hábiles.
 - Dependencia firmante: la autorización de SAST es de la Dirección de Infraestructura y Vehículos (Resolución 20223040045295, art. 7.8.1.1, pp. 290-291), no de la DCI.
+
+## Decisiones del usuario sobre el proyecto V2 (8 de octubre de 2026)
+
+- El proyecto de respuesta V2 tiene radicado de salida ANSV 20264000145351 del 6 de octubre de 2026. El radicado de entrada es ANSV 20266600080182 del 5 de octubre de 2026. Lo firma la Directora Técnica de Coordinación Interinstitucional (E).
+- El correo de contacto correcto es atencionalciudadano@ansv.gov.co, confirmado por el usuario.
+- El num. 4.9 del art. 9 de la Ley 1702 de 2013 queda **eliminado** de la respuesta, por decisión del usuario. Ya no se trata como un punto abierto de la respuesta.
 
 ## Conexiones
 

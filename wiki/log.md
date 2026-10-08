@@ -927,3 +927,9 @@ Con esto quedan cerrados todos los hallazgos de la pasada de LINT completa del 2
   - la firma solo Mintransporte, aunque la circular derogada era conjunta.
 - Página creada: `fuentes/resolucion-20263040036655-2026-derogatoria-circular-control-en-via.md`.
 - Páginas actualizadas: circular 20261300000347, concepto SAST, síntesis del DP sobre radares e `index.md` (143 fuentes: 141 ingeridas + 2 incierto).
+
+## [2026-10-08] query | Revisión del proyecto de respuesta V2 al DP sobre radares
+
+- Se revisó el proyecto V2 del usuario (Word y PDF; mismo texto, el PDF con firma de revisión) contra las fuentes. La revisión quedó en un Claude Doc.
+- Decisiones del usuario: el correo correcto es atencionalciudadano@ansv.gov.co, y el num. 4.9 de la Ley 1702 queda eliminado de la respuesta.
+- Página actualizada: `sintesis/respuesta-dp-radares-grupo-cipe-2026.md`.
