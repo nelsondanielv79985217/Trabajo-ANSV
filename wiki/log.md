@@ -933,3 +933,22 @@ Con esto quedan cerrados todos los hallazgos de la pasada de LINT completa del 2
 - Se revisó el proyecto V2 del usuario (Word y PDF; mismo texto, el PDF con firma de revisión) contra las fuentes. La revisión quedó en un Claude Doc.
 - Decisiones del usuario: el correo correcto es atencionalciudadano@ansv.gov.co, y el num. 4.9 de la Ley 1702 queda eliminado de la respuesta.
 - Página actualizada: `sintesis/respuesta-dp-radares-grupo-cipe-2026.md`.
+
+## [2026-10-16] ingest | Orientaciones técnicas para el acompañamiento a puestos de control (PDF y Word)
+
+- Subidos en el commit 9b4d2a7. PDF de 2 páginas y `.docx` con el mismo texto (comparado párrafo por párrafo); una sola página de fuente, citada por página del PDF.
+- Hallazgos: el enlace Survey123 es el mismo del Plan 365 (Circular Conjunta 023, p. 5); la ANSV acompaña sin interferir en el control (p. 2); cifra nueva de 8.697 fallecidos preliminares en 2025 (p. 2). Sin fecha, firma ni código.
+- Página creada: `fuentes/orientaciones-tecnicas-acompanamiento-puestos-control-ansv-2026.md`. Actualizadas: ANSV, ONSV, DITRA, Plan 365.
+
+## [2026-10-16] ingest | Manual de Identidad Visual ANSV, versión 01 de 2024 (`MANUAL~1.PDF`)
+
+- Subido en el commit c2c22d1. 124 páginas: manual de la ANSV (pp. 1-31) más el del Gobierno de Colombia (pp. 32-123), que tiene su propia numeración impresa; se cita por página del PDF.
+- Hallazgos: formatos de circular, resolución, comunicado y firma de correo (pp. 17-22); no hay plantilla de oficio propia de la ANSV; las plantillas de las pp. 17-19 conservan datos de Presidencia; el color primario es el de Mintransporte (pp. 8 y 63).
+- Página creada: `fuentes/manual-identidad-visual-ansv-2024.md`. Actualizada: ANSV.
+
+## [2026-10-16] ingest | Documentos de la 2.ª reunión del GTWG de la OMS (acta, presentación OMS y presentación The George Institute)
+
+- Subidos en el commit 525a701. Tres documentos en inglés; una página de fuente por documento. Las diapositivas con mapas (George Institute, pp. 8, 18 y 28) se leyeron sobre la imagen.
+- Hallazgos: cuestionario de 68 preguntas a países, con difusión en América Latina vía OPS y OISEVI; la ANSV no figura entre los asistentes; Colombia aparece como ejemplo de incentivo fiscal a la motocicleta (acta, p. 3) y con 2 estudios en la revisión de motocicletas (George Institute, p. 28). Son resultados preliminares, no recomendaciones finales de la OMS.
+- Páginas creadas: `fuentes/gtwg2-acta-segunda-reunion-guia-legal-oms-2026.md`, `fuentes/gtwg2-presentacion-oms-guia-legal-seguridad-vial-2026.md`, `fuentes/gtwg2-sintesis-evidencia-george-institute-2026.md` y la entidad `entidades/oms-organizacion-mundial-de-la-salud.md`. Actualizadas: ONSV, Sistema Seguro.
+- `index.md` actualizado: 148 páginas de fuente (146 ingeridas + 2 incierto), 9 entidades, 7 conceptos, por conteo directo.

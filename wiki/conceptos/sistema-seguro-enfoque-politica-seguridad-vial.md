@@ -3,7 +3,7 @@ title: "Sistema Seguro — enfoque de la política de seguridad vial"
 type: concepto
 tags: [sistema-seguro, safe-system, politica-publica, ansv, marco-teorico]
 status: ingerido
-last_updated: 2026-09-30
+last_updated: 2026-10-16
 ---
 
 # Sistema Seguro — enfoque de la política de seguridad vial
@@ -48,6 +48,7 @@ El [Manual de Control de Velocidad (GRSP/OMS/Banco Mundial/FIA Foundation, 2008)
 - [Manual de Control de Velocidad (GRSP/OMS/Banco Mundial/FIA Foundation, 2008)](../fuentes/manual-control-velocidad-grsp-oms-2008.md): fuente internacional del origen conceptual del enfoque (Visión Cero-Suecia, Seguridad Sustentable-Países Bajos, Sistema Seguro-Australia) — ver sección arriba.
 - [Cartilla de lineamientos de seguridad vial para instrumentos de planificación territorial (ANSV)](../fuentes/cartilla-lineamientos-seguridad-vial-instrumentos-planificacion-territorial.md): aplica el enfoque Sistema Seguro y las 8 áreas de acción del PNSV al nivel territorial (POT/PDT/PM/PEMP); no aporta contenido normativo nuevo sobre las áreas (tablas de acciones no recuperables por OCR), pero confirma la centralidad de esa estructura como eje organizador incluso en materiales de divulgación territorial.
 - [Ley 2635 de 2026](../fuentes/ley-2635-de-2026-proteccion-ciclistas-peatones.md): ordena articular las nuevas medidas de protección a ciclistas/peatones con el PNSV 2022-2031 (Art. 3°); norma más reciente del corpus que remite expresamente al PNSV.
+- [Síntesis de evidencia de The George Institute para la OMS (2026)](../fuentes/gtwg2-sintesis-evidencia-george-institute-2026.md) y [acta de la 2.ª reunión del GTWG](../fuentes/gtwg2-acta-segunda-reunion-guia-legal-oms-2026.md) (añadido 2026-10-16): según estas revisiones preliminares, el enfoque de Sistema Seguro aparece en solo 20-21 % de la evidencia sobre leyes de velocidad y distracción, y suele quedarse en guías técnicas sin convertirse en obligaciones legales (presentación, pp. 14 y 23; acta, p. 2).
 
 ## Incertidumbres
 

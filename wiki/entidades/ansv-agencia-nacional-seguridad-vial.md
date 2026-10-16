@@ -3,7 +3,7 @@ title: "ANSV — Agencia Nacional de Seguridad Vial"
 type: entidad
 tags: [ansv, marco-normativo, dci, consejo-directivo, fondo-nacional-seguridad-vial]
 status: ingerido
-last_updated: 2026-09-30
+last_updated: 2026-10-16
 ---
 
 
@@ -109,6 +109,8 @@ El [PNSV 2022-2031](../fuentes/pnsv-2022-2031-documento-tecnico-soporte.md) (doc
 - Todas las fuentes del sistema de gestión de calidad ingeridas hasta ahora (CA-02, PR-06, PR-07, PR-08, GIP-FO-05, Lineamientos de cargue de evidencias) documentan la operación de una de sus siete dependencias, la DCI.
 - [CONPES 4091 de 2022](../fuentes/conpes-4091-de-2022-politica-asistencia-tecnica-territorial.md): **ausencia notable** — no menciona a la ANSV ni a la DCI (ver hallazgo arriba).
 - [Ley 2635 de 2026](../fuentes/ley-2635-de-2026-proteccion-ciclistas-peatones.md): norma más reciente del corpus; asigna a la ANSV, junto con Mintransporte, la fijación de criterios de priorización de infraestructura para ciclistas/peatones (Art. 2° Par. 3°) y un nuevo mandato de asistencia técnica a entidades territoriales en esa materia (Art. 3°).
+- [Manual de Identidad Visual ANSV, versión 01 de 2024](../fuentes/manual-identidad-visual-ansv-2024.md) (añadido 2026-10-16): formatos de circular, resolución, comunicado y firma de correo (pp. 17-22), aprobaciones de la Oficina Asesora de Comunicaciones (p. 4) y canales oficiales (p. 31). El color primario de la ANSV es el asignado a Mintransporte (pp. 8 y 63).
+- [Orientaciones técnicas para el acompañamiento a puestos de control (2026)](../fuentes/orientaciones-tecnicas-acompanamiento-puestos-control-ansv-2026.md) (añadido 2026-10-16): el acompañamiento de la ANSV en vía es "técnico, preventivo y de articulación" y no interfiere en el control ni en la imposición de comparendos (p. 2).
 
 ## Incertidumbres
 
