@@ -3,7 +3,7 @@ title: "Ministerio de Transporte (Mintransporte)"
 type: entidad
 tags: [mintransporte, cabeza-sector-transporte, autoridad-transito, conset, marco-normativo]
 status: ingerido
-last_updated: 2026-09-30
+last_updated: 2026-10-20
 ---
 
 # Ministerio de Transporte (Mintransporte)
@@ -56,6 +56,8 @@ El Ministerio integra, junto con la ANSV, la Superintendencia de Transporte y la
 
 Cambio de Ministro de Transporte entre 2023 y marzo de 2025, sin fuente en el corpus que lo explique (mismo patrón ya documentado para la Dirección General de la ANSV y para la Superintendencia de Transporte — ver [SuperTransporte](superintendencia-de-transporte.md)).
 
+*Actualización (2026-10-20):* María Fernanda Rojas Mantilla también firma el [Decreto 0999 de 2026](../fuentes/decreto-0999-de-2026-educacion-vial-bicicleta.md), del 4 de agosto de 2026 (p. 9). Elsa M. Noguera de la Espriella firma como Ministra la [Circular 20261300000347](../fuentes/circular-externa-20261300000347-2026-control-en-via-dispositivo-electronico.md) y la [Resolución 20263040036655](../fuentes/resolucion-20263040036655-2026-derogatoria-circular-control-en-via.md), ambas de septiembre de 2026. El cambio de titular cae entonces entre el 4 de agosto y septiembre de 2026; ninguna fuente del corpus lo explica. `[INCIERTO]`
+
 ## Presencia en el corpus
 
 - [Ley 769 de 2002](../fuentes/ley-769-de-2002-codigo-nacional-transito.md): lo incluye como autoridad de tránsito (Art. 3°).
@@ -65,6 +67,7 @@ Cambio de Ministro de Transporte entre 2023 y marzo de 2025, sin fuente en el co
 - Bloque completo "Organismos y agentes de tránsito — conceptos y circulares Mintransporte" (40 fuentes, ver `index.md`): la producción normativa/doctrinal más numerosa de una sola entidad en todo el corpus.
 - [Circular Conjunta 023/2025 — Plan 365](../fuentes/circular-conjunta-023-2025-plan-365.md) y [Circular Conjunta 058/2024 — Plan 70D](../fuentes/circular-conjunta-058-2024-plan-70d-control-vigilancia.md): coordinación interinstitucional anual junto con ANSV, SuperTransporte y DITRA.
 - [Ley 2635 de 2026](../fuentes/ley-2635-de-2026-proteccion-ciclistas-peatones.md): norma más reciente del corpus; el Mintransporte, junto con la ANSV, queda a cargo de la articulación de políticas de protección a ciclistas/peatones (Art. 3°) y de reglamentar el enfoque diferencial dentro de los 6 meses siguientes a su promulgación (Art. 6°).
+- [Decreto 0999 de 2026](../fuentes/decreto-0999-de-2026-educacion-vial-bicicleta.md) (añadido 2026-10-20): Mintransporte presta asistencia técnica a las autoridades territoriales "directamente o a través de la Agencia Nacional de Seguridad Vial" en movilidad activa y educación vial (art. 2.3.2.1.1.1, num. 1, p. 7).
 
 ## Incertidumbres
 

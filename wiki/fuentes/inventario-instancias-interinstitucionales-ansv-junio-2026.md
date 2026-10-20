@@ -4,7 +4,7 @@ type: fuente
 tags: [instancias-interinstitucionales, dci, ansv, coordinacion, consejo-directivo, consejo-consultivo, consejos-territoriales, comite-operativo, rot, inventario]
 fuente_pdf: "Inventario de las instancias interinstitucionales  ANSV Junio ajustado final (1).xlsx"
 status: ingerido
-last_updated: 2026-10-07
+last_updated: 2026-10-20
 ---
 
 # Inventario de las instancias interinstitucionales de la ANSV (corte junio de 2026)
@@ -51,6 +51,8 @@ last_updated: 2026-10-07
 4. **Clasificaciones inconsistentes**: varias instancias tienen naturaleza "Estratégica / Voluntaria" y participación "Obligatoria / estratégica" a la vez (p. ej. fila 19, Mesa BIM). La nota metodológica de la hoja oculta (fila 20) define "legal", "reglamentaria" y "estratégica/voluntaria" según el origen normativo, pero el inventario no siempre la aplica.
 5. **Cambio entre marzo y junio de 2026**: la versión de marzo (hoja oculta) tenía 11 instancias, con "Espacios de participación ciudadana y control social" (respaldada en el archivo por la "Ley 1557 de 2015" y el Decreto 1535 de 2022), que **desaparece** en la de junio. La ROT pasa de "Voluntaria / estratégica" a "Obligatoria / estratégica" y de naturaleza "Estratégica" a "Reglamentaria", tras la [Resolución 20263040005765 de 2026](resolucion-20263040005765-2026-rot.md). El Consejo Directivo pasa de periodicidad "Semestral" a "Mensual" y de responsable DCI a DAPRE/Dirección General.
 6. **Normas nuevas citadas que no están en el corpus**: Resoluciones 479 y 480 de 2026 (Consejo Consultivo), 507 de 2026 (Comité Operativo), 516 de 2022 y 097 de 2019 (Consejos Territoriales), 083 de 2019, Decreto 3680 de 2017, Decreto 0402 de 2025, entre otras.
+
+*Actualización (2026-10-20):* la Resolución 480 de 2026 ya está en el corpus ([página](resolucion-480-de-2026-convocatoria-consejo-consultivo.md)), junto con la Resolución 546 de 2026, que conforma el Consejo Consultivo 2026-2028. La Resolución 479 de 2026 sigue fuera del corpus. Ver [Consejo Consultivo de Seguridad Vial](../conceptos/consejo-consultivo-seguridad-vial.md).
 
 ## Conexiones
 

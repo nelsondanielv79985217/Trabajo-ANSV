@@ -3,7 +3,7 @@ title: "Genealogía normativa de 'asistencia técnica'"
 type: concepto
 tags: [asistencia-tecnica, genealogia, dci, ansv, codigo-nacional-transito, mineducacion]
 status: ingerido
-last_updated: 2026-10-07
+last_updated: 2026-10-20
 ---
 
 # Genealogía normativa de "asistencia técnica"
@@ -64,6 +64,10 @@ La [Ley 2635 de 2026 — Protección de ciclistas y peatones](../fuentes/ley-263
 ## Nota (2026-10-07, tras ingerir el Decreto 1049 de 2026)
 
 El [Decreto 1049 de 2026](../fuentes/decreto-1049-de-2026-comision-intersectorial-asistencia-tecnica-territorial.md) crea la Comisión Intersectorial para la Cooperación y Asistencia Técnica Territorial, adicionando el Capítulo 4 al Título 11 de la Parte 2 del Libro 2 del [Decreto 1082 de 2015](../fuentes/decreto-1082-de-2015-dur-sector-planeacion-nacional.md). Con él, la noción técnica de ATT del CONPES 4091 pasa a tener una instancia permanente de gobierno, presidida por el DNP y con secretaría técnica del DAFP (arts. 2.2.11.4.3 y 2.2.11.4.7, pp. 4-6). Entre sus funciones están caracterizar la oferta y la demanda de asistencia técnica del Gobierno nacional, aprobar una Agenda Nacional de ATT y recomendar un Modelo de ATT dentro del MIPG (art. 2.2.11.4.4, nums. 1, 3 y 8, pp. 5-6). La ANSV y Mintransporte no son miembros (pp. 4-5). Para quien redacte un producto sobre el protocolo de asistencia técnica de la DCI, este decreto es ahora el referente normativo vigente de la ATT a nivel nacional, por encima del CONPES, que es un documento de política y no una norma (Decreto 1082, art. 2.2.12.1.1, p. 260).
+
+## Nota (2026-10-20, tras ingerir el Decreto 0999 de 2026)
+
+El [Decreto 0999 de 2026](../fuentes/decreto-0999-de-2026-educacion-vial-bicicleta.md) es la segunda norma del corpus con la fórmula "a través de la ANSV" para asistencia técnica. La primera era el par. 3 del art. 7 de la Ley 769, dirigido a las instituciones de educación superior. En este decreto, Mintransporte brinda asistencia técnica "directamente o a través de la Agencia Nacional de Seguridad Vial, a las autoridades territoriales de tránsito y transporte" en movilidad activa, segura y sostenible (art. 2.3.2.1.1.1, num. 1, p. 7). La ANSV, además, debe "coordinar con el Ministerio de Educación Nacional las asistencias técnicas a las entidades territoriales" en educación vial (art. 2.3.2.1.1.2, num. 2, p. 8). El decreto no menciona a la DCI ni al PR-06.
 
 ## Incertidumbres
 

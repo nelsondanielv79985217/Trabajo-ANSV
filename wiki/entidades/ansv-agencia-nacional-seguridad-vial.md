@@ -3,7 +3,7 @@ title: "ANSV — Agencia Nacional de Seguridad Vial"
 type: entidad
 tags: [ansv, marco-normativo, dci, consejo-directivo, fondo-nacional-seguridad-vial]
 status: ingerido
-last_updated: 2026-09-30
+last_updated: 2026-10-20
 ---
 
 
@@ -109,10 +109,15 @@ El [PNSV 2022-2031](../fuentes/pnsv-2022-2031-documento-tecnico-soporte.md) (doc
 - Todas las fuentes del sistema de gestión de calidad ingeridas hasta ahora (CA-02, PR-06, PR-07, PR-08, GIP-FO-05, Lineamientos de cargue de evidencias) documentan la operación de una de sus siete dependencias, la DCI.
 - [CONPES 4091 de 2022](../fuentes/conpes-4091-de-2022-politica-asistencia-tecnica-territorial.md): **ausencia notable** — no menciona a la ANSV ni a la DCI (ver hallazgo arriba).
 - [Ley 2635 de 2026](../fuentes/ley-2635-de-2026-proteccion-ciclistas-peatones.md): norma más reciente del corpus; asigna a la ANSV, junto con Mintransporte, la fijación de criterios de priorización de infraestructura para ciclistas/peatones (Art. 2° Par. 3°) y un nuevo mandato de asistencia técnica a entidades territoriales en esa materia (Art. 3°).
+- [Manual de Identidad Visual ANSV, versión 01 de 2024](../fuentes/manual-identidad-visual-ansv-2024.md) (añadido 2026-10-16): formatos de circular, resolución, comunicado y firma de correo (pp. 17-22), aprobaciones de la Oficina Asesora de Comunicaciones (p. 4) y canales oficiales (p. 31). El color primario de la ANSV es el asignado a Mintransporte (pp. 8 y 63).
+- [Orientaciones técnicas para el acompañamiento a puestos de control (2026)](../fuentes/orientaciones-tecnicas-acompanamiento-puestos-control-ansv-2026.md) (añadido 2026-10-16): el acompañamiento de la ANSV en vía es "técnico, preventivo y de articulación" y no interfiere en el control ni en la imposición de comparendos (p. 2).
+- [Ley 2222 de 2022](../fuentes/ley-2222-de-2022-bici-segura.md) (añadido 2026-10-20): texto vigente del num. 15.4 de la Ley 1702 (Consejo Consultivo). Encarga a la ANSV campañas sobre ciclistas (art. 5) y un capítulo sobre el ciclista en el PNSV (art. 4). Ver [Consejo Consultivo de Seguridad Vial](../conceptos/consejo-consultivo-seguridad-vial.md).
+- [Decreto 0999 de 2026](../fuentes/decreto-0999-de-2026-educacion-vial-bicicleta.md) (añadido 2026-10-20): responsabilidades de la ANSV en educación vial y uso seguro de la bicicleta, entre ellas coordinar con el Ministerio de Educación las asistencias técnicas a las entidades territoriales (art. 2.3.2.1.1.2, p. 8).
+- **Dirección General (añadido 2026-10-20):** Mariantonia Tabares Pulgarín firma como Directora General la [Resolución 480 de 2026](../fuentes/resolucion-480-de-2026-convocatoria-consejo-consultivo.md) (22 de mayo) y la [Resolución 546 de 2026](../fuentes/resolucion-546-de-2026-conformacion-consejo-consultivo.md) (19 de junio). Su último registro documental pasa del 17 de febrero al **19 de junio de 2026**.
 
 ## Incertidumbres
 
-- No se ha verificado en este corpus el contenido de las normas posteriores que modifican la Ley 1702/2013 (Ley 2294 de 2023 Art. 177, Ley 2222 de 2022 Art. 3) ni el Decreto 1479 de 2014 — ver incertidumbres en la página de la ley.
+- No se ha verificado en este corpus el Decreto 1479 de 2014. *(Resuelto 2026-10-20: la [Ley 2222 de 2022](../fuentes/ley-2222-de-2022-bici-segura.md) ya está en el corpus. La Ley 2294 de 2023 ya estaba verificada en su propia página.)*
 - No se han verificado en este corpus las normas específicas que introdujeron cada una de las cinco competencias catalogadas arriba en la Ley 769/2002 (más allá de lo que anota EVA-Gestor Normativo dentro del propio texto), salvo el Art. 158A (Ley 2251 de 2022, Art. 18).
 - No se ha verificado si, con posterioridad a 2022, algún documento (no incluido en este corpus) articuló expresamente a la ANSV/DCI con la Política Nacional de Asistencia Técnica Territorial del CONPES 4091.
 - No se identifica en este corpus la norma que expide la "Metodología para establecer la velocidad límite en las vías colombianas" que tanto la Ley 769/2002 como la Ley 2251/2022 dan por hecho que la ANSV expedirá junto con Mintransporte.
