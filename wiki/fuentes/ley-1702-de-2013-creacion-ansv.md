@@ -4,7 +4,7 @@ type: fuente
 tags: [ley, creacion-ansv, marco-normativo, dci, ansv, ctsv, consejo-directivo, fondo-nacional-seguridad-vial, observatorio-nacional-seguridad-vial]
 fuente_pdf: "Ley_1702_de_2013.pdf"
 status: ingerido
-last_updated: 2026-09-25
+last_updated: 2026-10-20
 ---
 
 # Ley 1702 de 2013 — Por la cual se crea la Agencia Nacional de Seguridad Vial y se dictan otras disposiciones
@@ -83,3 +83,4 @@ Es la ley fundacional de la ANSV y, con ella, de la propia Dirección de Coordin
 
 - No se puede determinar, solo con el texto de esta ley, si "Consejo Territorial de Seguridad Vial" en singular implica un único consejo nacional o uno por departamento — la composición del artículo (que empieza por "el Gobernador del departamento") sugiere lo segundo, pero es una inferencia, no una afirmación expresa de la norma. `[INCIERTO: alcance exacto — uno o varios Consejos Territoriales — no resuelto por el texto legal]`.
 - El contenido íntegro de las modificaciones introducidas por el Art. 177 de la Ley 2294 de 2023, el Art. 3 de la Ley 2222 de 2022 y el Decreto 1479 de 2014 no puede verificarse porque esas normas no están en este repositorio; solo se registra lo que la publicación de EVA-Gestor Normativo anota sobre ellas dentro del texto de esta ley.
+- *Actualización (2026-10-20):* el texto de la Ley 2222 de 2022 ya está en el corpus ([Ley 2222 de 2022](ley-2222-de-2022-bici-segura.md)). El num. 15.4 vigente (Consejo Consultivo) puede citarse desde su art. 3, pp. 1-2. Siguen sin verificarse el art. 177 de la Ley 2294 de 2023 en esta página y el Decreto 1479 de 2014.
