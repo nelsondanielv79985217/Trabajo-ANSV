@@ -956,3 +956,9 @@ Con esto quedan cerrados todos los hallazgos de la pasada de LINT completa del 2
 - Se tabularon las 135 fichas (32 departamentos, 32 capitales, 71 ciudades priorizadas): variación del último año, tasa de mortalidad 2022, puestos nacionales, promedio anual de siniestros y las tres respuestas institucionales (organismo de tránsito, plan local, comité local). Mes, día y franja horaria con más fallecidos se leyeron sobre la imagen porque el texto extraído mezcla textos ocultos; las segundas franjas cortadas por el pie de la ficha se completaron con la regla de bloques de tres horas. No se tabuló el total de fallecidos por territorio (gráfico ilegible en el texto).
 - Páginas creadas: `fuentes/fichas-nuevos-mandatarios-tabulacion-por-territorio.md` y `fuentes/fichas-nuevos-mandatarios-tabulacion.csv`. Actualizadas: página de la fuente e `index.md` (171 fuentes: 162 ingeridas + 9 incierto).
 - Resumen: plan local "No" en 15 de 32 departamentos, 8 de 32 capitales y 25 de 71 ciudades priorizadas; organismo de tránsito "Sí" en 24, 28 y 71 respectivamente.
+
+## [2026-10-26] ingest | Ley 2486 de 2025 — vehículos eléctricos livianos de movilidad personal urbana
+
+- Nueva carga detectada en `main` (commit `cdb99c6`, un solo archivo: `LEY 2486 DEL 16 DE JULIO DE 2025.pdf`); se integró `main` a la rama de trabajo. Escaneo de 10 páginas con OCR de calidad media; fecha de sanción no legible.
+- Página creada: `fuentes/ley-2486-de-2025-vehiculos-electricos-livianos-movilidad-personal.md`. Actualizados: página del Decreto 999/2026 (confirma que la "Ley 2486" que cita es esta) e `index.md` (172 fuentes: 163 ingeridas + 9 incierto).
+- Hallazgos: la ley asigna a Mintransporte y la ANSV programas de educación (art. 11) y al ONSV la inclusión de estos vehículos en sus informes (art. 12); plazo de reglamentación de un año (art. 7); duda no resuelta sobre qué redacción del art. 60 del CNT prevalece frente a la Ley 2635/2026.
