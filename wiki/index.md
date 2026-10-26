@@ -2,7 +2,7 @@
 
 Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos de trabajo (INGEST/QUERY/LINT).
 
-*Actualización (2026-10-26)*: ingest de las cargas del 25-10-2026 (27 fuentes nuevas, ver sección "Cargas del 25 de octubre de 2026" más abajo y la entrada de `log.md`). **170 páginas de fuente en `wiki/fuentes/`** (162 ingeridas + 8 incierto; cifra verificada por conteo directo de `status:` en el front matter). Nuevo concepto: Consejo Consultivo de Seguridad Vial.
+*Actualización (2026-10-26)*: ingest de las cargas del 25-10-2026 (27 fuentes nuevas, ver sección "Cargas del 25 de octubre de 2026" más abajo y la entrada de `log.md`). **171 páginas de fuente en `wiki/fuentes/`** (162 ingeridas + 9 incierto; cifra verificada por conteo directo de `status:` en el front matter). Nuevo concepto: Consejo Consultivo de Seguridad Vial.
 
 *Actualización (2026-10-07, cuarta)*: ingest de la Resolución Mintransporte 20263040036655 de 2026 (deroga la Circular Conjunta 20254000000867 de 2025). **143 páginas de fuente en `wiki/fuentes/`** (141 ingeridas + 2 incierto).
 
@@ -269,6 +269,7 @@ Se creó el concepto [Régimen de autorización SAST/fotodetección](conceptos/s
 - [Decreto 999 de 2026 — Educación vial y uso seguro de la bicicleta](fuentes/decreto-999-de-2026-educacion-vial-bicicleta-medios-movilidad.md) — asistencia técnica de Mintransporte, directamente o por la ANSV, a autoridades territoriales de tránsito (art. 2.3.2.1.1.1, p. 7). OCR degradado. (ingerido)
 - [Guía metodológica de Planes Locales de Seguridad Vial (ANSV, DCI, 2022)](fuentes/guia-metodologica-planes-locales-seguridad-vial-ansv.md) — cinco fases, comité local, equipo mínimo de 11 cargos. (ingerido)
 - [Fichas de la Estrategia Nuevos Mandatarios](fuentes/fichas-estrategia-nuevos-mandatarios-ansv-2024.md) — 135 territorios, datos 2022; componente institucional por territorio (no tabulado). (incierto)
+- [Fichas Nuevos Mandatarios — tabulación por territorio](fuentes/fichas-nuevos-mandatarios-tabulacion-por-territorio.md) — 135 territorios (32 departamentos, 32 capitales, 71 ciudades priorizadas): tasa 2022, puestos, mes/día/franja, siniestros por año, y si tienen organismo de tránsito, plan local y comité local; CSV adjunto. (incierto)
 - [Mapa de Colombia por regiones](fuentes/mapa-colombia-por-regiones-ansv.md) — coincide con las ocho regiones del Decreto 1430/2022. (incierto)
 - [Revista Observatorios de Seguridad Vial — ROT, 3.ª edición (nov. 2025)](fuentes/revista-observatorios-seguridad-vial-rot-2025-tercera-edicion.md) — ocho artículos territoriales; lectura parcial. (incierto)
 
