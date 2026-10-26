@@ -1,0 +1,64 @@
+---
+title: "Decreto 1430 de 2022 — Aprueba el Plan Nacional de Seguridad Vial 2022-2031 (texto primario con matriz de acciones y dependencias líderes)"
+type: fuente
+tags: [decreto, marco-normativo, pnsv-2022-2031, sistema-seguro, asistencia-tecnica, dci, planes-locales-seguridad-vial, ocho-regiones, matriz-de-acciones, gobernanza]
+fuente_pdf: "DECRETO 1430 DEL 29JUL2022 MIntransporte PNSV 2022-2031.pdf"
+status: ingerido
+last_updated: 2026-10-26
+---
+
+# Decreto 1430 de 2022 (29 de julio de 2022) — "Por medio del cual se aprueba el Plan Nacional de Seguridad Vial 2022-2031"
+
+**Archivo fuente:** `DECRETO 1430 DEL 29JUL2022 MIntransporte PNSV 2022-2031.pdf` (91 páginas; escaneo con capa OCR de calidad media; las tablas de acciones se leyeron sobre la imagen en las páginas citadas). Se cita por la numeración "PÁGINA [N] de 91", que coincide con la del PDF. El número del decreto (1430) y el sello de fecha son parcialmente legibles; la fecha del 29-07-2022 viene del nombre del archivo y de la cita del decreto en otras fuentes del corpus. `[INCIERTO: el texto extraído no muestra la fecha completa de expedición.]`
+**Estructura:** decreto de 5 artículos (pp. 1-6) y **Anexo: el Plan Nacional de Seguridad Vial 2022-2031** (pp. 7-91). Es el **texto primario** que las páginas del [documento técnico de soporte](pnsv-2022-2031-documento-tecnico-soporte.md) daban por no disponible.
+
+## Considerandos (pp. 1-4)
+
+Cita las Leyes 105/1993, 769/2002 (art. 4 par. 1: el Plan debe servir de base a los planes departamentales, metropolitanos, distritales y municipales), 1702/2013 (art. 5: la ANSV es responsable de elaborar, planificar, coordinar y dar seguimiento al plan), el Plan Nacional de Desarrollo 2018-2022 (actualizar el PNSV con horizonte de 10 años), el art. 3 num. 5 del Decreto 787/2015 (el Consejo Directivo somete el plan a aprobación del Gobierno) y la **consulta de la Sala de Consulta del Consejo de Estado del 6-12-2021 (rad. 2467)**, según la cual el plan "sí debe ser aprobado" por el Gobierno mediante decreto (p. 2). Anota que el ONSV constató que la meta de fatalidades del plan 2011-2021 "no evidencia avances hacia su reducción" (p. 3) y que motociclistas, peatones y ciclistas son el 88 % de las fatalidades (p. 3). Define **ocho regiones** (p. 4; ver abajo) y registra la publicación para comentarios del 9 al 24 de junio de 2022 (p. 4).
+
+## Articulado del decreto
+
+| Artículo | Contenido | Pág. |
+| --- | --- | --- |
+| 1 | Aprueba el PNSV 2022-2031, contenido en el Anexo. | 4 |
+| 2 | Ocho áreas de acción: velocidades seguras; vehículos seguros; infraestructura vial segura; comportamiento seguro en los actores viales; cumplimiento de normas de tránsito; atención integral a víctimas; gobernanza; gestión del conocimiento. | 4-6 |
+| 3 | La ANSV coordina la ejecución, seguimiento y evaluación; el seguimiento lo hace el ONSV con periodicidad anual. | 6 |
+| 4 | **Articulación con los Planes Locales de Seguridad Vial**: deben armonizarse con el PNSV **dentro de los doce (12) meses siguientes a la expedición del decreto**; las entidades territoriales atienden las acciones particulares del Anexo según su siniestralidad. | 6 |
+| 5 | Vigencia desde la publicación. | 6 |
+
+## Anexo (el Plan): contenido relevante para la DCI
+
+- **Sistema Seguro, objetivo y meta** (pp. 8-9): objetivo "Proteger juntos la vida e integridad de los actores viales"; meta de reducir al menos 50 % las muertes y lesiones para 2030, con línea base en las cifras definitivas de 2021 del ONSV (nota 2, p. 9). Principios, entre ellos coordinación, cooperación, evidencia y seguimiento orientado a resultados (pp. 9-10).
+- **Ocho regiones** (p. 11, nota 3): Amazonia, Caribe, Central, Eje Cafetero y Antioquia, Llanos y Orinoquía, Pacífico, Santanderes y Seaflower; la composición coincide con la de la imagen [Mapa de Colombia por regiones](mapa-colombia-por-regiones-ansv.md).
+- **Matriz de acciones** (pp. 13-86): para cada acción se indica la entidad líder, la **dependencia** líder, las entidades de apoyo, las actividades y el peso porcentual de cada actividad con su año. Las acciones en que la **Dirección de Coordinación Interinstitucional** figura como dependencia líder de la ANSV son:
+
+| Acción | Descripción | Actividades y plazos | Apoyo | Pág. |
+| --- | --- | --- | --- | --- |
+| **1.1.2** | Fortalecer la normatividad e institucionalidad para la vigilancia y control del tránsito y el transporte (incluye creación o fortalecimiento de organismos de tránsito; ajustes sobre conmutación de multas por servicio comunitario, control de la embriaguez no alcohólica y jurisdicción de las autoridades). | Diagnóstico (10 %, 2022); formulación de la estrategia (10 %, 2022); implementación con informe anual (60 %; 20 % por informe, 2023-2026). | Mintransporte, Supertransporte, DITRA | 52 |
+| **1.1.3** | Definir la estrategia para fortalecer la gestión del control del tránsito y el transporte (planeación, capacidades, datos, indicadores, recursos, protocolos, puntos críticos). | Diagnóstico (10 %, 2022); formulación (10 %, 2022); implementación (80 %; 10 % por informe anual, 2023-2030). | Mintransporte, Supertransporte | 53 |
+| **1.1.4** | Estrategia de vigilancia y control para el cumplimiento de los límites de velocidad (dependencia "Gestión de velocidad"). | Diagnóstico (30 %, 2023); estrategia de control (30 %, 2023); socialización (40 %, 2024). | Mintransporte, DITRA | 53 |
+| **1.2.3** | Estructurar la política pública de gestión de velocidad en el marco de las políticas de seguridad vial (dependencia "Gestión de velocidad"). | Documento de política pública (60 %, 2026); socialización (30 %, 2027); gestión de adopción por las entidades pertinentes (10 %, 2028). | DNP, Mintransporte, ANI, INVÍAS | 15 |
+| **1.2.1** | Lineamientos para mejorar la gestión de los procesos contravencionales. | Diagnóstico (40 %, 2025); propuestas (40 %, 2026); publicación (20 %, 2026). | — | 55 |
+| **1.2.2** | **Ofrecer asistencia técnica para el ejercicio de los procesos sancionatorios** originados por infracciones: programa dirigido a las autoridades de tránsito que fortalezca capacidades y unifique conceptos. | Identificación de autoridades beneficiarias y diagnóstico (30 %, 2025); diseño del programa anual de capacitación (30 %, 2025); implementación (40 %; 10 % por informe anual, 2026-2029). | Mintransporte, Supertransporte | 55 |
+| **2.1.1** | Identificar mecanismos para fortalecer la financiación de proyectos de seguridad vial en los territorios. | Modelos (70 %, 2023); socialización (30 %, 2024). | — | 65 |
+| **2.2.1** | **Ofrecer asistencia técnica a las entidades territoriales para la adopción del enfoque Sistema Seguro**: "estrategia de asistencia técnica y pedagógica" con acompañamiento en la gestión de factores de riesgo y en la formulación de los planes locales de seguridad vial, con elementos presenciales y virtuales y alta cobertura. | Diseño de la estrategia (30 %, 2022); identificación de entidades beneficiarias y cronograma (25 %, 2022); implementación con informe anual (55 %; 5 % por informe, 2023-2031). | — | 65 |
+| **3.1.1** | Programa de **asistencia técnica a actores privados, sociales y académicos** (gremios, empresas, cámaras de comercio, colectivos de actores viales, concesiones, organismos de socorro, ARL, organismos de apoyo). | Diseño (15 %, 2023); actores y plan (15 %, 2023); implementación (60 %; 10 % por informe, 2024-2030). | Mintrabajo, Mineducación, Mintransporte, Minsalud, Supertransporte, ANI, INVIAS | 67 |
+| **3.1.2** | Fortalecer la articulación de la ANSV con el Comité Empresarial de Seguridad Vial. | Ruta de trabajo (20 %, 2022); seguimiento y comités regionales (80 %; 10 % por informe, 2023-2030). | — | 67 |
+| **3.1.3** | Estrategia de participación ciudadana de los actores viales a nivel territorial, en especial los más vulnerables. | Identificación de actores territoriales (10 %, 2022); diseño (10 %, 2022); implementación (80 %; 10 % por informe, 2023-2030). | — | 68 |
+
+  Otras acciones del Plan con asistencia técnica (líder distinto de la DCI según las páginas citadas): programa de promoción, capacitación y asistencia técnica en planes de movilidad escolar en los 32 departamentos (acción 1.1.4 del área de comportamiento, pp. 43-44 y 78); lineamientos de seguridad vial en instrumentos de planificación territorial (acción 2.3.1, con **Observatorio Nacional de Seguridad Vial** como dependencia líder, y asistencia técnica "2023-2026", p. 66); asistencia técnica a entidades territoriales para la gestión de la infraestructura (p. 14); difusión de buenas prácticas territoriales mediante programas de asistencia técnica (pp. 48-49); entornos laborales (p. 69). `[INCIERTO: las dependencias líderes de las acciones de las pp. 14, 43-44, 48-49 y 69 se tomaron de la extracción de texto, sin verificar sobre la imagen.]`
+- **Énfasis regional** (pp. 79-91): el plan adapta cada objetivo nacional a las ocho regiones; en la gobernanza, el objetivo 2.2 ("Asistir técnicamente a las entidades territoriales en la gestión de la seguridad vial") aparece con énfasis regionales de "asistencia técnica, generación de herramientas y acompañamiento a entidades territoriales" para implementar el enfoque Sistema Seguro (texto extraído de pp. 82 y 84, sin verificar sobre la imagen). El indicador "Municipios asistidos técnicamente en la implementación del enfoque de Sistema Seguro" (24 % → 41 %) consta en el [documento técnico de soporte](pnsv-2022-2031-documento-tecnico-soporte.md), no se ubicó en este decreto. `[INCIERTO: si el decreto incluye la tabla de indicadores.]`
+
+## Hallazgos para el trabajo de asesoría
+
+1. **El Anexo es el texto primario de las acciones de asistencia técnica con la DCI como dependencia líder.** El corpus ya registraba la acción 2.2.1 y su vínculo con la DCI por el [documento técnico de soporte](pnsv-2022-2031-documento-tecnico-soporte.md) y por la [Estrategia de Asistencia Técnica y Pedagógica](estrategia-asistencia-tecnica-pedagogica-sistema-seguro.md) (documento propio de la DCI). Lo que aporta esta página es la **verificación en el decreto mismo**: la acción 2.2.1 (p. 65) nombra a la "Dirección de Coordinación Interinstitucional" como dependencia líder, con peso porcentual y año por actividad; y confirma otras acciones con la DCI como dependencia líder: **3.1.1** (asistencia técnica a actores privados, sociales y académicos, p. 67; ya reportada en el informe de seguimiento), las de vigilancia, control y gestión de velocidad 1.1.2, 1.1.3, 1.1.4, 1.2.1 y 1.2.3, las de participación 3.1.2 y 3.1.3, y **1.2.2** (asistencia técnica en procesos sancionatorios a autoridades de tránsito, p. 55), que no aparece registrada en otras páginas del corpus como acción de la DCI. El [Informe de seguimiento al PNSV 2024](informe-seguimiento-pnsv-2024-segundo-informe.md) reporta el avance de las acciones 2.1.1, 2.2.1, 3.1.1, 3.1.2 y 3.1.3 (2.2.1: 65 % de la meta; 3.1.1: 0 %). El [Decreto 787/2015](decreto-787-de-2015-funciones-ansv.md) no nombra la "asistencia técnica" como tal; este decreto sí. Ver [genealogía](../conceptos/genealogia-asistencia-tecnica.md) y [DCI](../entidades/dci-direccion-coordinacion-interinstitucional.md).
+2. **Qué dice y qué no dice**: el decreto aprueba el plan y fija responsables, pero (a) no define "asistencia técnica" ni su procedimiento; (b) no dice que PR-06 sea el instrumento de la acción 2.2.1; (c) fija porcentajes y años de las actividades que la DCI puede usar como línea de base para medir cumplimiento. Los cumplimientos efectivos están en el [Informe de seguimiento al PNSV 2024](informe-seguimiento-pnsv-2024-segundo-informe.md).
+3. **Plazo de armonización de los planes locales**: el art. 4 (p. 6) fijó 12 meses desde la expedición (hasta julio de 2023 aproximadamente). Se conecta con la [Res. 583/2023](resolucion-583-de-2023-armonizacion-plsv-pnsv.md), que desarrolla la armonización, y con la [Guía metodológica de PLSV](guia-metodologica-planes-locales-seguridad-vial-ansv.md).
+4. **Región "Seaflower"**: el decreto usa "Seaflower" (p. 11), el rótulo de la imagen del mapa dice "Sea Flower". Es una variación de escritura sin consecuencias.
+5. **La matriz usa los años 2022-2031 como plazos**: varias actividades 2022-2023 ya vencieron; la verificación de su cumplimiento no está en este documento.
+
+## Conexiones
+
+- [PNSV 2022-2031 — Documento técnico de soporte](pnsv-2022-2031-documento-tecnico-soporte.md) · [Matriz de diagnóstico de la acción 1.1.2](matriz-diagnostico-accion-1.1.2-pnsv-control-dci.md) · [Informe de seguimiento al PNSV 2024](informe-seguimiento-pnsv-2024-segundo-informe.md)
+- [Ley 2251 de 2022](ley-2251-de-2022-sistema-seguro.md) · [Resolución 583 de 2023](resolucion-583-de-2023-armonizacion-plsv-pnsv.md) · [Sistema Seguro](../conceptos/sistema-seguro-enfoque-politica-seguridad-vial.md)
+- [PNSV 2011-2021](pnsv-2011-2021-plan-nacional-seguridad-vial-ajuste-2014.md) (plan antecesor)

@@ -68,3 +68,5 @@ last_updated: 2026-10-07
 - El archivo no está firmado (columna de firma vacía, filas 31-35) ni tiene código del sistema de gestión: no consta si es la versión oficial aprobada.
 - Las columnas de seguimiento de sesiones (enero a marzo de 2026) de la hoja oculta están vacías: el archivo no permite saber cuántas sesiones se hicieron.
 - El texto de algunas celdas se corta en el archivo mismo (p. ej. objetivo de la Estrategia de Movilidad Activa en la hoja oculta, fila 19, que termina en "mediante:").
+
+> **Nota (2026-10-26):** las Resoluciones 480 y 546 de 2026 (Consejo Consultivo de Seguridad Vial) ya están ingeridas: [Res. 480/2026](resolucion-480-de-2026-convocatoria-ccsv-2026-2028.md) y [Res. 546/2026](resolucion-546-de-2026-conformacion-ccsv-2026-2028.md). La Res. 479/2026 sigue sin estar en el corpus. Ver [concepto CCSV](../conceptos/consejo-consultivo-seguridad-vial.md).

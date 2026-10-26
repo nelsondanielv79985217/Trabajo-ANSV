@@ -48,6 +48,9 @@ El [Modelo Nacional de Gestión del Conocimiento en Seguridad Vial (ONSV, V2, 20
 - Numerosos productos de difusión estadística ya ingeridos (La Gráfica de la Ballena, Situación del SOAT 2024, Informe Anual al Congreso, Metadatos EFSV 2021-2026, Anexo Técnico Circular Conjunta 058/2024) — todos productos del ONSV.
 - [Ley 2635 de 2026](../fuentes/ley-2635-de-2026-proteccion-ciclistas-peatones.md): norma más reciente del corpus; asigna al ONSV el seguimiento de la nueva línea de acción de seguridad vial de ciclistas/peatones (Art. 3°).
 
+- *(2026-10-26)* [Revista Observatorios de Seguridad Vial — ROT, 3.ª edición (noviembre de 2025)](../fuentes/revista-observatorios-seguridad-vial-rot-2025-tercera-edicion.md): publicación editorial del ONSV con ocho artículos de integrantes de la Red de Observatorios Territoriales (ingest parcial).
+- *(2026-10-26)* [Fichas de la Estrategia Nuevos Mandatarios](../fuentes/fichas-estrategia-nuevos-mandatarios-ansv-2024.md): fichas territoriales con cálculos del ONSV sobre datos del INMLCF y del RUNT de 2022-2023.
+
 ## Incertidumbres
 
 - No se puede confirmar con este corpus si "Rubiel Zuleta Carmona" (DCI, octubre 2024) y "Rubiel de Jesús Zuleta Carmona" (Director ONSV, 2025) son la misma persona.

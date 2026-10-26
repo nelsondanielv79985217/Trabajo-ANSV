@@ -44,6 +44,11 @@ La [Cartilla de lineamientos de seguridad vial para instrumentos de planificaci�
 
 Antes de que la DCI llegue con asistencia técnica, el organismo de tránsito (o el municipio sin organismo propio) ya reporta periódicamente a la **Superintendencia de Transporte** a través del **PECCIT/SISI** ([Resolución 10110 de 2023](../fuentes/resolucion-10110-de-2023-peccit-supertransporte.md)): planeación y ejecución mensual de indicadores de control (campañas, operativos, cifras de patios/placas), con régimen sancionatorio por incumplimiento. Es información operativa útil para dimensionar la carga real de reporte del interlocutor territorial y para no duplicar, sin saberlo, información que el organismo de tránsito ya está obligado a producir para otra entidad.
 
+## Nota (2026-10-26, tras ingerir el ABC Agentes de Tránsito y la Guía de PLSV)
+
+- El [ABC Agentes de Tránsito (ANSV, 2024)](../fuentes/abc-agentes-de-transito-ansv-2024.md) resume las cuatro vías de vinculación de agentes (planta, convenio con la Policía, convenios interadministrativos y, excepcionalmente, prestación de servicios), el uso de hasta el 50 % de los recursos de multas para control operativo (art. 59 de la Ley 2197/2022) y la posibilidad de que una entidad territorial designe una dependencia como organismo de tránsito (Circular Externa 20221300000277 de 2022, citada y no incluida en el corpus; pp. 9-21).
+- La [Guía metodológica de PLSV](../fuentes/guia-metodologica-planes-locales-seguridad-vial-ansv.md) lista a la DITRA y al organismo de tránsito como integrantes de los comités departamentales y locales de seguridad vial (p. 24).
+
 ## Incertidumbres
 
 - No se ha verificado en este corpus si alguna norma posterior (fuera de las cinco menciones a la ANSV catalogadas en la página de la Ley 769/2002) modifica los Arts. 3, 6 o 7 para incluir expresamente a la ANSV o la DCI como autoridad u organismo de tránsito.
