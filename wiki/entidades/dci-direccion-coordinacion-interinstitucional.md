@@ -3,7 +3,7 @@ title: "DCI — Dirección de Coordinación Interinstitucional (ANSV)"
 type: entidad
 tags: [dci, ansv, asistencia-tecnica, coordinacion-interinstitucional]
 status: ingerido
-last_updated: 2026-10-07
+last_updated: 2026-10-20
 ---
 
 
@@ -98,6 +98,20 @@ Instancia de coordinación territorial creada por la Resolución 007/2023, lider
 - Recursos del proceso: humano (funcionarios y contratistas de la DCI), financiero (proyecto de inversión a cargo de la DCI), tecnológico (aplicativo de reporte de acciones en territorio) (fuente: CA-02, p. 3).
 
 - *(2026-10-07)* [Decreto 1049 de 2026](../fuentes/decreto-1049-de-2026-comision-intersectorial-asistencia-tecnica-territorial.md): crea la Comisión Intersectorial de Asistencia Técnica Territorial (DNP, DAFP y otros), de la que la ANSV no es miembro. La DCI, como dependencia que presta asistencia técnica territorial, es la más directamente afectada por sus lineamientos sobre oferta, demanda y seguimiento (art. 2.2.11.4.4, pp. 5-6).
+- **Secretaría Técnica del Consejo Consultivo de Seguridad Vial** (añadido 2026-10-20): la DCI "continuará ejerciendo" esa función ([Resolución 546 de 2026](../fuentes/resolucion-546-de-2026-conformacion-consejo-consultivo.md), art. 4, p. 3). En el proceso 2026-2028 designó la Comisión Verificadora ([memorando 20264000023493](../fuentes/memorando-20264000023493-comision-verificadora-ccsv.md)) y preparó la [presentación para la Comisión](../fuentes/presentacion-comision-verificacion-ccsv-2026.md). Ver [Consejo Consultivo de Seguridad Vial](../conceptos/consejo-consultivo-seguridad-vial.md).
+- **Personal de la DCI con cargo y grado, a mayo de 2026** ([memorando 20264000023493](../fuentes/memorando-20264000023493-comision-verificadora-ccsv.md), pp. 1-3):
+  - Paula Katerine Ramos Navarro, Directora;
+  - Henry Leonardo Martín Uribe, asesor 1020, grado 18;
+  - Andrea Carolina Ramos Atencia y Juan Fernando Rojas Cadavid, asesores 1020, grado 16;
+  - María Alejandra Alipio Parra y Nelson Daniel Vega Samacá, profesionales especializados, grado 16;
+  - Leydi Vanessa Márquez González y Carlos Andrés Gutiérrez Acosta, técnicos administrativos, grado 16;
+  - Diana Rocío Novoa y Mónica Sepúlveda Sierra, contratistas.
+- [Decreto 0999 de 2026](../fuentes/decreto-0999-de-2026-educacion-vial-bicicleta.md) (añadido 2026-10-20): asigna a la ANSV coordinar con el Ministerio de Educación las asistencias técnicas territoriales en educación vial (p. 8). No nombra a la DCI.
+
+- *(2026-10-26)* [Decreto 1430 de 2022](../fuentes/decreto-1430-de-2022-adopta-pnsv-2022-2031.md): en el Anexo, la DCI figura como dependencia líder de las acciones 1.1.2, 1.1.3, 1.1.4, 1.2.1, 1.2.2, 1.2.3, 2.1.1, 2.2.1, 3.1.1, 3.1.2 y 3.1.3 (pp. 15, 52-55, 65-68).
+- *(2026-10-26)* [Guía metodológica de PLSV (2022)](../fuentes/guia-metodologica-planes-locales-seguridad-vial-ansv.md): producto de la DCI; la Directora era Liliana Paola Oñate Acosta (p. 2). Dato de titularidad con fecha 2022 para la secuencia de directores (la guía no trae día ni mes).
+- *(2026-10-26)* **Secretaría Técnica del Consejo Consultivo de Seguridad Vial:** [Resolución 546 de 2026](../fuentes/resolucion-546-de-2026-conformacion-consejo-consultivo.md), art. 4 (p. 3); [Memorando 20264000023493](../fuentes/memorando-20264000023493-comision-verificadora-ccsv.md) (la Directora Paula Katerine Ramos Navarro designa la Comisión Verificadora, 26-05-2026); [Resolución 480 de 2026](../fuentes/resolucion-480-de-2026-convocatoria-consejo-consultivo.md); [Presentación de la Comisión](../fuentes/presentacion-comision-verificacion-ccsv-2026.md). Ver [concepto CCSV](../conceptos/consejo-consultivo-seguridad-vial.md).
+- *(2026-10-26)* [Fichas de la Estrategia Nuevos Mandatarios](../fuentes/fichas-estrategia-nuevos-mandatarios-ansv-2024.md): fichas por territorio con el componente institucional (organismo de tránsito, plan local y comité local); autoría no consta en el archivo.
 
 ## Incertidumbres
 

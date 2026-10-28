@@ -4,7 +4,7 @@ type: fuente
 tags: [ley, ciclistas, peatones, ansv, mintransporte, asistencia-tecnica, sistema-seguro, ley-769-2002]
 fuente_pdf: "Ley_2635_de_2026_protección al ciclista.pdf"
 status: ingerido
-last_updated: 2026-09-30
+last_updated: 2026-10-20
 ---
 
 ## Referencia / origen del documento
@@ -37,7 +37,7 @@ last_updated: 2026-09-30
 
 ## Incertidumbres
 
-- `[INCIERTO]`: no se pudo verificar el contenido de la Ley 2222 de 2022 (citada en el Art. 4°) — no está en este repositorio.
+- ~~`[INCIERTO]`: no se pudo verificar el contenido de la Ley 2222 de 2022 (citada en el Art. 4°) — no está en este repositorio.~~ **Resuelto (2026-10-20):** ver [Ley 2222 de 2022](ley-2222-de-2022-bici-segura.md).
 - `[INCIERTO]`: el texto del PDF presenta baja calidad de OCR/escaneo en varios pasajes (ej. "occidentes" por "accidentes", "Viol" por "Vial", "Nocional" por "Nacional") — se transcribió corrigiendo estos artefactos evidentes por contexto gramatical, sin alterar el sentido, siguiendo el mismo criterio ya usado en otras fuentes del corpus con extracción imperfecta.
 - No se pudo determinar aún el impacto de esta ley sobre el indicador oficial "Municipios asistidos técnicamente en Sistema Seguro" del PNSV 2022-2031 (ya documentado en otras fuentes) — es una norma demasiado reciente para que el corpus ya la refleje en cifras de seguimiento.
 

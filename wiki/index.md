@@ -2,6 +2,14 @@
 
 Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos de trabajo (INGEST/QUERY/LINT).
 
+*Actualización (2026-10-28)*: ingest de la Ley 2197 de 2022 (seguridad ciudadana; arts. 56 a 59 sobre agentes y organismos de tránsito), única carga nueva del 28-10-2026. Además se unió a esta rama el ingest del 26-10-2026, hecho en paralelo en otra rama: se eliminaron 11 páginas repetidas con otro nombre y se dejó una por documento (ver la nota en "Cargas del 25 de octubre de 2026"). **174 páginas de fuente en `wiki/fuentes/`** (165 ingeridas + 9 incierto, conteo directo); 9 entidades y 8 conceptos.
+
+*Actualización (2026-10-26)*: ingest de las cargas del 25-10-2026 (27 fuentes nuevas, ver sección "Cargas del 25 de octubre de 2026" más abajo y la entrada de `log.md`). **172 páginas de fuente en `wiki/fuentes/`** (163 ingeridas + 9 incierto; cifra verificada por conteo directo de `status:` en el front matter). Nuevo concepto: Consejo Consultivo de Seguridad Vial. *(Cifras de esa rama antes de unirla con la del 16 y 20 de octubre; ver la actualización del 28-10.)*
+
+*Actualización (2026-10-20)*: ingest de 8 archivos nuevos (commit 37e43f8), que corresponden a 7 páginas de fuente nuevas: 5 sobre el Consejo Consultivo y la bicicleta (Ley 2222 de 2022, Resoluciones ANSV 480 y 546 de 2026, memorando de la Comisión Verificadora y presentación a la Comisión), el Decreto 0999 de 2026 y el Decreto 192 de 2000. La segunda copia de la Ley 336 de 1996 (`norma_pdf.pdf`) quedó registrada en su página existente. Nuevo concepto: Consejo Consultivo de Seguridad Vial. **155 páginas de fuente en `wiki/fuentes/`** (153 ingeridas + 2 incierto, conteo directo); 9 entidades y 8 conceptos.
+
+*Actualización (2026-10-16)*: ingest de 6 archivos nuevos que corresponden a 5 documentos distintos: Orientaciones técnicas para puestos de control (PDF y Word con el mismo texto), Manual de Identidad Visual ANSV 2024 y tres documentos de la 2.ª reunión del GTWG de la OMS. Nueva entidad: OMS. **148 páginas de fuente en `wiki/fuentes/`** (146 ingeridas + 2 incierto, conteo directo); 9 entidades y 7 conceptos.
+
 *Actualización (2026-10-07, cuarta)*: ingest de la Resolución Mintransporte 20263040036655 de 2026 (deroga la Circular Conjunta 20254000000867 de 2025). **143 páginas de fuente en `wiki/fuentes/`** (141 ingeridas + 2 incierto).
 
 *Actualización (2026-10-07, tercera)*: ingest de la Circular Externa Mintransporte 20261300000347 de 2026 (control en vía con dispositivo electrónico vs. SAST). **142 páginas de fuente en `wiki/fuentes/`** (140 ingeridas + 2 incierto).
@@ -57,13 +65,14 @@ Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos 
 - [Manual Metodológico EFSV (ONSV)](fuentes/manual-metodologico-efsv-onsv.md) — Manual metodológico oficial de la operación estadística de fallecidos por siniestros viales (ONSV, 2021), fuente primaria de las cifras de siniestralidad citadas en el resto del corpus. Confirma, con origen institucional preciso (2019), la cooperación de la ANSV con Bloomberg Philanthropies y Vital Strategies. No menciona a la DCI ni "asistencia técnica". (ingerido)
 - [Anexo Técnico Plan 365 (Circular Conjunta 023/2025)](fuentes/anexo-tecnico-plan-365.md) — Instrumento complementario del Plan 70D, de cobertura anual: prioriza 2.307 combinaciones festivo-municipio para 2025 según siniestralidad histórica (8.271 fallecidos nacionales en 2024). Reutiliza la "gráfica de la ballena" del Plan 70D. Hallazgo: no usa el término "asistencia técnica" (usa "presencia institucional") — evidencia de inconsistencia terminológica dentro de la misma familia de instrumentos. (ingerido)
 
-### Protocolos operativos y Plan 365 (5, 5 ingeridas — completo)
+### Protocolos operativos y Plan 365 (6, 6 ingeridas — completo)
 
 - [Protocolo de Prácticas Seguras para Motociclistas](fuentes/protocolo-practicas-seguras-motociclistas.md) — Protocolo conjunto Ministerio de Trabajo–ANSV (Dirección de Comportamiento, no DCI) para empleadores/trabajadores que usan motocicleta como herramienta de trabajo. Confirma la Resolución 40595/2022 como metodología PESV vigente. No menciona a la DCI ni "asistencia técnica". (ingerido)
 - [Circular Conjunta No. 023 de 2025 — Plan 365](fuentes/circular-conjunta-023-2025-plan-365.md) — Documento matriz del Plan 365 (Mintransporte, ANSV, SuperTransporte, DITRA). Usa expresamente "asistencia técnica" (corrige la lectura inicial del Anexo Técnico Plan 365). Resuelve tres incertidumbres de nombres del Plan 70D (Luis Yair Aguilar Rojas —DCI—, Darlyn Dávila —ONSV—, William Vallejo —Infraestructura y Vehículos—) y confirma continuidad de Mariantonia Tabares Pulgarín como Directora General hasta marzo de 2025. Hallazgo: contiene errores de cita normativa en su propio marco normativo (Ley 1702 "de 2003", Decreto "143"/2022, Ley 1310 "de 2014"). (ingerido)
 - [Análisis de los Reportes Presentados por los Organismos de Tránsito — Plan 365](fuentes/analisis-reportes-organismos-transito-plan-365.md) — **Producto propio de la DCI** (noviembre de 2025, Andrés Alfonso González). Hallazgo central: 44 % de los 625 municipios priorizados por el Plan 365 no reportó ninguna acción durante 2025; de esos, 39 % aumentó su siniestralidad. Fuente muy reciente y de uso directo para informes de gestión. (ingerido)
 - [Circular Externa 157 de 2024 — Videos como prueba de infracciones](fuentes/circular-externa-157-2024-videos-infracciones.md) — Mintransporte (Dirección de Transporte y Tránsito, no ANSV/DCI) instruye a organismos de tránsito sobre procesar videos de infracciones difundidos en redes/medios como prueba, incluso sin sistemas automáticos de detección. No menciona a la ANSV ni a la DCI. (ingerido)
 - [Documentando el Plan 70D — Informe de resultados y Plan Navidad 2024](fuentes/documentando-plan-70d-plan-navidad-2024-2025.md) — Informe de resultados (22-01-2025) del Plan 70D ya ingerido (que era su planeación ex ante); cifras reales de ejecución (10.776 reportes, 6.147 controles, ~110.750 comparendos) y comparativo Plan Navidad 2023 vs. 2024 (+71,69% reportes, +105,83% comparendos). Hallazgo: pese a la reducción de siniestralidad total (-6,9%) y lesionados (-11,2%), los fallecidos tuvieron un leve aumento (+0,5%) — matiz no resuelto por el propio documento. Cargado 2026-09-30. (ingerido)
+- [Orientaciones técnicas para el acompañamiento a puestos de control preventivo y correctivo (ANSV, 2026)](fuentes/orientaciones-tecnicas-acompanamiento-puestos-control-ansv-2026.md) — Instructivo de campo para el personal de la ANSV en receso escolar y temporadas especiales: antes, durante y después del puesto; la ANSV acompaña sin interferir en el control; solo la autoridad reporta en el Survey123 del Plan 365. Trae la cifra preliminar de 8.697 fallecidos en 2025. Sin fecha ni firma. PDF y Word con el mismo texto. Cargado 2026-10-09. (ingerido)
 
 ### Correspondencia oficial / oficios (8, 8 ingeridas — completo)
 
@@ -88,12 +97,15 @@ Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos 
 
 - [Manual Unificado de Contratación ANSV (ANSV-CON-MG-01, V4)](fuentes/manual-unificado-contratacion-ansv.md) — Regula el proceso de gestión contractual de la ANSV (régimen público) y el Fondo Nacional de Seguridad Vial (régimen privado, vía fiducia); competencias, comité de contratación, modalidades de selección y cuantías, supervisión, régimen sancionatorio y liquidación. Instrumento genérico, sin mención específica a la DCI. (ingerido)
 
-### Financiamiento y cooperación (4, 4 ingeridas — completo)
+### Financiamiento y cooperación (7, 7 ingeridas — completo)
 
 - [ABC del apalancamiento de recursos para la seguridad vial territorial](fuentes/abc-apalancamiento-recursos-seguridad-vial.md) — Documento matriz (163 páginas) de la serie de apalancamiento: marco conceptual, fuentes tradicionales, socios externos, mecanismos innovadores (FPR, crowdfunding, finanzas mixtas, bonos temáticos), ruta metodológica y recomendaciones. Cita el contrato ANSV-035-2025. (ingerido)
 - [Apalancamiento de Recursos — Cooperación Internacional (Documento Base)](fuentes/apalancamiento-cooperacion-internacional-base.md) — Plantilla y guía para estructurar propuestas de cooperación internacional en seguridad vial; caso ilustrativo hipotético (Buenaventura). (ingerido)
 - [Apalancamiento de Recursos — Alianzas Privadas](fuentes/apalancamiento-alianzas-privadas.md) — Plantilla y guía para invitar al sector privado (RSE/ESG) a alianzas de seguridad vial; caso ilustrativo con empresa ficticia (Tocancipá). (ingerido)
 - [Apalancamiento de Recursos — Apalancamiento Público (Entidades Públicas)](fuentes/apalancamiento-publico-entidades.md) — Plantilla y guía para solicitar cofinanciación pública (MGA/SGR); caso ilustrativo (Aguachica). (ingerido)
+- [Acta de la 2.ª reunión del GTWG sobre la Guía Legal de Seguridad Vial de la OMS (1-oct-2026)](fuentes/gtwg2-acta-segunda-reunion-guia-legal-oms-2026.md) — En inglés. Avance de la guía legal de la OMS (distracción, velocidad e infraestructura, motocicletas), cuestionario a países (oct-dic 2026) y tercera reunión en enero de 2027. Colombia solo aparece como ejemplo de incentivo fiscal a la motocicleta; la ANSV no figura entre los asistentes. Cargado 2026-10-16. (ingerido)
+- [Presentación OMS — Guía legal para fortalecer las leyes de seguridad vial (2.ª reunión GTWG)](fuentes/gtwg2-presentacion-oms-guia-legal-seguridad-vial-2026.md) — En inglés. Cuestionario de 68 preguntas; en América Latina se difundirá vía OPS y OISEVI, del que el ONSV es miembro. Cargado 2026-10-16. (ingerido)
+- [Presentación The George Institute — Síntesis de evidencia para la Guía Legal de la OMS](fuentes/gtwg2-sintesis-evidencia-george-institute-2026.md) — En inglés, 41 diapositivas. Resultados preliminares de tres revisiones exploratorias: límites de 50/30 km/h, calibración y notificación como requisitos de una ley de velocidad, cadena detección-sanción, responsabilidad compartida en motocicletas. Colombia aparece con 2 estudios solo en motocicletas. Cargado 2026-10-16. (ingerido)
 
 ### Productos propios del proyecto / análisis técnico (4, 4 ingeridas — completo)
 
@@ -161,9 +173,13 @@ Bloque más numeroso de la carga nueva: conceptos jurídicos, circulares y resol
 
 - [Concepto Mintransporte 20261340911921 de 2026 — Cámaras de velocidad, calibración y notificación de comparendos](fuentes/concepto-20261340911921-camaras-velocidad-notificacion-comparendos.md) — Archivo `respuesta a peticion anterior SAST.pdf`. Notificación por operadores postales habilitados (Ley 1369/2009); no hay periodicidad legal única de recalibración; sin cadena de custodia penal, la valoración probatoria es de la autoridad de tránsito; cita la Resolución INM 352/2020. (ingerido)
 
-### Instancias interinstitucionales de la ANSV (1, 1 ingerida — completo)
+### Instancias interinstitucionales de la ANSV (5, 5 ingeridas — completo)
 
 - [Inventario de las instancias interinstitucionales de la ANSV (corte junio 2026)](fuentes/inventario-instancias-interinstitucionales-ansv-junio-2026.md) — Hoja de cálculo con 20 instancias activas (numeración salta del 10 al 12); la DCI responde por 7. Hoja oculta con versión de marzo (11 instancias). Sin firmas. (ingerido)
+- [Resolución ANSV 480 de 2026 — Convocatoria del Consejo Consultivo 2026-2028](fuentes/resolucion-480-de-2026-convocatoria-consejo-consultivo.md) — Abre la convocatoria para las 4 categorías de la sociedad civil y fija el cronograma (elección del 12 de junio). Contradicción interna: el art. 2 dice 3 de junio. PDF con texto ilegible, leído sobre la imagen. (ingerido)
+- [Resolución ANSV 546 de 2026 — Conformación del Consejo Consultivo 2026-2028](fuentes/resolucion-546-de-2026-conformacion-consejo-consultivo.md) — Los 7 miembros con su organización; la DCI "continuará ejerciendo" la Secretaría Técnica (art. 4). (ingerido)
+- [Memorando 20264000023493 — Designación de la Comisión Verificadora del Consejo Consultivo](fuentes/memorando-20264000023493-comision-verificadora-ccsv.md) — 26 de mayo de 2026: 5 servidores de la DCI, entre ellos el usuario, liderados por Henry Leonardo Martín Uribe; 9 funciones. (ingerido)
+- [Presentación — Comisión de Verificación del Consejo Consultivo 2026-2028](fuentes/presentacion-comision-verificacion-ccsv-2026.md) — .pptx de la DCI con requisitos y formatos de los postulantes, flujo operativo "(propuesta)" y riesgos. Las notas de las diaps. 6-8 son restos de otra presentación. (ingerido)
 
 ### Fotodetección y circulares de control ya conocidas — versiones adicionales (8, 8 ingeridas — completo)
 
@@ -207,7 +223,7 @@ Se creó el concepto [Régimen de autorización SAST/fotodetección](conceptos/s
 
 - [Guía de Seguimiento al Plan de Movilidad Escolar para Entidades de Gobiernos Locales (ANSV)](fuentes/guia-seguimiento-plan-movilidad-escolar-gobiernos-locales.md) — rol del gobierno local como "aliado estratégico", no auditor, en 3 momentos (antes/durante/después) del PME; enfoque de género y diferencial transversal. (ingerido)
 
-### Marco normativo adicional — leyes y decretos (7 catalogados — completo, 7/7 ingeridos)
+### Marco normativo adicional — leyes y decretos (10 catalogados — completo, 10/10 ingeridos)
 
 - [Ley 105 de 1993 — Disposiciones básicas sobre transporte](fuentes/ley-105-de-1993-estatuto-basico-transporte.md) — completa con texto primario las citas ya registradas (Art. 2° lit. b y e; Art. 3°) en la Resolución 10110/2023 (PECCIT) y la Resolución ROT 2026. (ingerido)
 - [Ley 1242 de 2008 — Código Nacional de Navegación y Actividades Portuarias Fluviales](fuentes/ley-1242-de-2008-codigo-navegacion-fluvial.md) — marco sectorial fluvial preexistente a la ampliación de mandato de la ANSV a ese modo (Ley 2294/2023, Art. 177). Ingest estructural (21 páginas). (ingerido)
@@ -216,6 +232,9 @@ Se creó el concepto [Régimen de autorización SAST/fotodetección](conceptos/s
 - [Decreto 1147 de 1971 — Reglamentación del Código Nacional de Tránsito, categorías de OT](fuentes/decreto-1147-de-1971-categorias-organismos-transito.md) — norma histórica más antigua del corpus (1971); antecedente directo de la categorización de Organismos de Tránsito por clases. (ingerido)
 - [Decreto 19 de 2012 — Ley Antitrámites, SOAT y licencias de conducción](fuentes/decreto-19-de-2012-ley-antitramites.md) — Arts. 112-114 (indemnizaciones por accidentes con vehículos sin SOAT o no identificados) y 195-199 (modifican la Ley 769/2002 en licencias de conducción). Decreto ómnibus de 62 páginas; ingest estructural. (ingerido)
 - [Decreto 2106 de 2019 — Simplificación de trámites, artículos de transporte](fuentes/decreto-2106-de-2019-simplificacion-tramites.md) — resuelve la incertidumbre ya registrada en `wiki/conceptos/plan-estrategico-seguridad-vial-pesv.md`: confirma con texto primario el Art. 110 (elimina el aval del PESV) y aporta el Art. 109 (autorización conjunta Mintransporte-ANSV de sistemas de fotodetección). Decreto de 49 páginas; solo se revisaron los Arts. 108-111. (ingerido)
+- [Ley 2222 de 2022 — «Bici» segura y sin accidentes](fuentes/ley-2222-de-2022-bici-segura.md) — Redacta el num. 15.4 vigente de la Ley 1702 (Consejo Consultivo: 7 miembros, no vinculante, periodo de 2 años); campañas y capítulo del ciclista a cargo de la ANSV; educación vial obligatoria (art. 56 CNT). Resuelve incertidumbres de las páginas de la Ley 1702, la Ley 2635 y la ANSV. (ingerido)
+- [Decreto 0999 de 2026 — Educación vial para el uso seguro de la bicicleta](fuentes/decreto-0999-de-2026-educacion-vial-bicicleta.md) — Reglamenta el art. 6 de la Ley 2222. Mintransporte presta asistencia técnica "a través de" la ANSV a las autoridades territoriales; la ANSV coordina con el Ministerio de Educación las asistencias técnicas territoriales; el ONSV registra fallecidos y lesionados menores; base de los Planes de Movilidad Escolar. Escaneo con OCR parcial. (ingerido)
+- [Decreto 192 de 2000 — Reglamenta la Ley 336 (transporte marítimo) — DEROGADO](fuentes/decreto-192-de-2000-transporte-maritimo.md) — Archivo `norma_pdf (1).pdf`. Valor solo histórico; no citar como vigente. (ingerido)
 
 ### Contratación — Colombia Compra Eficiente (1, 1 ingerida — completo)
 
@@ -231,10 +250,11 @@ Se creó el concepto [Régimen de autorización SAST/fotodetección](conceptos/s
 - [Introducción a la Movilidad Segura en mi empresa (ARL SURA)](fuentes/cartilla-introduccion-movilidad-segura-empresa-sura.md) — documento distinto de la cartilla MinSalud pese al nombre similar (verificado por MD5/contenido); 67% de eventos mortales de tránsito laboral en conductores NO habituales. (ingerido)
 - [Cartilla de los lineamientos en seguridad vial para la formulación de instrumentos de planificación territorial (ANSV)](fuentes/cartilla-lineamientos-seguridad-vial-instrumentos-planificacion-territorial.md) — guía para incorporar seguridad vial en PDT/POT/PM/PEMP municipales, organizada por las 8 áreas del PNSV; PDF de imágenes, ingerido vía OCR — el contenido de 6 de 8 tablas de acciones y de 3 figuras no se pudo recuperar. Cargada el 2026-09-29. (incierto — limitación de OCR en tablas/figuras)
 
-### Presentaciones y materiales de difusión (2, 2 ingeridas — completo)
+### Presentaciones y materiales de difusión (3, 3 ingeridas — completo)
 
 - [Presentación — 1ª sesión AT-OT funciones y competencias (Presidencia/Mintransporte, 2021)](fuentes/presentacion-sesion1-at-ot-funciones-competencias.md) — destinación de recaudos por infracciones (Art. 160 CNT), límites a la contratación/delegación de funciones de tránsito, ZET/Zonas Diferenciales. (ingerido)
 - [Presentación Supertransporte — IUIT vs. Comparendos](fuentes/presentacion-supertransporte-iuit-comparendos.md) — único archivo .pptx del corpus (leído vía `python-pptx`); tabla comparativa IUIT/comparendo (naturaleza, formato, prescripción, caducidad). (ingerido)
+- [Manual de Identidad Visual ANSV — versión 01, 2024](fuentes/manual-identidad-visual-ansv-2024.md) — Archivo `MANUAL~1.PDF` (124 pp.): manual de la ANSV (pp. 1-31) más el del Gobierno de Colombia (pp. 32-123). Formatos de circular, resolución, comunicado y firma de correo (Verdana 11, márgenes 2,5/3 cm); canales oficiales; color primario compartido con Mintransporte. Las plantillas de las pp. 17-19 traen datos de Presidencia: no copiar sus pies. Cargado 2026-10-08. (ingerido)
 
 ### Estudios técnicos, académicos y de referencia (5, 5 ingeridas — completo)
 
@@ -249,6 +269,49 @@ Se creó el concepto [Régimen de autorización SAST/fotodetección](conceptos/s
 - [Resolución 20223040045295 de 2022 — Única Compilatoria en materia de Tránsito](fuentes/resolucion-20223040045295-de-2022-unica-compilatoria-transito.md) — ingerida de forma estructural (330 páginas, 9 Títulos). Verificado que `RESOLUCION 20223040045295 de 2022.pdf` y `Titulo 5 Res. 2022040045295 2022 (1).pdf` son el mismo extracto (Título 5) de esta resolución, y que `MinTransporte-Resolucion-2022-N0045295_20220804.pdf` es la versión completa (fuente usada). `esca RESOLUCION 20223040045295 de 2022.pdf` resultó ser, al leerla, **una resolución distinta** (20223040065295/2022, modificatoria del Programa de Modernización del Parque Automotor de Carga) — el nombre de archivo indujo a error. Es la norma base que la Resolución 20263040005765/2026 (ROT) adicionó, y compila la Resolución 4548/2013 ya ingerida. (ingerido)
 - [Circular Interna ANSV No. 054 de 2025 — Lineamientos Planeación Institucional 2026](fuentes/circular-interna-054-2025-lineamientos-planeacion-institucional-2026.md) — cronograma 2025-2026 de PAI, planes del Decreto 612/2018, PAA e indicadores de proceso; último ciclo de planeación del actual período de gobierno. (ingerido — nota: archivo agrupado por nombre bajo la sección de resoluciones técnicas de vehículos, pero su contenido no es afín a esa categoría; es una circular administrativa de planeación institucional)
 
+### Cargas del 25 de octubre de 2026 (ingest 2026-10-26; 18 páginas propias de esta carga)
+
+*Nota de consolidación (2026-10-28):* el ingest del 26 de octubre se hizo en otra rama, sin las páginas creadas el 16 y el 20 de octubre, y repitió 11 de ellas con otro nombre (Ley 2222, Resoluciones 480 y 546, memorando y presentación del CCSV, Decreto 0999, Orientaciones para puestos de control, tres documentos del GTWG y Decreto 192). Al unir las ramas se dejó una sola página por documento, la del 16 o 20 de octubre, y se le pasaron los hallazgos que solo tenía la otra. Esas páginas están listadas en sus secciones temáticas, más arriba.
+
+**Consejo Consultivo de Seguridad Vial (CCSV) — 2026-2028** (secretaría técnica de la DCI); ver el concepto [Consejo Consultivo de Seguridad Vial](conceptos/consejo-consultivo-seguridad-vial.md):
+
+- [Ley 1702 de 2013 — texto original y comparación con el vigente](fuentes/ley-1702-de-2013-texto-original-comparacion-vigente.md) — en 2013 las autoridades de tránsito eran miembros del Consejo; las otras dos copias del repositorio son el texto vigente. (ingerido)
+
+**Planeación sectorial y asistencia técnica** (DCI):
+
+- [Decreto 1430 de 2022 — Aprueba el PNSV 2022-2031 (texto primario con matriz de acciones)](fuentes/decreto-1430-de-2022-adopta-pnsv-2022-2031.md) — la DCI es dependencia líder de las acciones 1.1.2 a 1.2.3, 2.1.1, 2.2.1, 3.1.1 a 3.1.3; art. 4: 12 meses para armonizar los planes locales. (ingerido)
+- [PNSV 2011-2021 (ajuste Res. 2273 de 2014)](fuentes/pnsv-2011-2021-plan-nacional-seguridad-vial-ajuste-2014.md) — antecedente: Ficha 1.4, asistencia técnica permanente a los comités locales (p. 67). (ingerido)
+- [Guía metodológica de Planes Locales de Seguridad Vial (ANSV, DCI, 2022)](fuentes/guia-metodologica-planes-locales-seguridad-vial-ansv.md) — cinco fases, comité local, equipo mínimo de 11 cargos. (ingerido)
+- [Fichas de la Estrategia Nuevos Mandatarios](fuentes/fichas-estrategia-nuevos-mandatarios-ansv-2024.md) — 135 territorios, datos 2022; componente institucional por territorio (no tabulado). (incierto)
+- [Fichas Nuevos Mandatarios — tabulación por territorio](fuentes/fichas-nuevos-mandatarios-tabulacion-por-territorio.md) — 135 territorios (32 departamentos, 32 capitales, 71 ciudades priorizadas): tasa 2022, puestos, mes/día/franja, siniestros por año, y si tienen organismo de tránsito, plan local y comité local; CSV adjunto. (incierto)
+- [Mapa de Colombia por regiones](fuentes/mapa-colombia-por-regiones-ansv.md) — coincide con las ocho regiones del Decreto 1430/2022. (incierto)
+- [Revista Observatorios de Seguridad Vial — ROT, 3.ª edición (nov. 2025)](fuentes/revista-observatorios-seguridad-vial-rot-2025-tercera-edicion.md) — ocho artículos territoriales; lectura parcial. (incierto)
+
+**Control en vía, fotodetección y agentes de tránsito:**
+
+- [Ley 1843 de 2017 — texto vigente con notas de vigencia (15-10-2026)](fuentes/ley-1843-de-2017-texto-vigente-con-notas-de-vigencia-2026.md) — autorización por la ANSV (Decreto Ley 2106/2019) y exención del par. 2 (Ley 2294/2023). (ingerido)
+- [Concepto Mintransporte 20261340486511 de 2026 — SAST y control en vía con dispositivos móviles](fuentes/concepto-20261340486511-fotodeteccion-control-en-via-dispositivos-moviles.md) — la normativa "no establece de manera expresa" el patrullaje con detención transitoria. (ingerido)
+- [ABC de procesos sancionatorios por SAST (#CámarasSalvavidas)](fuentes/abc-gestion-procesos-sancionatorios-fotodeteccion-supertransporte-ansv.md) — guía pública sin fecha ni firma; dos copias idénticas. (ingerido)
+- [ABC Agentes de Tránsito (ANSV, 2024)](fuentes/abc-agentes-de-transito-ansv-2024.md) — vías de vinculación, uso del 50 % de multas, perfil. (ingerido)
+- [Modelos de intervención — diagramas de control en vía](fuentes/modelos-intervencion-cumplimiento-normas-transito-ansv.md) — siete diagramas de flujo (imágenes); autoría no consta. (incierto)
+- [Estrategia para la vigilancia y el control del tránsito y transporte (infografía)](fuentes/estrategia-vigilancia-control-transito-transporte-ansv.md) — cinco componentes; sin fecha ni firma. (incierto)
+
+**Alcoholimetría y metrología:**
+
+- [Resolución SIC 35152 de 2023 — Nuevo reglamento técnico de alcoholímetros](fuentes/resolucion-sic-35152-de-2023-reglamento-tecnico-alcoholimetros.md) — **deroga la Res. 88919/2017 desde el 01-01-2024** (art. 5, p. 44). (ingerido)
+- [Guía INMLCF — Medición indirecta de alcoholemia (Res. 1844/2015)](fuentes/guia-prueba-alcoholemia-resolucion-1844-2015-inmlcf.md) — calibración cada 6 meses (Anexo 1) y operadores con 24 horas de formación. (ingerido)
+- [Ley 1480 de 2011 — Estatuto del Consumidor (ingest parcial)](fuentes/ley-1480-de-2011-estatuto-consumidor.md) — arts. 59-62 y 71: sanciones y metrología legal; alcaldes con facultades. (incierto)
+
+**Otros:**
+
+- [Ley 2486 de 2025 — Vehículos eléctricos livianos de movilidad personal urbana](fuentes/ley-2486-de-2025-vehiculos-electricos-livianos-movilidad-personal.md) — art. 96-1 y literal G del art. 131 del CNT; velocidades de 25 y 40 km/h; exención de matrícula, SOAT y licencia; competencias de la ANSV y el ONSV (arts. 7, 11, 12). (ingerido; nueva carga del commit `cdb99c6`)
+
+*Cargas duplicadas o sin cambio de contenido (no generan página nueva):* `ABC-fotodeteccion ANSV2021.pdf` (= `ABC-fotodeteccion.pdf`); `Circular 20261300000347 control en via con SAST del ministerio.pdf` (= `20266600076962_Circular Externa.pdf`); `Compes 4034…`, `Compes 4161…` y `Compes DC 036…` (iguales a las copias sin prefijo); `Lineamientos Planes gestión de la velocidad V4 ANSV2023.pdf`, `Programa Nacional de Gestión de velocidad ANSV2023.pdf` y `Uso_de_Tecnologias… 2025.pdf` (iguales a las ya ingeridas); `Resolucion-0045295_ Unica compilatoria…` (= `MinTransporte-Resolucion-2022-N0045295_20220804.pdf`); `Res 88919 de 2017 REGLAMENTO…` y `Resolucion-88919-de-2017.pdf` (copias de la Res. 88919); `Respuesta a duda ESAP…`, `Respuesta a peticion de Prescripción…` y `Respuesta a peticion de FACULTADES AGENTES…` (iguales a archivos ya ingeridos); `norma_pdf.pdf` (= `Ley 336 del 96…`) y `norma_pdf (1).pdf` (= `Decreto 192 del 2000…`); `Ley 1702 de 2013 - Gestor Normativo…` (mismo texto que `Ley_1702_de_2013.pdf`); `ORIENTACIONES TÉCNICAS…docx` (mismo texto que el PDF); `Protocolo_Practicas_Seguras_Motociclistas.pdf` (re-subido: el texto extraído es idéntico al ya ingerido). Los duplicados se verificaron por hash MD5 o por comparación de texto.
+
+### Carga del 28 de octubre de 2026 (1, 1 ingerida)
+
+- [Ley 2197 de 2022 — Seguridad ciudadana](fuentes/ley-2197-de-2022-seguridad-ciudadana.md) — Texto primario de los arts. 56 a 59: el agente de tránsito puede ser "empleado público o contratista" (art. 56, p. 20); mínimo de un inspector y agentes por municipio (art. 57, pp. 20-21); nuevo art. 7 de la Ley 769 con el par. 3 de asistencia técnica de la ANSV a instituciones de educación superior y el tope del 10 % para privados en fotodetección (art. 58, p. 21); hasta 50 % de las multas para control operativo (art. 59, p. 21). La copia de la Ley 1310 del corpus quedó desactualizada en sus arts. 2 y 4. (ingerido)
+
 ## Método (`fuentes/`, type: metodo)
 
 Ninguna todavía — se crea si el usuario carga una referencia metodológica transversal.
@@ -261,6 +324,8 @@ Ninguna todavía — se crea si el usuario carga una referencia metodológica tr
 - [Genealogía normativa de "asistencia técnica"](conceptos/genealogia-asistencia-tecnica.md) — Línea de tiempo del término desde la Ley 769/2002 (2002, autoridades de tránsito en general) hasta PR-06 (2025, DCI), pasando por el Decreto 2851/2013 (2013, Mineducación), la reforma del Art. 7° Par. 3 (ANSV) y el PNSV 2022-2031 (con indicadores oficiales medibles). Incluye la definición de referencia AT/ATT del CONPES 4091 (2022, DNP) y una rama distinta dirigida a conductores individuales (Resolución 4548/2013). Hallazgo: el concepto es polisémico, no una invención de la DCI; lo nuevo en 2025 es el procedimiento, no el término.
 - [Sistema Seguro — enfoque de la política de seguridad vial](conceptos/sistema-seguro-enfoque-politica-seguridad-vial.md) — Paradigma internacional (*Safe System*) adoptado por la Ley 2251/2022 y desarrollado en el PNSV 2022-2031 (ya ingerido íntegramente) para toda la política pública de seguridad vial colombiana. Incluye indicadores oficiales de "asistencia técnica" ligados a Sistema Seguro (Gobernanza), sin nombrar a la DCI — cualquier atribución a la DCI sería interpretación propia, marcada como tal.
 - [Plan 365](conceptos/plan-365.md) — Estrategia interinstitucional anual (Mintransporte/ANSV/SuperTransporte/DITRA) de pedagogía, presencia institucional y control priorizado por municipio/festivo; complementaria (no sucesora) del Plan 70D. Documenta el ejemplo más concreto del corpus de escalamiento formal de la DCI ante SuperTransporte por incumplimiento territorial (44 % de municipios sin reportar). Página creada 2026-09-28 (hallazgo de LINT: 18 páginas lo mencionan sin página propia).
+- [Consejo Consultivo de Seguridad Vial (CCSV)](conceptos/consejo-consultivo-seguridad-vial.md) — Hub de la instancia: naturaleza, miembros, reglamentación (las Resoluciones 842/2022 y 479/2026 no están en el corpus), paso a paso del proceso 2026-2028 y puntos de atención para la DCI, que ejerce la Secretaría Técnica. Creado 2026-10-20.
+
 
 ## Entidades (`entidades/`)
 
@@ -272,6 +337,8 @@ Ninguna todavía — se crea si el usuario carga una referencia metodológica tr
 - [ONSV — Observatorio Nacional de Seguridad Vial](entidades/onsv-observatorio-nacional-seguridad-vial.md) — Dependencia estatutaria de la ANSV (Ley 1702/2013, Art. 10.7); fuente primaria de todas las cifras oficiales de siniestralidad del corpus; nodo central y Secretaría Técnica de la Red de Observatorios Territoriales (ROT). Documenta un hallazgo de posible cruce de personal con la DCI (Rubiel Zuleta Carmona), sin confirmar. Página creada 2026-09-28 (hallazgo de LINT: 39 páginas, sin página propia).
 - [DITRA — Dirección de Tránsito y Transporte de la Policía Nacional](entidades/ditra-direccion-transito-transporte-policia-nacional.md) — Cuerpo especializado de la Policía Nacional, autoridad de tránsito por ley (Art. 3° CNT); ejerce control, vigilancia y sanción directa en vía, competencia que la ANSV/DCI expresamente no tienen; co-ejecutora del Plan 70D/Plan 365 y de las MAI. Página creada 2026-09-28 (hallazgo de LINT: 21 páginas, sin página propia).
 - [INMLCF — Instituto Nacional de Medicina Legal y Ciencias Forenses](entidades/inmlcf-instituto-nacional-medicina-legal-ciencias-forenses.md) — Establecimiento público adscrito a la Fiscalía General de la Nación (no a la ANSV/Sector Transporte); fuente primaria y autónoma del dato original de mortalidad vial (SIRDEC/SICLICO) que el ONSV recibe y procesa; documenta una discrepancia no resuelta de 208 casos (2024) frente a la cifra ya publicada del ONSV. Página creada 2026-09-29 (hallazgo de LINT: 21 páginas, sin página propia).
+
+- [OMS — Organización Mundial de la Salud](entidades/oms-organizacion-mundial-de-la-salud.md) — Organismo internacional mencionado en más de 12 páginas; página creada 2026-10-16 al ingerir los documentos del GTWG (guía legal de seguridad vial 2026-2027, cuestionario a países vía OPS/OISEVI).
 
 Otras candidatas visibles solo por nombre de archivo (a confirmar durante el ingest): DNP (CONPES 4091), Procuraduría, organismos de tránsito territoriales.
 

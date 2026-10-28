@@ -2,14 +2,15 @@
 title: "Ley 336 de 1996 — Estatuto Nacional de Transporte"
 type: fuente
 tags: [ley, estatuto-nacional-transporte, conset, sanciones, mintransporte, marco-normativo]
-fuente_pdf: "Ley 336 de 1996 - Gestor Normativo - Función Pública.pdf"
+fuente_pdf: "Ley 336 de 1996 - Gestor Normativo - Función Pública.pdf (segunda copia verificada: 'norma_pdf.pdf', mismo texto)"
 status: ingerido
-last_updated: 2026-09-28
+last_updated: 2026-10-20
 ---
 
 # Ley 336 de 1996 — Estatuto Nacional de Transporte
 
 **Archivo fuente:** `Ley 336 de 1996 - Gestor Normativo - Función Pública.pdf` (31 páginas; copia informativa de la publicación EVA-Gestor Normativo del Departamento Administrativo de la Función Pública, con anotaciones de vigencia/modificación por artículo).
+**Segunda copia (2026-10-20):** `norma_pdf.pdf` (24 páginas, generada por el EVA el 19 de octubre de 2026). Se comparó palabra por palabra con la copia anterior y el texto normativo es el mismo; solo cambian los encabezados, los pies de página y la paginación. **Se sigue citando por artículo**, porque los números de página no coinciden entre las dos copias. Junto con ella se subió el [Decreto 192 de 2000](decreto-192-de-2000-transporte-maritimo.md), que reglamentó esta ley en el modo marítimo y está derogado.
 **Fecha:** 20 de diciembre de 1996.
 **Expide:** El Congreso de Colombia.
 
@@ -42,3 +43,5 @@ Norma que adopta el Estatuto Nacional de Transporte, unificando principios y cri
 - No se leyó la ley completa artículo por artículo (31 páginas); se priorizaron los artículos ya citados indirectamente en otras fuentes del corpus (Arts. 2–5, 29, 40–42, 46) y los de mayor relevancia temática (seguridad, CONSET, sanciones). Los Arts. 7–28 y 47 en adelante no se revisaron.
 - Discrepancia de término ("modificado" vs. "derogado") entre esta publicación EVA-Gestor Normativo y el texto primario ya verificado de la Ley 1702/2013 respecto de los Arts. 40–42 — no se resuelve aquí cuál fuente usa el término jurídicamente más preciso; ambas fuentes son oficiales (EVA es la plataforma de Función Pública; el texto de la Ley 1702/2013 es la fuente primaria del corpus).
 - Múltiples artículos de esta ley fueron declarados inexequibles en su modificación por los Decretos 1122/1999 y 266/2000 (Sentencias C-923/1999 y C-1316/2000, respectivamente) — no se verifica en este corpus el efecto exacto de esas declaratorias sobre la vigencia actual de cada artículo afectado.
+
+> **Nota (2026-10-26):** el archivo `Ley 336 del 96 Regulacion del transporte publico.pdf` (y su copia `norma_pdf.pdf`, idéntica por hash) contiene el mismo texto de esta ley en la versión del Gestor Normativo de la Función Pública (24 páginas frente a las 31 de la copia ya ingerida); la comparación palabra por palabra solo mostró diferencias de membrete y pie de página. Se trata como duplicado.

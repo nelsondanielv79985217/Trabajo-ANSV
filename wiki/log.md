@@ -933,3 +933,88 @@ Con esto quedan cerrados todos los hallazgos de la pasada de LINT completa del 2
 - Se revisó el proyecto V2 del usuario (Word y PDF; mismo texto, el PDF con firma de revisión) contra las fuentes. La revisión quedó en un Claude Doc.
 - Decisiones del usuario: el correo correcto es atencionalciudadano@ansv.gov.co, y el num. 4.9 de la Ley 1702 queda eliminado de la respuesta.
 - Página actualizada: `sintesis/respuesta-dp-radares-grupo-cipe-2026.md`.
+
+## [2026-10-16] ingest | Orientaciones técnicas para el acompañamiento a puestos de control (PDF y Word)
+
+- Subidos en el commit 9b4d2a7. PDF de 2 páginas y `.docx` con el mismo texto (comparado párrafo por párrafo); una sola página de fuente, citada por página del PDF.
+- Hallazgos: el enlace Survey123 es el mismo del Plan 365 (Circular Conjunta 023, p. 5); la ANSV acompaña sin interferir en el control (p. 2); cifra nueva de 8.697 fallecidos preliminares en 2025 (p. 2). Sin fecha, firma ni código.
+- Página creada: `fuentes/orientaciones-tecnicas-acompanamiento-puestos-control-ansv-2026.md`. Actualizadas: ANSV, ONSV, DITRA, Plan 365.
+
+## [2026-10-16] ingest | Manual de Identidad Visual ANSV, versión 01 de 2024 (`MANUAL~1.PDF`)
+
+- Subido en el commit c2c22d1. 124 páginas: manual de la ANSV (pp. 1-31) más el del Gobierno de Colombia (pp. 32-123), que tiene su propia numeración impresa; se cita por página del PDF.
+- Hallazgos: formatos de circular, resolución, comunicado y firma de correo (pp. 17-22); no hay plantilla de oficio propia de la ANSV; las plantillas de las pp. 17-19 conservan datos de Presidencia; el color primario es el de Mintransporte (pp. 8 y 63).
+- Página creada: `fuentes/manual-identidad-visual-ansv-2024.md`. Actualizada: ANSV.
+
+## [2026-10-16] ingest | Documentos de la 2.ª reunión del GTWG de la OMS (acta, presentación OMS y presentación The George Institute)
+
+- Subidos en el commit 525a701. Tres documentos en inglés; una página de fuente por documento. Las diapositivas con mapas (George Institute, pp. 8, 18 y 28) se leyeron sobre la imagen.
+- Hallazgos: cuestionario de 68 preguntas a países, con difusión en América Latina vía OPS y OISEVI; la ANSV no figura entre los asistentes; Colombia aparece como ejemplo de incentivo fiscal a la motocicleta (acta, p. 3) y con 2 estudios en la revisión de motocicletas (George Institute, p. 28). Son resultados preliminares, no recomendaciones finales de la OMS.
+- Páginas creadas: `fuentes/gtwg2-acta-segunda-reunion-guia-legal-oms-2026.md`, `fuentes/gtwg2-presentacion-oms-guia-legal-seguridad-vial-2026.md`, `fuentes/gtwg2-sintesis-evidencia-george-institute-2026.md` y la entidad `entidades/oms-organizacion-mundial-de-la-salud.md`. Actualizadas: ONSV, Sistema Seguro.
+- `index.md` actualizado: 148 páginas de fuente (146 ingeridas + 2 incierto), 9 entidades, 7 conceptos, por conteo directo.
+
+## [2026-10-20] ingest | Archivos subidos el 2026-10-20 (commit 37e43f8)
+
+- El PR #1 seguía abierto, así que se integró `main` en la rama `claude/project-thread-5c2znl` y este ingest va en el mismo PR.
+- 8 archivos, procesados uno por uno:
+  - Ley 2222 de 2022: copia del EVA de 3 páginas.
+  - Decreto 0999 de 2026: escaneo de 9 páginas; las pp. 2, 3, 5, 8 y 9 se leyeron sobre la imagen por OCR degradado.
+  - Resolución ANSV 480 de 2026: capa de texto ilegible; las 4 páginas se leyeron sobre la imagen.
+  - Resolución ANSV 546 de 2026.
+  - Memorando 20264000023493 (Comisión Verificadora).
+  - Presentación .pptx a la Comisión de Verificación.
+  - Decreto 192 de 2000 (`norma_pdf (1).pdf`).
+  - Segunda copia de la Ley 336 de 1996 (`norma_pdf.pdf`): se comparó palabra por palabra con la existente y el texto normativo es el mismo, así que se registró como segunda copia en su página.
+- Hallazgos:
+  - la DCI es la Secretaría Técnica del Consejo Consultivo (Res. 546, art. 4);
+  - el usuario integra la Comisión Verificadora (memorando, p. 2);
+  - la Res. 480 fija la elección en dos fechas distintas (12 de junio en el cronograma, 3 de junio en el art. 2);
+  - el memorando y la presentación difieren sobre quién verifica a los votantes;
+  - el Decreto 0999 asigna asistencia técnica territorial "a través de" la ANSV;
+  - la Directora General Tabares Pulgarín tiene registro documental hasta el 19 de junio de 2026.
+- Páginas creadas: 7 en `fuentes/` (`ley-2222-de-2022-bici-segura`, `decreto-0999-de-2026-educacion-vial-bicicleta`, `resolucion-480-de-2026-convocatoria-consejo-consultivo`, `resolucion-546-de-2026-conformacion-consejo-consultivo`, `memorando-20264000023493-comision-verificadora-ccsv`, `presentacion-comision-verificacion-ccsv-2026`, `decreto-192-de-2000-transporte-maritimo`) y el concepto `conceptos/consejo-consultivo-seguridad-vial`.
+- Páginas actualizadas: Ley 336, Ley 1702, Ley 2635, inventario de instancias, guía de movilidad escolar, genealogía de asistencia técnica, ANSV, DCI y Mintransporte.
+- `index.md` actualizado: 155 páginas de fuente (153 ingeridas + 2 incierto), 9 entidades y 8 conceptos, por conteo directo.
+
+## [2026-10-26] ingest | Cargas del 25-10-2026 (27 fuentes nuevas y un concepto nuevo)
+
+- Detección: se compararon los archivos del repositorio con el último commit de la wiki (444cc53, 2026-10-08). Entre el 08 y el 25 de octubre se subieron 49 archivos nuevos y se re-subió uno (`Protocolo_Practicas_Seguras_Motociclistas.pdf`). Se verificó por hash MD5 y por comparación de texto cuáles eran duplicados de fuentes ya ingeridas; los duplicados no generan página y están listados en `index.md` (sección "Cargas del 25 de octubre de 2026"). El Protocolo re-subido tiene texto extraído idéntico al ya ingerido.
+- Páginas de fuente creadas (27): Ley 2222/2022; Res. 480 y 546 de 2026; Memorando 20264000023493; presentación de la Comisión de Verificación (CCSV); Ley 1702 texto original; Decreto 1430/2022 (texto primario con matriz de acciones); PNSV 2011-2021; Decreto 999/2026; Guía metodológica de PLSV; Fichas Nuevos Mandatarios; Mapa de regiones; Revista ROT 2025; Ley 1843 texto vigente (15-10-2026); Concepto Mintransporte 20261340486511; ABC de fotodetección; ABC Agentes de Tránsito; Orientaciones para puestos de control; Modelos de intervención; Estrategia de vigilancia y control; Res. SIC 35152/2023; Guía INMLCF 1844/2015; Ley 1480/2011 (parcial); tres documentos del GTWG de la OMS; Decreto 192/2000.
+- Página de concepto creada: `conceptos/consejo-consultivo-seguridad-vial.md` (hub de seis fuentes sobre el CCSV).
+- Hallazgos principales (todos con cita en las páginas):
+  - **La Res. SIC 35152/2023 deroga la Res. SIC 88919/2017 desde el 01-01-2024** (art. 5, p. 44). La página de la Res. 88919 se actualizó con una advertencia.
+  - **El Decreto 1430/2022 (texto primario) asigna a la DCI, como dependencia líder, once acciones del PNSV 2022-2031** (1.1.2, 1.1.3, 1.1.4, 1.2.1, 1.2.2, 1.2.3, 2.1.1, 2.2.1, 3.1.1, 3.1.2, 3.1.3), entre ellas tres con asistencia técnica (2.2.1, 1.2.2 y 3.1.1). El art. 4 fija 12 meses para armonizar los planes locales.
+  - **El Decreto 999/2026** atribuye asistencia técnica a Mintransporte (directamente o por la ANSV) y a la ANSV en coordinación con Mineducación, para autoridades territoriales de tránsito (arts. 2.3.2.1.1.1 y 2.3.2.1.1.2).
+  - **El PNSV 2011-2021 ya preveía asistencia técnica permanente a los comités locales de seguridad vial** (Ficha 1.4, p. 67).
+  - **La Ley 1843/2017 vigente** exige autorización de la ANSV (no de Mintransporte, como decía el texto original) y exime a los SAST del transporte público (Ley 2294/2023, art. 181).
+  - **Inconsistencias internas detectadas:** la Res. 480/2026 fija la elección el 12 de junio (cronograma) y el 3 de junio (art. 2 num. 5); el Concepto 20261340486511 cita el art. 135 del CNT como modificado por el art. 22 y por el art. 21 de la Ley 1383; la guía de PLSV numera capítulos distintos en el índice y en el cuerpo; el ABC de agentes invierte los literales c y d.
+  - **Contraste de calibración:** la Guía INMLCF 1844/2015 pide calibración cada 6 meses y la Res. SIC 35152 cada 12 meses; el corpus no armoniza ambas reglas (marcado `[INCIERTO]`).
+- Correcciones a páginas propias durante el ingest: se retiró de la página del Decreto 1430 una frase que presentaba como novedad la vinculación de la acción 2.2.1 con la DCI (el corpus ya la registraba por la Estrategia de AT y por el documento técnico de soporte); y se corrigió la página del mapa de regiones tras confirmar que coincide con las ocho regiones del Decreto 1430.
+- Páginas actualizadas: `index.md` (170 fuentes: 162 ingeridas + 8 incierto, conteo directo); genealogía de asistencia técnica; concepto SAST; concepto organismos y autoridades de tránsito; entidades DCI, INMLCF y ONSV; fuentes Res. 88919, Ley 1843 (original), Ley 1702, Ley 336 e inventario de instancias (notas de actualización).
+- Limitaciones: ingest parcial deliberado de la Ley 1480, de la Revista ROT y de las Fichas Nuevos Mandatarios (no se tabularon los datos de las 135 fichas); el Decreto 999/2026 y el Decreto 1430/2022 tienen OCR degradado en partes y se verificaron sobre imagen solo en las páginas citadas; la Res. 480/2026 tiene la capa de texto corrupta y se leyó sobre imagen.
+
+## [2026-10-26] ingest | Fichas Nuevos Mandatarios — tabulación por territorio
+
+- Se tabularon las 135 fichas (32 departamentos, 32 capitales, 71 ciudades priorizadas): variación del último año, tasa de mortalidad 2022, puestos nacionales, promedio anual de siniestros y las tres respuestas institucionales (organismo de tránsito, plan local, comité local). Mes, día y franja horaria con más fallecidos se leyeron sobre la imagen porque el texto extraído mezcla textos ocultos; las segundas franjas cortadas por el pie de la ficha se completaron con la regla de bloques de tres horas. No se tabuló el total de fallecidos por territorio (gráfico ilegible en el texto).
+- Páginas creadas: `fuentes/fichas-nuevos-mandatarios-tabulacion-por-territorio.md` y `fuentes/fichas-nuevos-mandatarios-tabulacion.csv`. Actualizadas: página de la fuente e `index.md` (171 fuentes: 162 ingeridas + 9 incierto).
+- Resumen: plan local "No" en 15 de 32 departamentos, 8 de 32 capitales y 25 de 71 ciudades priorizadas; organismo de tránsito "Sí" en 24, 28 y 71 respectivamente.
+
+## [2026-10-26] ingest | Ley 2486 de 2025 — vehículos eléctricos livianos de movilidad personal urbana
+
+- Nueva carga detectada en `main` (commit `cdb99c6`, un solo archivo: `LEY 2486 DEL 16 DE JULIO DE 2025.pdf`); se integró `main` a la rama de trabajo. Escaneo de 10 páginas con OCR de calidad media; fecha de sanción no legible.
+- Página creada: `fuentes/ley-2486-de-2025-vehiculos-electricos-livianos-movilidad-personal.md`. Actualizados: página del Decreto 999/2026 (confirma que la "Ley 2486" que cita es esta) e `index.md` (172 fuentes: 163 ingeridas + 9 incierto).
+- Hallazgos: la ley asigna a Mintransporte y la ANSV programas de educación (art. 11) y al ONSV la inclusión de estos vehículos en sus informes (art. 12); plazo de reglamentación de un año (art. 7); duda no resuelta sobre qué redacción del art. 60 del CNT prevalece frente a la Ley 2635/2026.
+
+## [2026-10-28] ingest | Consolidación de ramas y Ley 2197 de 2022
+
+- Detección: desde el último ingest de esta rama (20-10-2026) se subieron a `main` las cargas del 22 y 25 de octubre y, el 28 de octubre, un solo archivo nuevo (`Ley_2197_de_2022.pdf`, commit `4ae2d36`; el commit `e86aca3` no cambia archivos). Las cargas del 22 y 25 de octubre ya estaban ingeridas en otra rama (`claude/funny-noether-k5fgr0`, entradas del 2026-10-26 arriba), que no tenía pull request y partía de `main` sin las páginas del 16 y 20 de octubre.
+- Consolidación: se unieron `main` y esa rama a esta. La otra rama había repetido, con otro nombre, 11 páginas ya existentes (Ley 2222, Resoluciones 480 y 546, memorando y presentación del CCSV, Decreto 0999, Orientaciones para puestos de control, tres documentos del GTWG y Decreto 192). Se conservó la página del 16 o 20 de octubre de cada documento, se borraron las repetidas y se redirigieron sus enlaces en toda la wiki (incluidas las entradas del 26-10 de este log, solo en la ruta del enlace). Hallazgos que solo tenía la otra versión y se pasaron: invitados permanentes y fecha de posesión (Resolución 546 y concepto CCSV), periodicidad de sesiones según el inventario (concepto CCSV) y la copia idéntica por MD5 del Decreto 192 (`Decreto 192 del 2000 permisos transporte maritimo.pdf`). Los conflictos en `genealogia-asistencia-tecnica.md`, `ley-1702-de-2013-creacion-ansv.md`, `index.md` y este log se resolvieron conservando ambas notas.
+- Verificación: los archivos subidos desde el 20-10 tienen página o están en la lista de duplicados de `index.md`, salvo la Ley 2197.
+- Página creada: `fuentes/ley-2197-de-2022-seguridad-ciudadana.md` (25 pp., copia del Gestor Normativo; 69 artículos, de los cuales los arts. 56 a 59 tratan de tránsito).
+- Hallazgos principales:
+  - La copia de la Ley 1310 de 2009 del corpus muestra el texto de 2009. Sus arts. 2 y 4 fueron modificados por los arts. 56 y 57 de la Ley 2197: el agente de tránsito puede ser "empleado público o contratista" y se admite contratar agentes de forma excepcional para proyectos de control en vía (pp. 20-21). Se dejó nota de vigencia en la página de la Ley 1310 y en el concepto de organismos y autoridades de tránsito.
+  - Art. 57: cada municipio debe tener como mínimo un inspector y agentes según su necesidad y capacidad fiscal (pp. 20-21).
+  - Art. 58: es la fuente de la redacción vigente del art. 7 de la Ley 769, incluido el par. 3 (asistencia técnica de la ANSV a instituciones de educación superior) y el tope del 10 % del recaudo para privados en fotodetección (p. 21).
+  - Art. 59: hasta 50 % de las multas para control operativo (p. 21).
+  - 27 artículos llevan la anotación "Modificado por" el Decreto 207 de 2022, que no está en el corpus; ninguno es de tránsito.
+- Páginas actualizadas: Ley 1310, Circular Externa 20234000000677 (resuelve la incertidumbre sobre el texto de la Ley 2197), ABC Agentes de Tránsito, Resolución 546, Decreto 192, conceptos Organismos y autoridades de tránsito, Genealogía de "asistencia técnica" y Consejo Consultivo, e `index.md` (174 fuentes: 165 ingeridas + 9 incierto, conteo directo; 9 entidades y 8 conceptos).
