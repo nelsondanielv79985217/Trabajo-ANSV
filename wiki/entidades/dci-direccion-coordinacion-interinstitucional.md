@@ -108,6 +108,11 @@ Instancia de coordinación territorial creada por la Resolución 007/2023, lider
   - Diana Rocío Novoa y Mónica Sepúlveda Sierra, contratistas.
 - [Decreto 0999 de 2026](../fuentes/decreto-0999-de-2026-educacion-vial-bicicleta.md) (añadido 2026-10-20): asigna a la ANSV coordinar con el Ministerio de Educación las asistencias técnicas territoriales en educación vial (p. 8). No nombra a la DCI.
 
+- *(2026-10-26)* [Decreto 1430 de 2022](../fuentes/decreto-1430-de-2022-adopta-pnsv-2022-2031.md): en el Anexo, la DCI figura como dependencia líder de las acciones 1.1.2, 1.1.3, 1.1.4, 1.2.1, 1.2.2, 1.2.3, 2.1.1, 2.2.1, 3.1.1, 3.1.2 y 3.1.3 (pp. 15, 52-55, 65-68).
+- *(2026-10-26)* [Guía metodológica de PLSV (2022)](../fuentes/guia-metodologica-planes-locales-seguridad-vial-ansv.md): producto de la DCI; la Directora era Liliana Paola Oñate Acosta (p. 2). Dato de titularidad con fecha 2022 para la secuencia de directores (la guía no trae día ni mes).
+- *(2026-10-26)* **Secretaría Técnica del Consejo Consultivo de Seguridad Vial:** [Resolución 546 de 2026](../fuentes/resolucion-546-de-2026-conformacion-consejo-consultivo.md), art. 4 (p. 3); [Memorando 20264000023493](../fuentes/memorando-20264000023493-comision-verificadora-ccsv.md) (la Directora Paula Katerine Ramos Navarro designa la Comisión Verificadora, 26-05-2026); [Resolución 480 de 2026](../fuentes/resolucion-480-de-2026-convocatoria-consejo-consultivo.md); [Presentación de la Comisión](../fuentes/presentacion-comision-verificacion-ccsv-2026.md). Ver [concepto CCSV](../conceptos/consejo-consultivo-seguridad-vial.md).
+- *(2026-10-26)* [Fichas de la Estrategia Nuevos Mandatarios](../fuentes/fichas-estrategia-nuevos-mandatarios-ansv-2024.md): fichas por territorio con el componente institucional (organismo de tránsito, plan local y comité local); autoría no consta en el archivo.
+
 ## Incertidumbres
 
 - `[INCIERTO]` No se ha determinado si "Cesar Mauricio Salcedo" (CA-02, p. 3) o "Alvaro Andrés Alfonso Gonzalez" (PR-08, p. 9) participan también en otros documentos del corpus aún no ingeridos.

@@ -4,7 +4,7 @@ type: fuente
 tags: [resolucion, ansv, consejo-consultivo, ccsv, sociedad-civil, dci, secretaria-tecnica, conformacion]
 fuente_pdf: "Resolucion_546_de_2026 conformacion Consejo consultivo de seg vial 2026-2028.pdf"
 status: ingerido
-last_updated: 2026-10-20
+last_updated: 2026-10-28
 ---
 
 # Resolución ANSV 546 de 2026 — Conformación del Consejo Consultivo de Seguridad Vial 2026-2028
@@ -55,7 +55,9 @@ Parágrafo: actúan en representación de los sectores por los que fueron elegid
 3. **Dos miembros del sector motociclista.** El representante del sector automotor viene de la Cámara de la Industria de la Motocicleta de la ANDI, además del representante de los colectivos de motociclistas. No es una irregularidad (son sectores distintos según la Ley 2222), pero conviene tenerlo en cuenta si un concepto analiza la representatividad del Consejo.
 4. **Diferencia de nombre de una contratista.** Aquí figura "Diana Rocío Nova Buendía"; en la [Resolución 480](resolucion-480-de-2026-convocatoria-consejo-consultivo.md) y en el [memorando 20264000023493](memorando-20264000023493-comision-verificadora-ccsv.md), "Diana Rocío Novoa". `[INCIERTO: no se puede saber con el corpus cuál es la grafía correcta.]`
 5. **Dato nuevo sobre la Dirección General.** Mariantonia Tabares Pulgarín sigue firmando como Directora General el 19 de junio de 2026 (p. 4). Eso amplía el último registro documental que tenía la wiki (17 de febrero de 2026, ver [ANSV](../entidades/ansv-agencia-nacional-seguridad-vial.md)).
-6. **Actas 001 y 002 de 2026.** Son los soportes de los resultados y de la posesión, y no están en el corpus. `[INCIERTO]`
+6. **No menciona a los invitados permanentes.** El art. 1 lista solo los siete miembros. Los tres invitados permanentes del par. 1 del num. 15.4 (Fasecolda, un delegado de la ANSV y el capítulo técnico de autoridades de tránsito; [Ley 2222](ley-2222-de-2022-bici-segura.md), p. 2) no aparecen. El corpus no dice qué acto los acredita. `[INCIERTO]`
+7. **Fecha de posesión.** El periodo corre desde la posesión (art. 2, p. 3), pero el Acta 002 solo se fecha "junio de 2026" (p. 2). `[INCIERTO]`
+8. **Actas 001 y 002 de 2026.** Son los soportes de los resultados y de la posesión, y no están en el corpus. `[INCIERTO]`
 
 ## Conexiones
 

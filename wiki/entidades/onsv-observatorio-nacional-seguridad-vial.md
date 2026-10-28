@@ -50,6 +50,9 @@ El [Modelo Nacional de Gestión del Conocimiento en Seguridad Vial (ONSV, V2, 20
 - [Orientaciones técnicas para el acompañamiento a puestos de control (2026)](../fuentes/orientaciones-tecnicas-acompanamiento-puestos-control-ansv-2026.md) (añadido 2026-10-16): toma del ONSV la referencia para elegir los puntos de control (p. 1) y las cifras pedagógicas: 8.697 fallecidos preliminares en 2025 frente a 8.271 en 2024, y 4.751 frente a 3.959 en el primer semestre de 2026 (p. 2).
 - [Presentación OMS, 2.ª reunión del GTWG](../fuentes/gtwg2-presentacion-oms-guia-legal-seguridad-vial-2026.md) (añadido 2026-10-16): el cuestionario de la guía legal de la OMS se difundirá en América Latina a través de la OPS y el OISEVI (diap. 6), del que el ONSV es miembro.
 
+- *(2026-10-26)* [Revista Observatorios de Seguridad Vial — ROT, 3.ª edición (noviembre de 2025)](../fuentes/revista-observatorios-seguridad-vial-rot-2025-tercera-edicion.md): publicación editorial del ONSV con ocho artículos de integrantes de la Red de Observatorios Territoriales (ingest parcial).
+- *(2026-10-26)* [Fichas de la Estrategia Nuevos Mandatarios](../fuentes/fichas-estrategia-nuevos-mandatarios-ansv-2024.md): fichas territoriales con cálculos del ONSV sobre datos del INMLCF y del RUNT de 2022-2023.
+
 ## Incertidumbres
 
 - No se puede confirmar con este corpus si "Rubiel Zuleta Carmona" (DCI, octubre 2024) y "Rubiel de Jesús Zuleta Carmona" (Director ONSV, 2025) son la misma persona.
