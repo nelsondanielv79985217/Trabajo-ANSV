@@ -3,7 +3,7 @@ title: "DITRA — Dirección de Tránsito y Transporte de la Policía Nacional"
 type: entidad
 tags: [ditra, policia-nacional, autoridad-transito, control-vial, ipat, mai, plan-365, plan-70d]
 status: ingerido
-last_updated: 2026-09-28
+last_updated: 2026-10-16
 ---
 
 # DITRA — Dirección de Tránsito y Transporte de la Policía Nacional
@@ -42,6 +42,7 @@ DITRA integra, junto con el Ministerio de Transporte, la ANSV y SuperTransporte,
 - [Circular Conjunta 058/2024 — Plan 70D](../fuentes/circular-conjunta-058-2024-plan-70d-control-vigilancia.md) y [Circular Conjunta 023/2025 — Plan 365](../fuentes/circular-conjunta-023-2025-plan-365.md): co-firmante y co-ejecutora de ambos planes operativos anuales.
 - [La Gráfica de la Ballena (ONSV, 2025)](../fuentes/la-grafica-de-la-ballena-onsv-2025.md): reafirma que el control/vigilancia/sanción directa corresponde a las autoridades de tránsito y a DITRA, no a la ANSV.
 - [Respuesta a petición congresista 20266600072782](../fuentes/respuesta-peticion-congresista-20266600072782.md): explica su rol en las discrepancias de cifras de siniestralidad entre fuentes.
+- [Orientaciones técnicas para el acompañamiento a puestos de control (2026)](../fuentes/orientaciones-tecnicas-acompanamiento-puestos-control-ansv-2026.md) (añadido 2026-10-16): el personal de la ANSV debe verificar en el puesto la presencia de "agentes de tránsito o Policía de Tránsito – DITRA, según corresponda" (p. 1). El reporte formal lo hace la autoridad, no la ANSV (p. 2).
 
 ## Incertidumbres
 

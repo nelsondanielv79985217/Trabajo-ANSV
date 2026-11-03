@@ -13,6 +13,8 @@ last_updated: 2026-09-28
 **Fecha:** 28 de diciembre de 2017.
 **Expide:** Superintendencia de Industria y Comercio (SIC) — Pablo Felipe Robledo del Castillo, Superintendente.
 
+> **Actualización (2026-10-26) — norma derogada desde el 1 de enero de 2024.** La [Resolución SIC 35152 de 2023](resolucion-sic-35152-de-2023-reglamento-tecnico-alcoholimetros.md) establece en su art. 5 (p. 44) que su art. 1 (nuevo Capítulo Noveno) "entrará a regir a partir del día 1 de enero de 2024 derogando la Resolución número 88919 del 28 de diciembre de 2017"; los arts. 3 y 4 prorrogaron la vigencia de este reglamento hasta el 31-12-2023 y modificaron su numeral 9.19. El contenido de esta página describe el régimen anterior; para citar el régimen vigente, usar la Res. 35152/2023. En el repositorio hay copias adicionales de este mismo acto (`Res 88919 de 2017 REGLAMENTO-TECNICO-ALCOHOSENSORES.pdf`, idéntica por hash a `REGLAMENTO-TECNICO-ALCOHOSENSORES.pdf`, y `Resolucion-88919-de-2017.pdf`, idéntica por hash a `CONTROL METROLOGICO ALCOHOSENSORES Resolucion-88919-de-2017.pdf`).
+
 ## Qué es y por qué es relevante
 
 Reglamento técnico metrológico que fija los requisitos técnicos, metrológicos y administrativos que deben cumplir los alcoholímetros, etilómetros o alcohosensores evidenciales utilizados en Colombia para determinar la concentración de alcohol en sangre mediante medición del aire espirado, en actividades periciales, judiciales o administrativas. Es la única fuente del corpus sobre el marco de control metrológico de estos instrumentos, cuyos resultados sustentan directamente las sanciones de tránsito por conducción bajo efectos del alcohol — tema conexo a las cifras de causas de siniestralidad (embriaguez) ya documentadas en otras fuentes del corpus.

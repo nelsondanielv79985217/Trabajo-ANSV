@@ -3,7 +3,7 @@ title: "Plan 365"
 type: concepto
 tags: [plan-365, plan-70d, ansv, dci, supertransporte, ditra, sistema-seguro, asistencia-tecnica, gestion-de-velocidad]
 status: ingerido
-last_updated: 2026-09-28
+last_updated: 2026-10-16
 ---
 
 # Plan 365
@@ -45,6 +45,7 @@ La tabla de marco normativo de la Circular Conjunta 023/2025 (p. 2) contiene al 
 - [Oficio ANSV 20254000114441 de 2025](../fuentes/oficio-20254000114441-supertransporte-plan-365.md) y plantillas relacionadas: escalamiento formal derivado de ese hallazgo.
 - [La Gráfica de la Ballena (ONSV, 2025)](../fuentes/la-grafica-de-la-ballena-onsv-2025.md): metodología de priorización compartida.
 - [Genealogía normativa de "asistencia técnica"](genealogia-asistencia-tecnica.md): uso del término en los documentos rectores del Plan 365 y del Plan 70D.
+- [Orientaciones técnicas para el acompañamiento a puestos de control (2026)](../fuentes/orientaciones-tecnicas-acompanamiento-puestos-control-ansv-2026.md) (añadido 2026-10-16): instructivo de campo de la ANSV para la semana de receso escolar y temporadas especiales. No nombra el Plan 365, pero remite al mismo aplicativo Survey123 que la [Circular Conjunta 023](../fuentes/circular-conjunta-023-2025-plan-365.md), p. 5. Fija que solo la autoridad de tránsito reporta en ese aplicativo y que los colaboradores de la ANSV registran en un aplicativo interno, sin duplicar (p. 2).
 
 ## Incertidumbres
 

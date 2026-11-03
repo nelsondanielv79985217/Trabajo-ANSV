@@ -3,7 +3,7 @@ title: "Organismos y autoridades de tránsito"
 type: concepto
 tags: [organismos-transito, autoridades-transito, codigo-nacional-transito, dci, territorial]
 status: ingerido
-last_updated: 2026-09-29
+last_updated: 2026-10-28
 ---
 
 # Organismos y autoridades de tránsito
@@ -24,6 +24,8 @@ La [Ley 1310 de 2009](../fuentes/ley-1310-de-2009-agentes-transito.md), Art. 2°
 - **Agente de Tránsito y Transporte**: "todo empleado público investido de autoridad para regular la circulación vehicular y peatonal, vigilar, controlar e intervenir en el cumplimiento de las normas de tránsito y transporte en cada uno de los entes territoriales."
 - **Grupo de Control Vial o Cuerpo de Agentes de Tránsito**: "grupo de empleados públicos investidos de autoridad como agentes de tránsito y transporte vinculados legal y reglamentariamente a los organismos de tránsito y transporte."
 
+> **Nota de vigencia (2026-10-28):** las definiciones citadas arriba son las del texto de 2009. El art. 56 de la [Ley 2197 de 2022](../fuentes/ley-2197-de-2022-seguridad-ciudadana.md) (p. 20) las modificó: el agente de tránsito es "Todo empleado público o contratista" con esas funciones, y el cuerpo de agentes puede estar vinculado "legal y/o contractualmente". El art. 57 (pp. 20-21) exige a cada municipio, como mínimo, un inspector de Policía con funciones de tránsito o un inspector de tránsito, y agentes según su necesidad y capacidad fiscal. Varios conceptos de Mintransporte del corpus ya citaban la versión modificada.
+
 La misma ley (Art. 8°) fija el perfil profesional mínimo del Director de Organismo de Tránsito: formación profesional relacionada y 2 años de experiencia, o diplomado/posgrado en la materia (modifica el inciso 1° del Art. 4° de la Ley 769/2002) — dato directamente relevante para caracterizar al interlocutor territorial del protocolo de asistencia técnica que propone la tesis.
 
 ## Cómo lo retoma el corpus del sistema de gestión de la DCI
@@ -43,6 +45,11 @@ La [Cartilla de lineamientos de seguridad vial para instrumentos de planificaci�
 ## Carga administrativa preexistente del organismo de tránsito (útil para el trabajo de asesoría)
 
 Antes de que la DCI llegue con asistencia técnica, el organismo de tránsito (o el municipio sin organismo propio) ya reporta periódicamente a la **Superintendencia de Transporte** a través del **PECCIT/SISI** ([Resolución 10110 de 2023](../fuentes/resolucion-10110-de-2023-peccit-supertransporte.md)): planeación y ejecución mensual de indicadores de control (campañas, operativos, cifras de patios/placas), con régimen sancionatorio por incumplimiento. Es información operativa útil para dimensionar la carga real de reporte del interlocutor territorial y para no duplicar, sin saberlo, información que el organismo de tránsito ya está obligado a producir para otra entidad.
+
+## Nota (2026-10-26, tras ingerir el ABC Agentes de Tránsito y la Guía de PLSV)
+
+- El [ABC Agentes de Tránsito (ANSV, 2024)](../fuentes/abc-agentes-de-transito-ansv-2024.md) resume las cuatro vías de vinculación de agentes (planta, convenio con la Policía, convenios interadministrativos y, excepcionalmente, prestación de servicios), el uso de hasta el 50 % de los recursos de multas para control operativo (art. 59 de la Ley 2197/2022) y la posibilidad de que una entidad territorial designe una dependencia como organismo de tránsito (Circular Externa 20221300000277 de 2022, citada y no incluida en el corpus; pp. 9-21).
+- La [Guía metodológica de PLSV](../fuentes/guia-metodologica-planes-locales-seguridad-vial-ansv.md) lista a la DITRA y al organismo de tránsito como integrantes de los comités departamentales y locales de seguridad vial (p. 24).
 
 ## Incertidumbres
 

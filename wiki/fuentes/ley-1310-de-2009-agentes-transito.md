@@ -4,7 +4,7 @@ type: fuente
 tags: [ley, marco-normativo, agentes-transito, organismos-transito, profesionalizacion, codigo-nacional-transito]
 fuente_pdf: "Ley_1310_de_2009 Unificacion normas sobre Agentes de transito y grupos control vial.pdf"
 status: ingerido
-last_updated: 2026-09-25
+last_updated: 2026-10-28
 ---
 
 # Ley 1310 de 2009 — "Mediante la cual se unifican normas sobre agentes de tránsito y transporte y grupos de control vial de las entidades territoriales y se dictan otras disposiciones"
@@ -13,6 +13,8 @@ last_updated: 2026-09-25
 **Fecha:** 26 de junio de 2009 (p. 1) — Publicada en el Diario Oficial 47.392 del 26 de junio de 2009 (p. 4)
 **Expide:** El Congreso de Colombia
 **Firmantes**: Hernán Andrade Serrano (Presidente del Senado); Emilio Ramón Otero Dajud (Secretario General del Senado); Germán Varón Cotrino (Presidente de la Cámara de Representantes); Jesús Alfonso Rodríguez Camargo (Secretario General de la Cámara de Representantes); sanción: Álvaro Uribe Vélez (Presidente de la República); Andrés Uriel Gallego Henao (Ministro de Transporte) (p. 4). Emilio Ramón Otero Dajud, Jesús Alfonso Rodríguez Camargo y Andrés Uriel Gallego Henao son los mismos firmantes que aparecen en la [Ley 1383 de 2010](ley-1383-de-2010-reforma-codigo-nacional-transito.md) — consistente con tratarse del mismo periodo legislativo y de gobierno (2009-2010).
+
+> **Nota de vigencia (2026-10-28):** la copia de esta ley en el corpus muestra el texto de 2009. Los arts. 2 (definiciones) y 4 (jurisdicción) fueron modificados por los arts. 56 y 57 de la [Ley 2197 de 2022](ley-2197-de-2022-seguridad-ciudadana.md) (pp. 20-21). Desde entonces el agente de tránsito puede ser "empleado público **o contratista**", y se admite contratar agentes de forma excepcional "para atender proyectos de control en vía específicos". Además, cada municipio debe contar como mínimo con un inspector y con agentes según su necesidad y capacidad fiscal. Para citar los arts. 2 y 4 en un producto, usar la redacción de la Ley 2197, no la que se resume abajo.
 
 ## Qué dice / por qué está acá
 

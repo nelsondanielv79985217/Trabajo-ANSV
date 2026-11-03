@@ -3,7 +3,7 @@ title: "Genealogía normativa de 'asistencia técnica'"
 type: concepto
 tags: [asistencia-tecnica, genealogia, dci, ansv, codigo-nacional-transito, mineducacion]
 status: ingerido
-last_updated: 2026-10-07
+last_updated: 2026-10-28
 ---
 
 # Genealogía normativa de "asistencia técnica"
@@ -64,6 +64,20 @@ La [Ley 2635 de 2026 — Protección de ciclistas y peatones](../fuentes/ley-263
 ## Nota (2026-10-07, tras ingerir el Decreto 1049 de 2026)
 
 El [Decreto 1049 de 2026](../fuentes/decreto-1049-de-2026-comision-intersectorial-asistencia-tecnica-territorial.md) crea la Comisión Intersectorial para la Cooperación y Asistencia Técnica Territorial, adicionando el Capítulo 4 al Título 11 de la Parte 2 del Libro 2 del [Decreto 1082 de 2015](../fuentes/decreto-1082-de-2015-dur-sector-planeacion-nacional.md). Con él, la noción técnica de ATT del CONPES 4091 pasa a tener una instancia permanente de gobierno, presidida por el DNP y con secretaría técnica del DAFP (arts. 2.2.11.4.3 y 2.2.11.4.7, pp. 4-6). Entre sus funciones están caracterizar la oferta y la demanda de asistencia técnica del Gobierno nacional, aprobar una Agenda Nacional de ATT y recomendar un Modelo de ATT dentro del MIPG (art. 2.2.11.4.4, nums. 1, 3 y 8, pp. 5-6). La ANSV y Mintransporte no son miembros (pp. 4-5). Para quien redacte un producto sobre el protocolo de asistencia técnica de la DCI, este decreto es ahora el referente normativo vigente de la ATT a nivel nacional, por encima del CONPES, que es un documento de política y no una norma (Decreto 1082, art. 2.2.12.1.1, p. 260).
+
+## Nota (2026-10-20, tras ingerir el Decreto 0999 de 2026)
+
+El [Decreto 0999 de 2026](../fuentes/decreto-0999-de-2026-educacion-vial-bicicleta.md) es la segunda norma del corpus con la fórmula "a través de la ANSV" para asistencia técnica. La primera era el par. 3 del art. 7 de la Ley 769, dirigido a las instituciones de educación superior. En este decreto, Mintransporte brinda asistencia técnica "directamente o a través de la Agencia Nacional de Seguridad Vial, a las autoridades territoriales de tránsito y transporte" en movilidad activa, segura y sostenible (art. 2.3.2.1.1.1, num. 1, p. 7). La ANSV, además, debe "coordinar con el Ministerio de Educación Nacional las asistencias técnicas a las entidades territoriales" en educación vial (art. 2.3.2.1.1.2, num. 2, p. 8). El decreto no menciona a la DCI ni al PR-06.
+
+## Nota (2026-10-26, tras ingerir el PNSV 2011-2021, el Decreto 1430/2022, el Decreto 999/2026, el ABC de agentes de tránsito y otras fuentes nuevas)
+
+- **Antecedente anterior a la ANSV:** el [PNSV 2011-2021](../fuentes/pnsv-2011-2021-plan-nacional-seguridad-vial-ajuste-2014.md) prevé en su Ficha 1.4 "asistencia técnica permanente" del nivel nacional a los Comités Locales de Seguridad Vial (p. 67 del PDF), y otras dos menciones sobre planes estratégicos (pp. 89-90). Es el uso más antiguo del término ligado a instancias territoriales de seguridad vial; no fue norma, sino política (Res. 2273/2014).
+- **Texto primario del PNSV 2022-2031:** el [Decreto 1430 de 2022](../fuentes/decreto-1430-de-2022-adopta-pnsv-2022-2031.md) confirma en su Anexo que las acciones 2.2.1 (asistencia técnica a entidades territoriales, p. 65), 1.2.2 (asistencia técnica en procesos sancionatorios, p. 55) y 3.1.1 (asistencia técnica a actores privados, p. 67) tienen como dependencia líder a la Dirección de Coordinación Interinstitucional, con peso porcentual y año por actividad; el art. 4 fija 12 meses para armonizar los planes locales (p. 6).
+- **Otros usos terminológicos:** el [ABC Agentes de Tránsito](../fuentes/abc-agentes-de-transito-ansv-2024.md) repite la "asistencia técnica y humana a los usuarios de las vías" que cumplen los agentes (p. 7), es decir, la rama dirigida a personas; las [Orientaciones técnicas para puestos de control](../fuentes/orientaciones-tecnicas-acompanamiento-puestos-control-ansv-2026.md) y la [Guía metodológica de PLSV](../fuentes/guia-metodologica-planes-locales-seguridad-vial-ansv.md) usan "acompañamiento" y "apoyo", sin la expresión "asistencia técnica".
+
+## Nota (2026-10-28, tras ingerir la Ley 2197 de 2022)
+
+El texto vigente del art. 7 de la Ley 769, con el par. 3 sobre asistencia técnica de la ANSV a instituciones de educación superior, proviene del art. 58 de la [Ley 2197 de 2022](../fuentes/ley-2197-de-2022-seguridad-ciudadana.md) (p. 21). Ese mismo artículo mantiene la orientación de las autoridades de tránsito a "la prevención y la asistencia técnica y humana a los usuarios de las vías". La ley no agrega otra mención de asistencia técnica relacionada con la ANSV.
 
 ## Incertidumbres
 

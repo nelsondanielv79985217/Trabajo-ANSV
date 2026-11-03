@@ -4,7 +4,7 @@ type: fuente
 tags: [movilidad-escolar, pme, plsv, ninez-adolescencia, ansv, comite-movilidad-escolar, sistema-seguro, enfoque-diferencial]
 fuente_pdf: "Guia_de_Seguimiento_al_Plan_de_Movilidad_Escolar_para_Entidades_de_Gobiernos_Locales.pdf"
 status: ingerido
-last_updated: 2026-09-28
+last_updated: 2026-10-20
 ---
 
 # Guía de Seguimiento al Plan de Movilidad Escolar para Entidades de Gobiernos Locales (ANSV)
@@ -58,6 +58,7 @@ La guía posiciona explícitamente al gobierno local no como "auditor" sino como
 - [Ley 2251 de 2022 — Sistema Seguro](ley-2251-de-2022-sistema-seguro.md): fuente del Enfoque Sistema Seguro y de la obligatoriedad del PLSV.
 - [Genealogía de "asistencia técnica"](../conceptos/genealogia-asistencia-tecnica.md): la guía menciona expresamente que "la Agencia Nacional de Seguridad Vial puede brindar asistencia técnica" para la formalización normativa local de los PME — uso adicional del término, consistente con el patrón ya documentado (ANSV hacia entidades territoriales); no se numera como eslabón nuevo por no ser cualitativamente distinto.
 - [Guía Metodológica para la formulación de Planes Locales de Seguridad Vial (Mintransporte, 2015)]: citada por referencia en la bibliografía de esta guía; no forma parte del corpus cargado (ver incertidumbre).
+- [Decreto 0999 de 2026](decreto-0999-de-2026-educacion-vial-bicicleta.md) (añadido 2026-10-20): da base reglamentaria a los Planes de Movilidad Escolar (art. 2.3.2.1.1.4, p. 8) y encarga al ONSV registrar fallecidos y lesionados menores y jóvenes, incluida la caracterización de los PME "implementados en la ANSV" (parágrafo del art. 2.3.2.1.1.2, p. 8).
 
 ## Incertidumbres
 

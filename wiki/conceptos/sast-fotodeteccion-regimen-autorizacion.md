@@ -50,6 +50,14 @@ El régimen SAST es un ejemplo consolidado de competencia técnica conjunta Mint
 - [Ley 1843 de 2017](../fuentes/ley-1843-de-2017-sast-deteccion-infracciones.md): además del Art. 2°, el Art. 13 num. 3 exige "un cuerpo de agentes de tránsito capacitado" (p. 4) y el Art. 14 asigna al Instituto Nacional de Metrología la trazabilidad y, transitoriamente, la calibración de los medidores de velocidad (p. 4).
 - [Concepto Mintransporte 20261340911921 de 2026](../fuentes/concepto-20261340911921-camaras-velocidad-notificacion-comparendos.md): no hay periodicidad legal única de recalibración; la valoración probatoria de los registros corresponde a la autoridad de tránsito (p. 9).
 
+## Fuentes añadidas (2026-10-26)
+
+- [Ley 1843 de 2017 — texto vigente con notas de vigencia (actualizado al 15-10-2026)](../fuentes/ley-1843-de-2017-texto-vigente-con-notas-de-vigencia-2026.md): confirma que el art. 2 vigente (Decreto Ley 2106/2019, art. 109) exige autorización de la **ANSV** por cinco años (pp. 2-3), mientras el texto original decía Ministerio de Transporte; el par. 2 (Ley 2294/2023, art. 181) exime de autorización los SAST en la infraestructura de transporte público (p. 2); el par. 1 del art. 8 es inexequible (C-038/2020, p. 5).
+- [Concepto Mintransporte 20261340486511 de 2026](../fuentes/concepto-20261340486511-fotodeteccion-control-en-via-dispositivos-moviles.md): reitera que los SAST no pueden operarse en vehículos en movimiento (art. 7.8.1.2 de la Res. 20223040045295/2022, pp. 9-10) y que la normativa "no establece de manera expresa" el patrullaje con detención transitoria (pp. 10-11, 13).
+- [ABC de procesos sancionatorios por SAST (#CámarasSalvavidas)](../fuentes/abc-gestion-procesos-sancionatorios-fotodeteccion-supertransporte-ansv.md): guía pública sin fecha ni firma (Supertransporte y ANSV) con el procedimiento posterior al comparendo y el rol de la Supertransporte.
+- [Modelos de intervención](../fuentes/modelos-intervencion-cumplimiento-normas-transito-ansv.md) y [Orientaciones técnicas para puestos de control](../fuentes/orientaciones-tecnicas-acompanamiento-puestos-control-ansv-2026.md): describen el control en vía con dispositivos operados por agentes (diap. 3) y el rol de acompañamiento de la ANSV.
+- Calibración de alcohosensores: [Res. SIC 35152/2023](../fuentes/resolucion-sic-35152-de-2023-reglamento-tecnico-alcoholimetros.md) y [Guía INMLCF 1844/2015](../fuentes/guia-prueba-alcoholemia-resolucion-1844-2015-inmlcf.md).
+
 ## Incertidumbres
 
 - No se verifica en este corpus el texto íntegro de la Resolución No. 181 de 2020 (ANSV), citada por referencia en varias de las circulares.
