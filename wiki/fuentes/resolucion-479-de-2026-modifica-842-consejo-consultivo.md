@@ -9,12 +9,12 @@ last_updated: 2026-11-03
 
 # Resolución ANSV 479 de 2026 — Reglas de elección del Consejo Consultivo
 
-**Archivo fuente:** `Resolucion_479_de_2026 ACTUALIZACION CCSV.pdf` (9 páginas, texto extraíble). Se cita por página y artículo.
+**Archivo fuente:** `Resolucion_479_de_2026 ACTUALIZACION CCSV.pdf` (9 páginas, texto extraíble). Se cita por página y artículo. Copia idéntica por md5: `Resolucion_479_de_2026 Actualiza y modifica el reglamento.pdf` (commit 904369b).
 **Fecha:** 22 de mayo de 2026 (p. 9), la misma de la [Resolución 480](resolucion-480-de-2026-convocatoria-consejo-consultivo.md).
 **Firma:** Mariantonia Tabares Pulgarín, Directora General (p. 9). El encabezado dice "LA DIRECTORA DE LA AGENCIA NACIONAL DE SEGURIDAD VIAL" (p. 1).
 **Revisión y proyección (p. 9):** revisó Paula Katerine Ramos Navarro (Directora Técnica DCI); V.B. de Henry Leonardo Martín Uribe (asesor 1020, grado 18, DCI); proyectaron Mónica Sepúlveda Sierra y Diana Rocío Novoa, contratistas DCI.
 
-Con esta fuente se cierra uno de los vacíos señalados en el [concepto CCSV](../conceptos/consejo-consultivo-seguridad-vial.md). La norma que modifica, la **Resolución 842 de 2022, sigue sin estar en el corpus** `[INCIERTO]`.
+Con esta fuente se cierra uno de los vacíos señalados en el [concepto CCSV](../conceptos/consejo-consultivo-seguridad-vial.md). La norma que modifica, la [Resolución 842 de 2022](resolucion-842-de-2022-reglamentacion-consejo-consultivo.md), se cargó el 03-11-2026. La 479 no toca sus arts. 1-4 ni 6-9: los miembros, los invitados, las sesiones y la Secretaría Técnica siguen regidos por el texto original de la 842.
 
 ## Considerandos (pp. 1-3)
 

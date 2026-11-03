@@ -2,6 +2,8 @@
 
 Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos de trabajo (INGEST/QUERY/LINT).
 
+*Actualización (2026-11-03, tercera)*: ingest de la Resolución ANSV 842 de 2022 (commit 904369b); la segunda copia de la Res. 479 quedó registrada en su página. Nueva síntesis: conformación vigente del Consejo Consultivo 2026-2028. **204 páginas de fuente en `wiki/fuentes/`** (190 ingeridas + 14 incierto); 9 entidades y 9 conceptos.
+
 *Actualización (2026-11-03, segunda)*: ingest de los 28 archivos del Consejo Consultivo subidos el 03-11-2026 (commit 152b2e3): 25 documentos distintos (Res. 479 de 2026, Acta 001 de 2026, oficio de aplazamiento, cronogramas, matriz de validación y 17 documentos del primer Consejo 2021-2022) y 3 copias registradas en páginas existentes. **203 páginas de fuente en `wiki/fuentes/`** (189 ingeridas + 14 incierto, conteo directo); 9 entidades y 9 conceptos.
 
 *Actualización (2026-11-03)*: ingest de los 4 PDF subidos el 02-11-2026 (commit 6c19cad): tres documentos técnicos del ONSV (control operativo y fatalidad, reincidencia en siniestros 2018-2022, hipótesis de causas probables) y el estudio gremial de la ANDI sobre motocicletas (2024). Nuevo concepto: reincidencia en tránsito. **178 páginas de fuente en `wiki/fuentes/`** (168 ingeridas + 10 incierto, conteo directo); 9 entidades y 9 conceptos.
@@ -328,6 +330,7 @@ Se creó el concepto [Régimen de autorización SAST/fotodetección](conceptos/s
 *Duplicados registrados en páginas existentes:* `Resolucion_546_de_2026.pdf` (idéntico a la Res. 546 ya ingerida), `Resolucion_480_de_2026 convocatoria pública ELECCION CCSV.pdf` (copia legible de la Res. 480) y `ANSV-GIP-FO-05_V3 - Acta 1era Sesion Ordinaria CCSV.pdf` (idéntico al Acta 001 de 2026).
 
 **Periodo 2026-2028**
+- [Resolución ANSV 842 de 2022 — Reglamentación del Consejo Consultivo](fuentes/resolucion-842-de-2022-reglamentacion-consejo-consultivo.md) — Reglamento base, vigente salvo el art. 5: miembros (art. 3), invitados permanentes con voz sin voto, 2 sesiones ordinarias al año y Secretaría Técnica a cargo del designado de la DCI (art. 8). Trae la lista del primer Consejo de 2021 (HOJA 4). Cargada en el commit 904369b. (ingerido)
 - [Resolución ANSV 479 de 2026](fuentes/resolucion-479-de-2026-modifica-842-consejo-consultivo.md) — Modifica la Res. 842/2022: definiciones, convocatoria, 8 requisitos de postulación, comisión de verificación de electores y postulantes, plataforma y desempate. Su art. 7 remite por error a la Res. 360/2018 (p. 9). (ingerido)
 - [Acta 001 de 2026 — Primera sesión ordinaria](fuentes/acta-001-2026-primera-sesion-ordinaria-ccsv.md) — 16 y 27 de julio de 2026; reglamento interno (4 sesiones al año, quórum de 4, plazos de actas, pérdida de calidad); mesa directiva aplazada; Henry Martín Director (E) DCI. Versión "pend firma". (incierto)
 - [Oficio 20265000135981](fuentes/oficio-20265000135981-aplazamiento-segunda-sesion-ccsv.md) — 11-09-2026: aplaza la segunda sesión para que asista la nueva Directora General; enviado un día después de la fecha prevista. (ingerido)
@@ -388,6 +391,8 @@ Ninguna todavía — se crea si el usuario carga una referencia metodológica tr
 Otras candidatas visibles solo por nombre de archivo (a confirmar durante el ingest): DNP (CONPES 4091), Procuraduría, organismos de tránsito territoriales.
 
 ## Síntesis (`sintesis/`)
+
+- [Conformación vigente del Consejo Consultivo de Seguridad Vial 2026-2028](sintesis/conformacion-vigente-consejo-consultivo-2026-2028.md) — Respuesta de QUERY guardada: los 7 miembros (Res. 546, art. 1), los 3 invitados permanentes sin designación nominal en el corpus, la Secretaría Técnica (Res. 842, art. 8) y la relación entre las Resoluciones 842, 479, 480 y 546. (ingerido)
 
 - [Propuesta de respuesta — DP sobre capacitación de operadores de radares (Grupo Cipe, 2026)](sintesis/respuesta-dp-radares-grupo-cipe-2026.md) — Borrador de producto de asesoría: fuentes que sostienen cada punto y lo que la ANSV debe confirmar antes de enviar. (incierto)
 - [Mapa de incertidumbres `[INCIERTO]` pendientes en la wiki (corte 2026-09-28)](sintesis/mapa-incertidumbres-pendientes-2026-09-28.md) — Respuesta de QUERY guardada: organiza los ~70 marcadores `[INCIERTO]` del corpus en 6 categorías por accionabilidad (requieren confirmación del usuario; requieren un documento no cargado; vacíos de cronología sin cierre posible; contenido deliberadamente no transcrito en documentos largos; anomalías de la fuente primaria ya señaladas; fechas no verificables). Verificado directamente contra el corpus completo y, en el caso de los Productos 2/3/4, contra los PDF crudos — ninguno resultó mal marcado. Actualizado (2026-09-28): 3 ítems de la categoría C resueltos por confirmación directa del usuario (equipo de Regionalización, fecha de Alexandra Acelas Rodríguez, equivalencia de cargo "Directora Técnico Grado 24").

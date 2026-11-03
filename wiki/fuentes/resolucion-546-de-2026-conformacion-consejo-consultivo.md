@@ -51,7 +51,7 @@ Parágrafo: actúan en representación de los sectores por los que fueron elegid
 
 ## Hallazgos para el trabajo de asesoría
 
-1. **Fuente expresa de que la DCI es la Secretaría Técnica del Consejo Consultivo** (art. 4, p. 3). La palabra "continuará" indica que ya lo era, pero el corpus no trae el acto que se lo asignó originalmente. Probablemente sea la Resolución 842 de 2022, que no está en el corpus. `[INCIERTO]`
+1. **Fuente expresa de que la DCI es la Secretaría Técnica del Consejo Consultivo** (art. 4, p. 3). La palabra "continuará" indica que ya lo era, pero el corpus no trae el acto que se lo asignó originalmente. *(2026-11-03)* Resuelto: es el art. 8 de la [Resolución 842 de 2022](resolucion-842-de-2022-reglamentacion-consejo-consultivo.md) (HOJA 8).
 2. **Directorio actualizado para convocatorias y oficios.** La tabla del art. 1 sirve para dirigir comunicaciones al Consejo. La resolución no trae datos de contacto de los miembros.
 3. **Dos miembros del sector motociclista.** El representante del sector automotor viene de la Cámara de la Industria de la Motocicleta de la ANDI, además del representante de los colectivos de motociclistas. No es una irregularidad (son sectores distintos según la Ley 2222), pero conviene tenerlo en cuenta si un concepto analiza la representatividad del Consejo.
 4. **Diferencia de nombre de una contratista.** Aquí figura "Diana Rocío Nova Buendía"; en la [Resolución 480](resolucion-480-de-2026-convocatoria-consejo-consultivo.md) y en el [memorando 20264000023493](memorando-20264000023493-comision-verificadora-ccsv.md), "Diana Rocío Novoa". `[INCIERTO: no se puede saber con el corpus cuál es la grafía correcta.]`
@@ -62,7 +62,7 @@ Parágrafo: actúan en representación de los sectores por los que fueron elegid
 
 ## Conexiones
 
-- [Consejo Consultivo de Seguridad Vial](../conceptos/consejo-consultivo-seguridad-vial.md)
+- [Consejo Consultivo de Seguridad Vial](../conceptos/consejo-consultivo-seguridad-vial.md) · [Conformación vigente 2026-2028 (síntesis)](../sintesis/conformacion-vigente-consejo-consultivo-2026-2028.md) · [Resolución 842 de 2022](resolucion-842-de-2022-reglamentacion-consejo-consultivo.md)
 - [Resolución 480 de 2026](resolucion-480-de-2026-convocatoria-consejo-consultivo.md) · [Memorando 20264000023493](memorando-20264000023493-comision-verificadora-ccsv.md) · [Presentación a la Comisión de Verificación](presentacion-comision-verificacion-ccsv-2026.md)
 - [Ley 2222 de 2022](ley-2222-de-2022-bici-segura.md) · [Ley 1702 de 2013](ley-1702-de-2013-creacion-ansv.md)
 - [DCI](../entidades/dci-direccion-coordinacion-interinstitucional.md) · [ANSV](../entidades/ansv-agencia-nacional-seguridad-vial.md)
