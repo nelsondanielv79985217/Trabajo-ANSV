@@ -3,7 +3,7 @@ title: "DCI — Dirección de Coordinación Interinstitucional (ANSV)"
 type: entidad
 tags: [dci, ansv, asistencia-tecnica, coordinacion-interinstitucional]
 status: ingerido
-last_updated: 2026-10-20
+last_updated: 2026-11-03
 ---
 
 
@@ -110,6 +110,7 @@ Instancia de coordinación territorial creada por la Resolución 007/2023, lider
 
 - *(2026-10-26)* [Decreto 1430 de 2022](../fuentes/decreto-1430-de-2022-adopta-pnsv-2022-2031.md): en el Anexo, la DCI figura como dependencia líder de las acciones 1.1.2, 1.1.3, 1.1.4, 1.2.1, 1.2.2, 1.2.3, 2.1.1, 2.2.1, 3.1.1, 3.1.2 y 3.1.3 (pp. 15, 52-55, 65-68).
 - *(2026-10-26)* [Guía metodológica de PLSV (2022)](../fuentes/guia-metodologica-planes-locales-seguridad-vial-ansv.md): producto de la DCI; la Directora era Liliana Paola Oñate Acosta (p. 2). Dato de titularidad con fecha 2022 para la secuencia de directores (la guía no trae día ni mes).
+- *(2026-11-03)* [El control operativo y la fatalidad vial (ONSV)](../fuentes/control-operativo-y-fatalidad-vial-onsv.md): documento del ONSV que lista a Liliana Paola Oñate Acosta como directora de la DCI (p. 2), en la misma época de la Guía de PLSV (posterior a enero de 2022, sin fecha impresa). Sus recomendaciones de control focalizado y fortalecimiento de los organismos de tránsito (p. 20) son insumo directo para la asistencia técnica territorial.
 - *(2026-10-26)* **Secretaría Técnica del Consejo Consultivo de Seguridad Vial:** [Resolución 546 de 2026](../fuentes/resolucion-546-de-2026-conformacion-consejo-consultivo.md), art. 4 (p. 3); [Memorando 20264000023493](../fuentes/memorando-20264000023493-comision-verificadora-ccsv.md) (la Directora Paula Katerine Ramos Navarro designa la Comisión Verificadora, 26-05-2026); [Resolución 480 de 2026](../fuentes/resolucion-480-de-2026-convocatoria-consejo-consultivo.md); [Presentación de la Comisión](../fuentes/presentacion-comision-verificacion-ccsv-2026.md). Ver [concepto CCSV](../conceptos/consejo-consultivo-seguridad-vial.md).
 - *(2026-10-26)* [Fichas de la Estrategia Nuevos Mandatarios](../fuentes/fichas-estrategia-nuevos-mandatarios-ansv-2024.md): fichas por territorio con el componente institucional (organismo de tránsito, plan local y comité local); autoría no consta en el archivo.
 

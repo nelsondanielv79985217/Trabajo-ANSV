@@ -52,5 +52,7 @@ Ninguna de las fuentes del Consejo usa el término "asistencia técnica". Es una
 
 ## Conexiones
 
+- *(2026-11-03)* [Estudio de la ANDI sobre motocicletas (2024)](../fuentes/andi-motocicletas-en-colombia-aliadas-desarrollo-2024.md): agenda y propuestas a la ANSV del gremio cuyo Director Ejecutivo, Iván Darío García Franco, es representante del sector automotor en el Consejo 2026-2028.
+
 - [DCI](../entidades/dci-direccion-coordinacion-interinstitucional.md) · [ANSV](../entidades/ansv-agencia-nacional-seguridad-vial.md)
 - [Jerarquía documental de la coordinación interinstitucional](jerarquia-documental-coordinacion-interinstitucional-dci.md)

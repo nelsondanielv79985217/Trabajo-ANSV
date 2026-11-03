@@ -1018,3 +1018,14 @@ Con esto quedan cerrados todos los hallazgos de la pasada de LINT completa del 2
   - Art. 59: hasta 50 % de las multas para control operativo (p. 21).
   - 27 artículos llevan la anotación "Modificado por" el Decreto 207 de 2022, que no está en el corpus; ninguno es de tránsito.
 - Páginas actualizadas: Ley 1310, Circular Externa 20234000000677 (resuelve la incertidumbre sobre el texto de la Ley 2197), ABC Agentes de Tránsito, Resolución 546, Decreto 192, conceptos Organismos y autoridades de tránsito, Genealogía de "asistencia técnica" y Consejo Consultivo, e `index.md` (174 fuentes: 165 ingeridas + 9 incierto, conteo directo; 9 entidades y 8 conceptos).
+
+## [2026-11-03] ingest | Cargas del 2 de noviembre de 2026 (4 PDF, commit 6c19cad)
+
+- Se revisó el repo: la única carga nueva desde el 28-10 es el commit 6c19cad, con 4 PDF. Se trabajó sobre la rama de la PR #1 (sin fusionar) unida con `main`, para no repetir páginas.
+- `Control opertaivo y fatalidad Final.pdf` → `fuentes/control-operativo-y-fatalidad-vial-onsv.md`. Documento del ONSV sin fecha impresa (posterior a enero de 2022). Experimento natural del paro de 2021 y modelo Poisson; control desalineado con la fatalidad. Se registraron inconsistencias internas: composición de grupos (Tabla 1 vs. anexo, pp. 10 y 23), número de municipios (172 vs. 127, pp. 14 y 27) y definición de reincidencia en comparendos (pp. 18-19).
+- `Documento investigación Reincidencia.pdf` → `fuentes/reincidencia-siniestralidad-vial-onsv-2023.md`. ONSV, febrero de 2023. La conclusión sobre motocicletas (pp. 26-27) no coincide con los coeficientes de la Tabla 3 (p. 25); se dejó la recomendación de citar la Tabla 4.
+- `Estudio hipótesis de causa probable en los Siniestros Viales 2019.pdf` → `fuentes/hipotesis-causas-probables-siniestros-viales-onsv.md`, status `incierto` por fecha contradictoria (portada 2017, contenido de finales de 2019). Respuesta al hallazgo 2 de la Contraloría. El Diagrama 1 y las Tablas 1-2 se leyeron sobre imagen; la Tabla 3 intercambia dos totales respecto de la Tabla 1.
+- `Estudio - Las Motocicletas en Colombia ... (Lo.pdf` → `fuentes/andi-motocicletas-en-colombia-aliadas-desarrollo-2024.md`. Estudio gremial de la ANDI (2024), marcado como fuente no oficial. Registra el protocolo ANSV-ANDI de venta responsable (pp. 14-15) y las propuestas del gremio a la ANSV (pp. 82-87). La Tabla 9 (p. 58) se leyó sobre imagen.
+- Concepto nuevo: `conceptos/reincidencia-en-transito.md` (separa reincidencia sancionatoria, en comparendos y en siniestros).
+- Páginas actualizadas: `entidades/onsv-observatorio-nacional-seguridad-vial.md`, `entidades/dci-direccion-coordinacion-interinstitucional.md`, `conceptos/consejo-consultivo-seguridad-vial.md`, `index.md` (178 fuentes: 168 ingeridas + 10 incierto, conteo directo).
+- Ninguno de los 4 archivos es una petición que requiera oficio de respuesta.

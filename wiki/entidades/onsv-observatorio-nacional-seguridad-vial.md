@@ -3,7 +3,7 @@ title: "ONSV — Observatorio Nacional de Seguridad Vial"
 type: entidad
 tags: [onsv, ansv, observatorio, estadisticas, rot, gestion-del-conocimiento, dependencia-estatutaria]
 status: ingerido
-last_updated: 2026-10-16
+last_updated: 2026-11-03
 ---
 
 # ONSV — Observatorio Nacional de Seguridad Vial
@@ -52,6 +52,8 @@ El [Modelo Nacional de Gestión del Conocimiento en Seguridad Vial (ONSV, V2, 20
 
 - *(2026-10-26)* [Revista Observatorios de Seguridad Vial — ROT, 3.ª edición (noviembre de 2025)](../fuentes/revista-observatorios-seguridad-vial-rot-2025-tercera-edicion.md): publicación editorial del ONSV con ocho artículos de integrantes de la Red de Observatorios Territoriales (ingest parcial).
 - *(2026-10-26)* [Fichas de la Estrategia Nuevos Mandatarios](../fuentes/fichas-estrategia-nuevos-mandatarios-ansv-2024.md): fichas territoriales con cálculos del ONSV sobre datos del INMLCF y del RUNT de 2022-2023.
+
+- *(2026-11-03)* Tres documentos técnicos propios del ONSV: [El control operativo y la fatalidad vial](../fuentes/control-operativo-y-fatalidad-vial-onsv.md) (sin fecha impresa, posterior a enero de 2022; autores Jasson Cruz Villamil, Director, y Leonardo Calvo García, p. 3), [Reincidencia en siniestralidad vial 2018-2022](../fuentes/reincidencia-siniestralidad-vial-onsv-2023.md) (febrero de 2023; autora Diana Carolina Nova Laverde, con **Dunella Maya Sánchez como Directora del ONSV**, p. 2) e [Hipótesis de causas probables en los siniestros viales](../fuentes/hipotesis-causas-probables-siniestros-viales-onsv.md) (respuesta al hallazgo 2 de la Contraloría; fecha incierta, 2017 en portada y 2019 por contenido).
 
 ## Incertidumbres
 
