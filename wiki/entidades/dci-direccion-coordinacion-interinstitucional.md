@@ -114,6 +114,14 @@ Instancia de coordinación territorial creada por la Resolución 007/2023, lider
 - *(2026-10-26)* **Secretaría Técnica del Consejo Consultivo de Seguridad Vial:** [Resolución 546 de 2026](../fuentes/resolucion-546-de-2026-conformacion-consejo-consultivo.md), art. 4 (p. 3); [Memorando 20264000023493](../fuentes/memorando-20264000023493-comision-verificadora-ccsv.md) (la Directora Paula Katerine Ramos Navarro designa la Comisión Verificadora, 26-05-2026); [Resolución 480 de 2026](../fuentes/resolucion-480-de-2026-convocatoria-consejo-consultivo.md); [Presentación de la Comisión](../fuentes/presentacion-comision-verificacion-ccsv-2026.md). Ver [concepto CCSV](../conceptos/consejo-consultivo-seguridad-vial.md).
 - *(2026-10-26)* [Fichas de la Estrategia Nuevos Mandatarios](../fuentes/fichas-estrategia-nuevos-mandatarios-ansv-2024.md): fichas por territorio con el componente institucional (organismo de tránsito, plan local y comité local); autoría no consta en el archivo.
 
+- *(2026-11-03, carga del Consejo Consultivo)* Titularidad y Secretaría Técnica:
+  - **Liliana Oñate**, "Directora DCI", asiste a la sesión del Consejo Consultivo del **5 de octubre de 2022** ([Extraordinaria 10 de 2022](../fuentes/acta-extraordinaria-010-2022-ccsv.md), p. 1). Primer dato con día y mes de su titularidad.
+  - **Juan Sebastián Bogotá Gómez**, Asesor DCI, fue Secretario Técnico del primer Consejo de agosto de 2021 a noviembre de 2022 ([Acta 001 de 2021](../fuentes/acta-001-2021-instalacion-ccsv.md), pp. 1 y 11; [Ordinaria 005 de 2022](../fuentes/acta-ordinaria-005-2022-ccsv.md), p. 1). Alejandra León figura como contratista DCI de apoyo en esas actas.
+  - En 2021 la DCI ya desarrollaba las **Mesas de Coordinación Interinstitucional (MAI)** por WhatsApp, correo y llamadas ([Acta 001 de 2021](../fuentes/acta-001-2021-instalacion-ccsv.md), p. 7).
+  - **Paula Katerine Ramos Navarro** revisó como "Directora Técnica DCI" la [Resolución 479 de 2026](../fuentes/resolucion-479-de-2026-modifica-842-consejo-consultivo.md) del 22 de mayo de 2026 (p. 9).
+  - **Henry Leonardo Martín Uribe**, "Director Encargado de Coordinación Interinstitucional" el **16 y 27 de julio de 2026** ([Acta 001 de 2026](../fuentes/acta-001-2026-primera-sesion-ordinaria-ccsv.md), pp. 1 y 21) y "Director (E)" el **11 de septiembre de 2026** ([oficio 20265000135981](../fuentes/oficio-20265000135981-aplazamiento-segunda-sesion-ccsv.md), p. 2). En mayo era asesor 1020, grado 18. `[INCIERTO: el corpus no tiene el acto de encargo ni dice si Ramos Navarro dejó el cargo.]`
+  - Contratistas DCI que proyectan los actos del Consejo en 2026: Mónica Sepúlveda Sierra y Diana Rocío Novoa Buendía (Res. 479, p. 9; oficio, p. 2).
+
 ## Incertidumbres
 
 - `[INCIERTO]` No se ha determinado si "Cesar Mauricio Salcedo" (CA-02, p. 3) o "Alvaro Andrés Alfonso Gonzalez" (PR-08, p. 9) participan también en otros documentos del corpus aún no ingeridos.

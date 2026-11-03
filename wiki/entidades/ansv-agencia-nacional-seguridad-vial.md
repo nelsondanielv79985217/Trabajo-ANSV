@@ -3,7 +3,7 @@ title: "ANSV — Agencia Nacional de Seguridad Vial"
 type: entidad
 tags: [ansv, marco-normativo, dci, consejo-directivo, fondo-nacional-seguridad-vial]
 status: ingerido
-last_updated: 2026-10-20
+last_updated: 2026-11-03
 ---
 
 
@@ -114,6 +114,8 @@ El [PNSV 2022-2031](../fuentes/pnsv-2022-2031-documento-tecnico-soporte.md) (doc
 - [Ley 2222 de 2022](../fuentes/ley-2222-de-2022-bici-segura.md) (añadido 2026-10-20): texto vigente del num. 15.4 de la Ley 1702 (Consejo Consultivo). Encarga a la ANSV campañas sobre ciclistas (art. 5) y un capítulo sobre el ciclista en el PNSV (art. 4). Ver [Consejo Consultivo de Seguridad Vial](../conceptos/consejo-consultivo-seguridad-vial.md).
 - [Decreto 0999 de 2026](../fuentes/decreto-0999-de-2026-educacion-vial-bicicleta.md) (añadido 2026-10-20): responsabilidades de la ANSV en educación vial y uso seguro de la bicicleta, entre ellas coordinar con el Ministerio de Educación las asistencias técnicas a las entidades territoriales (art. 2.3.2.1.1.2, p. 8).
 - **Dirección General (añadido 2026-10-20):** Mariantonia Tabares Pulgarín firma como Directora General la [Resolución 480 de 2026](../fuentes/resolucion-480-de-2026-convocatoria-consejo-consultivo.md) (22 de mayo) y la [Resolución 546 de 2026](../fuentes/resolucion-546-de-2026-conformacion-consejo-consultivo.md) (19 de junio). Su último registro documental pasa del 17 de febrero al **19 de junio de 2026**.
+
+- *(2026-11-03)* **Dirección General, nuevos datos del Consejo Consultivo:** Luis Felipe Lota era Director General el 25 de agosto de 2021 ([Acta 001 de 2021](../fuentes/acta-001-2021-instalacion-ccsv.md), p. 1) y el 5 de octubre de 2022 ([Extraordinaria 10 de 2022](../fuentes/acta-extraordinaria-010-2022-ccsv.md), p. 1). El 26 de octubre de 2022 el Consejo discutía el nombramiento de un nuevo director ([Extraordinaria 011](../fuentes/acta-extraordinaria-011-2022-ccsv.md), p. 1), sin nombrarlo. Mariantonia Tabares Pulgarín firma la [Resolución 479 de 2026](../fuentes/resolucion-479-de-2026-modifica-842-consejo-consultivo.md) el 22 de mayo de 2026 (p. 9). El [oficio 20265000135981](../fuentes/oficio-20265000135981-aplazamiento-segunda-sesion-ccsv.md) del 11 de septiembre de 2026 habla de "la nueva dirección" y de "la Directora General" sin nombrarla (p. 1), lo que concuerda con el cambio de la semana del 28 de agosto confirmado por el usuario.
 
 ## Incertidumbres
 
