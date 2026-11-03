@@ -2,6 +2,8 @@
 
 Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos de trabajo (INGEST/QUERY/LINT).
 
+*Actualización (2026-11-03, segunda)*: ingest de los 28 archivos del Consejo Consultivo subidos el 03-11-2026 (commit 152b2e3): 25 documentos distintos (Res. 479 de 2026, Acta 001 de 2026, oficio de aplazamiento, cronogramas, matriz de validación y 17 documentos del primer Consejo 2021-2022) y 3 copias registradas en páginas existentes. **203 páginas de fuente en `wiki/fuentes/`** (189 ingeridas + 14 incierto, conteo directo); 9 entidades y 9 conceptos.
+
 *Actualización (2026-11-03)*: ingest de los 4 PDF subidos el 02-11-2026 (commit 6c19cad): tres documentos técnicos del ONSV (control operativo y fatalidad, reincidencia en siniestros 2018-2022, hipótesis de causas probables) y el estudio gremial de la ANDI sobre motocicletas (2024). Nuevo concepto: reincidencia en tránsito. **178 páginas de fuente en `wiki/fuentes/`** (168 ingeridas + 10 incierto, conteo directo); 9 entidades y 9 conceptos.
 
 *Actualización (2026-10-28)*: ingest de la Ley 2197 de 2022 (seguridad ciudadana; arts. 56 a 59 sobre agentes y organismos de tránsito), única carga nueva del 28-10-2026. Además se unió a esta rama el ingest del 26-10-2026, hecho en paralelo en otra rama: se eliminaron 11 páginas repetidas con otro nombre y se dejó una por documento (ver la nota en "Cargas del 25 de octubre de 2026"). **174 páginas de fuente en `wiki/fuentes/`** (165 ingeridas + 9 incierto, conteo directo); 9 entidades y 8 conceptos.
@@ -321,6 +323,39 @@ Se creó el concepto [Régimen de autorización SAST/fotodetección](conceptos/s
 - [Hipótesis de causas probables en los siniestros viales de Colombia (ONSV)](fuentes/hipotesis-causas-probables-siniestros-viales-onsv.md) — Respuesta al hallazgo 2 de la Contraloría; 77.837 víctimas INMLCF 2016-2018 con hipótesis: velocidad primera causa en fallecidos (45 %), desobedecer señales primera en motociclistas (pp. 13-15). Fecha contradictoria (portada 2017, contenido 2019). (incierto)
 - [Las motocicletas en Colombia: aliadas del desarrollo del país (ANDI, 2024)](fuentes/andi-motocicletas-en-colombia-aliadas-desarrollo-2024.md) — Estudio gremial, no oficial: cifras del sector, protocolo ANSV-ANDI de venta responsable de motos (pp. 14-15) y propuestas a la ANSV (plan del motociclista, gerente técnico, mesas permanentes, estudio tipo MAIDS, pp. 82-87). (ingerido)
 
+### Carga del 3 de noviembre de 2026 — Consejo Consultivo de Seguridad Vial (28 archivos, 25 documentos distintos: 21 ingeridos + 4 inciertos)
+
+*Duplicados registrados en páginas existentes:* `Resolucion_546_de_2026.pdf` (idéntico a la Res. 546 ya ingerida), `Resolucion_480_de_2026 convocatoria pública ELECCION CCSV.pdf` (copia legible de la Res. 480) y `ANSV-GIP-FO-05_V3 - Acta 1era Sesion Ordinaria CCSV.pdf` (idéntico al Acta 001 de 2026).
+
+**Periodo 2026-2028**
+- [Resolución ANSV 479 de 2026](fuentes/resolucion-479-de-2026-modifica-842-consejo-consultivo.md) — Modifica la Res. 842/2022: definiciones, convocatoria, 8 requisitos de postulación, comisión de verificación de electores y postulantes, plataforma y desempate. Su art. 7 remite por error a la Res. 360/2018 (p. 9). (ingerido)
+- [Acta 001 de 2026 — Primera sesión ordinaria](fuentes/acta-001-2026-primera-sesion-ordinaria-ccsv.md) — 16 y 27 de julio de 2026; reglamento interno (4 sesiones al año, quórum de 4, plazos de actas, pérdida de calidad); mesa directiva aplazada; Henry Martín Director (E) DCI. Versión "pend firma". (incierto)
+- [Oficio 20265000135981](fuentes/oficio-20265000135981-aplazamiento-segunda-sesion-ccsv.md) — 11-09-2026: aplaza la segunda sesión para que asista la nueva Directora General; enviado un día después de la fecha prevista. (ingerido)
+- [Matriz de validación de aspirantes](fuentes/validacion-requisitos-aspirantes-ccsv-2026.md) — 3 hojas (el nombre dice 4); el requisito del video se marca cumplido sin enlace. Contiene datos personales. (incierto)
+- [Cronograma 2026 no ejecutado](fuentes/cronograma-2026-convocatoria-ccsv.md) — Elección prevista el 12 de marzo de 2026. (incierto)
+- [Cronograma propuesto 2025](fuentes/cronograma-propuesto-2025-convocatoria-ccsv.md) — Trámite de la resolución y elección prevista el 23 de octubre de 2025; no se ejecutó. (ingerido)
+
+**Primer Consejo, 2021-2022**
+- [Acta 001 de 2021 — Instalación](fuentes/acta-001-2021-instalacion-ccsv.md) — 25-08-2021; Bustamante Presidente; PNSV 2022-2031; MAI y consejos territoriales descritos por el Secretario Técnico (p. 7). (ingerido)
+- [Extraordinaria 001 de 2021](fuentes/acta-extraordinaria-001-2021-ccsv.md) — Llegan los invitados permanentes (FASECOLDA y Comité Técnico de OT). (ingerido)
+- [Extraordinaria 002 de 2021](fuentes/acta-extraordinaria-002-2021-ccsv.md) — Carta de presentación y lista de actores. (ingerido)
+- [Extraordinaria 003 de 2021](fuentes/acta-extraordinaria-003-2021-ccsv.md) — CONPES, DNP, declaración de no conflicto de un consejero. (ingerido)
+- [Extraordinaria 004 de 2021](fuentes/acta-extraordinaria-004-2021-ccsv.md) — Carta aprobada; reunión con la Presidencia confirmada. (ingerido)
+- [Extraordinaria 005 de 2021](fuentes/acta-extraordinaria-005-2021-ccsv.md) — Preparación de la reunión; consulta sobre delegación. (ingerido)
+- [Excusa de Ernesto Camargo](fuentes/excusa-camargo-sesion-ccsv-13-10-2021.md) — Anexo de la Extraordinaria 005. (ingerido)
+- [Extraordinaria 006 de 2021](fuentes/acta-extraordinaria-006-2021-ccsv.md) — Revisión de la carta; WP.29. (ingerido)
+- [Reunión con el Presidente de la República](fuentes/reunion-ccsv-presidente-republica-2021.md) — 21-10-2021; seis recomendaciones y pedidos del Presidente. (ingerido)
+- [Extraordinaria 007 de 2021](fuentes/acta-extraordinaria-007-2021-ccsv.md) — Balance de la reunión; víctimas. (ingerido)
+- [Ordinaria 003 de 2022](fuentes/acta-ordinaria-003-2022-ccsv.md) — Presidencia por un año desde la posesión (4-1-1). (ingerido)
+- [Extraordinaria 008 de 2022](fuentes/acta-extraordinaria-008-2022-ccsv.md) — Empalme con el nuevo Gobierno; consulta pública del PNSV. (ingerido)
+- [Ordinaria 004 de 2022](fuentes/acta-ordinaria-004-2022-ccsv.md) — Informe de gestión; Ley 2222 tomó por sorpresa al Consejo. (ingerido)
+- [Informe del CCSV, julio de 2022](fuentes/informe-ccsv-julio-2022.md) — Síntesis del primer año; Res. 098/2019 y 111/2021. Borrador con comentarios. (incierto)
+- [Acta 009 de 2022](fuentes/acta-009-2022-ccsv.md) — Artículos de las Res. 098/2019 y 111/2021 afectados por la Ley 2222; periodo de dos años. (ingerido)
+- [ANDI automotor, normas y empalme 2022](fuentes/andi-automotor-empalme-2022-ccsv.md) — Presentación gremial del 3-08-2022. (ingerido)
+- [Extraordinaria 10 de 2022](fuentes/acta-extraordinaria-010-2022-ccsv.md) — Lota y Oñate; pacto nacional, motos, SOAT, 61 municipios. (ingerido)
+- [Extraordinaria 011 de 2022](fuentes/acta-extraordinaria-011-2022-ccsv.md) — Críticas a la ANSV; renuncia de Bustamante. (ingerido)
+- [Ordinaria 005 de 2022](fuentes/acta-ordinaria-005-2022-ccsv.md) — Villaveces Presidente; asistencia no delegable. (ingerido)
+
 ## Método (`fuentes/`, type: metodo)
 
 Ninguna todavía — se crea si el usuario carga una referencia metodológica transversal.
@@ -334,7 +369,7 @@ Ninguna todavía — se crea si el usuario carga una referencia metodológica tr
 - [Sistema Seguro — enfoque de la política de seguridad vial](conceptos/sistema-seguro-enfoque-politica-seguridad-vial.md) — Paradigma internacional (*Safe System*) adoptado por la Ley 2251/2022 y desarrollado en el PNSV 2022-2031 (ya ingerido íntegramente) para toda la política pública de seguridad vial colombiana. Incluye indicadores oficiales de "asistencia técnica" ligados a Sistema Seguro (Gobernanza), sin nombrar a la DCI — cualquier atribución a la DCI sería interpretación propia, marcada como tal.
 - [Plan 365](conceptos/plan-365.md) — Estrategia interinstitucional anual (Mintransporte/ANSV/SuperTransporte/DITRA) de pedagogía, presencia institucional y control priorizado por municipio/festivo; complementaria (no sucesora) del Plan 70D. Documenta el ejemplo más concreto del corpus de escalamiento formal de la DCI ante SuperTransporte por incumplimiento territorial (44 % de municipios sin reportar). Página creada 2026-09-28 (hallazgo de LINT: 18 páginas lo mencionan sin página propia).
 - [Reincidencia en tránsito: tres sentidos del término](conceptos/reincidencia-en-transito.md) — Separa la reincidencia sancionatoria (Circular 407/2024, oficio FCM), la reincidencia en comparendos (ONSV, control operativo) y la reincidencia en siniestros (ONSV, 2023) para no mezclar cifras incomparables.
-- [Consejo Consultivo de Seguridad Vial (CCSV)](conceptos/consejo-consultivo-seguridad-vial.md) — Hub de la instancia: naturaleza, miembros, reglamentación (las Resoluciones 842/2022 y 479/2026 no están en el corpus), paso a paso del proceso 2026-2028 y puntos de atención para la DCI, que ejerce la Secretaría Técnica. Creado 2026-10-20.
+- [Consejo Consultivo de Seguridad Vial (CCSV)](conceptos/consejo-consultivo-seguridad-vial.md) — Hub de la instancia: naturaleza, miembros, reglamentación (la Res. 842/2022 sigue fuera del corpus; la 479/2026 ya está), paso a paso del proceso 2026-2028, historia del primer Consejo 2021-2022 y puntos de atención para la DCI, que ejerce la Secretaría Técnica. Creado 2026-10-20; ampliado 2026-11-03.
 
 
 ## Entidades (`entidades/`)

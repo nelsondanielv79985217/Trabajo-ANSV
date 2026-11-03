@@ -4,12 +4,13 @@ type: fuente
 tags: [resolucion, ansv, consejo-consultivo, ccsv, convocatoria, sociedad-civil, eleccion, dci, secretaria-tecnica]
 fuente_pdf: "Resolucion_480_de_2026.pdf"
 status: ingerido
-last_updated: 2026-10-20
+last_updated: 2026-11-03
 ---
 
 # Resolución ANSV 480 de 2026 — Apertura de la convocatoria del Consejo Consultivo 2026-2028
 
 **Archivo fuente:** `Resolucion_480_de_2026.pdf` (4 páginas). La capa de texto tiene una codificación de fuentes rota que la hace ilegible, así que **las cuatro páginas se leyeron sobre la imagen**. Se cita por página ("Página X de 4").
+**Segunda copia (2026-11-03):** `Resolucion_480_de_2026 convocatoria pública ELECCION CCSV.pdf` (commit 152b2e3) es el mismo acto, con capa de texto legible (archivo distinto, md5 c7e1a2c7 frente a 1338a80a). Se cotejó con lo transcrito de la imagen: el cronograma (pp. 2-3) y la contradicción de fechas del art. 2, num. 5 ("3 de junio de 2026", p. 3) se confirman sobre el texto. Esta página vale para las dos copias.
 **Fecha:** 22 de mayo de 2026 (encabezado y fórmula de expedición, pp. 1 y 4).
 **Expide:** Mariantonia Tabares Pulgarín, Directora General de la ANSV (p. 4).
 **Visto bueno y revisión (p. 4):** V.B. de Anthony Numa Marín (abogado de la Dirección General) y de Henry Leonardo Martín Uribe (asesor 1020, grado 18, DCI). Revisaron Paula Katerine Ramos Navarro ("Directora Técnica de Coordinación Interinstitucional"), Edwin Arbey Castañeda Berrío (jefe de la Oficina Asesora Jurídica) y Angélica María Yance Díaz (contratista OAJ). Proyectaron Mónica Sepúlveda Sierra y Diana Rocío Novoa, contratistas de la DCI.
@@ -49,7 +50,7 @@ last_updated: 2026-10-20
 
 1. **Contradicción interna en la fecha de la elección.** El cronograma del art. 1 la fija el **12 de junio de 2026** (p. 3). El num. 5 del art. 2, en la misma página, dice que la elección "se realizará mediante tarjetón virtual el día **3 de junio de 2026**". El 3 de junio cae además antes del registro de votantes (9-10 de junio). La [Resolución 546 de 2026](resolucion-546-de-2026-conformacion-consejo-consultivo.md) confirma que los resultados se declararon en el Acta 001 del 12 de junio, lo que indica que se aplicó el cronograma. Si alguien impugna o pregunta por esta inconsistencia, la respuesta debe apoyarse en el cronograma y en el Acta 001. El Acta 001 no está en el corpus. `[INCIERTO]`
 2. **Solo la sociedad civil va a elección.** Los otros tres sectores (automotor, organismos de apoyo y academia) se acreditan por otro procedimiento, según la [Resolución 546](resolucion-546-de-2026-conformacion-consejo-consultivo.md), p. 1.
-3. **La Resolución 479 de 2026 no está en el corpus.** Es el reglamento vigente del proceso: comisión de verificación, requisitos y desempate. Solo se conoce por referencias de esta resolución, del [memorando de designación de la Comisión Verificadora](memorando-20264000023493-comision-verificadora-ccsv.md) y de la [presentación a la Comisión](presentacion-comision-verificacion-ccsv-2026.md). Tampoco está la Resolución 842 de 2022. `[INCIERTO]`
+3. ~~**La Resolución 479 de 2026 no está en el corpus.**~~ *(Resuelto 2026-11-03: ingerida en [su página](resolucion-479-de-2026-modifica-842-consejo-consultivo.md).)* Es el reglamento vigente del proceso: comisión de verificación, requisitos y desempate. Solo se conoce por referencias de esta resolución, del [memorando de designación de la Comisión Verificadora](memorando-20264000023493-comision-verificadora-ccsv.md) y de la [presentación a la Comisión](presentacion-comision-verificacion-ccsv-2026.md). Tampoco está la Resolución 842 de 2022. `[INCIERTO]`
 4. **Cargo de la Directora de la DCI.** Aquí figura como "Directora Técnica de Coordinación Interinstitucional" (p. 4); en el memorando y en otros documentos firma como "Directora de Coordinación Interinstitucional".
 
 ## Conexiones
@@ -58,8 +59,9 @@ last_updated: 2026-10-20
 - [Ley 2222 de 2022](ley-2222-de-2022-bici-segura.md) · [Ley 1702 de 2013](ley-1702-de-2013-creacion-ansv.md)
 - [Memorando 20264000023493 — Comisión Verificadora](memorando-20264000023493-comision-verificadora-ccsv.md) · [Presentación a la Comisión de Verificación](presentacion-comision-verificacion-ccsv-2026.md) · [Resolución 546 de 2026](resolucion-546-de-2026-conformacion-consejo-consultivo.md)
 - [Inventario de instancias interinstitucionales (junio 2026)](inventario-instancias-interinstitucionales-ansv-junio-2026.md) · [DCI](../entidades/dci-direccion-coordinacion-interinstitucional.md)
+- [Resolución 479 de 2026](resolucion-479-de-2026-modifica-842-consejo-consultivo.md) · [Cronograma 2026 no ejecutado](cronograma-2026-convocatoria-ccsv.md)
 
 ## Incertidumbres
 
-- Las Resoluciones 479 de 2026 y 842 de 2022 no están en el corpus. `[INCIERTO]`
+- La Resolución 842 de 2022 no está en el corpus. `[INCIERTO]` La 479 de 2026 ya se ingirió: [Resolución 479 de 2026](resolucion-479-de-2026-modifica-842-consejo-consultivo.md) (2026-11-03).
 - Fecha de elección contradictoria entre el cronograma y el art. 2 (p. 3). `[INCIERTO]`

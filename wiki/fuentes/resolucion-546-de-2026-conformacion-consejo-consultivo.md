@@ -4,12 +4,13 @@ type: fuente
 tags: [resolucion, ansv, consejo-consultivo, ccsv, sociedad-civil, dci, secretaria-tecnica, conformacion]
 fuente_pdf: "Resolucion_546_de_2026 conformacion Consejo consultivo de seg vial 2026-2028.pdf"
 status: ingerido
-last_updated: 2026-10-28
+last_updated: 2026-11-03
 ---
 
 # Resolución ANSV 546 de 2026 — Conformación del Consejo Consultivo de Seguridad Vial 2026-2028
 
 **Archivo fuente:** `Resolucion_546_de_2026 conformacion Consejo consultivo de seg vial 2026-2028.pdf` (4 páginas, texto extraíble, firma digital). Se cita por página ("Página X de 4").
+**Segunda copia (2026-11-03):** `Resolucion_546_de_2026.pdf` (commit 152b2e3) es idéntico a este archivo (md5 920b3b38). No tiene página propia.
 **Fecha:** 19 de junio de 2026 (encabezado, p. 1, y fórmula de expedición, p. 4).
 **Expide:** Mariantonia Tabares Pulgarín, Directora General (firma digital, p. 4). El encabezado dice "LA DIRECTORA DE LA AGENCIA NACIONAL DE SEGURIDAD VIAL" (p. 1).
 **Proyectaron:** Mónica Sepúlveda Sierra y "Diana Rocío Nova Buendía", contratistas de la DCI. **Revisó:** Henry Leonardo Martín Uribe, asesor 1020, grado 18, DCI. **Aprobó:** Anthony Numa Marín, contratista de la Dirección General (p. 4).
@@ -68,5 +69,5 @@ Parágrafo: actúan en representación de los sectores por los que fueron elegid
 
 ## Incertidumbres
 
-- No están en el corpus las Actas 001 y 002 de 2026 ni las Resoluciones 842 de 2022 y 479 de 2026. `[INCIERTO]`
+- No están en el corpus las Actas 001 y 002 de 2026 de escrutinio y posesión, ni la Resolución 842 de 2022. `[INCIERTO]` La Resolución 479 de 2026 ya se ingirió ([página](resolucion-479-de-2026-modifica-842-consejo-consultivo.md), 2026-11-03). Ojo: el [Acta 001 de 2026 de la primera sesión ordinaria](acta-001-2026-primera-sesion-ordinaria-ccsv.md) (16 de julio) es otro documento.
 - Grafía del apellido de la contratista que proyectó (Nova Buendía o Novoa). `[INCIERTO]`
