@@ -3,7 +3,7 @@ title: "Organismos y autoridades de tránsito"
 type: concepto
 tags: [organismos-transito, autoridades-transito, codigo-nacional-transito, dci, territorial]
 status: ingerido
-last_updated: 2026-10-28
+last_updated: 2026-11-03
 ---
 
 # Organismos y autoridades de tránsito
@@ -58,3 +58,7 @@ Antes de que la DCI llegue con asistencia técnica, el organismo de tránsito (o
 ## Nota (2026-09-24, tras ingerir la Ley 1383 de 2010)
 
 Se ingirió el texto primario de la [Ley 1383 de 2010](../fuentes/ley-1383-de-2010-reforma-codigo-nacional-transito.md), que reforma puntualmente el Código. Confirma directamente (no solo por referencia de EVA-Gestor Normativo) que el Art. 3° vigente es el de esta reforma de 2010. La ley es anterior en tres años a la ANSV y no la menciona — consistente con el hallazgo de que la relación ANSV/DCI–organismos de tránsito territoriales sigue siendo de coordinación, no de autoridad jerárquica directa.
+
+## Conexiones
+
+- *(2026-11-03)* [Ley 617 de 2000](../fuentes/ley-617-de-2000-categorizacion-entidades-territoriales.md), art. 75 (p. 91): los municipios no están obligados a tener una dependencia de tránsito; solo pueden crearla o conservarla si su ICLD alcanza, y si no, la función la asume una dependencia afín.

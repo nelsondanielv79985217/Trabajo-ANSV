@@ -1045,3 +1045,10 @@ Con esto quedan cerrados todos los hallazgos de la pasada de LINT completa del 2
 - El "Acta 001 de 2026" que el usuario señaló como cargada es la de la primera sesión ordinaria (16 y 27-07-2026), ya ingerida. No es el Acta 001 del 12-06-2026 de escrutinio que cita la Res. 546; esa sigue fuera del corpus.
 - Síntesis nueva: `sintesis/conformacion-vigente-consejo-consultivo-2026-2028.md` (QUERY del usuario: listado de participantes del Consejo).
 - Páginas actualizadas: `conceptos/consejo-consultivo-seguridad-vial.md`, `fuentes/resolucion-479-...`, `fuentes/resolucion-546-...`, `index.md` (204 fuentes: 190 ingeridas + 14 incierto).
+
+## [2026-11-03] ingest | Ley 617 de 2000 (commit 85eb55f)
+
+- `Ley 617 del 2000 Ley organica del presupuesto.pdf` → `fuentes/ley-617-de-2000-categorizacion-entidades-territoriales.md`. Versión compilada de 107 páginas con notas de vigencia, muchas plegadas. Se registraron la categorización de departamentos y municipios (arts. 1-2), ICLD (art. 3), límites de gasto (arts. 4 y 6), saneamiento (arts. 19 y 26), libertad para crear dependencias, incluida la de tránsito (art. 75), capacitación de nuevos electos (art. 82) y normas orgánicas (art. 95). El nombre del archivo la llama "Ley orgánica del presupuesto", pero la ley solo la adiciona. Vigencia del art. 2 marcada `[INCIERTO]`.
+- La otra carga nueva (`20244000000257 implementacion de la circular 0677.pdf`, commit 5163fb9) se procesa en otra rama (PR #5); no se repitió aquí.
+- Páginas actualizadas: `fuentes/resolucion-583-de-2023-armonizacion-plsv-pnsv.md`, `fuentes/resolucion-10110-de-2023-peccit-supertransporte.md`, `conceptos/organismos-y-autoridades-de-transito.md`, `index.md` (205 fuentes: 191 ingeridas + 14 incierto, conteo directo).
+- No es una petición que requiera oficio de respuesta.
