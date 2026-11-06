@@ -4,7 +4,7 @@ type: fuente
 tags: [ley, plan-nacional-desarrollo, ansv, funciones-ansv, seguridad-vial, marco-normativo]
 fuente_pdf: "Ley_2294_de_2023.pdf"
 status: ingerido
-last_updated: 2026-09-28
+last_updated: 2026-11-06
 ---
 
 # Ley 2294 de 2023 — Plan Nacional de Desarrollo 2022-2026 "Colombia Potencia Mundial de la Vida", artículos sobre seguridad vial y ANSV
@@ -42,3 +42,7 @@ Ley del Plan Nacional de Desarrollo del cuatrienio 2022-2026, que en sus Arts. 1
 - Esta es una ley ómnibus de 159 páginas; solo se revisaron en detalle los Arts. 174–180 (capítulo de transporte con menciones a la ANSV/seguridad vial). No se descarta que otros artículos de la ley (p. ej. sobre presupuesto general, regalías, u otros sectores) tengan relevancia indirecta para el trabajo de la DCI, pero no se identificaron menciones explícitas a "seguridad vial", "ANSV" o "tránsito" fuera del rango revisado, según búsqueda de texto sobre el documento completo.
 - No se verifica en este corpus si la ANSV efectivamente implementó, dentro del plazo de 3 meses fijado por el Art. 178, la estrategia de prevención de siniestralidad allí ordenada, ni si el PNSV 2022-2031 (ya ingerido) responde a este mandato específico — no se ha hecho esa verificación cruzada.
 - No se verifica si el Art. 179 (modificación del Art. 52 de la Ley 769/2002) ya estaba registrado en la página de fuente del Código Nacional de Tránsito.
+
+## Adición (2026-11-06): art. 313, Unidad de Valor Básico
+
+Al ingerir la [Resolución MinHacienda 3488 de 2025](resolucion-3488-de-2025-minhacienda-valor-uvb-2026.md) se revisó el art. 313 de esta ley (pp. 137-138 del PDF). Crea la UVB ($10.000 en 2023), reajustable cada año por el IPC sin alimentos ni regulados, y ordena calcular en UVB los cobros, sanciones, multas y tarifas antes fijados en salarios mínimos o UVT, salvo los asuntos tributarios, aduaneros y cambiarios (par. 2) y los valores en firme antes del 1 de enero de 2024 (par. 3). Esta búsqueda complementa la nota anterior: el art. 313 no menciona el tránsito, pero puede afectar valores que el sector expresa en salarios mínimos. `[INCIERTO: el corpus no muestra su aplicación a las multas de tránsito.]`

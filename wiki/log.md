@@ -1052,3 +1052,10 @@ Con esto quedan cerrados todos los hallazgos de la pasada de LINT completa del 2
 - La otra carga nueva (`20244000000257 implementacion de la circular 0677.pdf`, commit 5163fb9) se procesa en otra rama (PR #5); no se repitió aquí.
 - Páginas actualizadas: `fuentes/resolucion-583-de-2023-armonizacion-plsv-pnsv.md`, `fuentes/resolucion-10110-de-2023-peccit-supertransporte.md`, `conceptos/organismos-y-autoridades-de-transito.md`, `index.md` (205 fuentes: 191 ingeridas + 14 incierto, conteo directo).
 - No es una petición que requiera oficio de respuesta.
+
+## [2026-11-06] ingest | Resolución MinHacienda 3488 de 2025 (commit 16d1588)
+
+- `Resolucion_3488_diciembre_31_2025.pdf` → `fuentes/resolucion-3488-de-2025-minhacienda-valor-uvb-2026.md`. Escaneado con OCR; firma verificada sobre la imagen (Germán Ávila Plazas). UVB 2026 = $12.110 (art. 1, p. 1); el cálculo coincide con el IPC de 4,83 % sobre $11.552. El encabezado de la p. 2 dice "vigencia 2025" por error.
+- Se revisó el art. 313 de la Ley 2294 de 2023 en su PDF (pp. 137-138) y se agregó a su página. Queda `[INCIERTO]` si las multas de tránsito se liquidan en UVB.
+- Páginas actualizadas: `fuentes/ley-2294-de-2023-plan-nacional-desarrollo.md`, `index.md` (206 fuentes: 192 ingeridas + 14 incierto, conteo directo).
+- No es una petición que requiera oficio de respuesta.
