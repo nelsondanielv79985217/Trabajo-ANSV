@@ -1065,6 +1065,9 @@ Con esto quedan cerrados todos los hallazgos de la pasada de LINT completa del 2
 - Páginas actualizadas: `fuentes/ley-2294-de-2023-plan-nacional-desarrollo.md`, `index.md` (206 fuentes: 192 ingeridas + 14 incierto, conteo directo).
 - No es una petición que requiera oficio de respuesta.
 
+## [2026-11-06] lint | Referencias desactualizadas a la Resolución 842 de 2022
+
+- La Res. 842 de 2022 ya estaba ingerida (2026-11-03, `fuentes/resolucion-842-de-2022-reglamentacion-consejo-consultivo.md`), pero cuatro páginas seguían diciendo que no estaba en el corpus. Se corrigieron: `fuentes/acta-009-2022-ccsv.md`, `fuentes/resolucion-480-de-2026-convocatoria-consejo-consultivo.md` (dos menciones), `fuentes/resolucion-546-de-2026-conformacion-consejo-consultivo.md` e `index.md`.
 ## [2026-11-06] ingest | Contrato Interadministrativo ANSV-031-2026 — rama `supervision-contrato-interadministrativo-ANSV-031-2026-grupos-de-participacion-ciudadana` (commits 79ce76f y 2e012ee)
 
 - 19 archivos; 18 documentos distintos. `2. Entrega 2 de perfiles EMR.pdf` es idéntico por md5 a `2. 18-08-2026 Respuesta evaluación 1 de HV.pdf`; se registró en la página de ese oficio.

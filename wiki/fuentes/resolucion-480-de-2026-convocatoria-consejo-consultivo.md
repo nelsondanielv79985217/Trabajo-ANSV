@@ -4,7 +4,7 @@ type: fuente
 tags: [resolucion, ansv, consejo-consultivo, ccsv, convocatoria, sociedad-civil, eleccion, dci, secretaria-tecnica]
 fuente_pdf: "Resolucion_480_de_2026.pdf"
 status: ingerido
-last_updated: 2026-11-03
+last_updated: 2026-11-06
 ---
 
 # Resolución ANSV 480 de 2026 — Apertura de la convocatoria del Consejo Consultivo 2026-2028
@@ -50,7 +50,7 @@ last_updated: 2026-11-03
 
 1. **Contradicción interna en la fecha de la elección.** El cronograma del art. 1 la fija el **12 de junio de 2026** (p. 3). El num. 5 del art. 2, en la misma página, dice que la elección "se realizará mediante tarjetón virtual el día **3 de junio de 2026**". El 3 de junio cae además antes del registro de votantes (9-10 de junio). La [Resolución 546 de 2026](resolucion-546-de-2026-conformacion-consejo-consultivo.md) confirma que los resultados se declararon en el Acta 001 del 12 de junio, lo que indica que se aplicó el cronograma. Si alguien impugna o pregunta por esta inconsistencia, la respuesta debe apoyarse en el cronograma y en el Acta 001. El Acta 001 no está en el corpus. `[INCIERTO]`
 2. **Solo la sociedad civil va a elección.** Los otros tres sectores (automotor, organismos de apoyo y academia) se acreditan por otro procedimiento, según la [Resolución 546](resolucion-546-de-2026-conformacion-consejo-consultivo.md), p. 1.
-3. ~~**La Resolución 479 de 2026 no está en el corpus.**~~ *(Resuelto 2026-11-03: ingerida en [su página](resolucion-479-de-2026-modifica-842-consejo-consultivo.md).)* Es el reglamento vigente del proceso: comisión de verificación, requisitos y desempate. Solo se conoce por referencias de esta resolución, del [memorando de designación de la Comisión Verificadora](memorando-20264000023493-comision-verificadora-ccsv.md) y de la [presentación a la Comisión](presentacion-comision-verificacion-ccsv-2026.md). Tampoco está la Resolución 842 de 2022. `[INCIERTO]`
+3. ~~**La Resolución 479 de 2026 no está en el corpus.**~~ *(Resuelto 2026-11-03: ingerida en [su página](resolucion-479-de-2026-modifica-842-consejo-consultivo.md).)* Es el reglamento vigente del proceso: comisión de verificación, requisitos y desempate. Solo se conoce por referencias de esta resolución, del [memorando de designación de la Comisión Verificadora](memorando-20264000023493-comision-verificadora-ccsv.md) y de la [presentación a la Comisión](presentacion-comision-verificacion-ccsv-2026.md). La [Resolución 842 de 2022](resolucion-842-de-2022-reglamentacion-consejo-consultivo.md) también se ingirió el 2026-11-03.
 4. **Cargo de la Directora de la DCI.** Aquí figura como "Directora Técnica de Coordinación Interinstitucional" (p. 4); en el memorando y en otros documentos firma como "Directora de Coordinación Interinstitucional".
 
 ## Conexiones
@@ -63,5 +63,5 @@ last_updated: 2026-11-03
 
 ## Incertidumbres
 
-- La Resolución 842 de 2022 no está en el corpus. `[INCIERTO]` La 479 de 2026 ya se ingirió: [Resolución 479 de 2026](resolucion-479-de-2026-modifica-842-consejo-consultivo.md) (2026-11-03).
+- ~~La Resolución 842 de 2022 no está en el corpus.~~ *(Resuelto 2026-11-03: [Resolución 842 de 2022](resolucion-842-de-2022-reglamentacion-consejo-consultivo.md).)* La 479 de 2026 ya se ingirió: [Resolución 479 de 2026](resolucion-479-de-2026-modifica-842-consejo-consultivo.md) (2026-11-03).
 - Fecha de elección contradictoria entre el cronograma y el art. 2 (p. 3). `[INCIERTO]`
