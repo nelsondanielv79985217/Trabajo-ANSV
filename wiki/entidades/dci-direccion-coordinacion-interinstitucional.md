@@ -3,7 +3,7 @@ title: "DCI — Dirección de Coordinación Interinstitucional (ANSV)"
 type: entidad
 tags: [dci, ansv, asistencia-tecnica, coordinacion-interinstitucional]
 status: ingerido
-last_updated: 2026-11-03
+last_updated: 2026-11-06
 ---
 
 
@@ -121,6 +121,15 @@ Instancia de coordinación territorial creada por la Resolución 007/2023, lider
   - **Paula Katerine Ramos Navarro** revisó como "Directora Técnica DCI" la [Resolución 479 de 2026](../fuentes/resolucion-479-de-2026-modifica-842-consejo-consultivo.md) del 22 de mayo de 2026 (p. 9).
   - **Henry Leonardo Martín Uribe**, "Director Encargado de Coordinación Interinstitucional" el **16 y 27 de julio de 2026** ([Acta 001 de 2026](../fuentes/acta-001-2026-primera-sesion-ordinaria-ccsv.md), pp. 1 y 21) y "Director (E)" el **11 de septiembre de 2026** ([oficio 20265000135981](../fuentes/oficio-20265000135981-aplazamiento-segunda-sesion-ccsv.md), p. 2). En mayo era asesor 1020, grado 18. `[INCIERTO: el corpus no tiene el acto de encargo ni dice si Ramos Navarro dejó el cargo.]`
   - Contratistas DCI que proyectan los actos del Consejo en 2026: Mónica Sepúlveda Sierra y Diana Rocío Novoa Buendía (Res. 479, p. 9; oficio, p. 2).
+
+- *(2026-11-06, rama del CI ANSV-031-2026)* Contratación y supervisión:
+  - La DCI es la dependencia solicitante del [CI ANSV-031-2026](../sintesis/contrato-interadministrativo-ansv-031-2026-gpc.md) con la Institución Universitaria de Envigado (GPC, $1.690.000.000). Henry Leonardo Martín Uribe, como Director Técnico (E), firmó el [estudio previo](../fuentes/ci-ansv-031-2026-estudio-previo-gpc.md) el 24-07-2026 (p. 48). El mismo estudio registra una base de 115 GPC conformados, según información de la DCI (p. 8).
+  - Cadena de supervisión del CI 031:
+    - María Alejandra Alipio Parra, Profesional Especializado 16, desde el 05-08-2026 ([designación](../fuentes/ci-ansv-031-2026-designacion-supervision-alipio.md), p. 1).
+    - Henry Leonardo Martín Uribe desde el 03-09-2026 ([cambio](../fuentes/ci-ansv-031-2026-cambio-supervision-henry-martin.md), p. 1).
+    - **Nelson Daniel Vega Samacá, Asesor 1020-16**, desde el 01-11-2026; también supervisa el CI ANSV-030-2026 (Unidades Tecnológicas de Santander, Ruta de Atención Integral a Víctimas) ([designación](../fuentes/ci-ansv-031-2026-designacion-supervision-nelson-vega-030-031.md), p. 1).
+  - **María Isabel Costa Canales** figura como "Director DCI" el 28-10-2026 (misma designación, p. 5). Firmó como Directora de Coordinación Interinstitucional el memorando 20262000039563 del 22-10-2026 (citado ahí, p. 1). Es el primer registro de su titularidad en el corpus. Henry Martín seguía como Director (E) el 10-09-2026 ([oficio 20264000135411](../fuentes/ci-ansv-031-2026-oficio-20264000135411-aprobacion-emr.md), p. 3). `[INCIERTO: fecha exacta del relevo entre el 10-09 y el 22-10-2026]`.
+  - Contratistas DCI de apoyo a la supervisión del CI 031: Gina Paola Herrera Ávila, Silvia María Arévalo Moreno, Luisa Fernanda Gómez Rodríguez, Brayan Nicolás Jaimes Navarro, Andrés Felipe Salamanca Montaño y Luis Carlos Romero Noguera ([memorando 20264000032313](../fuentes/ci-ansv-031-2026-memorando-20264000032313-apoyos-supervision.md), p. 1).
 
 ## Incertidumbres
 

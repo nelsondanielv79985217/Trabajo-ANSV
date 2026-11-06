@@ -1064,3 +1064,18 @@ Con esto quedan cerrados todos los hallazgos de la pasada de LINT completa del 2
 - Se revisó el art. 313 de la Ley 2294 de 2023 en su PDF (pp. 137-138) y se agregó a su página. Queda `[INCIERTO]` si las multas de tránsito se liquidan en UVB.
 - Páginas actualizadas: `fuentes/ley-2294-de-2023-plan-nacional-desarrollo.md`, `index.md` (206 fuentes: 192 ingeridas + 14 incierto, conteo directo).
 - No es una petición que requiera oficio de respuesta.
+
+## [2026-11-06] ingest | Contrato Interadministrativo ANSV-031-2026 — rama `supervision-contrato-interadministrativo-ANSV-031-2026-grupos-de-participacion-ciudadana` (commits 79ce76f y 2e012ee)
+
+- 19 archivos; 18 documentos distintos. `2. Entrega 2 de perfiles EMR.pdf` es idéntico por md5 a `2. 18-08-2026 Respuesta evaluación 1 de HV.pdf`; se registró en la página de ese oficio.
+- Páginas de fuente nuevas (18, prefijo `fuentes/ci-ansv-031-2026-`): estudio previo, clausulado, CVI 615-26 (incierto, imagen), CDR 023-2026, póliza de cumplimiento, póliza RCE (incierto), tres designaciones de supervisión, memorando de apoyos, correo de instrucción, correo de entrega 1 y seis oficios del EMR. Los tres escaneos (CVI y pólizas) se leyeron sobre la imagen.
+- Síntesis nueva: `sintesis/contrato-interadministrativo-ansv-031-2026-gpc.md`, con ficha, línea de tiempo, nueve alertas para el supervisor y documentos faltantes.
+- Página actualizada: `entidades/dci-direccion-coordinacion-interinstitucional.md` (cadena de supervisión del CI 031; María Isabel Costa Canales como Directora DCI en octubre de 2026).
+- Hallazgos para la supervisión:
+  - Sin acta de inicio al 10-09-2026.
+  - Pólizas contadas desde el 29-07-2026.
+  - Numeración PNSV 7.3.1.3 frente a la 3.1.3 del Decreto 1430 (p. 68).
+  - Posible conflicto de interés de un integrante del EMR con el mismo nombre que un contratista del Grupo de Gestión Contractual.
+  - Beneficiario de la garantía distinto entre el estudio previo y el clausulado.
+- `index.md`: 224 fuentes (208 ingeridas + 16 incierto, conteo directo).
+- Ningún archivo es una petición que requiera oficio de respuesta.
