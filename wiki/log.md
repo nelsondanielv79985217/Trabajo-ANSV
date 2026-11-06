@@ -1045,3 +1045,9 @@ Con esto quedan cerrados todos los hallazgos de la pasada de LINT completa del 2
 - El "Acta 001 de 2026" que el usuario señaló como cargada es la de la primera sesión ordinaria (16 y 27-07-2026), ya ingerida. No es el Acta 001 del 12-06-2026 de escrutinio que cita la Res. 546; esa sigue fuera del corpus.
 - Síntesis nueva: `sintesis/conformacion-vigente-consejo-consultivo-2026-2028.md` (QUERY del usuario: listado de participantes del Consejo).
 - Páginas actualizadas: `conceptos/consejo-consultivo-seguridad-vial.md`, `fuentes/resolucion-479-...`, `fuentes/resolucion-546-...`, `index.md` (204 fuentes: 190 ingeridas + 14 incierto).
+
+## [2026-11-03] ingest | 20244000000257 implementacion de la circular 0677.pdf (commit 5163fb9)
+
+- Archivo nuevo, pero corresponde a la Circular Externa 20244000000257 del 8-5-2024 (Mintransporte, DTT), ya ingerida desde el escaneo `2024000000257 explica proc para asigna rangos a los municipios.pdf`. md5 distinto: esta copia trae capa de texto. Se cotejó el contenido y coincide.
+- Página actualizada: `fuentes/circular-externa-20244000000257-implementacion-ley-2197.md`. Se registró la segunda copia, se agregaron páginas por numeral, el requerimiento de la Ley 1755/2015 y los firmantes de Elaboró y Revisó. Se corrigió una extrapolación: "descuentos legales de pronto pago" pasó a "descuentos señalados en la misma" (texto literal, p. 2).
+- `index.md`: nota de las dos copias en la entrada existente. No suma una fuente nueva al conteo.
