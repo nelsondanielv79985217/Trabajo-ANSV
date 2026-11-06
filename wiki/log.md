@@ -1064,3 +1064,7 @@ Con esto quedan cerrados todos los hallazgos de la pasada de LINT completa del 2
 - Se revisó el art. 313 de la Ley 2294 de 2023 en su PDF (pp. 137-138) y se agregó a su página. Queda `[INCIERTO]` si las multas de tránsito se liquidan en UVB.
 - Páginas actualizadas: `fuentes/ley-2294-de-2023-plan-nacional-desarrollo.md`, `index.md` (206 fuentes: 192 ingeridas + 14 incierto, conteo directo).
 - No es una petición que requiera oficio de respuesta.
+
+## [2026-11-06] lint | Referencias desactualizadas a la Resolución 842 de 2022
+
+- La Res. 842 de 2022 ya estaba ingerida (2026-11-03, `fuentes/resolucion-842-de-2022-reglamentacion-consejo-consultivo.md`), pero cuatro páginas seguían diciendo que no estaba en el corpus. Se corrigieron: `fuentes/acta-009-2022-ccsv.md`, `fuentes/resolucion-480-de-2026-convocatoria-consejo-consultivo.md` (dos menciones), `fuentes/resolucion-546-de-2026-conformacion-consejo-consultivo.md` e `index.md`.
