@@ -1051,3 +1051,16 @@ Con esto quedan cerrados todos los hallazgos de la pasada de LINT completa del 2
 - Archivo nuevo, pero corresponde a la Circular Externa 20244000000257 del 8-5-2024 (Mintransporte, DTT), ya ingerida desde el escaneo `2024000000257 explica proc para asigna rangos a los municipios.pdf`. md5 distinto: esta copia trae capa de texto. Se cotejó el contenido y coincide.
 - Página actualizada: `fuentes/circular-externa-20244000000257-implementacion-ley-2197.md`. Se registró la segunda copia, se agregaron páginas por numeral, el requerimiento de la Ley 1755/2015 y los firmantes de Elaboró y Revisó. Se corrigió una extrapolación: "descuentos legales de pronto pago" pasó a "descuentos señalados en la misma" (texto literal, p. 2).
 - `index.md`: nota de las dos copias en la entrada existente. No suma una fuente nueva al conteo.
+## [2026-11-03] ingest | Ley 617 de 2000 (commit 85eb55f)
+
+- `Ley 617 del 2000 Ley organica del presupuesto.pdf` → `fuentes/ley-617-de-2000-categorizacion-entidades-territoriales.md`. Versión compilada de 107 páginas con notas de vigencia, muchas plegadas. Se registraron la categorización de departamentos y municipios (arts. 1-2), ICLD (art. 3), límites de gasto (arts. 4 y 6), saneamiento (arts. 19 y 26), libertad para crear dependencias, incluida la de tránsito (art. 75), capacitación de nuevos electos (art. 82) y normas orgánicas (art. 95). El nombre del archivo la llama "Ley orgánica del presupuesto", pero la ley solo la adiciona. Vigencia del art. 2 marcada `[INCIERTO]`.
+- La otra carga nueva (`20244000000257 implementacion de la circular 0677.pdf`, commit 5163fb9) se procesa en otra rama (PR #5); no se repitió aquí.
+- Páginas actualizadas: `fuentes/resolucion-583-de-2023-armonizacion-plsv-pnsv.md`, `fuentes/resolucion-10110-de-2023-peccit-supertransporte.md`, `conceptos/organismos-y-autoridades-de-transito.md`, `index.md` (205 fuentes: 191 ingeridas + 14 incierto, conteo directo).
+- No es una petición que requiera oficio de respuesta.
+
+## [2026-11-06] ingest | Resolución MinHacienda 3488 de 2025 (commit 16d1588)
+
+- `Resolucion_3488_diciembre_31_2025.pdf` → `fuentes/resolucion-3488-de-2025-minhacienda-valor-uvb-2026.md`. Escaneado con OCR; firma verificada sobre la imagen (Germán Ávila Plazas). UVB 2026 = $12.110 (art. 1, p. 1); el cálculo coincide con el IPC de 4,83 % sobre $11.552. El encabezado de la p. 2 dice "vigencia 2025" por error.
+- Se revisó el art. 313 de la Ley 2294 de 2023 en su PDF (pp. 137-138) y se agregó a su página. Queda `[INCIERTO]` si las multas de tránsito se liquidan en UVB.
+- Páginas actualizadas: `fuentes/ley-2294-de-2023-plan-nacional-desarrollo.md`, `index.md` (206 fuentes: 192 ingeridas + 14 incierto, conteo directo).
+- No es una petición que requiera oficio de respuesta.

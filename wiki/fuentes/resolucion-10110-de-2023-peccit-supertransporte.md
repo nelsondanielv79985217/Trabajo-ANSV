@@ -4,7 +4,7 @@ type: fuente
 tags: [resolucion, supertransporte, peccit, organismos-transito, control, planeacion-sectorial]
 fuente_pdf: "Plan estrategico de control  SIT Resolucion 10110_231205_123130.pdf"
 status: ingerido
-last_updated: 2026-09-25
+last_updated: 2026-11-03
 ---
 
 # Resolución 10110 de 2023 — "Por la cual se adiciona el artículo 3.9.4. del Capítulo 9 del Título III Circular Única de Infraestructura y Transporte"
@@ -39,6 +39,7 @@ Constitución Política, Arts. 2°, 24° y 365°; Ley 105 de 1993, Art. 2° lit.
 - **Anexo Técnico — PECCIT** (8 páginas adicionales): detalla el listado extenso de datos a reportar mensual/trimestral/anualmente (charlas y encuestas de movilidad planeadas, campañas de legalización, operativos de control por modalidad —individual, escolar, capacidad máxima—, identificación de patios/placas/fechas de ingreso, tarifas autorizadas, empresas y placas por tipo de servicio) y el procedimiento de autorización de proveedores tecnológicos que quieran interoperar con el SISI/PECCIT (6 etapas: solicitud, revisión, reunión técnica, pruebas en ambiente controlado, evaluación técnica, puesta en operación).
 
 ## Conexiones
+- *(2026-11-03)* [Ley 617 de 2000](ley-617-de-2000-categorizacion-entidades-territoriales.md): fuente primaria de las categorías 1 a 6 que usa el Grupo B (art. 2, pp. 3-6).
 
 - [Ley 769 de 2002](ley-769-de-2002-codigo-nacional-transito.md): se actualiza con la cita del Art. 3°, Parágrafo 3° (facultad de vigilancia/control de SuperTransporte sobre autoridades y organismos de tránsito), no registrada antes.
 - [Organismos y autoridades de tránsito](../conceptos/organismos-y-autoridades-de-transito.md): se actualiza con esta obligación de reporte periódico (PECCIT/SISI) que ya pesa sobre los mismos sujetos con los que trabaja el protocolo de AT de la DCI — relevante para dimensionar su carga administrativa real.

@@ -4,7 +4,7 @@ type: fuente
 tags: [resolucion, marco-normativo, ansv, plsv, pnsv, sistema-seguro, dci, organismos-transito]
 fuente_pdf: "Resolucion_583_2023armonizacion PLSV con PNSV 2022 2031.pdf"
 status: ingerido
-last_updated: 2026-09-24
+last_updated: 2026-11-03
 ---
 
 # Resolución 583 de 2023 — "Por la cual se reglamenta el parágrafo 1 del artículo 14 de la Ley 2251 de 2022 y se dictan otras disposiciones"
@@ -51,6 +51,7 @@ La resolución arma su propia genealogía normativa citando textualmente:
 - **Darío Rincón Jaramillo** figura simultáneamente como "director de Comportamiento" (quien proyecta) y como **"director (E) de Coordinación Interinstitucional"** (quien aprueba) — es decir, en la fecha de esta resolución (octubre de 2023) estaba encargado (E) de la DCI además de ser titular de la Dirección de Comportamiento. Este nombre **no coincide** con "Paula Katerine Ramos Navarro, Directora de Coordinación Interinstitucional", ya documentada en la página de la DCI a partir de PR-06/PR-07/CA-02. No hay en este corpus información suficiente para establecer la secuencia temporal exacta entre ambos (cuál ejerció el cargo primero, o si se alternaron en distintos periodos) — se deja como incertidumbre explícita, sin inferir un orden.
 
 ## Conexiones
+- *(2026-11-03)* [Ley 617 de 2000](ley-617-de-2000-categorizacion-entidades-territoriales.md): fuente primaria de la categorización municipal que usa esta resolución (art. 2, pp. 3-6).
 
 - [Ley 769 de 2002](ley-769-de-2002-codigo-nacional-transito.md): confirma la cita del Art. 4° Par. 1.
 - [Ley 1702 de 2013](ley-1702-de-2013-creacion-ansv.md): confirma directamente las citas de los Arts. 2° y 5° (autoridad de la ANSV; definición del PNSV) ya registradas en esa página.

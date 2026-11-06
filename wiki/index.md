@@ -2,6 +2,10 @@
 
 Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos de trabajo (INGEST/QUERY/LINT).
 
+*Actualización (2026-11-06)*: ingest de la Resolución MinHacienda 3488 de 2025, valor de la UVB 2026 (commit 16d1588). **206 páginas de fuente en `wiki/fuentes/`** (192 ingeridas + 14 incierto, conteo directo). La PR #5 (segunda copia de la Circular 20244000000257) no agregó páginas.
+
+*Actualización (2026-11-03, cuarta)*: ingest de la Ley 617 de 2000 (commit 85eb55f). La Circular 20244000000257 de 2024 (commit 5163fb9) se procesa en otra rama. **205 páginas de fuente en `wiki/fuentes/`** (191 ingeridas + 14 incierto, conteo directo).
+
 *Actualización (2026-11-03, tercera)*: ingest de la Resolución ANSV 842 de 2022 (commit 904369b); la segunda copia de la Res. 479 quedó registrada en su página. Nueva síntesis: conformación vigente del Consejo Consultivo 2026-2028. **204 páginas de fuente en `wiki/fuentes/`** (190 ingeridas + 14 incierto); 9 entidades y 9 conceptos.
 
 *Actualización (2026-11-03, segunda)*: ingest de los 28 archivos del Consejo Consultivo subidos el 03-11-2026 (commit 152b2e3): 25 documentos distintos (Res. 479 de 2026, Acta 001 de 2026, oficio de aplazamiento, cronogramas, matriz de validación y 17 documentos del primer Consejo 2021-2022) y 3 copias registradas en páginas existentes. **203 páginas de fuente en `wiki/fuentes/`** (189 ingeridas + 14 incierto, conteo directo); 9 entidades y 9 conceptos.
@@ -358,6 +362,14 @@ Se creó el concepto [Régimen de autorización SAST/fotodetección](conceptos/s
 - [Extraordinaria 10 de 2022](fuentes/acta-extraordinaria-010-2022-ccsv.md) — Lota y Oñate; pacto nacional, motos, SOAT, 61 municipios. (ingerido)
 - [Extraordinaria 011 de 2022](fuentes/acta-extraordinaria-011-2022-ccsv.md) — Críticas a la ANSV; renuncia de Bustamante. (ingerido)
 - [Ordinaria 005 de 2022](fuentes/acta-ordinaria-005-2022-ccsv.md) — Villaveces Presidente; asistencia no delegable. (ingerido)
+
+### Carga del 3 de noviembre de 2026, tarde (1, 1 ingerida)
+
+- [Ley 617 de 2000 — Categorización de entidades territoriales y gastos de funcionamiento](fuentes/ley-617-de-2000-categorizacion-entidades-territoriales.md) — Versión compilada con notas. Fuente primaria de la categoría municipal que usan la Res. 583/2023 y la Res. 10110/2023 (art. 2, pp. 3-6); límites de gasto/ICLD (arts. 4 y 6); el art. 75 (p. 91) libera a los municipios de tener dependencia de tránsito si su ICLD no alcanza. Vigencia del art. 2 por verificar. (ingerido)
+
+### Carga del 4 de noviembre de 2026 (1, 1 ingerida)
+
+- [Resolución MinHacienda 3488 de 2025 — UVB 2026](fuentes/resolucion-3488-de-2025-minhacienda-valor-uvb-2026.md) — Fija la Unidad de Valor Básico en $12.110 para 2026 (art. 1, p. 1), según el art. 313 de la Ley 2294 de 2023. El corpus no dice si las multas de tránsito se liquidan en UVB. (ingerido)
 
 ## Método (`fuentes/`, type: metodo)
 
