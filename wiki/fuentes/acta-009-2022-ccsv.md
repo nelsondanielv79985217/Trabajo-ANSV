@@ -4,7 +4,7 @@ type: fuente
 tags: [acta, consejo-consultivo, ccsv, sesion-extraordinaria, ley-2222, resolucion-098-2019, resolucion-111-2021, transicion, ley-2251, cale, andi, historico]
 fuente_pdf: "Acta N°009 Consejo Consultivo 03082022.pdf"
 status: ingerido
-last_updated: 2026-11-03
+last_updated: 2026-11-06
 ---
 
 # Acta 009 de 2022 (3 de agosto)
@@ -24,7 +24,7 @@ last_updated: 2026-11-03
 
 ## Lectura para el trabajo de la DCI
 
-- Es el único documento del corpus que nombra los artículos de las Resoluciones 098/2019 y 111/2021 afectados por la Ley 2222 (p. 2). La resolución que resultó de ese análisis sería la 842 de 2022, que no está en el corpus. `[INCIERTO]`
+- Es el único documento del corpus que nombra los artículos de las Resoluciones 098/2019 y 111/2021 afectados por la Ley 2222 (p. 2). La resolución que resultó de ese análisis es la [Resolución 842 de 2022](resolucion-842-de-2022-reglamentacion-consejo-consultivo.md), que unificó la reglamentación en un solo acto (HOJA 5).
 - La sugerencia de que la Secretaría Técnica dependa del despacho de la Dirección General (p. 2) es el antecedente de la fórmula de la [Resolución 479](resolucion-479-de-2026-modifica-842-consejo-consultivo.md): Secretaría "en cabeza de la Dirección General, que a su vez fue designada a la DCI" (p. 5).
 
 ## Conexiones

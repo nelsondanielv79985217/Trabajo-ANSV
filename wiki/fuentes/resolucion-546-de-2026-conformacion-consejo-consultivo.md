@@ -4,7 +4,7 @@ type: fuente
 tags: [resolucion, ansv, consejo-consultivo, ccsv, sociedad-civil, dci, secretaria-tecnica, conformacion]
 fuente_pdf: "Resolucion_546_de_2026 conformacion Consejo consultivo de seg vial 2026-2028.pdf"
 status: ingerido
-last_updated: 2026-11-03
+last_updated: 2026-11-06
 ---
 
 # Resolución ANSV 546 de 2026 — Conformación del Consejo Consultivo de Seguridad Vial 2026-2028
@@ -69,5 +69,5 @@ Parágrafo: actúan en representación de los sectores por los que fueron elegid
 
 ## Incertidumbres
 
-- No están en el corpus las Actas 001 y 002 de 2026 de escrutinio y posesión, ni la Resolución 842 de 2022. `[INCIERTO]` La Resolución 479 de 2026 ya se ingirió ([página](resolucion-479-de-2026-modifica-842-consejo-consultivo.md), 2026-11-03). Ojo: el [Acta 001 de 2026 de la primera sesión ordinaria](acta-001-2026-primera-sesion-ordinaria-ccsv.md) (16 de julio) es otro documento.
+- No están en el corpus las Actas 001 y 002 de 2026 de escrutinio y posesión. `[INCIERTO]` La [Resolución 842 de 2022](resolucion-842-de-2022-reglamentacion-consejo-consultivo.md) ya se ingirió (2026-11-03). La Resolución 479 de 2026 ya se ingirió ([página](resolucion-479-de-2026-modifica-842-consejo-consultivo.md), 2026-11-03). Ojo: el [Acta 001 de 2026 de la primera sesión ordinaria](acta-001-2026-primera-sesion-ordinaria-ccsv.md) (16 de julio) es otro documento.
 - Grafía del apellido de la contratista que proyectó (Nova Buendía o Novoa). `[INCIERTO]`
