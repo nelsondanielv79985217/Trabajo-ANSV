@@ -21,7 +21,7 @@ Lo marcado como **(propio)** es análisis o cálculo de esta síntesis, no texto
 | Valor | $1.690.000.000, con 5 pagos de 20 % contra producto y Acta de Recibo a Satisfacción | Clausulado, cl. 4.ª-5.ª, pp. 25-31 |
 | Plazo | 10 meses desde el acta de inicio | Clausulado, cl. 6.ª, p. 31 |
 | Recursos | CVI 615-26 y CDR 023-2026, Fiduagraria / PA FSV, por $1.700.000.000 | [CVI](../fuentes/ci-ansv-031-2026-cvi-615-26.md); [CDR](../fuentes/ci-ansv-031-2026-cdr-023-2026-fiduagraria.md), pp. 1-2 |
-| PNSV | Acción **3.1.3** "Fortalecer la participación ciudadana en torno a la seguridad vial". El estudio previo la cita como "7.3.1.3", numeración que no existe en el Decreto 1430 | [Decreto 1430](../fuentes/decreto-1430-de-2022-adopta-pnsv-2022-2031.md), p. 68; [estudio previo](../fuentes/ci-ansv-031-2026-estudio-previo-gpc.md), pp. 4, 6 |
+| PNSV | Acción **3.1.3** "Fortalecer la participación ciudadana en torno a la seguridad vial". El estudio previo la cita como "7.3.1.3": numeración compuesta (área 7, gobernanza, más la acción 3.1.3), no un error | [Decreto 1430](../fuentes/decreto-1430-de-2022-adopta-pnsv-2022-2031.md), p. 68; [estudio previo](../fuentes/ci-ansv-031-2026-estudio-previo-gpc.md), pp. 4, 6 |
 | SECOP II | CO1.NTC.10600815 | [Designación](../fuentes/ci-ansv-031-2026-designacion-supervision-alipio.md), p. 1 |
 | Supervisión contractual | Profesional Especializado Grado 16 DCI "o por quien … comunique el/la jefe del Grupo de Gestión Contractual" | Clausulado, cl. 7.ª, p. 31 |
 
@@ -76,7 +76,7 @@ Ordenadas por urgencia (propio).
    - "Nota 4" inexistente.
    - Requisitos del acta de inicio en la cl. 6.ª frente al EMR.
    - Texto incompleto de la liquidación unilateral.
-8. **Numeración PNSV.** Para reportar a la acción del PNSV, citar la 3.1.3 (Decreto 1430, p. 68) y no la "7.3.1.3" del estudio previo.
+8. **Numeración PNSV (corregida el 06-11-2026).** "7.3.1.3" no es un error: es la acción 3.1.3 del área 7, gobernanza (Decreto 1430, pp. 4-6 y 68). Al reportar, conviene citar "acción 3.1.3 del área de gobernanza (7.3.1.3)" para que se pueda rastrear en el Decreto.
 9. **Correspondencia mal dirigida.** La IUE dirigió el oficio del 07-09 a Alipio después del cambio de supervisor. Conviene comunicar formalmente a la IUE el cambio al nuevo supervisor (propio).
 
 ## Documentos que faltan en el corpus

@@ -1082,3 +1082,34 @@ Con esto quedan cerrados todos los hallazgos de la pasada de LINT completa del 2
   - Beneficiario de la garantía distinto entre el estudio previo y el clausulado.
 - `index.md`: 224 fuentes (208 ingeridas + 16 incierto, conteo directo).
 - Ningún archivo es una petición que requiera oficio de respuesta.
+
+## [2026-11-06] ingest | Contrato Interadministrativo ANSV-030-2026 — rama `Contrato-interadministrativo-ANSV-030-2026-Ruta-de-atencion-a-victimas` (commits 22056e6, ef85c67 y 7e3d7e8)
+
+- 28 archivos; 25 documentos distintos.
+  - Duplicados por texto idéntico: `07. CVI 560-26.pdf` (= `02.`), `07.1. CDR-020-2026.pdf` (= `02.1.`) y `03RESO~1.PDF` (= Resolución 647). Se registraron en las páginas de sus originales.
+  - `Designacion apoyo a la supervision.docx` es la versión editable del memorando 20264000032663 y quedó en la misma página.
+- Páginas de fuente nuevas (24):
+  - 21 con prefijo `fuentes/ci-ansv-030-2026-`.
+  - `fuentes/circular-043-2026-deberes-supervisores-ansv.md`.
+  - `fuentes/formato-acta-inicio-ansv-con-fo-25-v2.md`.
+  - `fuentes/ley-617-de-2000-extracto-categorias-ci-030.md` (extracto de 28 pp.; remite a la página principal de la ley).
+  - Cuatro quedan `incierto`: CVI, póliza RCE, matriz de riesgos y cotizaciones.
+- Síntesis nueva: `sintesis/contrato-interadministrativo-ansv-030-2026-ruta-victimas.md`, con ficha, línea de tiempo, 11 alertas y documentos faltantes.
+- Páginas actualizadas:
+  - `entidades/dci-direccion-coordinacion-interinstitucional.md`: supervisión del CI 030 desde el 06-08-2026.
+  - `entidades/ansv-agencia-nacional-seguridad-vial.md`: Alexandra Acelas Rodríguez firma la Circular 043 del 02-09-2026.
+  - `fuentes/ci-ansv-031-2026-designacion-supervision-nelson-vega-030-031.md`: para el CI 030 es una redesignación.
+- Hallazgos principales:
+  - El oficio de la supervisión condicionó el acta de inicio a aprobar el EMR, aunque el clausulado no lo exige (cl. 6.ª; obligación general 6).
+  - La póliza RCE no nombra al PA FSV ni a terceros y trae un NIT errado.
+  - El archivo de cotización "IUE" contiene la de las UTS.
+  - La invitación privada posterior al evento público choca con la afirmación de que no hubo consultas direccionadas (Decreto 1600 de 2024).
+  - El CVI y el CDR suman $53M más que el contrato.
+  - SECOP marca "Funcionamiento".
+- Ningún archivo es una petición que requiera oficio de respuesta.
+
+## [2026-11-06] lint | Corrección: numeración PNSV "7.3.1.3" del CI ANSV-031-2026
+
+- La entrada de ingest del CI 031 (arriba) la registró como inconsistencia frente a la acción 3.1.3 del Decreto 1430. Es un error de análisis.
+- Los estudios previos usan numeración compuesta "área.objetivo.acción": gobernanza es el área 7 de las ocho (Decreto 1430, pp. 4-6). El estudio del CI 030 hace lo mismo con "6.1.1.1" = área 6 (víctimas) + acción 1.1.1 (p. 57).
+- Corregidos: `fuentes/ci-ansv-031-2026-estudio-previo-gpc.md`, `sintesis/contrato-interadministrativo-ansv-031-2026-gpc.md` (ficha y alerta 8) e `index.md`.
