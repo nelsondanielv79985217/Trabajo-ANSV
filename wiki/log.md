@@ -1046,6 +1046,11 @@ Con esto quedan cerrados todos los hallazgos de la pasada de LINT completa del 2
 - Síntesis nueva: `sintesis/conformacion-vigente-consejo-consultivo-2026-2028.md` (QUERY del usuario: listado de participantes del Consejo).
 - Páginas actualizadas: `conceptos/consejo-consultivo-seguridad-vial.md`, `fuentes/resolucion-479-...`, `fuentes/resolucion-546-...`, `index.md` (204 fuentes: 190 ingeridas + 14 incierto).
 
+## [2026-11-03] ingest | 20244000000257 implementacion de la circular 0677.pdf (commit 5163fb9)
+
+- Archivo nuevo, pero corresponde a la Circular Externa 20244000000257 del 8-5-2024 (Mintransporte, DTT), ya ingerida desde el escaneo `2024000000257 explica proc para asigna rangos a los municipios.pdf`. md5 distinto: esta copia trae capa de texto. Se cotejó el contenido y coincide.
+- Página actualizada: `fuentes/circular-externa-20244000000257-implementacion-ley-2197.md`. Se registró la segunda copia, se agregaron páginas por numeral, el requerimiento de la Ley 1755/2015 y los firmantes de Elaboró y Revisó. Se corrigió una extrapolación: "descuentos legales de pronto pago" pasó a "descuentos señalados en la misma" (texto literal, p. 2).
+- `index.md`: nota de las dos copias en la entrada existente. No suma una fuente nueva al conteo.
 ## [2026-11-03] ingest | Ley 617 de 2000 (commit 85eb55f)
 
 - `Ley 617 del 2000 Ley organica del presupuesto.pdf` → `fuentes/ley-617-de-2000-categorizacion-entidades-territoriales.md`. Versión compilada de 107 páginas con notas de vigencia, muchas plegadas. Se registraron la categorización de departamentos y municipios (arts. 1-2), ICLD (art. 3), límites de gasto (arts. 4 y 6), saneamiento (arts. 19 y 26), libertad para crear dependencias, incluida la de tránsito (art. 75), capacitación de nuevos electos (art. 82) y normas orgánicas (art. 95). El nombre del archivo la llama "Ley orgánica del presupuesto", pero la ley solo la adiciona. Vigencia del art. 2 marcada `[INCIERTO]`.
