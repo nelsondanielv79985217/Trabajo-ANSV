@@ -2,6 +2,8 @@
 
 Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos de trabajo (INGEST/QUERY/LINT).
 
+*Actualización (2026-11-17)*: ingest de los 3 archivos subidos a `main` el 16-11-2026 (commit f6fdd12): Resolución conjunta Mintransporte-ANSV 20263040014815 de 2026 (puntos, sectores y tramos críticos), Resolución ANSV 862 de 2026 (manual de funciones y planta) y correo de la ANI sobre el Comité Operativo. **251 páginas de fuente en `wiki/fuentes/`** (230 ingeridas + 21 incierto, conteo directo).
+
 *Actualización (2026-11-06, tercera)*: ingest de los 28 archivos del CI ANSV-030-2026 (rama `Contrato-interadministrativo-ANSV-030-2026-Ruta-de-atencion-a-victimas`). Son 25 documentos distintos y dieron 24 páginas de fuente nuevas más una síntesis hub. Se corrigió la lectura de "7.3.1.3" en el CI 031: es numeración compuesta, no un error. **248 páginas de fuente en `wiki/fuentes/`** (228 ingeridas + 20 incierto, conteo directo).
 
 *Actualización (2026-11-06, segunda)*: ingest de los 19 archivos del CI ANSV-031-2026 (rama del contrato): 18 páginas de fuente nuevas y una síntesis hub. **224 páginas de fuente en `wiki/fuentes/`** (208 ingeridas + 16 incierto, conteo directo).
@@ -426,6 +428,12 @@ Rama `Contrato-interadministrativo-ANSV-030-2026-Ruta-de-atencion-a-victimas`. H
 - [Circular 043 del 02-09-2026 — deberes de los supervisores](fuentes/circular-043-2026-deberes-supervisores-ansv.md) — seguimiento administrativo, técnico, financiero y jurídico; firma la Directora General Alexandra Acelas Rodríguez. (ingerido)
 - [Formato de acta de inicio ANSV-CON-FO-25 v02](fuentes/formato-acta-inicio-ansv-con-fo-25-v2.md) — plantilla en blanco, rotulada "Funcionamiento" (pide CDP y RP). (ingerido)
 - [Ley 617 de 2000 — extracto de categorías (copia del CI 030)](fuentes/ley-617-de-2000-extracto-categorias-ci-030.md) — 28 pp., arts. 1 a 45; ver la página principal de la ley. (ingerido)
+
+### Carga del 16 de noviembre de 2026 (3, 2 ingeridas + 1 incierta)
+
+- [Resolución 20263040014815 de 2026 — puntos, sectores y tramos críticos de siniestralidad vial](fuentes/resolucion-20263040014815-de-2026-ubicaciones-criticas-siniestralidad-vial.md) — acto conjunto Mintransporte-ANSV (22-04-2026); longitudes máximas (100/500 m, 1.000 m, 5.000 m); la ANSV presta el acompañamiento técnico (art. 5); falta el documento técnico anexo y la fecha de publicación. (incierto)
+- [Resolución ANSV 862 de 2026 — manual de funciones y reubicación de empleos](fuentes/resolucion-862-de-2026-modifica-manual-funciones-ansv.md) — 28-10-2026; reubica un auxiliar en el ONSV y un PE 16 en la OAJ; transcribe la planta global, con 11 empleos en la DCI. (ingerido)
+- [Correo de la ANI — delegación al Comité Operativo (11-11-2026)](fuentes/correo-ani-delegacion-comite-operativo-noviembre-2026.md) — la ANI delega a Claudia Mendoza; comunicación informativa asignada a la DCI; cita la Res. 507 de 2026. (ingerido)
 
 ## Método (`fuentes/`, type: metodo)
 

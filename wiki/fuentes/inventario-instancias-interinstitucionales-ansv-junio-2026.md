@@ -4,7 +4,7 @@ type: fuente
 tags: [instancias-interinstitucionales, dci, ansv, coordinacion, consejo-directivo, consejo-consultivo, consejos-territoriales, comite-operativo, rot, inventario]
 fuente_pdf: "Inventario de las instancias interinstitucionales  ANSV Junio ajustado final (1).xlsx"
 status: ingerido
-last_updated: 2026-10-20
+last_updated: 2026-11-17
 ---
 
 # Inventario de las instancias interinstitucionales de la ANSV (corte junio de 2026)
@@ -64,6 +64,7 @@ last_updated: 2026-10-20
 - [ONSV](../entidades/onsv-observatorio-nacional-seguridad-vial.md): responsable de la ROT.
 
 - [Decreto 1049 de 2026](decreto-1049-de-2026-comision-intersectorial-asistencia-tecnica-territorial.md): crea una instancia nacional de asistencia técnica territorial posterior al corte de este inventario. La ANSV no es miembro; podría participar como invitada especial.
+- [Correo de la ANI sobre el Comité Operativo (noviembre de 2026)](correo-ani-delegacion-comite-operativo-noviembre-2026.md) *(añadido 2026-11-17)*: confirma que la DCI convoca el Comité Operativo (sesión ordinaria del 11-11-2026) y cita la Res. 507 de 2026 como modificatoria de la Res. 083 de 2019 (p. 2). Ninguna de las dos resoluciones está en el corpus.
 
 ## Incertidumbres
 

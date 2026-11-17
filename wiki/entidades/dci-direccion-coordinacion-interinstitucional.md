@@ -3,7 +3,7 @@ title: "DCI — Dirección de Coordinación Interinstitucional (ANSV)"
 type: entidad
 tags: [dci, ansv, asistencia-tecnica, coordinacion-interinstitucional]
 status: ingerido
-last_updated: 2026-11-06
+last_updated: 2026-11-17
 ---
 
 
@@ -135,6 +135,11 @@ Instancia de coordinación territorial creada por la Resolución 007/2023, lider
   - **Nelson Daniel Vega Samacá** supervisa el CI 030 desde el **06-08-2026**, entonces como Profesional Especializado Grado 16 ([designación](../fuentes/ci-ansv-030-2026-designacion-supervision-nelson-vega.md), p. 1). La DCI pidió un empleo de carrera para dar continuidad a la supervisión ([memorando 20264000032083](../fuentes/ci-ansv-030-2026-memorando-20264000032083-solicitud-designacion-supervisor.md), p. 2). La designación del 28-10-2026 lo ratifica como Asesor 1020-16.
   - Apoyos a la supervisión técnica, contratistas de la Dirección General: Luz America Penagos Jaramillo, Dina Luz Contreras Torres y Raúl Alejandro Ortiz Navarro ([memorando 20264000032663](../fuentes/ci-ansv-030-2026-memorando-20264000032663-apoyos-supervision.md), p. 1).
   - Equipo DCI del estudio previo: Gina Paola Herrera Ávila, Diana Carolina Barrera Osorio, William Iván Rojas Giraldo, Mónica Sepúlveda Sierra, Diana Rocío Novoa Buendía y Oscar Guillermo Higuita Escobar (p. 49).
+
+- *(2026-11-17, carga del 16-11-2026)* Planta y Comité Operativo:
+  - **Planta de la DCI al 28-10-2026:** 11 empleos: Director Técnico 100-24, 2 Asesores 1020-16, 1 PE 2028-20, 3 PE 2028-16, 2 Técnicos 3124-16, 1 Secretario Ejecutivo 4210-22 y 1 Conductor 4103-20 ([Resolución 862 de 2026](../fuentes/resolucion-862-de-2026-modifica-manual-funciones-ansv.md), art. 4, p. 9). La planta de la DCI no tiene un Asesor 1020-18; los dos de ese grado están en la Dirección General (p. 8). `[INCIERTO: el memorando de mayo de 2026 registra a Henry Martín como asesor 1020-18 de la DCI; el corpus no tiene el acto que ubica ese empleo.]`
+  - **Comité Operativo de Seguridad Vial:** la Directora DCI, María Isabel Costa Canales, convocó el 05-11-2026 la sesión ordinaria del 11-11-2026, con base en el num. 15.3 de la Ley 1702 y las Res. 083 de 2019 y 507 de 2026. La ANI delegó a Claudia Mendoza, Asesora de la Vicepresidencia Ejecutiva ([correo de la ANI](../fuentes/correo-ani-delegacion-comite-operativo-noviembre-2026.md), pp. 1-2). Nelson Daniel Vega Samacá y Fernando González Martínez iban en copia.
+  - **Puntos críticos de siniestralidad:** la [Resolución 20263040014815 de 2026](../fuentes/resolucion-20263040014815-de-2026-ubicaciones-criticas-siniestralidad-vial.md) da a la ANSV el acompañamiento técnico (art. 5, p. 5). La DCI no figura entre los revisores (p. 6); atribuirle esa función sería interpretación propia.
 
 ## Incertidumbres
 

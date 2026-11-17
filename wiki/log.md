@@ -1113,3 +1113,12 @@ Con esto quedan cerrados todos los hallazgos de la pasada de LINT completa del 2
 - La entrada de ingest del CI 031 (arriba) la registró como inconsistencia frente a la acción 3.1.3 del Decreto 1430. Es un error de análisis.
 - Los estudios previos usan numeración compuesta "área.objetivo.acción": gobernanza es el área 7 de las ocho (Decreto 1430, pp. 4-6). El estudio del CI 030 hace lo mismo con "6.1.1.1" = área 6 (víctimas) + acción 1.1.1 (p. 57).
 - Corregidos: `fuentes/ci-ansv-031-2026-estudio-previo-gpc.md`, `sintesis/contrato-interadministrativo-ansv-031-2026-gpc.md` (ficha y alerta 8) e `index.md`.
+
+## [2026-11-17] ingest | Carga del 16-11-2026 en `main` (3 archivos, commit f6fdd12)
+
+- Los commits dbcba63, dc5e66a y 23bf70d no traen archivos; los 3 archivos nuevos están en f6fdd12. Esta rama parte de la PR #7 (CI 030 y 031, aún abierta) unida con `main`, para que el conteo del índice sea continuo.
+- `Resolucion 20263040014815 metodologia definicion puntos criticos.pdf` → `fuentes/resolucion-20263040014815-de-2026-ubicaciones-criticas-siniestralidad-vial.md`. Escaneo sin texto, leído sobre imagen. Status `incierto`: el PDF no trae el documento técnico con las metodologías ni la fecha de publicación en el Diario Oficial. Hallazgo: el art. 5 da a la ANSV (sin nombrar dependencia) el acompañamiento técnico; la DCI no revisó el acto.
+- `Resolución_862  2026 Manual de funciones ANSV.pdf` → `fuentes/resolucion-862-de-2026-modifica-manual-funciones-ansv.md`. Firma Alexandra Acelas Rodríguez (28-10-2026). No trae el anexo único. Se omitió la cédula de la servidora reubicada. Hallazgo: la planta de la DCI no tiene Asesor 1020-18; los dos están en la Dirección General.
+- `ANi confirma CO.PDF` → `fuentes/correo-ani-delegacion-comite-operativo-noviembre-2026.md`. Comunicación informativa; no requiere oficio de respuesta.
+- Páginas actualizadas: `entidades/ansv-...`, `entidades/dci-...`, `entidades/onsv-...`, `fuentes/ley-2251-...`, `fuentes/decreto-1430-...`, `fuentes/inventario-instancias-...`, `index.md` (251 fuentes: 230 ingeridas + 21 incierto, conteo directo).
+- Ninguno de los 3 archivos es una petición que requiera oficio de respuesta.
