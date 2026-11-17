@@ -1064,3 +1064,52 @@ Con esto quedan cerrados todos los hallazgos de la pasada de LINT completa del 2
 - Se revisó el art. 313 de la Ley 2294 de 2023 en su PDF (pp. 137-138) y se agregó a su página. Queda `[INCIERTO]` si las multas de tránsito se liquidan en UVB.
 - Páginas actualizadas: `fuentes/ley-2294-de-2023-plan-nacional-desarrollo.md`, `index.md` (206 fuentes: 192 ingeridas + 14 incierto, conteo directo).
 - No es una petición que requiera oficio de respuesta.
+
+## [2026-11-06] lint | Referencias desactualizadas a la Resolución 842 de 2022
+
+- La Res. 842 de 2022 ya estaba ingerida (2026-11-03, `fuentes/resolucion-842-de-2022-reglamentacion-consejo-consultivo.md`), pero cuatro páginas seguían diciendo que no estaba en el corpus. Se corrigieron: `fuentes/acta-009-2022-ccsv.md`, `fuentes/resolucion-480-de-2026-convocatoria-consejo-consultivo.md` (dos menciones), `fuentes/resolucion-546-de-2026-conformacion-consejo-consultivo.md` e `index.md`.
+## [2026-11-06] ingest | Contrato Interadministrativo ANSV-031-2026 — rama `supervision-contrato-interadministrativo-ANSV-031-2026-grupos-de-participacion-ciudadana` (commits 79ce76f y 2e012ee)
+
+- 19 archivos; 18 documentos distintos. `2. Entrega 2 de perfiles EMR.pdf` es idéntico por md5 a `2. 18-08-2026 Respuesta evaluación 1 de HV.pdf`; se registró en la página de ese oficio.
+- Páginas de fuente nuevas (18, prefijo `fuentes/ci-ansv-031-2026-`): estudio previo, clausulado, CVI 615-26 (incierto, imagen), CDR 023-2026, póliza de cumplimiento, póliza RCE (incierto), tres designaciones de supervisión, memorando de apoyos, correo de instrucción, correo de entrega 1 y seis oficios del EMR. Los tres escaneos (CVI y pólizas) se leyeron sobre la imagen.
+- Síntesis nueva: `sintesis/contrato-interadministrativo-ansv-031-2026-gpc.md`, con ficha, línea de tiempo, nueve alertas para el supervisor y documentos faltantes.
+- Página actualizada: `entidades/dci-direccion-coordinacion-interinstitucional.md` (cadena de supervisión del CI 031; María Isabel Costa Canales como Directora DCI en octubre de 2026).
+- Hallazgos para la supervisión:
+  - Sin acta de inicio al 10-09-2026.
+  - Pólizas contadas desde el 29-07-2026.
+  - Numeración PNSV 7.3.1.3 frente a la 3.1.3 del Decreto 1430 (p. 68).
+  - Posible conflicto de interés de un integrante del EMR con el mismo nombre que un contratista del Grupo de Gestión Contractual.
+  - Beneficiario de la garantía distinto entre el estudio previo y el clausulado.
+- `index.md`: 224 fuentes (208 ingeridas + 16 incierto, conteo directo).
+- Ningún archivo es una petición que requiera oficio de respuesta.
+
+## [2026-11-06] ingest | Contrato Interadministrativo ANSV-030-2026 — rama `Contrato-interadministrativo-ANSV-030-2026-Ruta-de-atencion-a-victimas` (commits 22056e6, ef85c67 y 7e3d7e8)
+
+- 28 archivos; 25 documentos distintos.
+  - Duplicados por texto idéntico: `07. CVI 560-26.pdf` (= `02.`), `07.1. CDR-020-2026.pdf` (= `02.1.`) y `03RESO~1.PDF` (= Resolución 647). Se registraron en las páginas de sus originales.
+  - `Designacion apoyo a la supervision.docx` es la versión editable del memorando 20264000032663 y quedó en la misma página.
+- Páginas de fuente nuevas (24):
+  - 21 con prefijo `fuentes/ci-ansv-030-2026-`.
+  - `fuentes/circular-043-2026-deberes-supervisores-ansv.md`.
+  - `fuentes/formato-acta-inicio-ansv-con-fo-25-v2.md`.
+  - `fuentes/ley-617-de-2000-extracto-categorias-ci-030.md` (extracto de 28 pp.; remite a la página principal de la ley).
+  - Cuatro quedan `incierto`: CVI, póliza RCE, matriz de riesgos y cotizaciones.
+- Síntesis nueva: `sintesis/contrato-interadministrativo-ansv-030-2026-ruta-victimas.md`, con ficha, línea de tiempo, 11 alertas y documentos faltantes.
+- Páginas actualizadas:
+  - `entidades/dci-direccion-coordinacion-interinstitucional.md`: supervisión del CI 030 desde el 06-08-2026.
+  - `entidades/ansv-agencia-nacional-seguridad-vial.md`: Alexandra Acelas Rodríguez firma la Circular 043 del 02-09-2026.
+  - `fuentes/ci-ansv-031-2026-designacion-supervision-nelson-vega-030-031.md`: para el CI 030 es una redesignación.
+- Hallazgos principales:
+  - El oficio de la supervisión condicionó el acta de inicio a aprobar el EMR, aunque el clausulado no lo exige (cl. 6.ª; obligación general 6).
+  - La póliza RCE no nombra al PA FSV ni a terceros y trae un NIT errado.
+  - El archivo de cotización "IUE" contiene la de las UTS.
+  - La invitación privada posterior al evento público choca con la afirmación de que no hubo consultas direccionadas (Decreto 1600 de 2024).
+  - El CVI y el CDR suman $53M más que el contrato.
+  - SECOP marca "Funcionamiento".
+- Ningún archivo es una petición que requiera oficio de respuesta.
+
+## [2026-11-06] lint | Corrección: numeración PNSV "7.3.1.3" del CI ANSV-031-2026
+
+- La entrada de ingest del CI 031 (arriba) la registró como inconsistencia frente a la acción 3.1.3 del Decreto 1430. Es un error de análisis.
+- Los estudios previos usan numeración compuesta "área.objetivo.acción": gobernanza es el área 7 de las ocho (Decreto 1430, pp. 4-6). El estudio del CI 030 hace lo mismo con "6.1.1.1" = área 6 (víctimas) + acción 1.1.1 (p. 57).
+- Corregidos: `fuentes/ci-ansv-031-2026-estudio-previo-gpc.md`, `sintesis/contrato-interadministrativo-ansv-031-2026-gpc.md` (ficha y alerta 8) e `index.md`.

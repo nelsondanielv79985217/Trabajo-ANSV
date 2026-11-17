@@ -2,6 +2,10 @@
 
 Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos de trabajo (INGEST/QUERY/LINT).
 
+*Actualización (2026-11-06, tercera)*: ingest de los 28 archivos del CI ANSV-030-2026 (rama `Contrato-interadministrativo-ANSV-030-2026-Ruta-de-atencion-a-victimas`). Son 25 documentos distintos y dieron 24 páginas de fuente nuevas más una síntesis hub. Se corrigió la lectura de "7.3.1.3" en el CI 031: es numeración compuesta, no un error. **248 páginas de fuente en `wiki/fuentes/`** (228 ingeridas + 20 incierto, conteo directo).
+
+*Actualización (2026-11-06, segunda)*: ingest de los 19 archivos del CI ANSV-031-2026 (rama del contrato): 18 páginas de fuente nuevas y una síntesis hub. **224 páginas de fuente en `wiki/fuentes/`** (208 ingeridas + 16 incierto, conteo directo).
+
 *Actualización (2026-11-06)*: ingest de la Resolución MinHacienda 3488 de 2025, valor de la UVB 2026 (commit 16d1588). **206 páginas de fuente en `wiki/fuentes/`** (192 ingeridas + 14 incierto, conteo directo). La PR #5 (segunda copia de la Circular 20244000000257) no agregó páginas.
 
 *Actualización (2026-11-03, cuarta)*: ingest de la Ley 617 de 2000 (commit 85eb55f). La Circular 20244000000257 de 2024 (commit 5163fb9) se procesa en otra rama. **205 páginas de fuente en `wiki/fuentes/`** (191 ingeridas + 14 incierto, conteo directo).
@@ -371,6 +375,58 @@ Se creó el concepto [Régimen de autorización SAST/fotodetección](conceptos/s
 
 - [Resolución MinHacienda 3488 de 2025 — UVB 2026](fuentes/resolucion-3488-de-2025-minhacienda-valor-uvb-2026.md) — Fija la Unidad de Valor Básico en $12.110 para 2026 (art. 1, p. 1), según el art. 313 de la Ley 2294 de 2023. El corpus no dice si las multas de tránsito se liquidan en UVB. (ingerido)
 
+### Carga del 6 de noviembre de 2026 — Contrato Interadministrativo ANSV-031-2026 (IUE, GPC) (19 archivos, 18 documentos distintos: 16 ingeridos + 2 inciertos)
+
+Rama `supervision-contrato-interadministrativo-ANSV-031-2026-grupos-de-participacion-ciudadana`. Hub: [síntesis del CI ANSV-031-2026](sintesis/contrato-interadministrativo-ansv-031-2026-gpc.md).
+
+- [Estudio previo del CI ANSV-031-2026](fuentes/ci-ansv-031-2026-estudio-previo-gpc.md) — 48 pp.; objeto, 3 componentes, 5 fases y productos, EMR de 17 personas, reglas de revisión (10 + 5 días hábiles) y pago (5 × 20 %), garantías. Cita la acción PNSV como "7.3.1.3": área 7 (gobernanza) más la acción 3.1.3 del Decreto 1430 (p. 68). (ingerido)
+- [Clausulado complementario](fuentes/ci-ansv-031-2026-clausulado-complementario.md) — 27 cláusulas; supervisión (cl. 7.ª), garantías a favor de la ANSV (cl. 13.ª), multas del 0,1 % diario y penal del 20 %. Cinco inconsistencias internas documentadas. (ingerido)
+- [CVI 615-26](fuentes/ci-ansv-031-2026-cvi-615-26.md) — validación de la inversión por $1.700.000.000 (DCI-565, BPIN 202300000000225); imagen con letra parcialmente ilegible. (incierto)
+- [CDR 023-2026](fuentes/ci-ansv-031-2026-cdr-023-2026-fiduagraria.md) — Fiduagraria, vocera del PA FSV (fiducia 076 de 2022), $1.700.000.000; vigencia de 6 meses desde el 27-07-2026. (ingerido)
+- [Póliza de cumplimiento 530-47-994000041905](fuentes/ci-ansv-031-2026-poliza-cumplimiento-solidaria.md) — Aseguradora Solidaria; amparos de 20 %, 10 % y 20 % contados desde el 29-07-2026, no desde el acta de inicio. (ingerido)
+- [Póliza RCE 530-74-994000016984](fuentes/ci-ansv-031-2026-poliza-rce-solidaria.md) — $350.181.000, vence el 30-05-2027; el PA FSV no figura como beneficiario. (incierto)
+- [Designación de supervisión — Alipio (05-08-2026)](fuentes/ci-ansv-031-2026-designacion-supervision-alipio.md) — formato FO-10; deberes del supervisor y acta de empalme. (ingerido)
+- [Memorando 20264000032313 — apoyos a la supervisión (12-08-2026)](fuentes/ci-ansv-031-2026-memorando-20264000032313-apoyos-supervision.md) — 6 contratistas DCI; condiciones a certificar para el pago; no hay delegación. (ingerido)
+- [Correo del 03-09-2026 — instrucción de cambio de supervisión](fuentes/ci-ansv-031-2026-correo-instruccion-cambio-supervision.md) — la Dirección General ordena "hacer el cambio de supervisión a Henry Martin". (ingerido)
+- [Cambio de supervisión — Henry Martín (03-09-2026)](fuentes/ci-ansv-031-2026-cambio-supervision-henry-martin.md) — sin motivación expresa. (ingerido)
+- [Designación de Nelson Daniel Vega como supervisor de los CI 030 y 031 (desde el 01-11-2026)](fuentes/ci-ansv-031-2026-designacion-supervision-nelson-vega-030-031.md) — la Nota 2 exige al supervisor saliente un informe de estado; primer registro de María Isabel Costa Canales como Directora DCI. (ingerido)
+- [Correo IUE — entrega 1 del EMR (11-08-2026)](fuentes/ci-ansv-031-2026-correo-iue-entrega-1-emr.md) — enlace a las hojas de vida (no están en el corpus). (ingerido)
+- [Oficio 20264000127491 — 1.ª revisión del EMR (18-08-2026)](fuentes/ci-ansv-031-2026-oficio-20264000127491-primera-revision-emr.md) — 8 de 17 cumplen; rechazo de un candidato por posible conflicto de interés. Incluye la copia duplicada "2. Entrega 2 de perfiles EMR.pdf". (ingerido)
+- [Oficio 20264000131101 — 2.ª revisión del EMR (27-08-2026)](fuentes/ci-ansv-031-2026-oficio-20264000131101-segunda-revision-emr.md) — 6 de 9 cumplen. (ingerido)
+- [Oficio IUE — entrega 3 del EMR (28-08-2026)](fuentes/ci-ansv-031-2026-oficio-iue-entrega-3-emr.md) — tres reemplazos de perfiles. (ingerido)
+- [Oficio 20264000133311 — 3.ª revisión del EMR (03-09-2026)](fuentes/ci-ansv-031-2026-oficio-20264000133311-tercera-revision-emr.md) — último acto de Alipio como supervisora. (ingerido)
+- [Oficio IUE — entrega 4 del EMR (07-09-2026)](fuentes/ci-ansv-031-2026-oficio-iue-entrega-4-emr.md) — propone a la profesional en comunicación social. (ingerido)
+- [Oficio 20264000135411 — aprobación del EMR (10-09-2026)](fuentes/ci-ansv-031-2026-oficio-20264000135411-aprobacion-emr.md) — EMR de 17 personas; el acta de inicio queda a la espera del aval de la Dirección General. (ingerido)
+
+### Carga del 6 de noviembre de 2026 — Contrato Interadministrativo ANSV-030-2026 (UTS, Ruta de Atención Integral a Víctimas) (28 archivos, 25 documentos distintos, 24 páginas: 20 ingeridas + 4 inciertas)
+
+Rama `Contrato-interadministrativo-ANSV-030-2026-Ruta-de-atencion-a-victimas`. Hub: [síntesis del CI ANSV-030-2026](sintesis/contrato-interadministrativo-ansv-030-2026-ruta-victimas.md).
+
+- [Memorando 20264000030603 — solicitud de contratación (24-07-2026)](fuentes/ci-ansv-030-2026-solicitud-contratacion-memorando-20264000030603.md) — la DCI pide contratar a las UTS; lista 10 anexos. (ingerido)
+- [Contrato electrónico SECOP II (CO1.PCCNTR.9728420)](fuentes/ci-ansv-030-2026-contrato-electronico-secop.md) — aprobado el 29-07-2026; garantías y CDP; marca "Funcionamiento" pese a ser inversión; supervisor en blanco. (ingerido)
+- [CVI 560-26](fuentes/ci-ansv-030-2026-cvi-560-26.md) — Grupo de Atención a Víctimas (DG), DCI-395, $4.066.000.000, $53M más que el contrato; duplicado en "07. CVI 560-26.pdf". (incierto)
+- [CDR 020-2026](fuentes/ci-ansv-030-2026-cdr-020-2026-fiduagraria.md) — PA FSV Fiduagraria, $4.066.000.000, 09-07-2026, vigencia de 6 meses; duplicado en "07.1". (ingerido)
+- [Estudio previo del CI ANSV-030-2026](fuentes/ci-ansv-030-2026-estudio-previo-ruta-victimas.md) — 49 pp.; 32 territorios, 4 fases, 10 productos, EMR de 15, 6 pagos; el EMR se entrega después del acta de inicio (p. 20); acción PNSV "6.1.1.1". (ingerido)
+- [Certificado de idoneidad de las UTS](fuentes/ci-ansv-030-2026-certificado-idoneidad-uts.md) — naturaleza jurídica, acreditación MEN 237/2025, contratos previos con la ANSV (ninguno en víctimas). (ingerido)
+- [Análisis del sector](fuentes/ci-ansv-030-2026-analisis-del-sector.md) — antecedentes ANSV en víctimas y primer respondiente; contradicción "invitación abierta privada" vs. contratación directa (p. 17). (ingerido)
+- [Clausulado complementario](fuentes/ci-ansv-030-2026-clausulado-complementario.md) — 27 cláusulas; firma la Rectora (E) de las UTS; acta de inicio sin condición de EMR (cl. 6.ª); supervisión del Asesor 16 DG adscrito a la DCI (cl. 7.ª). (ingerido)
+- [Resolución 647 del 28-07-2026](fuentes/ci-ansv-030-2026-resolucion-647-2026-contratacion-directa.md) — justifica la contratación directa; duplicado en 03RESO~1.PDF; su fecha refuerza el posible error de fecha de la Res. 648 del CI 031. (ingerido)
+- [Estudio de mercado (ANSV-COT-041-2026)](fuentes/ci-ansv-030-2026-estudio-de-mercado.md) — 7 cotizaciones, promedio $4.122.645.717; invitación privada después del evento frente al Decreto 1600 de 2024. (ingerido)
+- [Cotizaciones (zip)](fuentes/ci-ansv-030-2026-cotizaciones-zip.md) — el archivo "IUE" contiene la cotización de las UTS (17-07-2026); falta la de la IUE. (incierto)
+- [Póliza de cumplimiento 3002066 (La Previsora)](fuentes/ci-ansv-030-2026-poliza-cumplimiento-previsora.md) — $2.006.500.000; vigencias desde el 30-07-2026, pendientes de ajuste al acta de inicio. (ingerido)
+- [Póliza RCE 1016048 (La Previsora)](fuentes/ci-ansv-030-2026-poliza-rce-previsora.md) — $525.271.500 (300 SMMLV); sin PA FSV ni terceros como beneficiarios; NIT errado en la hoja anexa. (incierto)
+- [Aprobación de garantías en SECOP (05-08-2026)](fuentes/ci-ansv-030-2026-aprobacion-garantias-secop.md) — aprobó Magali Rosero; imagen. (ingerido)
+- [Matriz de riesgos](fuentes/ci-ansv-030-2026-matriz-de-riesgos.md) — demora del acta de inicio por el EMR calificada "Alta"; tabla de extracción desordenada. (incierto)
+- [Memorando 20264000032083 — solicitud de designar a Nelson Vega (05-08-2026)](fuentes/ci-ansv-030-2026-memorando-20264000032083-solicitud-designacion-supervisor.md) — prefiere un empleo de carrera (PE 16) para dar continuidad a la supervisión. (ingerido)
+- [Designación de supervisión — Nelson Vega (06-08-2026)](fuentes/ci-ansv-030-2026-designacion-supervision-nelson-vega.md) — formato FO-10; "cambiar la designación"; proyectó Juan Felipe Vera Tarazona. (ingerido)
+- [Memorando 20264000032663 — apoyos a la supervisión (18-08-2026)](fuentes/ci-ansv-030-2026-memorando-20264000032663-apoyos-supervision.md) — 3 contratistas de la DG; define territorios priorizados y no priorizados; PDF y versión .docx. (ingerido)
+- [Oficio 20264000127471 — solicitud del EMR a las UTS (18-08-2026)](fuentes/ci-ansv-030-2026-oficio-20264000127471-solicitud-documentacion-emr.md) — condiciona el acta de inicio a aprobar las hojas de vida, condición que el contrato no prevé. (ingerido)
+- [Resolución UTS 02-1436 (19-08-2026)](fuentes/ci-ansv-030-2026-resolucion-uts-02-1436-designacion-supervisor.md) — supervisor de las UTS: Javier Mauricio Mendoza Paredes; apoyo jurídico: Olga Lucía Pineda Villamizar. (ingerido)
+- [Plantilla de evaluación de perfiles del EMR (xlsx)](fuentes/ci-ansv-030-2026-evaluacion-perfiles-emr-plantilla.md) — 15 perfiles sin candidatos; trae hojas residuales de otro proceso con datos personales. (ingerido)
+- [Circular 043 del 02-09-2026 — deberes de los supervisores](fuentes/circular-043-2026-deberes-supervisores-ansv.md) — seguimiento administrativo, técnico, financiero y jurídico; firma la Directora General Alexandra Acelas Rodríguez. (ingerido)
+- [Formato de acta de inicio ANSV-CON-FO-25 v02](fuentes/formato-acta-inicio-ansv-con-fo-25-v2.md) — plantilla en blanco, rotulada "Funcionamiento" (pide CDP y RP). (ingerido)
+- [Ley 617 de 2000 — extracto de categorías (copia del CI 030)](fuentes/ley-617-de-2000-extracto-categorias-ci-030.md) — 28 pp., arts. 1 a 45; ver la página principal de la ley. (ingerido)
+
 ## Método (`fuentes/`, type: metodo)
 
 Ninguna todavía — se crea si el usuario carga una referencia metodológica transversal.
@@ -384,7 +440,7 @@ Ninguna todavía — se crea si el usuario carga una referencia metodológica tr
 - [Sistema Seguro — enfoque de la política de seguridad vial](conceptos/sistema-seguro-enfoque-politica-seguridad-vial.md) — Paradigma internacional (*Safe System*) adoptado por la Ley 2251/2022 y desarrollado en el PNSV 2022-2031 (ya ingerido íntegramente) para toda la política pública de seguridad vial colombiana. Incluye indicadores oficiales de "asistencia técnica" ligados a Sistema Seguro (Gobernanza), sin nombrar a la DCI — cualquier atribución a la DCI sería interpretación propia, marcada como tal.
 - [Plan 365](conceptos/plan-365.md) — Estrategia interinstitucional anual (Mintransporte/ANSV/SuperTransporte/DITRA) de pedagogía, presencia institucional y control priorizado por municipio/festivo; complementaria (no sucesora) del Plan 70D. Documenta el ejemplo más concreto del corpus de escalamiento formal de la DCI ante SuperTransporte por incumplimiento territorial (44 % de municipios sin reportar). Página creada 2026-09-28 (hallazgo de LINT: 18 páginas lo mencionan sin página propia).
 - [Reincidencia en tránsito: tres sentidos del término](conceptos/reincidencia-en-transito.md) — Separa la reincidencia sancionatoria (Circular 407/2024, oficio FCM), la reincidencia en comparendos (ONSV, control operativo) y la reincidencia en siniestros (ONSV, 2023) para no mezclar cifras incomparables.
-- [Consejo Consultivo de Seguridad Vial (CCSV)](conceptos/consejo-consultivo-seguridad-vial.md) — Hub de la instancia: naturaleza, miembros, reglamentación (la Res. 842/2022 sigue fuera del corpus; la 479/2026 ya está), paso a paso del proceso 2026-2028, historia del primer Consejo 2021-2022 y puntos de atención para la DCI, que ejerce la Secretaría Técnica. Creado 2026-10-20; ampliado 2026-11-03.
+- [Consejo Consultivo de Seguridad Vial (CCSV)](conceptos/consejo-consultivo-seguridad-vial.md) — Hub de la instancia: naturaleza, miembros, reglamentación (Res. 842/2022 y 479/2026 ya en el corpus), paso a paso del proceso 2026-2028, historia del primer Consejo 2021-2022 y puntos de atención para la DCI, que ejerce la Secretaría Técnica. Creado 2026-10-20; ampliado 2026-11-03.
 
 
 ## Entidades (`entidades/`)
@@ -404,6 +460,8 @@ Otras candidatas visibles solo por nombre de archivo (a confirmar durante el ing
 
 ## Síntesis (`sintesis/`)
 
+- [CI ANSV-030-2026 (UTS, Ruta de Atención Integral a Víctimas) — expediente, línea de tiempo y alertas para la supervisión](sintesis/contrato-interadministrativo-ansv-030-2026-ruta-victimas.md) — Hub de los 25 documentos del contrato; ficha, línea de tiempo, 11 alertas (acta de inicio condicionada sin base contractual, póliza RCE, estudio de mercado) y documentos faltantes. (incierto)
+- [CI ANSV-031-2026 (IUE, GPC) — expediente, línea de tiempo y alertas para la supervisión](sintesis/contrato-interadministrativo-ansv-031-2026-gpc.md) — Hub de los 18 documentos del contrato; nueve alertas para el supervisor entrante (acta de inicio, informe de empalme, pólizas, posible conflicto de interés en el EMR, obligación de vincular personas con discapacidad). (incierto)
 - [Conformación vigente del Consejo Consultivo de Seguridad Vial 2026-2028](sintesis/conformacion-vigente-consejo-consultivo-2026-2028.md) — Respuesta de QUERY guardada: los 7 miembros (Res. 546, art. 1), los 3 invitados permanentes sin designación nominal en el corpus, la Secretaría Técnica (Res. 842, art. 8) y la relación entre las Resoluciones 842, 479, 480 y 546. (ingerido)
 
 - [Propuesta de respuesta — DP sobre capacitación de operadores de radares (Grupo Cipe, 2026)](sintesis/respuesta-dp-radares-grupo-cipe-2026.md) — Borrador de producto de asesoría: fuentes que sostienen cada punto y lo que la ANSV debe confirmar antes de enviar. (incierto)
