@@ -141,6 +141,12 @@ Instancia de coordinación territorial creada por la Resolución 007/2023, lider
   - **Comité Operativo de Seguridad Vial:** la Directora DCI, María Isabel Costa Canales, convocó el 05-11-2026 la sesión ordinaria del 11-11-2026, con base en el num. 15.3 de la Ley 1702 y las Res. 083 de 2019 y 507 de 2026. La ANI delegó a Claudia Mendoza, Asesora de la Vicepresidencia Ejecutiva ([correo de la ANI](../fuentes/correo-ani-delegacion-comite-operativo-noviembre-2026.md), pp. 1-2). Nelson Daniel Vega Samacá y Fernando González Martínez iban en copia.
   - **Puntos críticos de siniestralidad:** la [Resolución 20263040014815 de 2026](../fuentes/resolucion-20263040014815-de-2026-ubicaciones-criticas-siniestralidad-vial.md) da a la ANSV el acompañamiento técnico (art. 5, p. 5). La DCI no figura entre los revisores (p. 6); atribuirle esa función sería interpretación propia.
 
+- *(2026-11-17, cargas del 16-11-2026 de los CI 030 y 031)* Supervisión de los contratos:
+  - **Pausa del CI 030:** el 03-09-2026 el supervisor informó a la Dirección General que Henry Martín, Director DCI (E), le dio una instrucción verbal de pausar el proceso, y pidió una instrucción formal ([correo](../fuentes/ci-ansv-030-2026-correo-solicitud-instruccion-formal-supervision.md), p. 1).
+  - **Cargo en encargo:** la Directora DCI pidió el 27-10-2026 el cambio de supervisión de los CI 030 y 031 para el "Asesor Código 1020 Grado 16 (E)" Nelson Daniel Vega Samacá ([nota en la designación](../fuentes/ci-ansv-031-2026-designacion-supervision-nelson-vega-030-031.md)).
+  - **Recomendaciones previas al acta de inicio (06 a 12-11-2026):** técnica del CI 030 (Luz América Penagos, Grupo de Atención Integral a Víctimas); técnica del CI 031 (César Salcedo); legal del CI 031 (Mónica Sepúlveda y Diana Novoa, contratistas de apoyo jurídico DCI); concepto de Gestión Contractual sobre SECOP II del CI 030. Ver las síntesis de [CI 030](../sintesis/contrato-interadministrativo-ansv-030-2026-ruta-victimas.md) y [CI 031](../sintesis/contrato-interadministrativo-ansv-031-2026-gpc.md).
+  - **Estructuradores del estudio previo del CI 031:** Gina Herrera, César Salcedo, Luis Romero, Silvia Arévalo, Yilver Zamudio, Julián Moreno, Diana Barrera, Mónica Sepúlveda y Diana Novoa ([respuesta de Higuita](../fuentes/ci-ansv-031-2026-respuesta-oscar-higuita.md), p. 1).
+
 ## Incertidumbres
 
 - `[INCIERTO]` No se ha determinado si "Cesar Mauricio Salcedo" (CA-02, p. 3) o "Alvaro Andrés Alfonso Gonzalez" (PR-08, p. 9) participan también en otros documentos del corpus aún no ingeridos.

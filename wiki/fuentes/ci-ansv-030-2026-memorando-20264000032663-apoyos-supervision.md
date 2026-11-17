@@ -4,7 +4,7 @@ type: fuente
 tags: [contratacion, supervision, apoyo-a-la-supervision, ci-ansv-030-2026, victimas, dci]
 fuente_pdf: "20266400003263 memorando firmado Designacion apoyo a la supervision (1) (1).pdf"
 status: ingerido
-last_updated: 2026-11-06
+last_updated: 2026-11-17
 ---
 
 # Memorando 20264000032663 (apoyos a la supervisión, CI ANSV-030-2026)
@@ -37,3 +37,5 @@ Hub del expediente: [síntesis del CI ANSV-030-2026](../sintesis/contrato-intera
 - Fija los apoyos técnicos de la supervisión. Los tres vienen de la Dirección General; Luz America Penagos también elaboró el CVI y participó en el estudio previo.
 - La definición de priorizados y no priorizados no aparece en el [estudio previo](ci-ansv-030-2026-estudio-previo-ruta-victimas.md); este memorando la agrega.
 - Cita la versión 4 del [Manual Unificado de Contratación](manual-unificado-contratacion-ansv.md) del 30/04/2026. `[INCIERTO: verificar si es la misma versión ingerida en la wiki]`.
+
+> *(2026-11-17)* `CORREO~3.PDF` (2 páginas, en `main`): la DCI envió el memorando firmado al supervisor el 20-08-2026, 12:32, y él lo comunicó a Luz América Penagos Jaramillo, Dina Luz Contreras Torres y Raúl Alejandro Ortiz Navarro a las 13:02, con copia a Henry Martín (p. 1). El correo invoca el Manual Unificado de Contratación de la ANSV (p. 1). El memorando se firmó el 20-08, dos días después de la fecha del 18-08 que registra esta página.

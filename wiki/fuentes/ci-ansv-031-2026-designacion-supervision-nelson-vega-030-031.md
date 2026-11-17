@@ -4,7 +4,7 @@ type: fuente
 tags: [contratacion, supervision, ci-ansv-031-2026, ci-ansv-030-2026, dci, victimas]
 fuente_pdf: "DESIGN~1.PDF"
 status: ingerido
-last_updated: 2026-11-06
+last_updated: 2026-11-17
 ---
 
 # Designación de supervisión — Nelson Daniel Vega Samacá (CI ANSV-030 y 031 de 2026)
@@ -39,3 +39,5 @@ Hub: [síntesis del CI ANSV-031-2026](../sintesis/contrato-interadministrativo-a
 - Para el CI 030-2026 este documento no dice quién era el supervisor anterior. *(Actualizado 2026-11-06)* La rama del CI 030 lo aclara: era el mismo Nelson Vega, designado el 06-08-2026 como Profesional Especializado Grado 16 ([designación del CI 030](ci-ansv-030-2026-designacion-supervision-nelson-vega.md), p. 1). Para el CI 030 esta es una redesignación, que coincide con su nuevo cargo de Asesor 1020-16 `[INCIERTO: interpretación propia; el corpus no documenta el cambio de empleo]`. Expediente completo: [síntesis del CI ANSV-030-2026](../sintesis/contrato-interadministrativo-ansv-030-2026-ruta-victimas.md).
 - Primer registro en el corpus de **María Isabel Costa Canales** como titular de la DCI (octubre de 2026). Ver [DCI](../entidades/dci-direccion-coordinacion-interinstitucional.md).
 - El usuario tiene cargo de Asesor 1020-16. La cláusula 7.ª nombra al "Profesional Especializado Grado 16 … o … quien … comunique el/la jefe del Grupo de Gestión Contractual" ([clausulado](ci-ansv-031-2026-clausulado-complementario.md), p. 31). La designación se hizo por esa segunda vía.
+
+> *(2026-11-17)* `COC3D7~1.PDF` (1 página, en `main`): correo de María Isabel Costa Canales, Directora Técnica Grado 24 DCI, a la Dirección General, martes 27-10-2026, 12:15. Adjunta "Solicitud de designacion ajustada 20262000039563 (1).pdf" y pide el cambio de supervisión de los CI 031 y 030 "para el Asesor Código 1020 Grado 16 (E) Nelson Daniel Vega Samaca". Copia a Magali Rosero, Óscar Higuita, Nelson Vega, Carlos Andrés Gutiérrez Acosta, Tania Suárez y Solicitudes de Contratos (p. 1). Es el envío del memorando 20262000039563, no la autorización de la Directora General: esa autorización y el memorando siguen fuera del corpus. El correo confirma que el cargo de Asesor 1020-16 es en encargo ("(E)").

@@ -4,7 +4,7 @@ type: fuente
 tags: [contratacion, supervision, emr, acta-de-inicio, ci-ansv-030-2026, uts]
 fuente_pdf: "Solicitud documentación EMR CI ANSV-030-2026.pdf"
 status: ingerido
-last_updated: 2026-11-06
+last_updated: 2026-11-17
 ---
 
 # Oficio 20264000127471 (solicitud de documentos del EMR, CI ANSV-030-2026)
@@ -32,3 +32,8 @@ Hub del expediente: [síntesis del CI ANSV-030-2026](../sintesis/contrato-intera
    - Alternativa recomendada: firmar el acta y exigir el EMR dentro de los 10 días hábiles siguientes, o pactar por escrito con las UTS el orden inverso.
 2. El oficio trae un número de teléfono personal de contacto. No se reproduce en la wiki.
 3. El corpus no trae la respuesta de las UTS ni el acta de inicio `[INCIERTO]`.
+
+> *(2026-11-17, carga del 16-11-2026 en `main`)* Llegaron dos soportes de este oficio:
+> - `Solicitud documentación EMR CI ANSV-030-2026.docx`: versión editable del mismo oficio (radicado, fecha, destinataria y texto coinciden). Sin paginación fija.
+> - `CORREO~2.PDF` (1 página): correo del supervisor a CorrespondenciaAnsv, martes 18-08-2026, 15:40, con copia a Luz América Penagos, la DCI y Henry Martín. Pide enviar el oficio a la Rectora (E) de las UTS a rectoria@, peticiones@ y financiera@correo.uts.edu.co, con la designación de supervisión adjunta (p. 1).
+> El [correo del 03-09-2026](ci-ansv-030-2026-correo-solicitud-instruccion-formal-supervision.md) llama a este oficio "memorando" (p. 1).
