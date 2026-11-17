@@ -4,7 +4,7 @@ type: fuente
 tags: [contratacion, contrato-interadministrativo, ci-ansv-030-2026, victimas, ruta-atencion-victimas, uts, garantias, supervision]
 fuente_pdf: "03. CLAUSULADO COMPLEMENTARIO- ANSV-030-2026.pdf"
 status: ingerido
-last_updated: 2026-11-06
+last_updated: 2026-11-17
 ---
 
 # Clausulado complementario del CI ANSV-030-2026
@@ -56,3 +56,5 @@ Hub del expediente: [síntesis del CI ANSV-030-2026](../sintesis/contrato-intera
 4. **Firma del proveedor.** Firma la Rectora Encargada, pero la aprobación del proveedor en SECOP figura a nombre de Omar Lengerke.
 5. **PAA.** El clausulado y la Resolución 647 citan la versión 19 del PAA; el estudio previo cita la versión 17. Puede reflejar una actualización del plan entre el 23 y el 28 de julio `[INCIERTO]`.
 6. **Coordinación de Gestión Contractual.** La cláusula 7.ª dice "la Coordinadora del Grupo de Gestión Contractual"; quien revisa y aprueba es "Coordinador … (E)" Juan Fernando Rojas Cadavid.
+
+> *(2026-11-17)* `CLAUSULADO COMPLEMENTARIO- ANSV-030-2026 (2).pdf` y `CLAUSU~1.PDF`, subidos a `main` el 16-11-2026, son copias idénticas (mismo hash) del archivo de esta página.

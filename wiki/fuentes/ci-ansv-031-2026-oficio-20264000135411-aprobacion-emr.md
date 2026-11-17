@@ -4,7 +4,7 @@ type: fuente
 tags: [contratacion, ci-ansv-031-2026, emr, supervision, acta-de-inicio, iue]
 fuente_pdf: "5. Aprobación EMR CI ANSV-031-2026.pdf"
 status: ingerido
-last_updated: 2026-11-06
+last_updated: 2026-11-17
 ---
 
 # Oficio 20264000135411 — Aprobación del EMR
@@ -52,3 +52,5 @@ Hub: [síntesis del CI ANSV-031-2026](../sintesis/contrato-interadministrativo-a
 - El oficio llama "perfeccionamiento" a la firma del acta de inicio. Según la cláusula 27.ª ([clausulado](ci-ansv-031-2026-clausulado-complementario.md), p. 40), el contrato se perfecciona con la firma electrónica, y el acta de inicio es un requisito de ejecución. Es una imprecisión de lenguaje.
 - El oficio no se pronuncia sobre la obligación de vincular personas con discapacidad, que la supervisión pidió dos veces (oficios del 18-08 y del 27-08) `[INCIERTO: si la IUE respondió]`.
 - Hasta este documento no hay acta de inicio. En el corpus no consta que se haya firmado después `[INCIERTO]`.
+
+> *(2026-11-17)* `5APROB~1.PDF`, subido a la rama del CI 031 el 16-11-2026, es copia idéntica (mismo hash) del archivo de esta página. La [recomendación legal de Sepúlveda y Novoa](ci-ansv-031-2026-recomendacion-legal-sepulveda-novoa.md) se apoya en este oficio para no repetir la aprobación del EMR (p. 5).

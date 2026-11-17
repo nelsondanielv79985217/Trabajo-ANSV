@@ -3,7 +3,7 @@ title: "CI ANSV-030-2026 (UTS, Ruta de Atención Integral a Víctimas) — exped
 type: sintesis
 tags: [contratacion, ci-ansv-030-2026, supervision, victimas, ruta-atencion-victimas, uts, dci, emr, acta-de-inicio]
 status: incierto
-last_updated: 2026-11-06
+last_updated: 2026-11-17
 ---
 
 # CI ANSV-030-2026 — expediente y alertas para la supervisión
@@ -46,7 +46,15 @@ Lo marcado como **(propio)** es análisis o cálculo de esta síntesis, no texto
 | 18-08-2026 | Memorando de apoyos (proyectado por Nelson Vega) y oficio a las UTS pidiendo el EMR "con fines a … la firma del Acta de inicio" | Memorando de apoyos; [oficio 127471](../fuentes/ci-ansv-030-2026-oficio-20264000127471-solicitud-documentacion-emr.md), p. 1 |
 | 19-08-2026 | Las UTS designan su supervisor (Res. 02-1436) | Res. UTS, p. 2 |
 | 02-09-2026 | Circular 043 de la nueva Directora General, Alexandra Acelas Rodríguez, sobre deberes de supervisión | [Circular 043](../fuentes/circular-043-2026-deberes-supervisores-ansv.md), p. 3 |
+| 01-09-2026 | Las UTS envían su resolución de supervisión y las primeras 15 hojas de vida; el Director DCI (E) ordena verbalmente una pausa | [Correo del 03-09](../fuentes/ci-ansv-030-2026-correo-solicitud-instruccion-formal-supervision.md), p. 1 |
+| 03-09-2026 | El supervisor pide a la Dirección General una instrucción formal, invocando la Circular 043 | Ídem, p. 1 |
+| 27-10-2026 | La Directora DCI envía a la DG el memorando 20262000039563 de cambio de supervisión | [Designación 28-10](../fuentes/ci-ansv-031-2026-designacion-supervision-nelson-vega-030-031.md), nota del 17-11 |
 | 28-10-2026 | Redesignación de Nelson Vega (ya como Asesor 1020-16) para los CI 030 y 031, desde el 01-11-2026 | [Designación 28-10](../fuentes/ci-ansv-031-2026-designacion-supervision-nelson-vega-030-031.md), p. 1 |
+| 06-11-2026 | El supervisor pide a Luz América Penagos la recomendación técnica previa | [Solicitud](../fuentes/ci-ansv-030-2026-correo-solicitud-recomendacion-tecnica.md), p. 1 |
+| 09-11-2026 | El supervisor pide a Gestión Contractual la recomendación financiera; la coordinadora la reparte | [Correos](../fuentes/ci-ansv-030-2026-correo-solicitud-recomendacion-financiera.md) |
+| 11-11-2026 | CCE responde (GLPI #0008910) que la destinación del gasto ya no se corrige en el proceso, solo en el contrato en ejecución | [Respuesta CCE](../fuentes/ci-ansv-030-2026-respuesta-mesa-servicio-cce-glpi-8910.md), pp. 1-2 |
+| 12-11-2026 | Gestión Contractual: "Funcionamiento" es un error de digitación; se corregirá en el contrato electrónico cuando esté en ejecución | [Memorando](../fuentes/ci-ansv-030-2026-memorando-respuesta-juridica-secop.md), pp. 2-3 |
+| 12-11-2026 | Recomendación técnica de Penagos: 9 aspectos, 8 antes del acta de inicio | [Recomendación](../fuentes/ci-ansv-030-2026-recomendacion-tecnica-penagos.md), p. 1 |
 | ¿? | Acta de inicio | `[INCIERTO: no está en el corpus; la plantilla FO-25 llegó en blanco]` |
 
 ## Alertas para el supervisor
@@ -82,7 +90,17 @@ Lo marcado como **(propio)** es análisis o cálculo de esta síntesis, no texto
 10. **Adopción de la ruta no condiciona pagos.** El pago depende de productos aprobados; que el territorio no adopte el decreto no es incumplimiento (estudio previo, pp. 7, 13, 24). Los recibos a satisfacción deben basarse en el producto, no en la adopción.
 11. **Inclusión.** La obligación específica 14 exige al menos una persona con discapacidad en el EMR, o subcontratación con emprendimientos de personas con discapacidad. Verificarlo en la revisión del EMR (estudio previo, p. 24).
 
+### Actualización de alertas (2026-11-17)
+
+- **Alerta 1 (acta de inicio):** el 03-09 el supervisor informó una pausa verbal ordenada por el Director DCI (E) y pidió instrucción formal ([correo](../fuentes/ci-ansv-030-2026-correo-solicitud-instruccion-formal-supervision.md), p. 1). No hay respuesta en el corpus. Penagos confirma que el operador entregó a tiempo y que la verificación del EMR está del lado de la ANSV; recomienda fijar por escrito una fecha límite para el acta (E1, p. 8).
+- **Alerta 6 (presupuesto):** el registro "Funcionamiento" ya tiene explicación y plan: error de digitación que se corregirá en el contrato electrónico cuando esté en ejecución ([memorando](../fuentes/ci-ansv-030-2026-memorando-respuesta-juridica-secop.md), p. 3). La diferencia de $53 millones entre CVI/CDR y contrato sigue sin explicación. La vigencia del CDR (que vence hacia el 09-01-2027 según cálculo propio) y el estudio de mercado frente al Decreto 1600 siguen sin respuesta financiera en el corpus.
+- **Alerta 7 (dueño de la meta):** Penagos propone que la DCI reporte la acción 6.1.1.1 (D2, p. 7).
+- **Nueva, límites del acta de inicio (propio):** varias recomendaciones de Penagos (A1, A3, B1) se proponen por acta de inicio o plan de trabajo. En el CI 031, Julián Moreno y las abogadas de la DCI advierten que esos instrumentos no pueden cambiar obligaciones, productos ni requisitos ([Moreno](../fuentes/ci-ansv-031-2026-respuesta-julian-moreno.md), p. 2). Conviene que Gestión Contractual diga cuáles son precisiones y cuáles requieren otrosí. B1 ya prevé el otrosí si Jurídica lo considera.
+- **Supervisor (cargo):** el memorando de Gestión Contractual lo llama "Director de Coordinación Interinstitucional" (p. 1); es un error.
+
 ## Documentos que faltan en el corpus
+
+- *(2026-11-17)* Respuesta de la Dirección General al correo del 03-09-2026; acta de reunión del equipo de apoyo del 20-08-2026 (citada por Penagos, p. 8); respuesta financiera a los literales a), b) y d) del 09-11-2026.
 
 - Acta de inicio y eventual respuesta de las UTS con el EMR.
 - Designación anterior que el formato del 06-08-2026 dice "cambiar".

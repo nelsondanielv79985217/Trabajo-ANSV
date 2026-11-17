@@ -2,6 +2,8 @@
 
 Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos de trabajo (INGEST/QUERY/LINT).
 
+*Actualización (2026-11-17, segunda)*: ingest de las cargas del 16-11-2026 de los contratos interadministrativos. CI ANSV-030-2026 (`main`, PRs #10 y #11): 20 archivos, 12 documentos distintos, 6 páginas nuevas y el resto registrado en páginas existentes. CI ANSV-031-2026 (rama del contrato, sin fusionar): 16 archivos, 13 documentos distintos, 7 páginas nuevas. **264 páginas de fuente en `wiki/fuentes/`** (243 ingeridas + 21 incierto, conteo directo).
+
 *Actualización (2026-11-17)*: ingest de los 3 archivos subidos a `main` el 16-11-2026 (commit f6fdd12): Resolución conjunta Mintransporte-ANSV 20263040014815 de 2026 (puntos, sectores y tramos críticos), Resolución ANSV 862 de 2026 (manual de funciones y planta) y correo de la ANI sobre el Comité Operativo. **251 páginas de fuente en `wiki/fuentes/`** (230 ingeridas + 21 incierto, conteo directo).
 
 *Actualización (2026-11-06, tercera)*: ingest de los 28 archivos del CI ANSV-030-2026 (rama `Contrato-interadministrativo-ANSV-030-2026-Ruta-de-atencion-a-victimas`). Son 25 documentos distintos y dieron 24 páginas de fuente nuevas más una síntesis hub. Se corrigió la lectura de "7.3.1.3" en el CI 031: es numeración compuesta, no un error. **248 páginas de fuente en `wiki/fuentes/`** (228 ingeridas + 20 incierto, conteo directo).
@@ -400,6 +402,17 @@ Rama `supervision-contrato-interadministrativo-ANSV-031-2026-grupos-de-participa
 - [Oficio IUE — entrega 4 del EMR (07-09-2026)](fuentes/ci-ansv-031-2026-oficio-iue-entrega-4-emr.md) — propone a la profesional en comunicación social. (ingerido)
 - [Oficio 20264000135411 — aprobación del EMR (10-09-2026)](fuentes/ci-ansv-031-2026-oficio-20264000135411-aprobacion-emr.md) — EMR de 17 personas; el acta de inicio queda a la espera del aval de la Dirección General. (ingerido)
 
+
+**Carga del 16-11-2026 (rama del contrato, sin fusionar a `main`):**
+- [Solicitudes de recomendaciones técnicas y legales (06 y 07-11-2026)](fuentes/ci-ansv-031-2026-solicitudes-recomendacion-tecnica-y-legal.md) — cinco correos con el mismo cuerpo, en una página. (ingerido)
+- [Solicitud de recomendación financiera (09-11-2026)](fuentes/ci-ansv-031-2026-correo-solicitud-recomendacion-financiera.md) — sin respuesta en el corpus. (ingerido)
+- [Respuesta de Julián Moreno (06-11-2026)](fuentes/ci-ansv-031-2026-respuesta-julian-moreno.md) — declina el documento integral; el acta de inicio no modifica el contrato. (ingerido)
+- [Respuesta de Óscar Higuita (07-11-2026)](fuentes/ci-ansv-031-2026-respuesta-oscar-higuita.md) — lista de estructuradores; sin análisis de los aspectos. (ingerido)
+- [Réplica del supervisor a Higuita (07-11-2026)](fuentes/ci-ansv-031-2026-replica-supervisor-a-higuita.md). (ingerido)
+- [Recomendación legal de Sepúlveda y Novoa (10-11-2026)](fuentes/ci-ansv-031-2026-recomendacion-legal-sepulveda-novoa.md) — responde los cinco aspectos; no recomienda otrosí. (ingerido)
+- [Recomendación técnica de César Salcedo (11-11-2026)](fuentes/ci-ansv-031-2026-recomendacion-tecnica-salcedo.md) — 6 hallazgos; error sobre la obligación de discapacidad. (ingerido)
+- Registrado en página existente: copia del oficio de aprobación del EMR (`5APROB~1.PDF`).
+
 ### Carga del 6 de noviembre de 2026 — Contrato Interadministrativo ANSV-030-2026 (UTS, Ruta de Atención Integral a Víctimas) (28 archivos, 25 documentos distintos, 24 páginas: 20 ingeridas + 4 inciertas)
 
 Rama `Contrato-interadministrativo-ANSV-030-2026-Ruta-de-atencion-a-victimas`. Hub: [síntesis del CI ANSV-030-2026](sintesis/contrato-interadministrativo-ansv-030-2026-ruta-victimas.md).
@@ -428,6 +441,16 @@ Rama `Contrato-interadministrativo-ANSV-030-2026-Ruta-de-atencion-a-victimas`. H
 - [Circular 043 del 02-09-2026 — deberes de los supervisores](fuentes/circular-043-2026-deberes-supervisores-ansv.md) — seguimiento administrativo, técnico, financiero y jurídico; firma la Directora General Alexandra Acelas Rodríguez. (ingerido)
 - [Formato de acta de inicio ANSV-CON-FO-25 v02](fuentes/formato-acta-inicio-ansv-con-fo-25-v2.md) — plantilla en blanco, rotulada "Funcionamiento" (pide CDP y RP). (ingerido)
 - [Ley 617 de 2000 — extracto de categorías (copia del CI 030)](fuentes/ley-617-de-2000-extracto-categorias-ci-030.md) — 28 pp., arts. 1 a 45; ver la página principal de la ley. (ingerido)
+
+
+**Carga del 16-11-2026 (en `main`):**
+- [Correo del 03-09-2026 — solicitud de instrucción formal tras la pausa verbal](fuentes/ci-ansv-030-2026-correo-solicitud-instruccion-formal-supervision.md) — primer registro escrito de la suspensión de hecho; PDF y .eml. (ingerido)
+- [Solicitud de recomendación técnica a Luz América Penagos (06-11-2026)](fuentes/ci-ansv-030-2026-correo-solicitud-recomendacion-tecnica.md) — cinco aspectos de partida; plazo 11-11. (ingerido)
+- [Recomendación técnica de Luz América Penagos (12-11-2026)](fuentes/ci-ansv-030-2026-recomendacion-tecnica-penagos.md) — 9 aspectos (selección y sustitución de territorios, Dashboard, Producto 7, reporte PNSV, plazo del acta de inicio). (ingerido)
+- [Solicitud de recomendación financiera a Gestión Contractual (09-11-2026)](fuentes/ci-ansv-030-2026-correo-solicitud-recomendacion-financiera.md) — correo y reenvío interno; solo el literal c) tiene respuesta en el corpus. (ingerido)
+- [Memorando de Gestión Contractual sobre SECOP II (12-11-2026)](fuentes/ci-ansv-030-2026-memorando-respuesta-juridica-secop.md) — "Funcionamiento" es error de digitación; se corrige en el contrato electrónico en ejecución. (ingerido)
+- [Respuesta de la Mesa de Servicio de CCE, GLPI #0008910 (11-11-2026)](fuentes/ci-ansv-030-2026-respuesta-mesa-servicio-cce-glpi-8910.md). (ingerido)
+- Registrados en páginas existentes: versión .docx del oficio 127471 y su correo de envío; correo de comunicación del memorando 32663; correo del 27-10 con el memorando de cambio de supervisión; copias de CDR, CVI y clausulado.
 
 ### Carga del 16 de noviembre de 2026 (3, 2 ingeridas + 1 incierta)
 

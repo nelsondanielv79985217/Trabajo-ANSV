@@ -4,7 +4,7 @@ type: fuente
 tags: [contratacion, presupuesto, fiduagraria, patrimonio-autonomo, cdr, ci-ansv-030-2026]
 fuente_pdf: "02.1. CDR-020-2026.pdf"
 status: ingerido
-last_updated: 2026-11-06
+last_updated: 2026-11-17
 ---
 
 # CDR 020-2026 (PA FSV Fiduagraria)
@@ -27,3 +27,5 @@ Hub del expediente: [síntesis del CI ANSV-030-2026](../sintesis/contrato-intera
 
 - Vigencia de seis meses desde el 09-07-2026: vence alrededor del 09-01-2027 (cálculo propio). `[INCIERTO: si el compromiso en el patrimonio autónomo ya quedó registrado y si la vigencia del CDR sigue importando después de firmado el contrato; ninguna fuente del corpus lo aclara]`.
 - El valor del CDR ($4.066 millones) supera en $53 millones al del contrato.
+
+> *(2026-11-17)* `CDR No. 020-2026.pdf`, subidos a `main` el 16-11-2026, son copias idénticas (mismo hash) del archivo de esta página.

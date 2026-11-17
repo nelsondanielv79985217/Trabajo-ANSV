@@ -3,7 +3,7 @@ title: "CI ANSV-031-2026 (IUE, Grupos de Participación Ciudadana) — expedient
 type: sintesis
 tags: [contratacion, ci-ansv-031-2026, supervision, participacion-ciudadana, gpc, iue, dci, emr]
 status: incierto
-last_updated: 2026-11-06
+last_updated: 2026-11-17
 ---
 
 # CI ANSV-031-2026 — expediente y alertas para la supervisión
@@ -50,6 +50,11 @@ Lo marcado como **(propio)** es análisis o cálculo de esta síntesis, no texto
 | 22-10-2026 | Memorando 20262000039563 de la Directora DCI pidiendo el cambio de supervisor (no está en el corpus) | [Designación Vega](../fuentes/ci-ansv-031-2026-designacion-supervision-nelson-vega-030-031.md), p. 1 |
 | 27-10-2026 | Autorización de la Directora General por correo (no está en el corpus) | Ídem, p. 1 |
 | 28-10-2026 | Designación de Nelson Daniel Vega Samacá como supervisor de los CI 030 y 031 de 2026, desde el 01-11-2026 | Ídem, pp. 1-3 |
+| 06-11-2026 | El supervisor pide recomendaciones técnicas a César Salcedo y Julián Moreno; Moreno declina el documento integral a los 39 minutos | [Solicitudes](../fuentes/ci-ansv-031-2026-solicitudes-recomendacion-tecnica-y-legal.md); [Moreno](../fuentes/ci-ansv-031-2026-respuesta-julian-moreno.md), p. 1 |
+| 07-11-2026 | Pide recomendaciones legales a Higuita, Novoa y Sepúlveda; Higuita responde con la lista de estructuradores; el supervisor replica | [Higuita](../fuentes/ci-ansv-031-2026-respuesta-oscar-higuita.md); [réplica](../fuentes/ci-ansv-031-2026-replica-supervisor-a-higuita.md) |
+| 09-11-2026 | Solicitud de recomendación financiera a Gestión Contractual | [Correo](../fuentes/ci-ansv-031-2026-correo-solicitud-recomendacion-financiera.md), p. 1 |
+| 10-11-2026 | Recomendación legal conjunta de Sepúlveda y Novoa: no se requiere modificar el contrato; constancia aclaratoria sobre la cita PNSV | [Recomendación legal](../fuentes/ci-ansv-031-2026-recomendacion-legal-sepulveda-novoa.md), p. 8 |
+| 11/12-11-2026 | Recomendación técnica de Salcedo (6 hallazgos; propone 11 apoyos a la supervisión) | [Recomendación técnica](../fuentes/ci-ansv-031-2026-recomendacion-tecnica-salcedo.md) |
 
 ## Alertas para el supervisor entrante
 
@@ -79,7 +84,18 @@ Ordenadas por urgencia (propio).
 8. **Numeración PNSV (corregida el 06-11-2026).** "7.3.1.3" no es un error: es la acción 3.1.3 del área 7, gobernanza (Decreto 1430, pp. 4-6 y 68). Al reportar, conviene citar "acción 3.1.3 del área de gobernanza (7.3.1.3)" para que se pueda rastrear en el Decreto.
 9. **Correspondencia mal dirigida.** La IUE dirigió el oficio del 07-09 a Alipio después del cambio de supervisor. Conviene comunicar formalmente a la IUE el cambio al nuevo supervisor (propio).
 
+### Actualización de alertas (2026-11-17)
+
+- **Alerta 1 (acta de inicio):** la recomendación legal confirma que, con los documentos disponibles, "no se conoce … la razón actual de la espera" y recomienda dejar constancia, revisar garantías y confirmar la vigencia de la aprobación del EMR antes del inicio ([legal](../fuentes/ci-ansv-031-2026-recomendacion-legal-sepulveda-novoa.md), pp. 6-7). No hace falta repetir la aprobación del EMR (p. 5).
+- **Alerta 5 (discapacidad):** la obligación existe (obligación 21 del clausulado, pp. 23-24, según la recomendación legal, p. 5). Se acredita con cada pago; no obliga a reemplazar a nadie del EMR. **No usar** la afirmación contraria de Salcedo.
+- **Alerta 6 (apoyos):** Salcedo propone un equipo de al menos 11 apoyos antes del acta de inicio. Es una opinión sin cálculo de carga en el documento.
+- **Alerta 8 (cita PNSV):** las abogadas recomiendan una constancia aclaratoria en el expediente, sin otrosí (p. 6). Salcedo propone aclararlo en comité operativo con acta.
+- **Nueva, qué sí y qué no por acta de inicio (propio):** Moreno y las abogadas coinciden en que el acta de inicio y el plan de trabajo no modifican obligaciones ni productos ([Moreno](../fuentes/ci-ansv-031-2026-respuesta-julian-moreno.md), p. 2; [legal](../fuentes/ci-ansv-031-2026-recomendacion-legal-sepulveda-novoa.md), p. 7). Dos propuestas de Salcedo (informe adicional del Producto 2 en el tercer pago; quitar "conformación" del clausulado) cambiarían el contrato y requerirían otrosí.
+- **Trazabilidad de la estructuración:** Higuita da la lista de estructuradores por documento ([respuesta](../fuentes/ci-ansv-031-2026-respuesta-oscar-higuita.md), p. 1).
+
 ## Documentos que faltan en el corpus
+
+- *(2026-11-17)* Concepto de alineación con el PNSV ofrecido por Julián Moreno para el 11-11; comunicación DCI del 07-07-2026 que designó el equipo estructurador; anexo "Lineamientos metodológicos" de Salcedo; respuesta financiera de Gestión Contractual.
 
 - Contrato electrónico de SECOP II y fecha de perfeccionamiento.
 - Resolución 648 de 2026.
