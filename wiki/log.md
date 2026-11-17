@@ -1149,3 +1149,9 @@ Con esto quedan cerrados todos los hallazgos de la pasada de LINT completa del 2
 - CSV `fuentes/fichas-nuevos-mandatarios-tabulacion.csv`: se mantiene como anexo de datos; la excepción quedó registrada en CLAUDE.md (Convenciones de nombres).
 - Se trajeron a `main` desde la rama `Contractual-OPS` los PDF `20266700034703 Concepto Estabilidad Laboral Reforzada 07092026.pdf` y `Solicitud concepto estabilidad ocupacional (1).pdf`, que respaldan las páginas concepto-estabilidad-ocupacional-reforzada-2026 y solicitud-concepto-estabilidad-ocupacional-div.
 - Corrección de enlaces rotos en entradas anteriores de este log (no se editan): las rutas `../conceptos/sast-fotodeteccion-regimen-autorizacion.md` y `../conceptos/genealogia-asistencia-tecnica.md` deben leerse como `conceptos/sast-fotodeteccion-regimen-autorizacion.md` y `conceptos/genealogia-asistencia-tecnica.md` (relativas a `wiki/`).
+
+## [2026-11-17] ingest | Resolución ANSV 507 de 2026 (Comité Operativo de Seguridad Vial)
+- Archivo subido por el usuario y agregado a la raíz como `Resolucion_507_de_2026_comite_operativo.pdf` (6 páginas).
+- Página creada: `fuentes/resolucion-507-de-2026-comite-operativo-seguridad-vial.md`.
+- Hallazgo: la Res. 507 deroga la Res. 083 de 2019 salvo su art. 1 (p. 5, art. 10); la convocatoria de la DCI del 05-11-2026 la citó como "modificada". No menciona al ONSV ni asigna compromisos por entidad; los compromisos salen de las actas (art. 7).
+- Páginas actualizadas: `fuentes/correo-ani-delegacion-comite-operativo-noviembre-2026.md`, `fuentes/inventario-instancias-interinstitucionales-ansv-junio-2026.md`, `entidades/dci-...`, `entidades/ansv-...`, `index.md` (265 fuentes).

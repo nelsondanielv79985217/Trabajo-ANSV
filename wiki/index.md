@@ -2,6 +2,8 @@
 
 Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos de trabajo (INGEST/QUERY/LINT).
 
+*Actualización (2026-11-17, cuarta)*: ingest de la Resolución ANSV 507 de 2026 (Comité Operativo de Seguridad Vial). **265 páginas de fuente**.
+
 *Actualización (2026-11-17, tercera)*: lint general y correcciones aprobadas (campo `fuente_pdf` en 15 páginas, dos notas `[INCIERTO]`, un slug renombrado, excepción del CSV y dos PDF traídos desde `Contractual-OPS`). Sin cambios en el número de páginas: **264 páginas de fuente**.
 
 *Actualización (2026-11-17, segunda)*: ingest de las cargas del 16-11-2026 de los contratos interadministrativos. CI ANSV-030-2026 (`main`, PRs #10 y #11): 20 archivos, 12 documentos distintos, 6 páginas nuevas y el resto registrado en páginas existentes. CI ANSV-031-2026 (rama del contrato, fusionada a `main` en el PR #14 tras renombrar tres archivos con nombre corto 8.3): 16 archivos, 13 documentos distintos, 7 páginas nuevas. **264 páginas de fuente en `wiki/fuentes/`** (243 ingeridas + 21 incierto, conteo directo).
@@ -458,6 +460,7 @@ Rama `Contrato-interadministrativo-ANSV-030-2026-Ruta-de-atencion-a-victimas`. H
 
 - [Resolución 20263040014815 de 2026 — puntos, sectores y tramos críticos de siniestralidad vial](fuentes/resolucion-20263040014815-de-2026-ubicaciones-criticas-siniestralidad-vial.md) — acto conjunto Mintransporte-ANSV (22-04-2026); longitudes máximas (100/500 m, 1.000 m, 5.000 m); la ANSV presta el acompañamiento técnico (art. 5); falta el documento técnico anexo y la fecha de publicación. (incierto)
 - [Resolución ANSV 862 de 2026 — manual de funciones y reubicación de empleos](fuentes/resolucion-862-de-2026-modifica-manual-funciones-ansv.md) — 28-10-2026; reubica un auxiliar en el ONSV y un PE 16 en la OAJ; transcribe la planta global, con 11 empleos en la DCI. (ingerido)
+- [Resolución ANSV 507 de 2026 — Comité Operativo de Seguridad Vial](fuentes/resolucion-507-de-2026-comite-operativo-seguridad-vial.md) — Actualiza el Comité creado por el art. 1 de la Res. 083/2019 y deroga el resto de esa resolución (p. 5); Secretaría Técnica en la DCI; sesiones cuatrimestrales. (ingerido)
 - [Correo de la ANI — delegación al Comité Operativo (11-11-2026)](fuentes/correo-ani-delegacion-comite-operativo-noviembre-2026.md) — la ANI delega a Claudia Mendoza; comunicación informativa asignada a la DCI; cita la Res. 507 de 2026. (ingerido)
 
 ## Método (`fuentes/`, type: metodo)
