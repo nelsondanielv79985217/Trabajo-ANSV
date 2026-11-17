@@ -4,7 +4,7 @@ type: fuente
 tags: [ley, marco-normativo, sistema-seguro, ansv, velocidad, codigo-nacional-transito, planes-locales-seguridad-vial]
 fuente_pdf: "Ley_2251_de_2022.pdf Ley julian Esteban.pdf"
 status: ingerido
-last_updated: 2026-09-24
+last_updated: 2026-11-17
 ---
 
 # Ley 2251 de 2022 — "Por la cual se dictan normas para el diseño e implementación de la política de seguridad vial con enfoque de Sistema Seguro y se dictan otras disposiciones — Ley Julián Esteban"
@@ -68,6 +68,7 @@ La [Ley 1383 de 2010](ley-1383-de-2010-reforma-codigo-nacional-transito.md) fija
 - [Ley 769 de 2002](ley-769-de-2002-codigo-nacional-transito.md): confirma directamente tres de las cinco citas de modificación ya registradas en esa página (Arts. 106 Par. 2, 107 Par. 2 y 158A).
 - [Ley 1383 de 2010](ley-1383-de-2010-reforma-codigo-nacional-transito.md): descarta la hipótesis, planteada al ingerir esa fuente, de que esta ley hubiera añadido la categoría F de multas.
 - [ANSV — Agencia Nacional de Seguridad Vial](../entidades/ansv-agencia-nacional-seguridad-vial.md): se actualiza con las diez competencias catalogadas arriba — la actualización más extensa de esta entidad hasta ahora.
+- [Resolución 20263040014815 de 2026](resolucion-20263040014815-de-2026-ubicaciones-criticas-siniestralidad-vial.md) *(añadido 2026-11-17)*: desarrolla el art. 23 (definiciones de punto, sitio, zona, tramo y sector crítico). No se adoptó como reglamento técnico (p. 3).
 
 ## Incertidumbres
 

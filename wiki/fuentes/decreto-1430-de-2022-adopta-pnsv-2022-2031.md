@@ -4,7 +4,7 @@ type: fuente
 tags: [decreto, marco-normativo, pnsv-2022-2031, sistema-seguro, asistencia-tecnica, dci, planes-locales-seguridad-vial, ocho-regiones, matriz-de-acciones, gobernanza]
 fuente_pdf: "DECRETO 1430 DEL 29JUL2022 MIntransporte PNSV 2022-2031.pdf"
 status: ingerido
-last_updated: 2026-10-26
+last_updated: 2026-11-17
 ---
 
 # Decreto 1430 de 2022 (29 de julio de 2022) — "Por medio del cual se aprueba el Plan Nacional de Seguridad Vial 2022-2031"
@@ -62,3 +62,5 @@ Cita las Leyes 105/1993, 769/2002 (art. 4 par. 1: el Plan debe servir de base a 
 - [PNSV 2022-2031 — Documento técnico de soporte](pnsv-2022-2031-documento-tecnico-soporte.md) · [Matriz de diagnóstico de la acción 1.1.2](matriz-diagnostico-accion-1.1.2-pnsv-control-dci.md) · [Informe de seguimiento al PNSV 2024](informe-seguimiento-pnsv-2024-segundo-informe.md)
 - [Ley 2251 de 2022](ley-2251-de-2022-sistema-seguro.md) · [Resolución 583 de 2023](resolucion-583-de-2023-armonizacion-plsv-pnsv.md) · [Sistema Seguro](../conceptos/sistema-seguro-enfoque-politica-seguridad-vial.md)
 - [PNSV 2011-2021](pnsv-2011-2021-plan-nacional-seguridad-vial-ajuste-2014.md) (plan antecesor)
+
+> *(2026-11-17)* La [Resolución 20263040014815 de 2026](resolucion-20263040014815-de-2026-ubicaciones-criticas-siniestralidad-vial.md) cita el objetivo general 2 del área "Infraestructura vial segura" ("Mitigar el riesgo en puntos, tramos y sectores críticos de siniestralidad vial", p. 2) y adopta las definiciones de esas ubicaciones.

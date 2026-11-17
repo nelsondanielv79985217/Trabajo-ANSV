@@ -3,7 +3,7 @@ title: "ONSV — Observatorio Nacional de Seguridad Vial"
 type: entidad
 tags: [onsv, ansv, observatorio, estadisticas, rot, gestion-del-conocimiento, dependencia-estatutaria]
 status: ingerido
-last_updated: 2026-11-03
+last_updated: 2026-11-17
 ---
 
 # ONSV — Observatorio Nacional de Seguridad Vial
@@ -54,6 +54,9 @@ El [Modelo Nacional de Gestión del Conocimiento en Seguridad Vial (ONSV, V2, 20
 - *(2026-10-26)* [Fichas de la Estrategia Nuevos Mandatarios](../fuentes/fichas-estrategia-nuevos-mandatarios-ansv-2024.md): fichas territoriales con cálculos del ONSV sobre datos del INMLCF y del RUNT de 2022-2023.
 
 - *(2026-11-03)* Tres documentos técnicos propios del ONSV: [El control operativo y la fatalidad vial](../fuentes/control-operativo-y-fatalidad-vial-onsv.md) (sin fecha impresa, posterior a enero de 2022; autores Jasson Cruz Villamil, Director, y Leonardo Calvo García, p. 3), [Reincidencia en siniestralidad vial 2018-2022](../fuentes/reincidencia-siniestralidad-vial-onsv-2023.md) (febrero de 2023; autora Diana Carolina Nova Laverde, con **Dunella Maya Sánchez como Directora del ONSV**, p. 2) e [Hipótesis de causas probables en los siniestros viales](../fuentes/hipotesis-causas-probables-siniestros-viales-onsv.md) (respuesta al hallazgo 2 de la Contraloría; fecha incierta, 2017 en portada y 2019 por contenido).
+
+- *(2026-11-17)* [Resolución 20263040014815 de 2026](../fuentes/resolucion-20263040014815-de-2026-ubicaciones-criticas-siniestralidad-vial.md): los análisis del ONSV fundamentan que "sitio crítico" y "zona crítica" se usen como sinónimos de punto y sector crítico (p. 3). **Rubiel de Jesús Zuleta Carmona** revisó el acto como Director del ONSV el 22-04-2026 (p. 6).
+- *(2026-11-17)* [Resolución 862 de 2026](../fuentes/resolucion-862-de-2026-modifica-manual-funciones-ansv.md): reubica en el ONSV un Auxiliar Administrativo 4044-19 por la carga de PQRSD (memorando 20265000038173 del 07-10-2026, del Director Técnico (E) del ONSV, p. 4). El ONSV queda con 11 empleos (art. 4, p. 10).
 
 ## Incertidumbres
 
