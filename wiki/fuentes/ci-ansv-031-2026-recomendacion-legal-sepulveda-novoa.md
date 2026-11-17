@@ -2,7 +2,7 @@
 title: "Recomendación legal previa a la ejecución del CI ANSV-031-2026 — Mónica Sepúlveda Sierra y Diana Rocío Novoa Buendía (10-11-2026)"
 type: fuente
 tags: [contratacion, supervision, ci-ansv-031-2026, iue, gpc, recomendacion-legal, acta-de-inicio, emr, discapacidad, pnsv, modificacion-contractual]
-fuente_pdf: "RECOME~1.PDF"
+fuente_pdf: "Recomendacion legal previa CI ANSV-031-2026 IUE 10112026.pdf"
 status: ingerido
 last_updated: 2026-11-17
 ---
@@ -10,10 +10,10 @@ last_updated: 2026-11-17
 # Recomendación legal previa a la ejecución del CI 031 (10-11-2026)
 
 **Archivos fuente (rama del CI 031):**
-- `RECOME~1.PDF` (8 páginas): el documento. Se cita por página.
-- `RESPUE~1.PDF` (3 páginas): correo de remisión de Diana Rocío Novoa Buendía, martes 10-11-2026, 11:49, con el adjunto "Recomendación legal previa a la ejecución del Contrato Interadministrativo ANSV-031-2026 – IUE.pdf". CC: Alipio Parra y Sepúlveda Sierra (p. 1). Dice que el análisis se hizo de manera conjunta (p. 1).
+- `Recomendacion legal previa CI ANSV-031-2026 IUE 10112026.pdf` (8 páginas; antes `RECOME~1.PDF`): el documento. Se cita por página.
+- `Correo remision recomendacion legal CI ANSV-031-2026 Novoa 10112026.pdf` (3 páginas; antes `RESPUE~1.PDF`): correo de remisión de Diana Rocío Novoa Buendía, martes 10-11-2026, 11:49, con el adjunto "Recomendación legal previa a la ejecución del Contrato Interadministrativo ANSV-031-2026 – IUE.pdf". CC: Alipio Parra y Sepúlveda Sierra (p. 1). Dice que el análisis se hizo de manera conjunta (p. 1).
 
-> **Choque de nombres con `main`:** `RECOME~1.PDF` y `RESPUE~1.PDF` de esta rama son documentos distintos a los archivos con el mismo nombre que ya están en `main` (CI 030). Si se fusiona la rama del 031, uno reemplazaría al otro. Ver `log.md`.
+> *(2026-11-17)* Los dos archivos se renombraron en la rama del CI 031 porque sus nombres cortos chocaban con archivos distintos del CI 030 en `main`.
 
 Hub: [síntesis del CI ANSV-031-2026](../sintesis/contrato-interadministrativo-ansv-031-2026-gpc.md).
 

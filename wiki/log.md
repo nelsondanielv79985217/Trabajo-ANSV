@@ -1133,3 +1133,9 @@ Con esto quedan cerrados todos los hallazgos de la pasada de LINT completa del 2
 - Hallazgos: la recomendación técnica de Salcedo afirma que no hay obligación de vincular personas con discapacidad; es errado (obligación 21 del clausulado, según la recomendación legal, p. 5; estudio previo, p. 25). Moreno y las abogadas coinciden en que el acta de inicio y el plan de trabajo no modifican el contrato, lo que limita varias recomendaciones técnicas del 030 y del 031. El memorando de Gestión Contractual da al supervisor el cargo errado de "Director de Coordinación Interinstitucional".
 - Páginas actualizadas: síntesis de los CI 030 y 031 (línea de tiempo, alertas, documentos faltantes), `entidades/dci-...`, 7 páginas de fuente existentes (notas de copias y soportes), `index.md` (264 fuentes: 243 ingeridas + 21 incierto, conteo directo).
 - Ningún archivo es una petición que requiera oficio de respuesta.
+
+## [2026-11-17] lint | Renombre de tres archivos de la rama del CI ANSV-031-2026
+
+- Por pedido del usuario, en la rama `supervision-contrato-interadministrativo-ANSV-031-2026-...` (commit 528b7f7): `RECOME~1.PDF` → `Recomendacion legal previa CI ANSV-031-2026 IUE 10112026.pdf`; `RESPUE~1.PDF` → `Correo remision recomendacion legal CI ANSV-031-2026 Novoa 10112026.pdf`; `RESPUE~2.PDF` → `Correo remision recomendacion tecnica CI ANSV-031-2026 Salcedo 12112026.pdf`.
+- Con eso la rama ya no choca con los archivos del CI 030 en `main`; una fusión de prueba quedó sin conflictos. La rama no se fusionó.
+- Páginas actualizadas: `fuentes/ci-ansv-031-2026-recomendacion-legal-sepulveda-novoa.md` y `fuentes/ci-ansv-031-2026-recomendacion-tecnica-salcedo.md`.

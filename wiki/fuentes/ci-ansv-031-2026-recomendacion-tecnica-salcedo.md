@@ -11,9 +11,9 @@ last_updated: 2026-11-17
 
 **Archivos fuente (rama del CI 031):**
 - `111120~1.DOC`: el documento. Pese a la extensión, es un archivo Word 2007+ (.docx). Corresponde al adjunto "11.11.2026Recomendación técnica previa a la ejecución del contrato VF.docx". No tiene paginación fija: **se cita por sección**. Metadatos: autor César Mauricio Salcedo Colorado, creado y modificado el 10-11-2026 (UTC).
-- `RESPUE~2.PDF` (3 páginas): correo de remisión de César Mauricio Salcedo Colorado, jueves 12-11-2026, 0:00, con copia a Alipio Parra: "de acuerdo con nuestro compromiso, adjunto envío el informe solicitado" (p. 1).
+- `Correo remision recomendacion tecnica CI ANSV-031-2026 Salcedo 12112026.pdf` (3 páginas; antes `RESPUE~2.PDF`): correo de remisión de César Mauricio Salcedo Colorado, jueves 12-11-2026, 0:00, con copia a Alipio Parra: "de acuerdo con nuestro compromiso, adjunto envío el informe solicitado" (p. 1).
 
-> **Choque de nombres con `main`:** `RESPUE~2.PDF` de esta rama es distinto al archivo con el mismo nombre en `main` (CI 030). Ver `log.md`.
+> *(2026-11-17)* El correo de remisión se renombró en la rama del CI 031 porque su nombre corto chocaba con un archivo distinto del CI 030 en `main`.
 
 Hub: [síntesis del CI ANSV-031-2026](../sintesis/contrato-interadministrativo-ansv-031-2026-gpc.md).
 
