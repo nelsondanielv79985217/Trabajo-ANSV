@@ -2,12 +2,14 @@
 title: "Ley 336 de 1996 — Estatuto Nacional de Transporte"
 type: fuente
 tags: [ley, estatuto-nacional-transporte, conset, sanciones, mintransporte, marco-normativo]
-fuente_pdf: "Ley 336 de 1996 - Gestor Normativo - Función Pública.pdf (segunda copia verificada: 'norma_pdf.pdf', mismo texto)"
+fuente_pdf: "Ley 336 de 1996 - Gestor Normativo - Función Pública.pdf"
 status: ingerido
-last_updated: 2026-10-20
+last_updated: 2026-11-17
 ---
 
 # Ley 336 de 1996 — Estatuto Nacional de Transporte
+
+> **Archivos de esta fuente** (nota trasladada desde el campo `fuente_pdf` en el lint del 2026-11-17; el campo queda solo con el archivo principal): Ley 336 de 1996 - Gestor Normativo - Función Pública.pdf (segunda copia verificada: 'norma_pdf.pdf', mismo texto)
 
 **Archivo fuente:** `Ley 336 de 1996 - Gestor Normativo - Función Pública.pdf` (31 páginas; copia informativa de la publicación EVA-Gestor Normativo del Departamento Administrativo de la Función Pública, con anotaciones de vigencia/modificación por artículo).
 **Segunda copia (2026-10-20):** `norma_pdf.pdf` (24 páginas, generada por el EVA el 19 de octubre de 2026). Se comparó palabra por palabra con la copia anterior y el texto normativo es el mismo; solo cambian los encabezados, los pies de página y la paginación. **Se sigue citando por artículo**, porque los números de página no coinciden entre las dos copias. Junto con ella se subió el [Decreto 192 de 2000](decreto-192-de-2000-transporte-maritimo.md), que reglamentó esta ley en el modo marítimo y está derogado.

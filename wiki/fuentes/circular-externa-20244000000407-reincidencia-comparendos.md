@@ -2,12 +2,14 @@
 title: "Circular Externa 20244000000407 de 2024 — Reporte de comparendos al SIMIT y reincidencia en detección electrónica"
 type: fuente
 tags: [circular-externa, mintransporte, simit, runt, reincidencia, comparendos, deteccion-electronica, organismos-transito]
-fuente_pdf: "20244000000407 instruc suspención por reincidencia.pdf (misma circular que '20244000000407 reincidencia y sanción.pdf' — mismo contenido, distinto MD5 por diferencias de escaneo/compresión, verificado página por página)"
+fuente_pdf: "20244000000407 instruc suspención por reincidencia.pdf"
 status: ingerido
-last_updated: 2026-09-28
+last_updated: 2026-11-17
 ---
 
 # Circular Externa 20244000000407 de 2024 — Reporte de comparendos al SIMIT y reincidencia en casos de detección electrónica
+
+> **Archivos de esta fuente** (nota trasladada desde el campo `fuente_pdf` en el lint del 2026-11-17; el campo queda solo con el archivo principal): 20244000000407 instruc suspención por reincidencia.pdf (misma circular que '20244000000407 reincidencia y sanción.pdf' — mismo contenido, distinto MD5 por diferencias de escaneo/compresión, verificado página por página)
 
 **Archivo fuente:** documento escaneado sin capa de texto extraíble (5 páginas), leído mediante el skill de lectura de imágenes de PDF. **Nota de duplicados**: `20244000000407 instruc suspención por reincidencia.pdf` y `20244000000407 reincidencia y sanción.pdf` tienen MD5 distinto pero **contenido idéntico** verificado por lectura directa de sus páginas (mismo radicado, fecha, texto y firma) — variación atribuible a diferente escaneo/compresión de la misma circular, no a versiones distintas.
 **Fecha:** 05 de julio de 2024.

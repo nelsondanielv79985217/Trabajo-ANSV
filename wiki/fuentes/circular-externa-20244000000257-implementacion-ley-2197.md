@@ -2,12 +2,14 @@
 title: "Circular Externa 20244000000257 de 2024 — Implementación del registro de autoridades municipales de tránsito y asignación de rangos de comparendo"
 type: fuente
 tags: [circular-externa, mintransporte, autoridades-transito, runt, comparendo, ley-2197-2022, procedimiento]
-fuente_pdf: "2024000000257 explica proc para asigna rangos a los municipios.pdf"   # copia con texto: "20244000000257 implementacion de la circular 0677.pdf"
+fuente_pdf: "2024000000257 explica proc para asigna rangos a los municipios.pdf"
 status: ingerido
-last_updated: 2026-11-03
+last_updated: 2026-11-17
 ---
 
 # Circular Externa 20244000000257 de 2024 — Implementación del registro de autoridades municipales de tránsito y asignación de rangos de comparendo
+
+> **Archivos de esta fuente** (nota trasladada desde el campo `fuente_pdf` en el lint del 2026-11-17; el campo queda solo con el archivo principal): 2024000000257 explica proc para asigna rangos a los municipios.pdf; copia con texto: "20244000000257 implementacion de la circular 0677.pdf"
 
 **Archivo fuente:** documento escaneado sin capa de texto extraíble (2 páginas), leído mediante el skill de lectura de imágenes de PDF.
 **Segunda copia (carga del 3-nov-2026):** `20244000000257 implementacion de la circular 0677.pdf` (2 páginas, con capa de texto; md5 distinto al escaneo, mismo contenido). Se cotejó contra esta página: el texto coincide. La copia con texto es la recomendada para citar o copiar fragmentos literales.

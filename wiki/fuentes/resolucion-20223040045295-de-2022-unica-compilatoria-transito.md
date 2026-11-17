@@ -2,12 +2,14 @@
 title: "Resolución 20223040045295 de 2022 — Resolución Única Compilatoria en materia de Tránsito (Mintransporte)"
 type: fuente
 tags: [resolucion, mintransporte, compilatoria, organismos-transito, agentes-transito, seguridad-vial, runt, marco-normativo]
-fuente_pdf: "MinTransporte-Resolucion-2022-N0045295_20220804.pdf (versión completa, 330 páginas); 'RESOLUCION 20223040045295 de 2022.pdf' y 'Titulo 5 Res. 2022040045295 2022 (1).pdf' son extractos redundantes del mismo Título 5 (277 páginas); 'esca RESOLUCION 20223040045295 de 2022.pdf' es en realidad una resolución distinta (20223040065295/2022) — ver nota"
+fuente_pdf: "MinTransporte-Resolucion-2022-N0045295_20220804.pdf"
 status: ingerido
-last_updated: 2026-09-28
+last_updated: 2026-11-17
 ---
 
 # Resolución 20223040045295 de 2022 — Resolución Única Compilatoria en materia de Tránsito del Ministerio de Transporte
+
+> **Archivos de esta fuente** (nota trasladada desde el campo `fuente_pdf` en el lint del 2026-11-17; el campo queda solo con el archivo principal): MinTransporte-Resolucion-2022-N0045295_20220804.pdf (versión completa, 330 páginas); 'RESOLUCION 20223040045295 de 2022.pdf' y 'Titulo 5 Res. 2022040045295 2022 (1).pdf' son extractos redundantes del mismo Título 5 (277 páginas); 'esca RESOLUCION 20223040045295 de 2022.pdf' es en realidad una resolución distinta (20223040065295/2022) — ver nota
 
 **Archivo fuente principal:** `MinTransporte-Resolucion-2022-N0045295_20220804.pdf` (330 páginas, texto extraíble vía `pdftotext -layout`; **este ingest se hace de forma estructural** —se identificaron los 9 Títulos y sus capítulos, con lectura de detalle solo en los Títulos y artículos más directamente citados o relevantes para el corpus (Título 2, Título 7)— sin transcribir artículo por artículo las 330 páginas).
 **Fecha:** 04 de agosto de 2022.

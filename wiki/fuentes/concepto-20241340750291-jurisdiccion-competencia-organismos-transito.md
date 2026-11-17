@@ -2,12 +2,14 @@
 title: "Concepto Mintransporte 20241340750291 de 2024 — Jurisdicción y competencia de organismos y autoridades de tránsito"
 type: fuente
 tags: [concepto-juridico, mintransporte, organismos-transito, autoridades-transito, ley-769-2002, ley-1310-2009, ley-2197-2022]
-fuente_pdf: "20241340750291 ORGANISMOS DE TRANSITO COMPE -JURIS.pdf (idéntico —mismo MD5— a '20241340750291 concepto funciones de las autoridad y OT.pdf': mismo archivo cargado dos veces)"
+fuente_pdf: "20241340750291 ORGANISMOS DE TRANSITO COMPE -JURIS.pdf"
 status: ingerido
-last_updated: 2026-09-28
+last_updated: 2026-11-17
 ---
 
 # Concepto Mintransporte 20241340750291 de 2024 — Jurisdicción y competencia de organismos y autoridades de tránsito
+
+> **Archivos de esta fuente** (nota trasladada desde el campo `fuente_pdf` en el lint del 2026-11-17; el campo queda solo con el archivo principal): 20241340750291 ORGANISMOS DE TRANSITO COMPE -JURIS.pdf (idéntico —mismo MD5— a '20241340750291 concepto funciones de las autoridad y OT.pdf': mismo archivo cargado dos veces)
 
 **Archivo fuente:** verificado por MD5 (`f7dcfb9299b124b5f8d009ff254d34fa`) que `20241340750291 ORGANISMOS DE TRANSITO COMPE -JURIS.pdf` y `20241340750291 concepto funciones de las autoridad y OT.pdf` son el **mismo archivo idéntico** (8 páginas, texto extraíble vía `pdftotext -layout`).
 **Fecha:** 27 de junio de 2024, Bogotá D.C. (responde al radicado de consulta 20243030896392 del 29 de mayo de 2024).
