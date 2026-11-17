@@ -59,7 +59,7 @@ Cita las Leyes 105/1993, 769/2002 (art. 4 par. 1: el Plan debe servir de base a 
 
 ## Conexiones
 
-- [PNSV 2022-2031 — Documento técnico de soporte](pnsv-2022-2031-documento-tecnico-soporte.md) · [Matriz de diagnóstico de la acción 1.1.2](matriz-diagnostico-accion-1.1.2-pnsv-control-dci.md) · [Informe de seguimiento al PNSV 2024](informe-seguimiento-pnsv-2024-segundo-informe.md)
+- [PNSV 2022-2031 — Documento técnico de soporte](pnsv-2022-2031-documento-tecnico-soporte.md) · [Matriz de diagnóstico de la acción 1.1.2](matriz-diagnostico-accion-1-1-2-pnsv-control-dci.md) · [Informe de seguimiento al PNSV 2024](informe-seguimiento-pnsv-2024-segundo-informe.md)
 - [Ley 2251 de 2022](ley-2251-de-2022-sistema-seguro.md) · [Resolución 583 de 2023](resolucion-583-de-2023-armonizacion-plsv-pnsv.md) · [Sistema Seguro](../conceptos/sistema-seguro-enfoque-politica-seguridad-vial.md)
 - [PNSV 2011-2021](pnsv-2011-2021-plan-nacional-seguridad-vial-ajuste-2014.md) (plan antecesor)
 

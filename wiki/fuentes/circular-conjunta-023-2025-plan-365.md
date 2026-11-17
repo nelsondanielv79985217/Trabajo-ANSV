@@ -2,12 +2,14 @@
 title: "Circular Conjunta No. 023 de 2025 — Plan 365"
 type: fuente
 tags: [circular-conjunta, plan-365, ansv, dci, supertransporte, ditra, asistencia-tecnica, sistema-seguro, protocolos-operativos]
-fuente_pdf: "CIRCULAR CONJUNTA PLAN 365 ANSV_VF.pdf (duplicado verificado: 'CIRCULAR CONJUNTA 023 DE 2025 plan 365 de 2025.pdf', mismo contenido, distinto escaneo/MD5)"
+fuente_pdf: "CIRCULAR CONJUNTA PLAN 365 ANSV_VF.pdf"
 status: ingerido
-last_updated: 2026-09-28
+last_updated: 2026-11-17
 ---
 
 # Circular Conjunta No. 023 de 2025
+
+> **Archivos de esta fuente** (nota trasladada desde el campo `fuente_pdf` en el lint del 2026-11-17; el campo queda solo con el archivo principal): CIRCULAR CONJUNTA PLAN 365 ANSV_VF.pdf (duplicado verificado: 'CIRCULAR CONJUNTA 023 DE 2025 plan 365 de 2025.pdf', mismo contenido, distinto escaneo/MD5)
 
 **Archivo fuente:** `CIRCULAR CONJUNTA PLAN 365 ANSV_VF.pdf` (6 páginas). **Verificado (2026-09-28)** que el archivo `CIRCULAR CONJUNTA 023 DE 2025 plan 365 de 2025.pdf`, cargado posteriormente en `main`, es el mismo documento (comparación textual directa vía `pdftotext -layout`; MD5 distinto por tratarse de un escaneo/exportación diferente, con solo variaciones de espaciado y un guion largo vs. corto — sin diferencias de contenido sustantivo). No se crea página adicional.
 **Fecha:** Bogotá D.C., 20 de marzo de 2025 (p. 6).

@@ -47,6 +47,7 @@ Una página de concepto/entidad se crea la primera vez que hace falta (durante u
 ## Convenciones de nombres
 
 - Un archivo por página, ruta = `wiki/<carpeta>/<slug>.md`.
+- *Excepción (2026-11-17, lint aprobado por el usuario; ver `log.md`)*: se admiten anexos de datos no Markdown (p. ej. `.csv`) junto a la página que los genera, sin front matter, siempre que esa página los enlace y explique su origen. Hoy el único caso es `wiki/fuentes/fichas-nuevos-mandatarios-tabulacion.csv`, anexo de `fichas-nuevos-mandatarios-tabulacion-por-territorio.md`. El LINT no los cuenta como páginas.
 - Slug: ASCII kebab-case, sin tildes ni mayúsculas, derivado del título.
 - No duplicar páginas: antes de crear una nueva página de concepto/entidad, buscar si ya existe una con el mismo tema.
 - Links entre páginas: rutas relativas Markdown estándar, ej. `[Asistencia Técnica](../conceptos/asistencia-tecnica-como-mecanismo-de-transferencia.md)`.

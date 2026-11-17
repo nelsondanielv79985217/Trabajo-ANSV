@@ -2,12 +2,14 @@
 title: "Resolución SIC 88919 de 2017 — Control metrológico de alcoholímetros, etilómetros y alcohosensores evidenciales"
 type: fuente
 tags: [resolucion, superintendencia-industria-comercio, alcoholimetria, metrologia-legal, alcohosensores, control-metrologico]
-fuente_pdf: "REGLAMENTO-TECNICO-ALCOHOSENSORES.pdf (mismo acto administrativo que 'CONTROL METROLOGICO ALCOHOSENSORES Resolucion-88919-de-2017.pdf', verificado por contenido — este último es una copia escaneada de menor extensión, distinto MD5)"
+fuente_pdf: "REGLAMENTO-TECNICO-ALCOHOSENSORES.pdf"
 status: ingerido
-last_updated: 2026-09-28
+last_updated: 2026-11-17
 ---
 
 # Resolución SIC 88919 de 2017 — Control metrológico de alcoholímetros, etilómetros y alcohosensores evidenciales
+
+> **Archivos de esta fuente** (nota trasladada desde el campo `fuente_pdf` en el lint del 2026-11-17; el campo queda solo con el archivo principal): REGLAMENTO-TECNICO-ALCOHOSENSORES.pdf (mismo acto administrativo que 'CONTROL METROLOGICO ALCOHOSENSORES Resolucion-88919-de-2017.pdf', verificado por contenido — este último es una copia escaneada de menor extensión, distinto MD5)
 
 **Archivo fuente:** `REGLAMENTO-TECNICO-ALCOHOSENSORES.pdf` (64 páginas, texto extraíble vía `pdftotext -layout`, leído de forma estructural). **Nota de duplicado**: el archivo `CONTROL METROLOGICO ALCOHOSENSORES Resolucion-88919-de-2017.pdf` (49 páginas, escaneado/imagen) se verificó, mediante comparación del encabezado y considerandos, como **el mismo acto administrativo** (Resolución 88919 de 2017); la diferencia de extensión (64 vs. 49 páginas) sugiere que uno de los dos escaneos/versiones incluye más contenido de anexos técnicos que el otro — se usó la versión con texto extraíble como fuente principal de este ingest. **Ingest estructural**: se leyeron íntegramente los considerandos/fundamento normativo, el objeto/ámbito/definiciones (numerales 9.1-9.3), y los artículos finales (obligaciones del titular, régimen sancionatorio, régimen de transición, vigencia); no se transcribió en detalle el extenso desarrollo técnico-metrológico (numerales 9.4 a 9.17 — requisitos de precisión, errores máximos permitidos, deriva, efectos de memoria, condiciones de operación, software, etiquetado, precintos) ni el Anexo 1 (modelo de declaración de conformidad), por su carácter altamente técnico-especializado y no citable en productos de asesoría jurídica/institucional.
 **Fecha:** 28 de diciembre de 2017.

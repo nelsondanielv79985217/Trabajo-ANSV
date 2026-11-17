@@ -2,7 +2,9 @@
 
 Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos de trabajo (INGEST/QUERY/LINT).
 
-*Actualización (2026-11-17, segunda)*: ingest de las cargas del 16-11-2026 de los contratos interadministrativos. CI ANSV-030-2026 (`main`, PRs #10 y #11): 20 archivos, 12 documentos distintos, 6 páginas nuevas y el resto registrado en páginas existentes. CI ANSV-031-2026 (rama del contrato, sin fusionar): 16 archivos, 13 documentos distintos, 7 páginas nuevas. **264 páginas de fuente en `wiki/fuentes/`** (243 ingeridas + 21 incierto, conteo directo).
+*Actualización (2026-11-17, tercera)*: lint general y correcciones aprobadas (campo `fuente_pdf` en 15 páginas, dos notas `[INCIERTO]`, un slug renombrado, excepción del CSV y dos PDF traídos desde `Contractual-OPS`). Sin cambios en el número de páginas: **264 páginas de fuente**.
+
+*Actualización (2026-11-17, segunda)*: ingest de las cargas del 16-11-2026 de los contratos interadministrativos. CI ANSV-030-2026 (`main`, PRs #10 y #11): 20 archivos, 12 documentos distintos, 6 páginas nuevas y el resto registrado en páginas existentes. CI ANSV-031-2026 (rama del contrato, fusionada a `main` en el PR #14 tras renombrar tres archivos con nombre corto 8.3): 16 archivos, 13 documentos distintos, 7 páginas nuevas. **264 páginas de fuente en `wiki/fuentes/`** (243 ingeridas + 21 incierto, conteo directo).
 
 *Actualización (2026-11-17)*: ingest de los 3 archivos subidos a `main` el 16-11-2026 (commit f6fdd12): Resolución conjunta Mintransporte-ANSV 20263040014815 de 2026 (puntos, sectores y tramos críticos), Resolución ANSV 862 de 2026 (manual de funciones y planta) y correo de la ANI sobre el Comité Operativo. **251 páginas de fuente en `wiki/fuentes/`** (230 ingeridas + 21 incierto, conteo directo).
 
@@ -279,7 +281,7 @@ Se creó el concepto [Régimen de autorización SAST/fotodetección](conceptos/s
 - [Monografía BID 195 — Casos de estudio académicos en seguridad vial (2014)](fuentes/monografia-bid-195-casos-estudio-academicos-seguridad-vial-2014.md) — fuente secundaria externa (BID/CIFAL/UNITAR); único caso colombiano (Medellín): modelo de localización de ambulancias de atención prehospitalaria, déficit de más del doble en el número necesario frente al real (2011). (ingerido)
 - [Régimen Jurídico del Tránsito Terrestre en Colombia, 2ª ed. (Óscar David Gómez Pineda, Corporación Fondo de Prevención Vial, 2012)](fuentes/regimen-juridico-transito-terrestre-colombia-gomez-pineda-2012.md) — código comentado de la Ley 769/2002, obra editorial de la entidad predecesora de la ANSV; resuelve la incertidumbre previa: NO es tesis académica externa, es obra institucional. Contenido normativo desactualizado (a 2012). (ingerido)
 - [Manual de Control de Velocidad (GRSP/OMS/Banco Mundial/FIA Foundation, 2008)](fuentes/manual-control-velocidad-grsp-oms-2008.md) — fuente internacional; resuelve la incertidumbre sobre el origen del concepto de Sistema Seguro (Visión Cero-Suecia, Seguridad Sustentable-Países Bajos, Sistema Seguro-Australia) y aporta el Modelo de Nilsson (+5% velocidad → +10%/+20% choques con heridos/víctimas mortales). (ingerido)
-- [Matriz de Diagnóstico — Acción 1.1.2 del PNSV](fuentes/matriz-diagnostico-accion-1.1.2-pnsv-control-dci.md) — único archivo .xls del corpus (leído vía `xlrd`); 25 dificultades normativas/institucionales para el control operativo de tránsito y transporte, producto propio de la DCI (autoría confirmada por metadatos del archivo: Tania Marcela Suárez Ortiz). (ingerido)
+- [Matriz de Diagnóstico — Acción 1.1.2 del PNSV](fuentes/matriz-diagnostico-accion-1-1-2-pnsv-control-dci.md) — único archivo .xls del corpus (leído vía `xlrd`); 25 dificultades normativas/institucionales para el control operativo de tránsito y transporte, producto propio de la DCI (autoría confirmada por metadatos del archivo: Tania Marcela Suárez Ortiz). (ingerido)
 - [Forensis 2024 — Datos para la Vida (INMLCF)](fuentes/forensis-2024-inmlcf-muertes-lesiones-eventos-transporte.md) — informe forense anual del Instituto Nacional de Medicina Legal, capítulo de eventos de transporte (590 páginas, ingest estructural); fuente primaria e independiente del ONSV (8.479 fallecidos 2024, vs. 8.271 ya publicados por el ONSV — discrepancia de 208 casos sin resolver). Cargado el 2026-09-28. (ingerido)
 
 ### Resoluciones sobre estándares técnicos de vehículos — mismo acto en varias versiones, verificado (4 archivos, ingeridos)
@@ -403,7 +405,7 @@ Rama `supervision-contrato-interadministrativo-ANSV-031-2026-grupos-de-participa
 - [Oficio 20264000135411 — aprobación del EMR (10-09-2026)](fuentes/ci-ansv-031-2026-oficio-20264000135411-aprobacion-emr.md) — EMR de 17 personas; el acta de inicio queda a la espera del aval de la Dirección General. (ingerido)
 
 
-**Carga del 16-11-2026 (rama del contrato, sin fusionar a `main`):**
+**Carga del 16-11-2026 (rama del contrato, fusionada a `main` en el PR #14):**
 - [Solicitudes de recomendaciones técnicas y legales (06 y 07-11-2026)](fuentes/ci-ansv-031-2026-solicitudes-recomendacion-tecnica-y-legal.md) — cinco correos con el mismo cuerpo, en una página. (ingerido)
 - [Solicitud de recomendación financiera (09-11-2026)](fuentes/ci-ansv-031-2026-correo-solicitud-recomendacion-financiera.md) — sin respuesta en el corpus. (ingerido)
 - [Respuesta de Julián Moreno (06-11-2026)](fuentes/ci-ansv-031-2026-respuesta-julian-moreno.md) — declina el documento integral; el acta de inicio no modifica el contrato. (ingerido)

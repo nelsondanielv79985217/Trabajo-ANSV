@@ -2,12 +2,14 @@
 title: "Circular Externa 20255330000124 de 2025 — Sistema de vigilancia SICOV-OTPC (Superintendencia de Transporte)"
 type: fuente
 tags: [circular-externa, supertransporte, sicov-otpc, terminales-transporte, transformacion-digital]
-fuente_pdf: "PROPUESTA PARA MEJORAR LA EFECTIVIDAD EL SISTEMA SANCIONATORIO DE INFRACCIONES DE TRÁNSITO EN COLOMBIA.pdf (nombre de archivo no corresponde al contenido — ver nota)"
+fuente_pdf: "PROPUESTA PARA MEJORAR LA EFECTIVIDAD EL SISTEMA SANCIONATORIO DE INFRACCIONES DE TRÁNSITO EN COLOMBIA.pdf"
 status: ingerido
-last_updated: 2026-09-28
+last_updated: 2026-11-17
 ---
 
 # Circular Externa 20255330000124 de 2025 — Sistema de vigilancia y control de la Operación del Servicio Público de Transporte Terrestre de Pasajeros por Carretera (SICOV-OTPC)
+
+> **Archivos de esta fuente** (nota trasladada desde el campo `fuente_pdf` en el lint del 2026-11-17; el campo queda solo con el archivo principal): PROPUESTA PARA MEJORAR LA EFECTIVIDAD EL SISTEMA SANCIONATORIO DE INFRACCIONES DE TRÁNSITO EN COLOMBIA.pdf (nombre de archivo no corresponde al contenido — ver nota)
 
 **Nota sobre el nombre del archivo**: el archivo del repositorio se llama `PROPUESTA PARA MEJORAR LA EFECTIVIDAD EL SISTEMA SANCIONATORIO DE INFRACCIONES DE TRÁNSITO EN COLOMBIA.pdf`, pero su contenido real es la **Circular Externa 20255330000124 de 2025 de la Superintendencia de Transporte**, sobre el sistema SICOV-OTPC — sin relación temática con el título del archivo. Se documenta esta discrepancia de forma transparente, siguiendo el patrón ya detectado en otros archivos del corpus con nombres que no corresponden a su contenido real (ver `esca RESOLUCION 20223040045295 de 2022.pdf`, ya documentado).
 

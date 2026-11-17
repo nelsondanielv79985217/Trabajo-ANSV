@@ -2,12 +2,14 @@
 title: "Decreto 192 de 2000 — Reglamenta la Ley 336 de 1996 (habilitación del transporte marítimo) — DEROGADO"
 type: fuente
 tags: [decreto, ley-336, transporte-maritimo, dimar, habilitacion, derogado, marco-normativo]
-fuente_pdf: "norma_pdf (1).pdf (copia idéntica verificada por MD5: 'Decreto 192 del 2000 permisos transporte maritimo.pdf')"
+fuente_pdf: "norma_pdf (1).pdf"
 status: ingerido
-last_updated: 2026-10-28
+last_updated: 2026-11-17
 ---
 
 # Decreto 192 de 2000 — Reglamenta la Ley 336 de 1996 (transporte marítimo) — DEROGADO
+
+> **Archivos de esta fuente** (nota trasladada desde el campo `fuente_pdf` en el lint del 2026-11-17; el campo queda solo con el archivo principal): norma_pdf (1).pdf (copia idéntica verificada por MD5: 'Decreto 192 del 2000 permisos transporte maritimo.pdf')
 
 **Archivo fuente:** `norma_pdf (1).pdf` (1 página). Es una copia informativa del EVA-Gestor Normativo de Función Pública, generada el 19 de octubre de 2026. El nombre del archivo no dice qué norma es; se identificó al abrirlo (título del PDF: "Decreto-192-de-2000-Gestor-Normativo").
 **Segunda copia (cargada el 25-10-2026):** `Decreto 192 del 2000 permisos transporte maritimo.pdf` es el mismo archivo byte a byte (hash MD5 igual, verificado el 2026-10-28). No se crea página aparte.

@@ -2,12 +2,14 @@
 title: "Orientaciones técnicas para el acompañamiento a puestos de control preventivo y correctivo por parte del personal y colaboradores de la ANSV en territorio (2026)"
 type: fuente
 tags: [ansv, puestos-de-control, acompanamiento-territorial, receso-escolar, temporadas-especiales, plan-365, onsv, ditra, agentes-de-transito, comunicaciones, survey123, protocolo-operativo]
-fuente_pdf: "ORIENTACIONES TÉCNICAS PARA EL ACOMPAÑAMIENTO A PUESTOS DE CONTROL PREVENTIVO Y CORRECTIVO.pdf (versión editable verificada: 'ORIENTACIONES TÉCNICAS PARA EL ACOMPAÑAMIENTO A PUESTOS DE CONTROL PREVENTIVO Y CORRECTIVO.docx', mismo texto)"
+fuente_pdf: "ORIENTACIONES TÉCNICAS PARA EL ACOMPAÑAMIENTO A PUESTOS DE CONTROL PREVENTIVO Y CORRECTIVO.pdf"
 status: ingerido
-last_updated: 2026-10-16
+last_updated: 2026-11-17
 ---
 
 # Orientaciones técnicas para el acompañamiento a puestos de control preventivo y correctivo (ANSV, 2026)
+
+> **Archivos de esta fuente** (nota trasladada desde el campo `fuente_pdf` en el lint del 2026-11-17; el campo queda solo con el archivo principal): ORIENTACIONES TÉCNICAS PARA EL ACOMPAÑAMIENTO A PUESTOS DE CONTROL PREVENTIVO Y CORRECTIVO.pdf (versión editable verificada: 'ORIENTACIONES TÉCNICAS PARA EL ACOMPAÑAMIENTO A PUESTOS DE CONTROL PREVENTIVO Y CORRECTIVO.docx', mismo texto)
 
 **Archivos fuente:** `ORIENTACIONES TÉCNICAS PARA EL ACOMPAÑAMIENTO A PUESTOS DE CONTROL PREVENTIVO Y CORRECTIVO.pdf` (2 páginas, texto extraíble) y su versión `.docx`. Se subieron juntos en el commit 9b4d2a7 (9 de octubre de 2026). Se compararon párrafo por párrafo y el texto es idéntico; el `.docx` no tiene tablas ni imágenes en el cuerpo (su peso viene del membrete). Esta página cita el PDF por página.
 **Emisor:** Agencia Nacional de Seguridad Vial. El pie de página trae la dirección y el conmutador de la ANSV (pp. 1-2).

@@ -2,12 +2,14 @@
 title: "Solicitudes del supervisor de recomendaciones técnicas y legales previas a la ejecución del CI ANSV-031-2026 (06 y 07-11-2026)"
 type: fuente
 tags: [contratacion, supervision, ci-ansv-031-2026, iue, gpc, recomendacion-tecnica, recomendacion-legal, acta-de-inicio]
-fuente_pdf: "SOLICI~1.PDF; SOLICI~2.PDF; SOLICI~3.PDF; SOLICI~4.PDF; SO4E10~1.PDF"
+fuente_pdf: "SOLICI~1.PDF"
 status: ingerido
 last_updated: 2026-11-17
 ---
 
 # Solicitudes de recomendación técnica y legal del CI 031 (06 y 07-11-2026)
+
+> **Archivos de esta fuente** (nota trasladada desde el campo `fuente_pdf` en el lint del 2026-11-17; el campo queda solo con el archivo principal): SOLICI~1.PDF; SOLICI~2.PDF; SOLICI~3.PDF; SOLICI~4.PDF; SO4E10~1.PDF
 
 **Archivos fuente:** cinco correos de Nelson Daniel Vega Samacá, cada uno de 2 páginas (impresión de Outlook), en la rama `supervision-contrato-interadministrativo-ANSV-031-2026-grupos-de-participacion-ciudadana` (commit 0974974). Tienen el **mismo cuerpo**; cambian el destinatario, el saludo, la fecha y si piden recomendación "técnica" o "legal". Por eso se registran en una sola página (excepción a la regla de una fuente por página, anotada en `log.md`). Hub: [síntesis del CI ANSV-031-2026](../sintesis/contrato-interadministrativo-ansv-031-2026-gpc.md).
 

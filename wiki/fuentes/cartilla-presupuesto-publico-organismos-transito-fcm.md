@@ -2,12 +2,14 @@
 title: "Cartilla — Presupuesto Público al Alcance de los Organismos de Tránsito (Federación Colombiana de Municipios, 2016)"
 type: fuente
 tags: [fcm, presupuesto-publico, organismos-transito, multas-transito, finanzas-territoriales, tipologia-organizacional]
-fuente_pdf: "Actualización Cartilla manejo presupuestal multas tránsito OT 2016.pdf.pdf (nombre de archivo con caracteres acentuados; requiere workaround python3/glob para acceso)"
+fuente_pdf: "Actualización Cartilla manejo presupuestal multas tránsito OT 2016.pdf.pdf"
 status: ingerido
-last_updated: 2026-09-28
+last_updated: 2026-11-17
 ---
 
 # Cartilla — Presupuesto Público al Alcance de los Organismos de Tránsito: Reglas presupuestales de los Departamentos, Distritos y Municipios
+
+> **Archivos de esta fuente** (nota trasladada desde el campo `fuente_pdf` en el lint del 2026-11-17; el campo queda solo con el archivo principal): Actualización Cartilla manejo presupuestal multas tránsito OT 2016.pdf.pdf (nombre de archivo con caracteres acentuados; requiere workaround python3/glob para acceso)
 
 **Archivo fuente:** `Actualización Cartilla manejo presupuestal multas tránsito OT 2016.pdf.pdf` (152 páginas, texto extraíble vía `pdftotext -layout`). **Ingest estructural**: se identificó la estructura completa de los 6 capítulos, con lectura de detalle en el Capítulo 1 (naturaleza jurídica de las multas de tránsito) y el Capítulo 6 (reglas presupuestales y tipología organizacional de los organismos de tránsito), sin transcribir los Capítulos 2-5 (principios presupuestales generales, clasificación del presupuesto, sistema y ciclo presupuestal), por ser derecho presupuestal general de aplicación transversal a toda entidad territorial, no específico del sector tránsito.
 **Fecha:** 2016 (actualización de una cartilla anterior, según el título del archivo).

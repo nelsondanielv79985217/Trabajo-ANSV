@@ -14,6 +14,8 @@ last_updated: 2026-09-28
 **Código:** ANSV-CPP-PR-06 · **Versión:** 00 · **Fecha:** 30/12/2025
 **Dueño del proceso:** Dirección de Coordinación Interinstitucional (DCI), Agencia Nacional de Seguridad Vial (ANSV)
 
+> `[INCIERTO: la página no registra número de página para ningún dato; está pendiente de re-ingest para cumplir la citación exacta (ver "Pendiente de re-ingest" en las notas finales). Hasta entonces, verificar cada dato contra el PDF antes de citarlo.]`
+
 ## Qué dice / por qué está acá
 
 Es el procedimiento oficial y vigente que regula **cómo la ANSV (a través de la DCI) planifica, ejecuta y hace seguimiento a las asistencias técnicas** dirigidas a entidades territoriales y grupos de interés en seguridad vial. Es el documento ancla del área "asistencia técnica ANSV" de esta bibliografía: probablemente el caso empírico/institucional sobre el que se apoya el trabajo de grado, ya que define de forma operativa qué es "asistencia técnica" para la entidad y cómo se mide su efectividad.

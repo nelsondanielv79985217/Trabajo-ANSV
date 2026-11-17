@@ -2,12 +2,14 @@
 title: "Conceptos Mintransporte sobre prescripción de sanciones de tránsito (2021 y 2025)"
 type: fuente
 tags: [concepto-juridico, mintransporte, prescripcion, cobro-coactivo, multas-transito, ley-769-2002, ley-1066-2006, superintendencia-transporte]
-fuente_pdf: "Tránsito – Prescripción en materia de tránsito. 20211340731911.pdf (concepto unificado, 2021, fuente principal); 20251340864151 PRESCRIPCION EN MATERIA DE TRÁNSITO.pdf (reiteración, 2025)"
+fuente_pdf: "Tránsito – Prescripción en materia de tránsito. 20211340731911.pdf"
 status: ingerido
-last_updated: 2026-09-28
+last_updated: 2026-11-17
 ---
 
 # Conceptos Mintransporte sobre prescripción de sanciones de tránsito (2021 y 2025)
+
+> **Archivos de esta fuente** (nota trasladada desde el campo `fuente_pdf` en el lint del 2026-11-17; el campo queda solo con el archivo principal): Tránsito – Prescripción en materia de tránsito. 20211340731911.pdf (concepto unificado, 2021, fuente principal); 20251340864151 PRESCRIPCION EN MATERIA DE TRÁNSITO.pdf (reiteración, 2025)
 
 **Archivos fuente:** dos conceptos jurídicos independientes del Ministerio de Transporte sobre la misma cuestión (prescripción de las sanciones por infracciones de tránsito), con radicados y consultantes distintos, ambos con texto extraíble vía `pdftotext -layout`. Se documentan de forma conjunta por tratar la misma pregunta jurídica con las mismas fuentes normativas y jurisprudenciales.
 
