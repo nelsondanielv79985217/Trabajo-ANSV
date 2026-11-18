@@ -1149,3 +1149,11 @@ Con esto quedan cerrados todos los hallazgos de la pasada de LINT completa del 2
 - CSV `fuentes/fichas-nuevos-mandatarios-tabulacion.csv`: se mantiene como anexo de datos; la excepción quedó registrada en CLAUDE.md (Convenciones de nombres).
 - Se trajeron a `main` desde la rama `Contractual-OPS` los PDF `20266700034703 Concepto Estabilidad Laboral Reforzada 07092026.pdf` y `Solicitud concepto estabilidad ocupacional (1).pdf`, que respaldan las páginas concepto-estabilidad-ocupacional-reforzada-2026 y solicitud-concepto-estabilidad-ocupacional-div.
 - Corrección de enlaces rotos en entradas anteriores de este log (no se editan): las rutas `../conceptos/sast-fotodeteccion-regimen-autorizacion.md` y `../conceptos/genealogia-asistencia-tecnica.md` deben leerse como `conceptos/sast-fotodeteccion-regimen-autorizacion.md` y `conceptos/genealogia-asistencia-tecnica.md` (relativas a `wiki/`).
+
+## [2026-11-18] ingest | Carga del 18-11-2026 y solicitud de terminación del CI ANSV-030-2026
+- `main`, commit 5ef6885 (3 archivos): `Resolucion362de2018incentivoUsodeBicicletapdf.pdf` es nueva (escaneo leído de imagen); `RESOLUCION ROT NUMERO 20263040005765 2026.pdf` y `Resolución 202630400014815 del 2026.pdf` son copias idénticas por MD5 de fuentes ya ingeridas (la segunda trae un cero de más en el número).
+- Rama `Contrato-interadministrativo-ANSV-030-2026-Ruta-de-atencion-a-victimas`, commit 10c8307: `Solicitud de terminación anticipada ANSV-030-2026.pdf` (escaneo leído de imagen). El archivo no está en `main`; no se copió.
+- La Resolución ANSV 507 de 2026 (commit 75cebd5 en `main`) ya tiene página en la rama `claude/project-thread-11e1iq` (commit f82d121), aún sin fusionar; no se duplicó aquí.
+- Páginas creadas: `fuentes/resolucion-362-de-2018-incentivo-uso-bicicleta-ansv.md`, `fuentes/ci-ansv-030-2026-solicitud-terminacion-anticipada-uts.md`.
+- Páginas actualizadas: `fuentes/resolucion-20263040005765-2026-rot.md`, `fuentes/resolucion-20263040014815-de-2026-ubicaciones-criticas-siniestralidad-vial.md` (notas de copia), `sintesis/contrato-interadministrativo-ansv-030-2026-ruta-victimas.md` (línea de tiempo, sección de terminación, documentos faltantes), `index.md` (266 fuentes, conteo directo).
+

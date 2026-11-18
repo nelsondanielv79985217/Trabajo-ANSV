@@ -2,6 +2,8 @@
 
 Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos de trabajo (INGEST/QUERY/LINT).
 
+*Actualización (2026-11-18)*: ingest de la carga del 18-11-2026 en `main` (commit 5ef6885: Resolución ANSV 362 de 2018 nueva; ROT y Res. 20263040014815 son copias idénticas de fuentes ya ingeridas) y de la solicitud de terminación anticipada del CI ANSV-030-2026 (rama del contrato, commit 10c8307). **266 páginas de fuente** (conteo directo de `.md`).
+
 *Actualización (2026-11-17, tercera)*: lint general y correcciones aprobadas (campo `fuente_pdf` en 15 páginas, dos notas `[INCIERTO]`, un slug renombrado, excepción del CSV y dos PDF traídos desde `Contractual-OPS`). Sin cambios en el número de páginas: **264 páginas de fuente**.
 
 *Actualización (2026-11-17, segunda)*: ingest de las cargas del 16-11-2026 de los contratos interadministrativos. CI ANSV-030-2026 (`main`, PRs #10 y #11): 20 archivos, 12 documentos distintos, 6 páginas nuevas y el resto registrado en páginas existentes. CI ANSV-031-2026 (rama del contrato, fusionada a `main` en el PR #14 tras renombrar tres archivos con nombre corto 8.3): 16 archivos, 13 documentos distintos, 7 páginas nuevas. **264 páginas de fuente en `wiki/fuentes/`** (243 ingeridas + 21 incierto, conteo directo).
@@ -459,6 +461,12 @@ Rama `Contrato-interadministrativo-ANSV-030-2026-Ruta-de-atencion-a-victimas`. H
 - [Resolución 20263040014815 de 2026 — puntos, sectores y tramos críticos de siniestralidad vial](fuentes/resolucion-20263040014815-de-2026-ubicaciones-criticas-siniestralidad-vial.md) — acto conjunto Mintransporte-ANSV (22-04-2026); longitudes máximas (100/500 m, 1.000 m, 5.000 m); la ANSV presta el acompañamiento técnico (art. 5); falta el documento técnico anexo y la fecha de publicación. (incierto)
 - [Resolución ANSV 862 de 2026 — manual de funciones y reubicación de empleos](fuentes/resolucion-862-de-2026-modifica-manual-funciones-ansv.md) — 28-10-2026; reubica un auxiliar en el ONSV y un PE 16 en la OAJ; transcribe la planta global, con 11 empleos en la DCI. (ingerido)
 - [Correo de la ANI — delegación al Comité Operativo (11-11-2026)](fuentes/correo-ani-delegacion-comite-operativo-noviembre-2026.md) — la ANI delega a Claudia Mendoza; comunicación informativa asignada a la DCI; cita la Res. 507 de 2026. (ingerido)
+
+### Carga del 18 de noviembre de 2026 (2 páginas nuevas, 2 copias registradas)
+
+- [Resolución ANSV 362 de 2018 — incentivo al uso de la bicicleta para funcionarios de la ANSV](fuentes/resolucion-362-de-2018-incentivo-uso-bicicleta-ansv.md) — medio día libre por cada 30 llegadas en bicicleta (máx. 8 al año, Ley 1811 de 2016); 12 cupos de parqueadero; escaneo leído de imagen. (ingerido)
+- [Solicitud de las UTS de terminación anticipada del CI ANSV-030-2026 (12-11-2026)](fuentes/ci-ansv-030-2026-solicitud-terminacion-anticipada-uts.md) — mutuo acuerdo por cl. 21.ª lit. B; sin acta de inicio; firma un Rector (E) distinto del firmante del contrato; archivo en la rama del CI 030, no en `main`. (ingerido)
+- Copias registradas en páginas existentes: `RESOLUCION ROT NUMERO 20263040005765 2026.pdf` (ROT) y `Resolución 202630400014815 del 2026.pdf` (puntos críticos).
 
 ## Método (`fuentes/`, type: metodo)
 
