@@ -73,3 +73,4 @@ last_updated: 2026-11-17
 - El texto de algunas celdas se corta en el archivo mismo (p. ej. objetivo de la Estrategia de Movilidad Activa en la hoja oculta, fila 19, que termina en "mediante:").
 
 > **Nota (2026-10-26):** las Resoluciones 480 y 546 de 2026 (Consejo Consultivo de Seguridad Vial) ya están ingeridas: [Res. 480/2026](resolucion-480-de-2026-convocatoria-consejo-consultivo.md) y [Res. 546/2026](resolucion-546-de-2026-conformacion-consejo-consultivo.md). La Res. 479/2026 sigue sin estar en el corpus. Ver [concepto CCSV](../conceptos/consejo-consultivo-seguridad-vial.md).
+- [Resolución ANSV 507 de 2026](resolucion-507-de-2026-comite-operativo-seguridad-vial.md) *(añadido 2026-11-17)*: confirma la fecha 29-05-2026, la periodicidad cuatrimestral y la Secretaría Técnica en la DCI de la fila 13 (pp. 4-5).
