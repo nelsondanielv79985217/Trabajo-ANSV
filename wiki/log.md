@@ -1164,3 +1164,7 @@ Con esto quedan cerrados todos los hallazgos de la pasada de LINT completa del 2
 - Se usaron el expediente PA-730-2025, el Decreto 1082 de 2015 (art. 2.2.1.2.2.4.3), la Ley 1702 de 2013 (art. 8), la Resolución 094 de 2026 (anexos 2, 12 y 13), La gráfica de la ballena (p. 6) y la Circular Mintransporte 20261300000347 (p. 3). La oferta actualizada se leyó sobre la imagen (pp. 1-5) para el diagnóstico y los precios por serial.
 - Página creada: `sintesis/donacion-26-cinemometros-ditra-antecedentes-2026.md`. Actualizado: `index.md`.
 - Vacíos: contrato de comodato, valor de adquisición y en libros, custodia actual, acta de la mesa con la DITRA y acta de liquidación no están en el corpus.
+
+## [2026-11-24] query | PA-730-2025 liquidado (dato del supervisor)
+- El usuario, supervisor del contrato, informó que el PA-730-2025 ya se liquidó. El acta no está en el corpus.
+- Actualizados: hub del contrato (alerta 6), síntesis de la donación de cinemómetros y el informe/correo entregados. Queda pendiente cargar el acta y verificar sus salvedades (ítem 28 y garantía).
