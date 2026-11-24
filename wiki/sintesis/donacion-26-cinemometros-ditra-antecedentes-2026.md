@@ -25,6 +25,10 @@ Borrador de informe técnico pedido el 24-11-2026 por el Asesor de la Dirección
 | Patrimonio de la ANSV incluye bienes adquiridos a cualquier título | [Ley 1702 de 2013](../fuentes/ley-1702-de-2013-creacion-ansv.md), art. 8, num. 4, p. 2 |
 | Competencias por dependencia: inventarios y bajas (Servicios Administrativos, Anexo 13, pp. 1-2); registro contable (Gestión Financiera, Anexo 12, p. 7); conceptos (Oficina Asesora Jurídica, Anexo 2, p. 1) | Resolución 094 de 2026 (manual de funciones), anexos citados. `[INCIERTO: sin página de fuente propia en la wiki]` |
 
+## Asignación de vacíos (decisión del usuario, 24-11-2026)
+
+Inventario, datos de adquisición, depreciación, valor en libros y vida útil se asignan al **Almacén General de la Secretaría General**, que según el usuario maneja esos datos. El manual de funciones del corpus ubica las funciones de almacén e inventarios en el Anexo 13 (p. 1). El comodato queda en la Oficina Asesora Jurídica (actas de entrega y devolución, en el Almacén General) y el efecto presupuestal en Gestión Financiera (Anexo 12, p. 4).
+
 ## Cálculos propios del informe
 
 - Inversión 2026 por equipo: la suma de las intervenciones por serial (ítems 1-26) da $232.218.400; con baterías ($73.060.000) y seguimiento ($23.920.000) da $329.198.400, igual al subtotal de la oferta (p. 5).
