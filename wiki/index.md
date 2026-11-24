@@ -2,6 +2,8 @@
 
 Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos de trabajo (INGEST/QUERY/LINT).
 
+*Actualización (2026-11-24)*: ingest de los 88 archivos del contrato PA-730-2025 (Saravia Bravo S.A.S., mantenimiento y calibración de 26 cinemómetros LASERCAM 4): 42 de la rama `contrato-PA-730-2025-Mantenimiento-Cinemometros` y 46 subidos a `main` el mismo día. Son 83 documentos distintos y dieron 44 páginas de fuente nuevas (dos de ellas agrupan series) más una síntesis hub. **308 páginas de fuente en `wiki/fuentes/`** (285 ingeridas + 23 incierto, conteo directo).
+
 *Actualización (2026-11-17, tercera)*: lint general y correcciones aprobadas (campo `fuente_pdf` en 15 páginas, dos notas `[INCIERTO]`, un slug renombrado, excepción del CSV y dos PDF traídos desde `Contractual-OPS`). Sin cambios en el número de páginas: **264 páginas de fuente**.
 
 *Actualización (2026-11-17, segunda)*: ingest de las cargas del 16-11-2026 de los contratos interadministrativos. CI ANSV-030-2026 (`main`, PRs #10 y #11): 20 archivos, 12 documentos distintos, 6 páginas nuevas y el resto registrado en páginas existentes. CI ANSV-031-2026 (rama del contrato, fusionada a `main` en el PR #14 tras renombrar tres archivos con nombre corto 8.3): 16 archivos, 13 documentos distintos, 7 páginas nuevas. **264 páginas de fuente en `wiki/fuentes/`** (243 ingeridas + 21 incierto, conteo directo).
@@ -460,6 +462,55 @@ Rama `Contrato-interadministrativo-ANSV-030-2026-Ruta-de-atencion-a-victimas`. H
 - [Resolución ANSV 862 de 2026 — manual de funciones y reubicación de empleos](fuentes/resolucion-862-de-2026-modifica-manual-funciones-ansv.md) — 28-10-2026; reubica un auxiliar en el ONSV y un PE 16 en la OAJ; transcribe la planta global, con 11 empleos en la DCI. (ingerido)
 - [Correo de la ANI — delegación al Comité Operativo (11-11-2026)](fuentes/correo-ani-delegacion-comite-operativo-noviembre-2026.md) — la ANI delega a Claudia Mendoza; comunicación informativa asignada a la DCI; cita la Res. 507 de 2026. (ingerido)
 
+### Carga del 24 de noviembre de 2026 — Contrato PA-730-2025 (Saravia Bravo, cinemómetros LASERCAM 4) (88 archivos, 83 documentos distintos, 44 páginas: 42 ingeridas + 2 inciertas)
+
+Rama `contrato-PA-730-2025-Mantenimiento-Cinemometros` (precontractual y habilitantes) y cargas del mismo día en `main` (ejecución, pagos y liquidación). Hub: [síntesis del contrato PA-730-2025](sintesis/contrato-pa-730-2025-cinemometros-lasercam4.md). Excepciones a una fuente por página: la serie de 26 certificados de calibración y los 13 habilitantes menores.
+
+- [Estudio previo del contrato PA-730-2025 — mantenimiento y calibración de 26 cinemómetros LASERCAM 4 (29-09-2025)](fuentes/pa-730-2025-estudio-previo.md) (ingerido)
+- [Análisis del sector del contrato PA-730-2025 — cinemómetros (FO-52, 29-09-2025)](fuentes/pa-730-2025-analisis-del-sector.md) (ingerido)
+- [Matriz de riesgos del proceso de cinemómetros, versión 2 (FO-53)](fuentes/pa-730-2025-matriz-de-riesgos-v2.md) (ingerido)
+- [Matriz de riesgos del proceso de cinemómetros — versión con observaciones resueltas](fuentes/pa-730-2025-matriz-riesgos-observaciones-resueltas.md) (ingerido)
+- [Ficha técnica de los cinemómetros, versión 1 (FO-54)](fuentes/pa-730-2025-ficha-tecnica.md) (ingerido)
+- [CVI 907-25 — certificado de validación de la inversión del contrato PA-730-2025 (23-09-2025)](fuentes/pa-730-2025-cvi-907-25.md) (ingerido)
+- [Memorando 20254000041793 — solicitud de contratación del PA-730-2025 (17-10-2025)](fuentes/pa-730-2025-memorando-20254000041793-solicitud.md) (ingerido)
+- [Oferta inicial de Saravia Bravo S.A.S. para el PA-730-2025 (30-09-2025)](fuentes/pa-730-2025-oferta-inicial-30-09-2025.md) (ingerido)
+- [Oferta económica actualizada de Saravia Bravo S.A.S. (27-10-2025)](fuentes/pa-730-2025-oferta-economica-actualizada.md) (ingerido)
+- [Carta de representación exclusiva de Kustom Signals a favor de Saravia Bravo (15-04-2025, apostillada)](fuentes/pa-730-2025-representacion-exclusiva-kustom-signals.md) (ingerido)
+- [Resolución SIC 220283 de 2019 — concesión de la patente de los cinemómetros Kustom Signals](fuentes/pa-730-2025-patente-resolucion-220283-sic.md) (ingerido)
+- [Diploma de la patente — certificado 37678 (SIC)](fuentes/pa-730-2025-patente-diploma-certificado-37678.md) (ingerido)
+- [Soportes de experiencia de Saravia Bravo S.A.S. (contratos y certificaciones)](fuentes/pa-730-2025-soportes-de-experiencia.md) (incierto)
+- [Presentación del proceso de cinemómetros (PowerPoint, 11 diapositivas)](fuentes/pa-730-2025-presentacion-proceso.md) (ingerido)
+- [Plan Anual de Adquisiciones, versión 19 (Excel) — línea de cinemómetros](fuentes/pa-730-2025-paa-v19.md) (ingerido)
+- [Nota interna sobre contratación directa privada del Fondo (Word, sin firma)](fuentes/pa-730-2025-nota-contratacion-directa-privada.md) (ingerido)
+- [Certificado de existencia y representación legal de Saravia Bravo S.A.S. (01-09-2025)](fuentes/pa-730-2025-certificado-existencia-representacion-legal.md) (ingerido)
+- [Documentos habilitantes menores de Saravia Bravo S.A.S. (antecedentes, REDAM, RUT, seguridad social, SECOP)](fuentes/pa-730-2025-documentos-habilitantes-contratista.md) (ingerido)
+- [Condiciones generales del contrato PA-730-2025 (Fiduagraria, vocera del PA FSV)](fuentes/pa-730-2025-condiciones-generales-contrato.md) (ingerido)
+- [Contrato electrónico PA-730-2025 en SECOP II (CO1.PCCNTR.8634066)](fuentes/pa-730-2025-contrato-electronico-secop.md) (ingerido)
+- [Póliza de cumplimiento 14-45-101130895, anexo 0 (Seguros del Estado, 03-12-2025)](fuentes/pa-730-2025-poliza-anexo-0.md) (ingerido)
+- [Póliza de cumplimiento 14-45-101130895, anexo 2 — traslado de vigencias (16-01-2026)](fuentes/pa-730-2025-poliza-anexo-2.md) (ingerido)
+- [Designación de Nelson Daniel Vega Samacá como supervisor del PA-730-2025 (24-12-2025)](fuentes/pa-730-2025-designacion-supervision.md) (ingerido)
+- [Acta de inicio del contrato PA-730-2025 (15-01-2026)](fuentes/pa-730-2025-acta-de-inicio.md) (ingerido)
+- [Informe de actividades del contratista n.º 1 (FO-56, 01-02-2026)](fuentes/pa-730-2025-informe-actividades-contratista-1.md) (ingerido)
+- [Informe de supervisión n.º 1 del contrato PA-730-2025 (FO-70, 01-02-2026)](fuentes/pa-730-2025-informe-supervision-1.md) (ingerido)
+- [Informe de supervisión n.º 2 del contrato PA-730-2025 (FO-70, 06-03-2026)](fuentes/pa-730-2025-informe-supervision-2.md) (ingerido)
+- [Informe de supervisión n.º 3 del contrato PA-730-2025 (FO-70, 06-04-2026)](fuentes/pa-730-2025-informe-supervision-3.md) (ingerido)
+- [Informe de supervisión n.º 4 del contrato PA-730-2025 (FO-70, 10-04-2026)](fuentes/pa-730-2025-informe-supervision-4.md) (ingerido)
+- [Informe final de supervisión del contrato PA-730-2025 (FO-35, 10-04-2026)](fuentes/pa-730-2025-informe-final-supervision.md) (ingerido)
+- [Informe final del contratista Saravia Bravo (SB-MA-045-26, 07-04-2026)](fuentes/pa-730-2025-informe-final-contratista.md) (ingerido)
+- [Carta de garantía de Saravia Bravo (SB-MA-029-26, 03-03-2026)](fuentes/pa-730-2025-carta-de-garantia.md) (ingerido)
+- [Carta de compromiso de Saravia Bravo (SB-MA-044-26, 06-04-2026)](fuentes/pa-730-2025-carta-de-compromiso.md) (ingerido)
+- [Acta de recibo n.º 003 de 7 cinemómetros — versión fechada el 24 de enero de 2026 (fecha errada)](fuentes/pa-730-2025-acta-003-version-24-enero.md) (ingerido)
+- [Acta de recibo n.º 003 de 7 cinemómetros con mantenimiento correctivo (24-03-2026)](fuentes/pa-730-2025-acta-003-version-24-marzo.md) (ingerido)
+- [Remisión MA-045 — entrega de 7 cinemómetros con mantenimiento correctivo (24-03-2026)](fuentes/pa-730-2025-remision-ma-045.md) (ingerido)
+- [Reportes de mantenimiento de los 7 cinemómetros con correctivo (formato F-03-005)](fuentes/pa-730-2025-reportes-mantenimiento-correctivo.md) (ingerido)
+- [Compilado de certificados de calibración de los 7 equipos con correctivo (F0031 a F0037)](fuentes/pa-730-2025-certificados-calibracion-7-correctivos.md) (ingerido)
+- [Certificados de calibración individuales de los 26 cinemómetros (F0003 a F0037, laboratorio de Saravia Bravo)](fuentes/pa-730-2025-certificados-calibracion-individuales.md) (incierto)
+- [Paquete del tercer pago del contrato PA-730-2025 (factura S-3252, 07-04-2026)](fuentes/pa-730-2025-tercer-pago.md) (ingerido)
+- [Paquete del cuarto pago del contrato PA-730-2025 (factura S-3257, 09-04-2026)](fuentes/pa-730-2025-cuarto-pago.md) (ingerido)
+- [Certificado de pagos y saldos del contrato PA-730-2025 (FO-37, 14-05-2026)](fuentes/pa-730-2025-certificado-pagos-y-saldos.md) (ingerido)
+- [Solicitud de liquidación del contrato PA-730-2025, radicado 20264000023083 (mayo de 2026)](fuentes/pa-730-2025-solicitud-liquidacion-20264000023083.md) (ingerido)
+- [Instrucción fiduciaria de liquidación del contrato PA-730-2025 (FO-29, 27-05-2026)](fuentes/pa-730-2025-instruccion-fiduciaria-liquidacion.md) (ingerido)
+
 ## Método (`fuentes/`, type: metodo)
 
 Ninguna todavía — se crea si el usuario carga una referencia metodológica transversal.
@@ -493,6 +544,7 @@ Otras candidatas visibles solo por nombre de archivo (a confirmar durante el ing
 
 ## Síntesis (`sintesis/`)
 
+- [Contrato PA-730-2025 (Saravia Bravo, 26 cinemómetros LASERCAM 4) — expediente, línea de tiempo y alertas](sintesis/contrato-pa-730-2025-cinemometros-lasercam4.md) — Hub de los 83 documentos del contrato; 12 alertas (mantenimiento de 6 meses pagado sin evidencia, garantía de 3 frente a 6 meses, serial LE0588/LE2088, Acta 003 con fecha errada, liquidación sin acta en el corpus). (incierto)
 - [CI ANSV-030-2026 (UTS, Ruta de Atención Integral a Víctimas) — expediente, línea de tiempo y alertas para la supervisión](sintesis/contrato-interadministrativo-ansv-030-2026-ruta-victimas.md) — Hub de los 25 documentos del contrato; ficha, línea de tiempo, 11 alertas (acta de inicio condicionada sin base contractual, póliza RCE, estudio de mercado) y documentos faltantes. (incierto)
 - [CI ANSV-031-2026 (IUE, GPC) — expediente, línea de tiempo y alertas para la supervisión](sintesis/contrato-interadministrativo-ansv-031-2026-gpc.md) — Hub de los 18 documentos del contrato; nueve alertas para el supervisor entrante (acta de inicio, informe de empalme, pólizas, posible conflicto de interés en el EMR, obligación de vincular personas con discapacidad). (incierto)
 - [Conformación vigente del Consejo Consultivo de Seguridad Vial 2026-2028](sintesis/conformacion-vigente-consejo-consultivo-2026-2028.md) — Respuesta de QUERY guardada: los 7 miembros (Res. 546, art. 1), los 3 invitados permanentes sin designación nominal en el corpus, la Secretaría Técnica (Res. 842, art. 8) y la relación entre las Resoluciones 842, 479, 480 y 546. (ingerido)
