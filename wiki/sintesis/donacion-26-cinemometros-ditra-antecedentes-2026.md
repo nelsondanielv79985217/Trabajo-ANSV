@@ -27,7 +27,7 @@ Borrador de informe técnico pedido el 24-11-2026 por el Asesor de la Dirección
 
 ## Asignación de vacíos (decisión del usuario, 24-11-2026)
 
-Inventario, datos de adquisición, depreciación, valor en libros y vida útil se asignan al **Almacén General de la Secretaría General**, que según el usuario maneja esos datos. El manual de funciones del corpus ubica las funciones de almacén e inventarios en el Anexo 13 (p. 1). El comodato queda en la Oficina Asesora Jurídica (actas de entrega y devolución, en el Almacén General) y el efecto presupuestal en Gestión Financiera (Anexo 12, p. 4).
+Inventario, datos de adquisición, depreciación, valor en libros y vida útil se asignan al **Grupo de Servicios Administrativos de la Secretaría General**, nombre de la dependencia en la Resolución 094 de 2026, Anexo 13, p. 1 (área funcional "Secretaría General – Grupo de Servicios Administrativos"; propósito: almacén e inventarios). El comodato queda en la Oficina Asesora Jurídica (actas de entrega y devolución, en Servicios Administrativos) y el efecto presupuestal en Gestión Financiera (Anexo 12, p. 4).
 
 ## Cálculos propios del informe
 
