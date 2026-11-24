@@ -1158,3 +1158,9 @@ Con esto quedan cerrados todos los hallazgos de la pasada de LINT completa del 2
 - Hallazgos principales: mantenimiento de seguimiento a los 6 meses pagado (ítem 28, $23.920.000 + IVA) sin evidencia de ejecución; carta de garantía de 3 meses frente a 6 exigidos (cl. 2.ª, II.17); serial LE0588 en el estudio previo frente a LE2088; Acta 003 con fecha errada (24-01-2026) en el paquete del tercer pago; informe final con vigencias del anexo 0 de la póliza; acta de liquidación ausente del corpus; antecedentes de la suplente y no del Gerente; calibración por el laboratorio del propio contratista.
 - Páginas actualizadas: `entidades/dci-...`, `entidades/ditra-...`, `fuentes/manual-unificado-contratacion-ansv.md` (conexión con el contrato y numeral 8.1.7, p. 205), `index.md` (308 fuentes: 285 ingeridas + 23 incierto, conteo directo).
 - Ningún archivo es una petición que requiera oficio de respuesta.
+
+## [2026-11-24] query | Propuesta de donación de los 26 cinemómetros a la DITRA
+- Pedido del Asesor de la Dirección General: antecedentes, componente técnico, financiero, obligaciones, riesgos y hoja de ruta de la donación.
+- Se usaron el expediente PA-730-2025, el Decreto 1082 de 2015 (art. 2.2.1.2.2.4.3), la Ley 1702 de 2013 (art. 8), la Resolución 094 de 2026 (anexos 2, 12 y 13), La gráfica de la ballena (p. 6) y la Circular Mintransporte 20261300000347 (p. 3). La oferta actualizada se leyó sobre la imagen (pp. 1-5) para el diagnóstico y los precios por serial.
+- Página creada: `sintesis/donacion-26-cinemometros-ditra-antecedentes-2026.md`. Actualizado: `index.md`.
+- Vacíos: contrato de comodato, valor de adquisición y en libros, custodia actual, acta de la mesa con la DITRA y acta de liquidación no están en el corpus.
