@@ -1168,3 +1168,8 @@ Con esto quedan cerrados todos los hallazgos de la pasada de LINT completa del 2
 ## [2026-11-24] query | PA-730-2025 liquidado (dato del supervisor)
 - El usuario, supervisor del contrato, informó que el PA-730-2025 ya se liquidó. El acta no está en el corpus.
 - Actualizados: hub del contrato (alerta 6), síntesis de la donación de cinemómetros y el informe/correo entregados. Queda pendiente cargar el acta y verificar sus salvedades (ítem 28 y garantía).
+
+## [2026-11-24] query | Instrucción fiduciaria de liquidación del PA-730-2025 (revisión)
+- El usuario subió de nuevo la instrucción fiduciaria (base del acta de liquidación). Se releyó con la solicitud 20264000023083.
+- Hallazgo: balance en $0, ejecutado 100 % y sin salvedades; "Observaciones adicionales" en blanco. El ítem 28 (vencía jul.-sep. de 2026) se declara ejecutado sin evidencia; garantía 3 vs 6 meses, carta de compromiso y serial no se mencionan.
+- Actualizados: fuente de la instrucción, hub del contrato (alerta 6), síntesis de la donación e informe entregado (nueva sección 2.5).

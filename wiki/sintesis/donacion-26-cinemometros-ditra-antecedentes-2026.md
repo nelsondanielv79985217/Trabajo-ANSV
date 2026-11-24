@@ -37,7 +37,7 @@ Inventario, datos de adquisición, depreciación, valor en libros y vida útil s
 
 ## Lo que no está en el corpus
 
-Contrato de comodato (número, fecha, plazo, obligaciones); origen y valor de la adquisición; valor en libros y depreciación; placas; ubicación y custodia actual de los equipos; acta de la mesa con la DITRA; periodicidad obligatoria de recalibración. El supervisor informó el 24-11-2026 que el PA-730-2025 ya se liquidó, pero el acta no está en el corpus.
+Contrato de comodato (número, fecha, plazo, obligaciones); origen y valor de la adquisición; valor en libros y depreciación; placas; ubicación y custodia actual de los equipos; acta de la mesa con la DITRA; periodicidad obligatoria de recalibración. El supervisor informó el 24-11-2026 que el PA-730-2025 ya se liquidó; el acta firmada no está en el corpus, pero su base (instrucción fiduciaria del 27-05-2026, pp. 1-2) no deja salvedades. El informe tiene una sección 2.5 con lo que quedó pendiente.
 
 ## Advertencias para quien reutilice esta página
 
