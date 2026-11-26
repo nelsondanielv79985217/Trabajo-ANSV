@@ -49,4 +49,4 @@ El borrador (`Respuesta_Palonegro_peritaje_20266600094152_rad_20264000162691.doc
 - [Superintendencia de Transporte](../entidades/superintendencia-de-transporte.md)
 - [DITRA](../entidades/ditra-direccion-transito-transporte-policia-nacional.md)
 - [Ley 769 de 2002](ley-769-de-2002-codigo-nacional-transito.md) (art. 3°, p. 6) · [Ley 1755 de 2015](ley-1755-de-2015-derecho-de-peticion.md) (art. 21, p. 4)
-- Oficio 20264000160121 (traslado a Supertransporte, Girón): caso parecido resuelto con traslado por art. 21. Su página se agrega en el PR #18 (`fuentes/oficio-20264000160121-traslado-supertransporte-giron.md`), aún sin fusionar cuando se escribió esta página.
+- [Oficio 20264000160121 — traslado a Supertransporte (Girón)](oficio-20264000160121-traslado-supertransporte-giron.md): caso parecido resuelto con traslado por art. 21, porque la ANSV era la única destinataria.

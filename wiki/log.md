@@ -1150,6 +1150,13 @@ Con esto quedan cerrados todos los hallazgos de la pasada de LINT completa del 2
 - Se trajeron a `main` desde la rama `Contractual-OPS` los PDF `20266700034703 Concepto Estabilidad Laboral Reforzada 07092026.pdf` y `Solicitud concepto estabilidad ocupacional (1).pdf`, que respaldan las páginas concepto-estabilidad-ocupacional-reforzada-2026 y solicitud-concepto-estabilidad-ocupacional-div.
 - Corrección de enlaces rotos en entradas anteriores de este log (no se editan): las rutas `../conceptos/sast-fotodeteccion-regimen-autorizacion.md` y `../conceptos/genealogia-asistencia-tecnica.md` deben leerse como `conceptos/sast-fotodeteccion-regimen-autorizacion.md` y `conceptos/genealogia-asistencia-tecnica.md` (relativas a `wiki/`).
 
+## [2026-11-18] ingest | Carga del 18-11-2026 y solicitud de terminación del CI ANSV-030-2026
+- `main`, commit 5ef6885 (3 archivos): `Resolucion362de2018incentivoUsodeBicicletapdf.pdf` es nueva (escaneo leído de imagen); `RESOLUCION ROT NUMERO 20263040005765 2026.pdf` y `Resolución 202630400014815 del 2026.pdf` son copias idénticas por MD5 de fuentes ya ingeridas (la segunda trae un cero de más en el número).
+- Rama `Contrato-interadministrativo-ANSV-030-2026-Ruta-de-atencion-a-victimas`, commit 10c8307: `Solicitud de terminación anticipada ANSV-030-2026.pdf` (escaneo leído de imagen). El archivo no está en `main`; no se copió.
+- La Resolución ANSV 507 de 2026 (commit 75cebd5 en `main`) ya tiene página en la rama `claude/project-thread-11e1iq` (commit f82d121), aún sin fusionar; no se duplicó aquí.
+- Páginas creadas: `fuentes/resolucion-362-de-2018-incentivo-uso-bicicleta-ansv.md`, `fuentes/ci-ansv-030-2026-solicitud-terminacion-anticipada-uts.md`.
+- Páginas actualizadas: `fuentes/resolucion-20263040005765-2026-rot.md`, `fuentes/resolucion-20263040014815-de-2026-ubicaciones-criticas-siniestralidad-vial.md` (notas de copia), `sintesis/contrato-interadministrativo-ansv-030-2026-ruta-victimas.md` (línea de tiempo, sección de terminación, documentos faltantes), `index.md` (266 fuentes, conteo directo).
+
 ## [2026-11-24] ingest | Contrato PA-730-2025 (Saravia Bravo S.A.S., mantenimiento y calibración de 26 cinemómetros LASERCAM 4)
 - Lectura del pedido ("rama contrato PA 730 2025"): la rama `contrato-PA-730-2025-Mantenimiento-Cinemometros` tiene 2 commits sin fusionar (c018192, 3ae0677) con 42 archivos de la etapa precontractual y habilitantes. Ese mismo día llegaron a `main` 7 commits (076e3aa a a9486ae) con 46 archivos de ejecución, pagos y liquidación del mismo contrato. Se procesaron los dos grupos. La rama del contrato se fusionó en la rama de trabajo sin conflictos.
 - 88 archivos, 83 documentos distintos. Copias por MD5: Resolución SIC 220283, representación exclusiva de Kustom Signals, diploma de la patente, CVI 907-25 y soportes de experiencia (cada una registrada en la página de su original).
@@ -1181,16 +1188,15 @@ Con esto quedan cerrados todos los hallazgos de la pasada de LINT completa del 2
 - `[INCIERTO]` La cita del Decreto 2409 de 2018, art. 4 no se puede verificar: el decreto no está en el corpus.
 - El oficio no tuvo hilo ni borrador en el proyecto.
 
-## [2026-11-18] ingest | Carga del 18-11-2026 y solicitud de terminación del CI ANSV-030-2026
-- `main`, commit 5ef6885 (3 archivos): `Resolucion362de2018incentivoUsodeBicicletapdf.pdf` es nueva (escaneo leído de imagen); `RESOLUCION ROT NUMERO 20263040005765 2026.pdf` y `Resolución 202630400014815 del 2026.pdf` son copias idénticas por MD5 de fuentes ya ingeridas (la segunda trae un cero de más en el número).
-- Rama `Contrato-interadministrativo-ANSV-030-2026-Ruta-de-atencion-a-victimas`, commit 10c8307: `Solicitud de terminación anticipada ANSV-030-2026.pdf` (escaneo leído de imagen). El archivo no está en `main`; no se copió.
-- La Resolución ANSV 507 de 2026 (commit 75cebd5 en `main`) ya tiene página en la rama `claude/project-thread-11e1iq` (commit f82d121), aún sin fusionar; no se duplicó aquí.
-- Páginas creadas: `fuentes/resolucion-362-de-2018-incentivo-uso-bicicleta-ansv.md`, `fuentes/ci-ansv-030-2026-solicitud-terminacion-anticipada-uts.md`.
-- Páginas actualizadas: `fuentes/resolucion-20263040005765-2026-rot.md`, `fuentes/resolucion-20263040014815-de-2026-ubicaciones-criticas-siniestralidad-vial.md` (notas de copia), `sintesis/contrato-interadministrativo-ansv-030-2026-ruta-victimas.md` (línea de tiempo, sección de terminación, documentos faltantes), `index.md` (266 fuentes, conteo directo).
-
 ## [2026-11-26] ingest | Oficios DCI firmados del 25-11-2026 (Palonegro, SIMIT, Samacá)
 - Fuentes nuevas en la raíz: `FINAL_firmado_Respuesta_Palonegro_peritaje_20266600094152_rad_20264000162691.pdf` (2 pp.), `FINAL_firmado_Solicitud_SIMIT_base_reincidencias_2025_2026_rad_20264000163031.pdf` (2 pp.) y `FINAL_firmado_Respuesta_Samaca_cooperacion_20266600093982_rad_20264000158091.pdf` (4 pp.). Los tres traen radicado de salida y firma digital de la Directora DCI.
 - Páginas creadas: `fuentes/oficio-20264000162691-respuesta-palonegro-peritaje.md`, `fuentes/oficio-20264000163031-solicitud-simit-base-reincidencias.md`, `fuentes/oficio-20264000158091-respuesta-samaca-cooperacion.md`. Cada una compara el firmado con el borrador de la carpeta del proyecto.
 - `index.md`: Correspondencia oficial 11/11; 267 fuentes en esta rama (conteo sobre `main`, sin los PR #17 a #22 abiertos).
 - Hallazgos: Palonegro cita la Ley 1702 "(modificada por la Ley 2222 de 2022)", pero la Ley 2222 solo modifica el num. 15.4 del art. 15. Samacá asigna a una contratista con nombre para el PLSV, en tensión con la línea de no designar enlaces, y deja entre comillas un texto propio en el numeral 6.
 - `[INCIERTO]` No están en el corpus: Decreto 2409 de 2018, Resolución 7345 de Supertransporte y Protocolo ANS-GEI-DO-02 de 2022.
+
+## [2026-11-26] lint | Fusión de los PR #17 a #23 en `main`
+- Por pedido del usuario se fusionaron en `main`, a través de la rama del PR #23, los PR #17 (carga del 18-11 y terminación CI 030), #18 (traslado Girón), #19 (4 oficios firmados), #20 (contrato PA-730-2025), #21 (síntesis donación de cinemómetros), #22 (oficios ANI y Puerto Tejada) y #23 (Palonegro, SIMIT, Samacá).
+- Conflictos solo en `index.md` y `log.md`: se conservaron todas las entradas. En `index.md` se ordenaron las notas de actualización y Correspondencia oficial quedó en 12/12. En este log, las entradas añadidas por las ramas se ordenaron por fecha (no se modificó su texto).
+- Conteo directo tras la fusión: 314 páginas de fuente (291 ingeridas + 23 incierto).
+- Nota: las entradas del 26-11 de este log que dicen "267 fuentes" o "265 fuentes" reflejan el conteo de cada rama antes de la fusión.

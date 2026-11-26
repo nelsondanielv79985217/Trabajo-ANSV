@@ -37,7 +37,7 @@ Respuesta por numerales a seis solicitudes de un municipio (mesa de trabajo, vis
 
 ## Observaciones críticas
 
-1. **Tensión con la línea de no enlaces.** La memoria del proyecto registra que la Directora pidió no "designar enlace" a contratistas. El numeral 5 hace algo parecido: nombra a una contratista como responsable del acompañamiento. La diferencia es que lo limita a un componente (PLSV), sin presencia en territorio y con fecha de cierre. Se registra como decisión de la Dirección, no como error; conviene confirmar si es la nueva regla para solicitudes de PLSV antes de replicarla.
+1. **Tensión con la línea de no enlaces.** La memoria del proyecto registra que la Directora pidió no "designar enlace" a contratistas. El numeral 5 nombra a una contratista como responsable del acompañamiento del PLSV, sin presencia en territorio y con fecha de cierre. El usuario confirmó el 26-11-2026 que fue una **excepción**, no la nueva regla: no se replica en otros oficios.
 2. **Comillas en el numeral 6.** Es un error de forma: la frase es texto de la Agencia, no una cita. En próximos oficios, quitar los dos puntos y las comillas al adoptar un texto sugerido.
 3. **Protocolo sin fuente en el corpus.** `[INCIERTO: el Protocolo ANS-GEI-DO-02 del 14 de julio de 2022 no está en el repositorio; su contenido se conoce solo por este oficio.]`
 4. **Plazo.** Entre la comunicación del 10-nov y la firma del 25-nov pasaron 15 días calendario (11 hábiles). El término general es de 15 días ([Ley 1755 de 2015](ley-1755-de-2015-derecho-de-peticion.md), art. 14, pp. 1-2), y esa página marca como incierto si son hábiles o calendario. La fecha de radicación en la ANSV no aparece en el oficio, por lo que el cómputo exacto no se puede verificar con esta fuente.
