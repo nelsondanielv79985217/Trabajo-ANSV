@@ -43,6 +43,7 @@ DITRA integra, junto con el Ministerio de Transporte, la ANSV y SuperTransporte,
 - [La Gráfica de la Ballena (ONSV, 2025)](../fuentes/la-grafica-de-la-ballena-onsv-2025.md): reafirma que el control/vigilancia/sanción directa corresponde a las autoridades de tránsito y a DITRA, no a la ANSV.
 - [Respuesta a petición congresista 20266600072782](../fuentes/respuesta-peticion-congresista-20266600072782.md): explica su rol en las discrepancias de cifras de siniestralidad entre fuentes.
 - [Orientaciones técnicas para el acompañamiento a puestos de control (2026)](../fuentes/orientaciones-tecnicas-acompanamiento-puestos-control-ansv-2026.md) (añadido 2026-10-16): el personal de la ANSV debe verificar en el puesto la presencia de "agentes de tránsito o Policía de Tránsito – DITRA, según corresponda" (p. 1). El reporte formal lo hace la autoridad, no la ANSV (p. 2).
+- [Estudio previo del contrato PA-730-2025](../fuentes/pa-730-2025-estudio-previo.md) (añadido 2026-11-24): la ANSV entrega a la DITRA en comodato 26 cinemómetros LASERCAM 4, que no tenían soporte ni garantía vigentes (p. 5). Ver [síntesis del contrato](../sintesis/contrato-pa-730-2025-cinemometros-lasercam4.md).
 
 ## Incertidumbres
 

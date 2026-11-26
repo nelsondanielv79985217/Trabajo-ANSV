@@ -48,6 +48,7 @@ Regula requisitos de perfeccionamiento/ejecución del contrato; modificaciones (
 - [Concepto de Estabilidad Ocupacional Reforzada de 2026](concepto-estabilidad-ocupacional-reforzada-2026.md) y [Solicitud de concepto — estabilidad ocupacional (DIV)](solicitud-concepto-estabilidad-ocupacional-div.md): comparten tres firmantes con este manual — Magali del Socorro Rosero Ortiz, Ana María Noriega García y la firma externa Legal Service(s) S.A.S. — confirma la continuidad del Grupo de Gestión Contractual como equipo estable entre 2025 y 2026.
 - [ANSV — Agencia Nacional de Seguridad Vial](../entidades/ansv-agencia-nacional-seguridad-vial.md): confirma a Mariantonia Tabares Pulgarín como Directora General el 30 de abril de 2025 (dato consistente con el rango ya documentado); aporta el nombre de Alexander Diaz Umaña, Secretario General.
 - [Ley 1702 de 2013 — Creación de la ANSV](ley-1702-de-2013-creacion-ansv.md): confirma con nuevo detalle el régimen del Fondo Nacional de Seguridad Vial (Art. 7°, parágrafo único) como base del régimen privado de contratación.
+- *(2026-11-24)* [Contrato PA-730-2025](../sintesis/contrato-pa-730-2025-cinemometros-lasercam4.md): contratación directa privada por la causal c) del numeral 4.3.2.3 ("Cuando no exista pluralidad de oferentes", p. 135). El numeral 8.1.7 (p. 205) fija 4 meses para liquidar de común acuerdo si no se pactó otro plazo y pide al supervisor exigir la ampliación de garantías si no se liquida a tiempo.
 
 ## Incertidumbres
 
