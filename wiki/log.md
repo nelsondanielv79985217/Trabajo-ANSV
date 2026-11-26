@@ -1159,6 +1159,21 @@ Con esto quedan cerrados todos los hallazgos de la pasada de LINT completa del 2
 - Páginas actualizadas: `entidades/dci-...`, `entidades/ditra-...`, `fuentes/manual-unificado-contratacion-ansv.md` (conexión con el contrato y numeral 8.1.7, p. 205), `index.md` (308 fuentes: 285 ingeridas + 23 incierto, conteo directo).
 - Ningún archivo es una petición que requiera oficio de respuesta.
 
+## [2026-11-24] query | Propuesta de donación de los 26 cinemómetros a la DITRA
+- Pedido del Asesor de la Dirección General: antecedentes, componente técnico, financiero, obligaciones, riesgos y hoja de ruta de la donación.
+- Se usaron el expediente PA-730-2025, el Decreto 1082 de 2015 (art. 2.2.1.2.2.4.3), la Ley 1702 de 2013 (art. 8), la Resolución 094 de 2026 (anexos 2, 12 y 13), La gráfica de la ballena (p. 6) y la Circular Mintransporte 20261300000347 (p. 3). La oferta actualizada se leyó sobre la imagen (pp. 1-5) para el diagnóstico y los precios por serial.
+- Página creada: `sintesis/donacion-26-cinemometros-ditra-antecedentes-2026.md`. Actualizado: `index.md`.
+- Vacíos: contrato de comodato, valor de adquisición y en libros, custodia actual, acta de la mesa con la DITRA y acta de liquidación no están en el corpus.
+
+## [2026-11-24] query | PA-730-2025 liquidado (dato del supervisor)
+- El usuario, supervisor del contrato, informó que el PA-730-2025 ya se liquidó. El acta no está en el corpus.
+- Actualizados: hub del contrato (alerta 6), síntesis de la donación de cinemómetros y el informe/correo entregados. Queda pendiente cargar el acta y verificar sus salvedades (ítem 28 y garantía).
+
+## [2026-11-24] query | Instrucción fiduciaria de liquidación del PA-730-2025 (revisión)
+- El usuario subió de nuevo la instrucción fiduciaria (base del acta de liquidación). Se releyó con la solicitud 20264000023083.
+- Hallazgo: balance en $0, ejecutado 100 % y sin salvedades; "Observaciones adicionales" en blanco. El ítem 28 (vencía jul.-sep. de 2026) se declara ejecutado sin evidencia; garantía 3 vs 6 meses, carta de compromiso y serial no se mencionan.
+- Actualizados: fuente de la instrucción, hub del contrato (alerta 6), síntesis de la donación e informe entregado (nueva sección 2.5).
+
 ## [2026-11-26] ingest | Oficio ANSV 20264000160121 — traslado por competencia a la Superintendencia de Transporte (Girón)
 - Fuente nueva en la raíz: `FINAL_firmado_Traslado_Supertransporte_Giron_20264000160121_rad_20266600095642.pdf` (2 páginas, firmado el 18-11-2026; entrada 20266600095642, remitida por la Presidencia con OFI26-00093123 / EXT26-00195149).
 - Página creada: `fuentes/oficio-20264000160121-traslado-supertransporte-giron.md`.

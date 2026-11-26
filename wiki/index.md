@@ -484,6 +484,7 @@ Rama `Contrato-interadministrativo-ANSV-030-2026-Ruta-de-atencion-a-victimas`. H
 ### Carga del 24 de noviembre de 2026 — Contrato PA-730-2025 (Saravia Bravo, cinemómetros LASERCAM 4) (88 archivos, 83 documentos distintos, 44 páginas: 42 ingeridas + 2 inciertas)
 
 Rama `contrato-PA-730-2025-Mantenimiento-Cinemometros` (precontractual y habilitantes) y cargas del mismo día en `main` (ejecución, pagos y liquidación). Hub: [síntesis del contrato PA-730-2025](sintesis/contrato-pa-730-2025-cinemometros-lasercam4.md). Excepciones a una fuente por página: la serie de 26 certificados de calibración y los 13 habilitantes menores.
+- [Propuesta de donación de los 26 cinemómetros LASERCAM 4 a la DITRA — antecedentes, vacíos y hoja de ruta (nov. 2026)](sintesis/donacion-26-cinemometros-ditra-antecedentes-2026.md) — Insumo para la Dirección General: trazabilidad (comodato sin contrato en el corpus), inventario, inversión 2026 por equipo (cálculo propio), obligaciones vivas, Decreto 1082 art. 2.2.1.2.2.4.3 y vacíos asignados a Financiera, Administrativa y Jurídica. (incierto)
 
 - [Estudio previo del contrato PA-730-2025 — mantenimiento y calibración de 26 cinemómetros LASERCAM 4 (29-09-2025)](fuentes/pa-730-2025-estudio-previo.md) (ingerido)
 - [Análisis del sector del contrato PA-730-2025 — cinemómetros (FO-52, 29-09-2025)](fuentes/pa-730-2025-analisis-del-sector.md) (ingerido)
