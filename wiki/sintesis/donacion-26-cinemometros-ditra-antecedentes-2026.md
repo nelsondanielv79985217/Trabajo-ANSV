@@ -29,6 +29,12 @@ Borrador de informe técnico pedido el 24-11-2026 por el Asesor de la Dirección
 
 Inventario, datos de adquisición, depreciación, valor en libros y vida útil se asignan al **Grupo de Servicios Administrativos de la Secretaría General**, nombre de la dependencia en la Resolución 094 de 2026, Anexo 13, p. 1 (área funcional "Secretaría General – Grupo de Servicios Administrativos"; propósito: almacén e inventarios). El comodato queda en la Oficina Asesora Jurídica (actas de entrega y devolución, en Servicios Administrativos) y el efecto presupuestal en Gestión Financiera (Anexo 12, p. 4).
 
+## Datos aportados por el supervisor (26-11-2026, sin soporte documental en el corpus)
+
+- Los 26 equipos están en el almacén de la ANSV, sin uso desde la recepción y la prueba funcional hecha a cada uno al terminar el mantenimiento.
+- El mantenimiento de seguimiento (ítem 28) no se ha hecho por falta de uso; se puede acordar con el contratista cuando se requiera. La fecha de la carta de compromiso (hasta 03-2027) también se puede ajustar al uso.
+- Versión del informe ajustada por el usuario: `Informe_antecedentes_cinemometros_ref_contrato_mantenimiento_PA_730_2025.docx` (misma carpeta de entregables).
+
 ## Cálculos propios del informe
 
 - Inversión 2026 por equipo: la suma de las intervenciones por serial (ítems 1-26) da $232.218.400; con baterías ($73.060.000) y seguimiento ($23.920.000) da $329.198.400, igual al subtotal de la oferta (p. 5).
