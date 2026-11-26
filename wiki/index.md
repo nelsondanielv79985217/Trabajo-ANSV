@@ -2,6 +2,14 @@
 
 Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos de trabajo (INGEST/QUERY/LINT).
 
+*Actualización (2026-11-26, oficios firmados)*: ingest de tres oficios DCI firmados el 25-11-2026: Palonegro 20264000162691, SIMIT 20264000163031 y Samacá 20264000158091. **314 páginas de fuente en `wiki/fuentes/`** (291 ingeridas + 23 incierto, conteo directo) tras fusionar en `main` los PR #17 a #23.
+
+*Actualización (2026-11-26)*: ingest del oficio firmado 20264000160121 (traslado por competencia a la Superintendencia de Transporte, Girón). **265 páginas de fuente en `wiki/fuentes/`** (244 ingeridas + 21 incierto, conteo directo).
+
+*Actualización (2026-11-24)*: ingest de los 88 archivos del contrato PA-730-2025 (Saravia Bravo S.A.S., mantenimiento y calibración de 26 cinemómetros LASERCAM 4): 42 de la rama `contrato-PA-730-2025-Mantenimiento-Cinemometros` y 46 subidos a `main` el mismo día. Son 83 documentos distintos y dieron 44 páginas de fuente nuevas (dos de ellas agrupan series) más una síntesis hub. **308 páginas de fuente en `wiki/fuentes/`** (285 ingeridas + 23 incierto, conteo directo).
+
+*Actualización (2026-11-18)*: ingest de la carga del 18-11-2026 en `main` (commit 5ef6885: Resolución ANSV 362 de 2018 nueva; ROT y Res. 20263040014815 son copias idénticas de fuentes ya ingeridas) y de la solicitud de terminación anticipada del CI ANSV-030-2026 (rama del contrato, commit 10c8307). **266 páginas de fuente** (conteo directo de `.md`).
+
 *Actualización (2026-11-17, tercera)*: lint general y correcciones aprobadas (campo `fuente_pdf` en 15 páginas, dos notas `[INCIERTO]`, un slug renombrado, excepción del CSV y dos PDF traídos desde `Contractual-OPS`). Sin cambios en el número de páginas: **264 páginas de fuente**.
 
 *Actualización (2026-11-17, segunda)*: ingest de las cargas del 16-11-2026 de los contratos interadministrativos. CI ANSV-030-2026 (`main`, PRs #10 y #11): 20 archivos, 12 documentos distintos, 6 páginas nuevas y el resto registrado en páginas existentes. CI ANSV-031-2026 (rama del contrato, fusionada a `main` en el PR #14 tras renombrar tres archivos con nombre corto 8.3): 16 archivos, 13 documentos distintos, 7 páginas nuevas. **264 páginas de fuente en `wiki/fuentes/`** (243 ingeridas + 21 incierto, conteo directo).
@@ -94,11 +102,15 @@ Catálogo de todas las páginas. Ver `../CLAUDE.md` para el schema y los flujos 
 - [Documentando el Plan 70D — Informe de resultados y Plan Navidad 2024](fuentes/documentando-plan-70d-plan-navidad-2024-2025.md) — Informe de resultados (22-01-2025) del Plan 70D ya ingerido (que era su planeación ex ante); cifras reales de ejecución (10.776 reportes, 6.147 controles, ~110.750 comparendos) y comparativo Plan Navidad 2023 vs. 2024 (+71,69% reportes, +105,83% comparendos). Hallazgo: pese a la reducción de siniestralidad total (-6,9%) y lesionados (-11,2%), los fallecidos tuvieron un leve aumento (+0,5%) — matiz no resuelto por el propio documento. Cargado 2026-09-30. (ingerido)
 - [Orientaciones técnicas para el acompañamiento a puestos de control preventivo y correctivo (ANSV, 2026)](fuentes/orientaciones-tecnicas-acompanamiento-puestos-control-ansv-2026.md) — Instructivo de campo para el personal de la ANSV en receso escolar y temporadas especiales: antes, durante y después del puesto; la ANSV acompaña sin interferir en el control; solo la autoridad reporta en el Survey123 del Plan 365. Trae la cifra preliminar de 8.697 fallecidos en 2025. Sin fecha ni firma. PDF y Word con el mismo texto. Cargado 2026-10-09. (ingerido)
 
-### Correspondencia oficial / oficios (8, 8 ingeridas — completo)
+### Correspondencia oficial / oficios (12, 12 ingeridas — completo)
 
 - [Oficio ANSV 20244000000911 de 2024 — Lineamientos para la inclusión de la seguridad vial en los Planes de Desarrollo Territoriales](fuentes/oficio-20244000000911-lineamientos-seguridad-vial-planes-desarrollo-territorial.md) — producto directo de la DCI (enero 2024) dirigido a alcaldes y gobernadores entrantes; PNSV como hoja de ruta, meta de reducción del 50% a 2031 (Declaración de Estocolmo), y requisito legal de idoneidad de directores de organismos de tránsito (Ley 769/2002 Art. 4°, Ley 1310/2009). Archivo que había quedado fuera del catálogo original — detectado y cerrado en verificación cruzada post-INGEST. (ingerido)
 
 - [Oficio ANSV 20254000114441 de 2025 — Vigilancia especial SuperTransporte/Procuraduría, Plan 365](fuentes/oficio-20254000114441-supertransporte-plan-365.md) — Escalamiento formal de la DCI ante SuperTransporte (con copia a la Procuraduría) por el 44 % de incumplimiento de reporte del Plan 365. Aporta cita nueva (Ley 1702/2013, Art. 19 num. 11; Ley 336/1996, Art. 46 lit. c) y confirma con fecha exacta (10 nov. 2025) a Paula Katerine Ramos Navarro como Directora de la DCI. (ingerido)
+- [Oficio ANSV 20264000160121 de 2026 — Traslado por competencia a SuperTransporte (control de tránsito de Girón)](fuentes/oficio-20264000160121-traslado-supertransporte-giron.md) — Oficio firmado del 18-nov-2026 (entrada 20266600095642, remitida por la Presidencia) que traslada por Art. 21 de la Ley 1755/2015 una queja ciudadana sobre comparendos en Girón, porque la ANSV no ejerce inspección, vigilancia y control sobre organismos de tránsito (Ley 1702/2013, Decreto 787/2015, Decreto 2409/2018 art. 4). Modelo de traslado a la Superintendencia. (ingerido)
+- [Oficio ANSV 20264000158091 de 2026 — Respuesta a Samacá (cooperación técnica)](fuentes/oficio-20264000158091-respuesta-samaca-cooperacion.md) — Respuesta firmada (25-nov) por numerales a seis solicitudes del municipio; insumo de la DIV sobre visitas ASV/ESV/ISV (Protocolo ANS-GEI-DO-02, suspendidas por falta de personal) y acompañamiento del PLSV asignado a una contratista hasta el 15-dic-2026. (ingerido)
+- [Oficio ANSV 20264000162691 de 2026 — Respuesta a petición ciudadana sobre peritaje en el Aeropuerto Palonegro](fuentes/oficio-20264000162691-respuesta-palonegro-peritaje.md) — Negativa firmada (25-nov) a enviar un delegado para peritaje sobre la Resolución 7345 de Supertransporte: la ANSV no es autoridad de tránsito ni ejerce IVC (Ley 1702 arts. 2-3; Ley 769 art. 3); remite a las entidades a las que el ciudadano también escribió. Señala una cita impertinente de la Ley 2222/2022. (ingerido)
+- [Oficio ANSV 20264000163031 de 2026 — Solicitud al SIMIT de la base de reincidencias 2025 y 2026](fuentes/oficio-20264000163031-solicitud-simit-base-reincidencias.md) — Oficio de iniciativa firmado (25-nov) a la Dirección Nacional SIMIT (FCM): base 2026 (1-ene a 31-oct), cierre de 2025, 12 códigos de infracción y 21 campos; fundamento Ley 1702 art. 18 y Ley 1755 art. 27. (ingerido)
 - [Oficio (plantilla) — Convocatoria socialización 14-11-2025](fuentes/oficio-convocatoria-socializacion-14-11-2025.md) — Plantilla (sin radicar) de convocatoria nacional a la jornada de socialización del Plan 365 del 21 de noviembre de 2025; confirma nuevamente a Ramos Navarro como Directora de la DCI y un nuevo uso de "asistencia técnica a los territorios". (ingerido)
 - [Oficio (plantilla) — Gobernadores y Alcaldes: Plan 365 e Instancias](fuentes/oficio-gobernadores-alcaldes-plan-365-instancias.md) — Reitera a gobernadores y alcaldes la obligación de conformar/activar CLSV, CDSV y CTSV, en armonía con el Plan 365; aporta contenido parcial nuevo sobre la Resolución 516/2022 y menciona el "equipo de Regionalización" de la DCI. (ingerido)
 - [ORFEO_Oficio_ANSV_2024 (22) — Plantilla del oficio SuperTransporte/Procuraduría](fuentes/orfeo-oficio-22-super-procuraduria.md) — Plantilla/borrador del mismo oficio ya ingerido (20254000114441/2025); aporta texto verbatim completo de la Ley 1702/2013 Art. 19 num. 11 y de la Ley 336/1996 Art. 46 lit. c. (ingerido)
@@ -460,6 +472,62 @@ Rama `Contrato-interadministrativo-ANSV-030-2026-Ruta-de-atencion-a-victimas`. H
 - [Resolución ANSV 862 de 2026 — manual de funciones y reubicación de empleos](fuentes/resolucion-862-de-2026-modifica-manual-funciones-ansv.md) — 28-10-2026; reubica un auxiliar en el ONSV y un PE 16 en la OAJ; transcribe la planta global, con 11 empleos en la DCI. (ingerido)
 - [Correo de la ANI — delegación al Comité Operativo (11-11-2026)](fuentes/correo-ani-delegacion-comite-operativo-noviembre-2026.md) — la ANI delega a Claudia Mendoza; comunicación informativa asignada a la DCI; cita la Res. 507 de 2026. (ingerido)
 
+### Carga del 18 de noviembre de 2026 (2 páginas nuevas, 2 copias registradas)
+
+- [Resolución ANSV 362 de 2018 — incentivo al uso de la bicicleta para funcionarios de la ANSV](fuentes/resolucion-362-de-2018-incentivo-uso-bicicleta-ansv.md) — medio día libre por cada 30 llegadas en bicicleta (máx. 8 al año, Ley 1811 de 2016); 12 cupos de parqueadero; escaneo leído de imagen. (ingerido)
+- [Solicitud de las UTS de terminación anticipada del CI ANSV-030-2026 (12-11-2026)](fuentes/ci-ansv-030-2026-solicitud-terminacion-anticipada-uts.md) — mutuo acuerdo por cl. 21.ª lit. B; sin acta de inicio; firma un Rector (E) distinto del firmante del contrato; archivo en la rama del CI 030, no en `main`. (ingerido)
+- Copias registradas en páginas existentes: `RESOLUCION ROT NUMERO 20263040005765 2026.pdf` (ROT) y `Resolución 202630400014815 del 2026.pdf` (puntos críticos).
+
+### Carga del 24 de noviembre de 2026 — Contrato PA-730-2025 (Saravia Bravo, cinemómetros LASERCAM 4) (88 archivos, 83 documentos distintos, 44 páginas: 42 ingeridas + 2 inciertas)
+
+Rama `contrato-PA-730-2025-Mantenimiento-Cinemometros` (precontractual y habilitantes) y cargas del mismo día en `main` (ejecución, pagos y liquidación). Hub: [síntesis del contrato PA-730-2025](sintesis/contrato-pa-730-2025-cinemometros-lasercam4.md). Excepciones a una fuente por página: la serie de 26 certificados de calibración y los 13 habilitantes menores.
+- [Propuesta de donación de los 26 cinemómetros LASERCAM 4 a la DITRA — antecedentes, vacíos y hoja de ruta (nov. 2026)](sintesis/donacion-26-cinemometros-ditra-antecedentes-2026.md) — Insumo para la Dirección General: trazabilidad (comodato sin contrato en el corpus), inventario, inversión 2026 por equipo (cálculo propio), obligaciones vivas, Decreto 1082 art. 2.2.1.2.2.4.3 y vacíos asignados a Financiera, Administrativa y Jurídica. (incierto)
+
+- [Estudio previo del contrato PA-730-2025 — mantenimiento y calibración de 26 cinemómetros LASERCAM 4 (29-09-2025)](fuentes/pa-730-2025-estudio-previo.md) (ingerido)
+- [Análisis del sector del contrato PA-730-2025 — cinemómetros (FO-52, 29-09-2025)](fuentes/pa-730-2025-analisis-del-sector.md) (ingerido)
+- [Matriz de riesgos del proceso de cinemómetros, versión 2 (FO-53)](fuentes/pa-730-2025-matriz-de-riesgos-v2.md) (ingerido)
+- [Matriz de riesgos del proceso de cinemómetros — versión con observaciones resueltas](fuentes/pa-730-2025-matriz-riesgos-observaciones-resueltas.md) (ingerido)
+- [Ficha técnica de los cinemómetros, versión 1 (FO-54)](fuentes/pa-730-2025-ficha-tecnica.md) (ingerido)
+- [CVI 907-25 — certificado de validación de la inversión del contrato PA-730-2025 (23-09-2025)](fuentes/pa-730-2025-cvi-907-25.md) (ingerido)
+- [Memorando 20254000041793 — solicitud de contratación del PA-730-2025 (17-10-2025)](fuentes/pa-730-2025-memorando-20254000041793-solicitud.md) (ingerido)
+- [Oferta inicial de Saravia Bravo S.A.S. para el PA-730-2025 (30-09-2025)](fuentes/pa-730-2025-oferta-inicial-30-09-2025.md) (ingerido)
+- [Oferta económica actualizada de Saravia Bravo S.A.S. (27-10-2025)](fuentes/pa-730-2025-oferta-economica-actualizada.md) (ingerido)
+- [Carta de representación exclusiva de Kustom Signals a favor de Saravia Bravo (15-04-2025, apostillada)](fuentes/pa-730-2025-representacion-exclusiva-kustom-signals.md) (ingerido)
+- [Resolución SIC 220283 de 2019 — concesión de la patente de los cinemómetros Kustom Signals](fuentes/pa-730-2025-patente-resolucion-220283-sic.md) (ingerido)
+- [Diploma de la patente — certificado 37678 (SIC)](fuentes/pa-730-2025-patente-diploma-certificado-37678.md) (ingerido)
+- [Soportes de experiencia de Saravia Bravo S.A.S. (contratos y certificaciones)](fuentes/pa-730-2025-soportes-de-experiencia.md) (incierto)
+- [Presentación del proceso de cinemómetros (PowerPoint, 11 diapositivas)](fuentes/pa-730-2025-presentacion-proceso.md) (ingerido)
+- [Plan Anual de Adquisiciones, versión 19 (Excel) — línea de cinemómetros](fuentes/pa-730-2025-paa-v19.md) (ingerido)
+- [Nota interna sobre contratación directa privada del Fondo (Word, sin firma)](fuentes/pa-730-2025-nota-contratacion-directa-privada.md) (ingerido)
+- [Certificado de existencia y representación legal de Saravia Bravo S.A.S. (01-09-2025)](fuentes/pa-730-2025-certificado-existencia-representacion-legal.md) (ingerido)
+- [Documentos habilitantes menores de Saravia Bravo S.A.S. (antecedentes, REDAM, RUT, seguridad social, SECOP)](fuentes/pa-730-2025-documentos-habilitantes-contratista.md) (ingerido)
+- [Condiciones generales del contrato PA-730-2025 (Fiduagraria, vocera del PA FSV)](fuentes/pa-730-2025-condiciones-generales-contrato.md) (ingerido)
+- [Contrato electrónico PA-730-2025 en SECOP II (CO1.PCCNTR.8634066)](fuentes/pa-730-2025-contrato-electronico-secop.md) (ingerido)
+- [Póliza de cumplimiento 14-45-101130895, anexo 0 (Seguros del Estado, 03-12-2025)](fuentes/pa-730-2025-poliza-anexo-0.md) (ingerido)
+- [Póliza de cumplimiento 14-45-101130895, anexo 2 — traslado de vigencias (16-01-2026)](fuentes/pa-730-2025-poliza-anexo-2.md) (ingerido)
+- [Designación de Nelson Daniel Vega Samacá como supervisor del PA-730-2025 (24-12-2025)](fuentes/pa-730-2025-designacion-supervision.md) (ingerido)
+- [Acta de inicio del contrato PA-730-2025 (15-01-2026)](fuentes/pa-730-2025-acta-de-inicio.md) (ingerido)
+- [Informe de actividades del contratista n.º 1 (FO-56, 01-02-2026)](fuentes/pa-730-2025-informe-actividades-contratista-1.md) (ingerido)
+- [Informe de supervisión n.º 1 del contrato PA-730-2025 (FO-70, 01-02-2026)](fuentes/pa-730-2025-informe-supervision-1.md) (ingerido)
+- [Informe de supervisión n.º 2 del contrato PA-730-2025 (FO-70, 06-03-2026)](fuentes/pa-730-2025-informe-supervision-2.md) (ingerido)
+- [Informe de supervisión n.º 3 del contrato PA-730-2025 (FO-70, 06-04-2026)](fuentes/pa-730-2025-informe-supervision-3.md) (ingerido)
+- [Informe de supervisión n.º 4 del contrato PA-730-2025 (FO-70, 10-04-2026)](fuentes/pa-730-2025-informe-supervision-4.md) (ingerido)
+- [Informe final de supervisión del contrato PA-730-2025 (FO-35, 10-04-2026)](fuentes/pa-730-2025-informe-final-supervision.md) (ingerido)
+- [Informe final del contratista Saravia Bravo (SB-MA-045-26, 07-04-2026)](fuentes/pa-730-2025-informe-final-contratista.md) (ingerido)
+- [Carta de garantía de Saravia Bravo (SB-MA-029-26, 03-03-2026)](fuentes/pa-730-2025-carta-de-garantia.md) (ingerido)
+- [Carta de compromiso de Saravia Bravo (SB-MA-044-26, 06-04-2026)](fuentes/pa-730-2025-carta-de-compromiso.md) (ingerido)
+- [Acta de recibo n.º 003 de 7 cinemómetros — versión fechada el 24 de enero de 2026 (fecha errada)](fuentes/pa-730-2025-acta-003-version-24-enero.md) (ingerido)
+- [Acta de recibo n.º 003 de 7 cinemómetros con mantenimiento correctivo (24-03-2026)](fuentes/pa-730-2025-acta-003-version-24-marzo.md) (ingerido)
+- [Remisión MA-045 — entrega de 7 cinemómetros con mantenimiento correctivo (24-03-2026)](fuentes/pa-730-2025-remision-ma-045.md) (ingerido)
+- [Reportes de mantenimiento de los 7 cinemómetros con correctivo (formato F-03-005)](fuentes/pa-730-2025-reportes-mantenimiento-correctivo.md) (ingerido)
+- [Compilado de certificados de calibración de los 7 equipos con correctivo (F0031 a F0037)](fuentes/pa-730-2025-certificados-calibracion-7-correctivos.md) (ingerido)
+- [Certificados de calibración individuales de los 26 cinemómetros (F0003 a F0037, laboratorio de Saravia Bravo)](fuentes/pa-730-2025-certificados-calibracion-individuales.md) (incierto)
+- [Paquete del tercer pago del contrato PA-730-2025 (factura S-3252, 07-04-2026)](fuentes/pa-730-2025-tercer-pago.md) (ingerido)
+- [Paquete del cuarto pago del contrato PA-730-2025 (factura S-3257, 09-04-2026)](fuentes/pa-730-2025-cuarto-pago.md) (ingerido)
+- [Certificado de pagos y saldos del contrato PA-730-2025 (FO-37, 14-05-2026)](fuentes/pa-730-2025-certificado-pagos-y-saldos.md) (ingerido)
+- [Solicitud de liquidación del contrato PA-730-2025, radicado 20264000023083 (mayo de 2026)](fuentes/pa-730-2025-solicitud-liquidacion-20264000023083.md) (ingerido)
+- [Instrucción fiduciaria de liquidación del contrato PA-730-2025 (FO-29, 27-05-2026)](fuentes/pa-730-2025-instruccion-fiduciaria-liquidacion.md) (ingerido)
+
 ## Método (`fuentes/`, type: metodo)
 
 Ninguna todavía — se crea si el usuario carga una referencia metodológica transversal.
@@ -493,6 +561,7 @@ Otras candidatas visibles solo por nombre de archivo (a confirmar durante el ing
 
 ## Síntesis (`sintesis/`)
 
+- [Contrato PA-730-2025 (Saravia Bravo, 26 cinemómetros LASERCAM 4) — expediente, línea de tiempo y alertas](sintesis/contrato-pa-730-2025-cinemometros-lasercam4.md) — Hub de los 83 documentos del contrato; 12 alertas (mantenimiento de 6 meses pagado sin evidencia, garantía de 3 frente a 6 meses, serial LE0588/LE2088, Acta 003 con fecha errada, liquidación sin acta en el corpus). (incierto)
 - [CI ANSV-030-2026 (UTS, Ruta de Atención Integral a Víctimas) — expediente, línea de tiempo y alertas para la supervisión](sintesis/contrato-interadministrativo-ansv-030-2026-ruta-victimas.md) — Hub de los 25 documentos del contrato; ficha, línea de tiempo, 11 alertas (acta de inicio condicionada sin base contractual, póliza RCE, estudio de mercado) y documentos faltantes. (incierto)
 - [CI ANSV-031-2026 (IUE, GPC) — expediente, línea de tiempo y alertas para la supervisión](sintesis/contrato-interadministrativo-ansv-031-2026-gpc.md) — Hub de los 18 documentos del contrato; nueve alertas para el supervisor entrante (acta de inicio, informe de empalme, pólizas, posible conflicto de interés en el EMR, obligación de vincular personas con discapacidad). (incierto)
 - [Conformación vigente del Consejo Consultivo de Seguridad Vial 2026-2028](sintesis/conformacion-vigente-consejo-consultivo-2026-2028.md) — Respuesta de QUERY guardada: los 7 miembros (Res. 546, art. 1), los 3 invitados permanentes sin designación nominal en el corpus, la Secretaría Técnica (Res. 842, art. 8) y la relación entre las Resoluciones 842, 479, 480 y 546. (ingerido)

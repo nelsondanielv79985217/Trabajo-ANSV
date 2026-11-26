@@ -4,7 +4,7 @@ type: fuente
 tags: [resolucion, ministerio-de-transporte, ansv, infraestructura-vial, puntos-criticos, sectores-criticos, tramos-criticos, ley-2251, pnsv, acompanamiento-tecnico, supertransporte]
 fuente_pdf: "Resolucion 20263040014815 metodologia definicion puntos criticos.pdf"
 status: incierto
-last_updated: 2026-11-17
+last_updated: 2026-11-18
 ---
 
 # Resolución 20263040014815 de 2026 — Ubicaciones críticas de siniestralidad vial
@@ -80,3 +80,5 @@ Revisaron, entre otros: Francisco Julio Taborda Ocampo (Jefe OAJ Mintransporte),
 - [Ley 1702 de 2013](ley-1702-de-2013-creacion-ansv.md): num. 2.7 del art. 9, facultad de la ANSV.
 - [ANSV](../entidades/ansv-agencia-nacional-seguridad-vial.md) · [Ministerio de Transporte](../entidades/ministerio-de-transporte.md) · [Superintendencia de Transporte](../entidades/superintendencia-de-transporte.md) · [ONSV](../entidades/onsv-observatorio-nacional-seguridad-vial.md)
 - [Sistema Seguro](../conceptos/sistema-seguro-enfoque-politica-seguridad-vial.md)
+
+> *(2026-11-18)* `Resolución 202630400014815 del 2026.pdf`, subido a `main` el 18-11-2026 (commit 5ef6885), es copia idéntica (MD5 `c0fb027faf12e5829e354d3dec123e57`) del archivo de esta página. Su nombre trae un cero de más en el número (202630400014815); el número correcto es 20263040014815.

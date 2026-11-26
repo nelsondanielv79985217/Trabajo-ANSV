@@ -3,7 +3,7 @@ title: "CI ANSV-030-2026 (UTS, Ruta de Atención Integral a Víctimas) — exped
 type: sintesis
 tags: [contratacion, ci-ansv-030-2026, supervision, victimas, ruta-atencion-victimas, uts, dci, emr, acta-de-inicio]
 status: incierto
-last_updated: 2026-11-17
+last_updated: 2026-11-18
 ---
 
 # CI ANSV-030-2026 — expediente y alertas para la supervisión
@@ -55,6 +55,7 @@ Lo marcado como **(propio)** es análisis o cálculo de esta síntesis, no texto
 | 11-11-2026 | CCE responde (GLPI #0008910) que la destinación del gasto ya no se corrige en el proceso, solo en el contrato en ejecución | [Respuesta CCE](../fuentes/ci-ansv-030-2026-respuesta-mesa-servicio-cce-glpi-8910.md), pp. 1-2 |
 | 12-11-2026 | Gestión Contractual: "Funcionamiento" es un error de digitación; se corregirá en el contrato electrónico cuando esté en ejecución | [Memorando](../fuentes/ci-ansv-030-2026-memorando-respuesta-juridica-secop.md), pp. 2-3 |
 | 12-11-2026 | Recomendación técnica de Penagos: 9 aspectos, 8 antes del acta de inicio | [Recomendación](../fuentes/ci-ansv-030-2026-recomendacion-tecnica-penagos.md), p. 1 |
+| 12-11-2026 | Las UTS solicitan a la DG la terminación anticipada por mutuo acuerdo (cl. 21.ª, lit. B): no hay acta de inicio; invocan complejidad y cierre fiscal | [Solicitud UTS](../fuentes/ci-ansv-030-2026-solicitud-terminacion-anticipada-uts.md), pp. 1-2 |
 | ¿? | Acta de inicio | `[INCIERTO: no está en el corpus; la plantilla FO-25 llegó en blanco]` |
 
 ## Alertas para el supervisor
@@ -98,11 +99,19 @@ Lo marcado como **(propio)** es análisis o cálculo de esta síntesis, no texto
 - **Nueva, límites del acta de inicio (propio):** varias recomendaciones de Penagos (A1, A3, B1) se proponen por acta de inicio o plan de trabajo. En el CI 031, Julián Moreno y las abogadas de la DCI advierten que esos instrumentos no pueden cambiar obligaciones, productos ni requisitos ([Moreno](../fuentes/ci-ansv-031-2026-respuesta-julian-moreno.md), p. 2). Conviene que Gestión Contractual diga cuáles son precisiones y cuáles requieren otrosí. B1 ya prevé el otrosí si Jurídica lo considera.
 - **Supervisor (cargo):** el memorando de Gestión Contractual lo llama "Director de Coordinación Interinstitucional" (p. 1); es un error.
 
+### Actualización (2026-11-18): solicitud de terminación anticipada
+
+- Las UTS pidieron terminar por mutuo acuerdo el 12-11-2026 ([solicitud](../fuentes/ci-ansv-030-2026-solicitud-terminacion-anticipada-uts.md), pp. 1-2). La firma Alberto Serrano Acevedo, Rector (E), distinto de la firmante del contrato `[INCIERTO: acto de encargo no está en el corpus]`.
+- Requisitos: acuerdo de las partes, ausencia de perjuicio y certificación del supervisor (clausulado, cl. 21.ª, lit. B, p. 35). La terminación bilateral la solicita el supervisor con concepto de viabilidad ([manual](../fuentes/manual-unificado-contratacion-ansv.md), p. 198). Con terminación anticipada procede liquidar (manual, p. 198, lit. b; clausulado, cl. 24.ª, p. 36).
+- Sin acta, no hay productos ni pagos; el contrato no tiene anticipo (clausulado, cl. 5.ª, p. 20). Si se termina, la corrección de "Funcionamiento" en SECOP II no podrá hacerse por la vía prevista (requiere estado "En ejecución") y la meta 2026 de 16 departamentos y 16 municipios no se cumple con este contrato.
+- Si se continúa: el riesgo verificable es la vigencia del CDR (hacia el 09-01-2027, cálculo propio); los contratos del Fondo pueden superar la vigencia fiscal (manual, p. 141). Las UTS están obligadas a suscribir el acta (obligación general 7, clausulado p. 15), pero la demora fue de la ANSV (propio).
+
 ## Documentos que faltan en el corpus
 
 - *(2026-11-17)* Respuesta de la Dirección General al correo del 03-09-2026; acta de reunión del equipo de apoyo del 20-08-2026 (citada por Penagos, p. 8); respuesta financiera a los literales a), b) y d) del 09-11-2026.
 
 - Acta de inicio y eventual respuesta de las UTS con el EMR.
+- *(2026-11-18)* Radicado de entrada de la solicitud de terminación y acto de encargo del Rector (E) Alberto Serrano Acevedo; decisión de la DG sobre la solicitud.
 - Designación anterior que el formato del 06-08-2026 dice "cambiar".
 - Propuesta de las UTS y "Carpeta documentos legales UTS".
 - Cotizaciones de la IUE y de "Unidades Tecnológicas de Antioquia"; constancia de la no aceptación de Pascual Bravo.

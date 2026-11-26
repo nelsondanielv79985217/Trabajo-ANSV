@@ -1149,3 +1149,54 @@ Con esto quedan cerrados todos los hallazgos de la pasada de LINT completa del 2
 - CSV `fuentes/fichas-nuevos-mandatarios-tabulacion.csv`: se mantiene como anexo de datos; la excepción quedó registrada en CLAUDE.md (Convenciones de nombres).
 - Se trajeron a `main` desde la rama `Contractual-OPS` los PDF `20266700034703 Concepto Estabilidad Laboral Reforzada 07092026.pdf` y `Solicitud concepto estabilidad ocupacional (1).pdf`, que respaldan las páginas concepto-estabilidad-ocupacional-reforzada-2026 y solicitud-concepto-estabilidad-ocupacional-div.
 - Corrección de enlaces rotos en entradas anteriores de este log (no se editan): las rutas `../conceptos/sast-fotodeteccion-regimen-autorizacion.md` y `../conceptos/genealogia-asistencia-tecnica.md` deben leerse como `conceptos/sast-fotodeteccion-regimen-autorizacion.md` y `conceptos/genealogia-asistencia-tecnica.md` (relativas a `wiki/`).
+
+## [2026-11-18] ingest | Carga del 18-11-2026 y solicitud de terminación del CI ANSV-030-2026
+- `main`, commit 5ef6885 (3 archivos): `Resolucion362de2018incentivoUsodeBicicletapdf.pdf` es nueva (escaneo leído de imagen); `RESOLUCION ROT NUMERO 20263040005765 2026.pdf` y `Resolución 202630400014815 del 2026.pdf` son copias idénticas por MD5 de fuentes ya ingeridas (la segunda trae un cero de más en el número).
+- Rama `Contrato-interadministrativo-ANSV-030-2026-Ruta-de-atencion-a-victimas`, commit 10c8307: `Solicitud de terminación anticipada ANSV-030-2026.pdf` (escaneo leído de imagen). El archivo no está en `main`; no se copió.
+- La Resolución ANSV 507 de 2026 (commit 75cebd5 en `main`) ya tiene página en la rama `claude/project-thread-11e1iq` (commit f82d121), aún sin fusionar; no se duplicó aquí.
+- Páginas creadas: `fuentes/resolucion-362-de-2018-incentivo-uso-bicicleta-ansv.md`, `fuentes/ci-ansv-030-2026-solicitud-terminacion-anticipada-uts.md`.
+- Páginas actualizadas: `fuentes/resolucion-20263040005765-2026-rot.md`, `fuentes/resolucion-20263040014815-de-2026-ubicaciones-criticas-siniestralidad-vial.md` (notas de copia), `sintesis/contrato-interadministrativo-ansv-030-2026-ruta-victimas.md` (línea de tiempo, sección de terminación, documentos faltantes), `index.md` (266 fuentes, conteo directo).
+
+## [2026-11-24] ingest | Contrato PA-730-2025 (Saravia Bravo S.A.S., mantenimiento y calibración de 26 cinemómetros LASERCAM 4)
+- Lectura del pedido ("rama contrato PA 730 2025"): la rama `contrato-PA-730-2025-Mantenimiento-Cinemometros` tiene 2 commits sin fusionar (c018192, 3ae0677) con 42 archivos de la etapa precontractual y habilitantes. Ese mismo día llegaron a `main` 7 commits (076e3aa a a9486ae) con 46 archivos de ejecución, pagos y liquidación del mismo contrato. Se procesaron los dos grupos. La rama del contrato se fusionó en la rama de trabajo sin conflictos.
+- 88 archivos, 83 documentos distintos. Copias por MD5: Resolución SIC 220283, representación exclusiva de Kustom Signals, diploma de la patente, CVI 907-25 y soportes de experiencia (cada una registrada en la página de su original).
+- Los PDF escaneados se leyeron con OCR (tesseract, español, 200 dpi) y las cifras y fechas clave se verificaron sobre la imagen.
+- 44 páginas de fuente nuevas con prefijo `pa-730-2025-` y la síntesis hub `sintesis/contrato-pa-730-2025-cinemometros-lasercam4.md`. **Excepciones a la regla de una fuente por página:** la serie de 26 certificados de calibración individuales (`pa-730-2025-certificados-calibracion-individuales.md`) y 13 habilitantes menores (`pa-730-2025-documentos-habilitantes-contratista.md`). No se transcribieron cédulas, cuentas bancarias, teléfonos ni la pregunta de seguridad de SECOP.
+- Hallazgos principales: mantenimiento de seguimiento a los 6 meses pagado (ítem 28, $23.920.000 + IVA) sin evidencia de ejecución; carta de garantía de 3 meses frente a 6 exigidos (cl. 2.ª, II.17); serial LE0588 en el estudio previo frente a LE2088; Acta 003 con fecha errada (24-01-2026) en el paquete del tercer pago; informe final con vigencias del anexo 0 de la póliza; acta de liquidación ausente del corpus; antecedentes de la suplente y no del Gerente; calibración por el laboratorio del propio contratista.
+- Páginas actualizadas: `entidades/dci-...`, `entidades/ditra-...`, `fuentes/manual-unificado-contratacion-ansv.md` (conexión con el contrato y numeral 8.1.7, p. 205), `index.md` (308 fuentes: 285 ingeridas + 23 incierto, conteo directo).
+- Ningún archivo es una petición que requiera oficio de respuesta.
+
+## [2026-11-24] query | Propuesta de donación de los 26 cinemómetros a la DITRA
+- Pedido del Asesor de la Dirección General: antecedentes, componente técnico, financiero, obligaciones, riesgos y hoja de ruta de la donación.
+- Se usaron el expediente PA-730-2025, el Decreto 1082 de 2015 (art. 2.2.1.2.2.4.3), la Ley 1702 de 2013 (art. 8), la Resolución 094 de 2026 (anexos 2, 12 y 13), La gráfica de la ballena (p. 6) y la Circular Mintransporte 20261300000347 (p. 3). La oferta actualizada se leyó sobre la imagen (pp. 1-5) para el diagnóstico y los precios por serial.
+- Página creada: `sintesis/donacion-26-cinemometros-ditra-antecedentes-2026.md`. Actualizado: `index.md`.
+- Vacíos: contrato de comodato, valor de adquisición y en libros, custodia actual, acta de la mesa con la DITRA y acta de liquidación no están en el corpus.
+
+## [2026-11-24] query | PA-730-2025 liquidado (dato del supervisor)
+- El usuario, supervisor del contrato, informó que el PA-730-2025 ya se liquidó. El acta no está en el corpus.
+- Actualizados: hub del contrato (alerta 6), síntesis de la donación de cinemómetros y el informe/correo entregados. Queda pendiente cargar el acta y verificar sus salvedades (ítem 28 y garantía).
+
+## [2026-11-24] query | Instrucción fiduciaria de liquidación del PA-730-2025 (revisión)
+- El usuario subió de nuevo la instrucción fiduciaria (base del acta de liquidación). Se releyó con la solicitud 20264000023083.
+- Hallazgo: balance en $0, ejecutado 100 % y sin salvedades; "Observaciones adicionales" en blanco. El ítem 28 (vencía jul.-sep. de 2026) se declara ejecutado sin evidencia; garantía 3 vs 6 meses, carta de compromiso y serial no se mencionan.
+- Actualizados: fuente de la instrucción, hub del contrato (alerta 6), síntesis de la donación e informe entregado (nueva sección 2.5).
+
+## [2026-11-26] ingest | Oficio ANSV 20264000160121 — traslado por competencia a la Superintendencia de Transporte (Girón)
+- Fuente nueva en la raíz: `FINAL_firmado_Traslado_Supertransporte_Giron_20264000160121_rad_20266600095642.pdf` (2 páginas, firmado el 18-11-2026; entrada 20266600095642, remitida por la Presidencia con OFI26-00093123 / EXT26-00195149).
+- Página creada: `fuentes/oficio-20264000160121-traslado-supertransporte-giron.md`.
+- Páginas actualizadas: `entidades/superintendencia-de-transporte.md` (cuarta Superintendente identificada, Ludmila del Carmen Vergara Rosales, y presencia en el corpus) e `index.md` (Correspondencia oficial 9/9; 265 fuentes: 244 ingeridas + 21 incierto, conteo directo).
+- `[INCIERTO]` La cita del Decreto 2409 de 2018, art. 4 no se puede verificar: el decreto no está en el corpus.
+- El oficio no tuvo hilo ni borrador en el proyecto.
+
+## [2026-11-26] ingest | Oficios DCI firmados del 25-11-2026 (Palonegro, SIMIT, Samacá)
+- Fuentes nuevas en la raíz: `FINAL_firmado_Respuesta_Palonegro_peritaje_20266600094152_rad_20264000162691.pdf` (2 pp.), `FINAL_firmado_Solicitud_SIMIT_base_reincidencias_2025_2026_rad_20264000163031.pdf` (2 pp.) y `FINAL_firmado_Respuesta_Samaca_cooperacion_20266600093982_rad_20264000158091.pdf` (4 pp.). Los tres traen radicado de salida y firma digital de la Directora DCI.
+- Páginas creadas: `fuentes/oficio-20264000162691-respuesta-palonegro-peritaje.md`, `fuentes/oficio-20264000163031-solicitud-simit-base-reincidencias.md`, `fuentes/oficio-20264000158091-respuesta-samaca-cooperacion.md`. Cada una compara el firmado con el borrador de la carpeta del proyecto.
+- `index.md`: Correspondencia oficial 11/11; 267 fuentes en esta rama (conteo sobre `main`, sin los PR #17 a #22 abiertos).
+- Hallazgos: Palonegro cita la Ley 1702 "(modificada por la Ley 2222 de 2022)", pero la Ley 2222 solo modifica el num. 15.4 del art. 15. Samacá asigna a una contratista con nombre para el PLSV, en tensión con la línea de no designar enlaces, y deja entre comillas un texto propio en el numeral 6.
+- `[INCIERTO]` No están en el corpus: Decreto 2409 de 2018, Resolución 7345 de Supertransporte y Protocolo ANS-GEI-DO-02 de 2022.
+
+## [2026-11-26] lint | Fusión de los PR #17 a #23 en `main`
+- Por pedido del usuario se fusionaron en `main`, a través de la rama del PR #23, los PR #17 (carga del 18-11 y terminación CI 030), #18 (traslado Girón), #19 (4 oficios firmados), #20 (contrato PA-730-2025), #21 (síntesis donación de cinemómetros), #22 (oficios ANI y Puerto Tejada) y #23 (Palonegro, SIMIT, Samacá).
+- Conflictos solo en `index.md` y `log.md`: se conservaron todas las entradas. En `index.md` se ordenaron las notas de actualización y Correspondencia oficial quedó en 12/12. En este log, las entradas añadidas por las ramas se ordenaron por fecha (no se modificó su texto).
+- Conteo directo tras la fusión: 314 páginas de fuente (291 ingeridas + 23 incierto).
+- Nota: las entradas del 26-11 de este log que dicen "267 fuentes" o "265 fuentes" reflejan el conteo de cada rama antes de la fusión.

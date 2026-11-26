@@ -3,7 +3,7 @@ title: "Superintendencia de Transporte (SuperTransporte)"
 type: entidad
 tags: [supertransporte, vigilancia-y-control, peccit, sisi, plan-365, sancionatorio]
 status: ingerido
-last_updated: 2026-10-07
+last_updated: 2026-11-26
 ---
 
 # Superintendencia de Transporte (SuperTransporte)
@@ -42,6 +42,7 @@ SuperTransporte integra, junto con el Ministerio de Transporte, la ANSV y la DIT
 - **Ayda Lucy Ospina Arias**, Superintendente — firma la [Resolución 10110 de 2023](../fuentes/resolucion-10110-de-2023-peccit-supertransporte.md) (7 de noviembre de 2023).
 - **Sergio Lucas García Cortés**, Superintendente (E) — firma la [Circular Conjunta 023/2025](../fuentes/circular-conjunta-023-2025-plan-365.md) (20 de marzo de 2025).
 - **Alfredo Enrique Piñeres Olave**, Superintendente — destinatario del [Oficio ANSV 20254000114441 de 2025](../fuentes/oficio-20254000114441-supertransporte-plan-365.md) (10 de noviembre de 2025); junto con **Alberto José Dazza Sagbini**, Delegado de Tránsito y Transporte Terrestre Automotor (E), co-destinatario del mismo oficio.
+- **Ludmila del Carmen Vergara Rosales**, Superintendente — destinataria del [Oficio ANSV 20264000160121 de 2026](../fuentes/oficio-20264000160121-traslado-supertransporte-giron.md) (18 de noviembre de 2026). *(Añadido 2026-11-26.)*
 
 Tres nombres distintos en la titularidad/encargo de la Superintendencia en un lapso de dos años (nov. 2023 - nov. 2025), sin fuente en el corpus que explique las transiciones — mismo patrón de alta rotación ya documentado para la Dirección General de la ANSV y para el Ministerio de Transporte (ver [Ministerio de Transporte](ministerio-de-transporte.md)).
 
@@ -51,6 +52,7 @@ Tres nombres distintos en la titularidad/encargo de la Superintendencia en un la
 - [Presentación Supertransporte — IUIT vs. Comparendos](../fuentes/presentacion-supertransporte-iuit-comparendos.md): distinción operativa IUIT/comparendo y ámbito investigativo nacional/municipal.
 - [Circular Conjunta 023/2025 — Plan 365](../fuentes/circular-conjunta-023-2025-plan-365.md) y [Circular Conjunta 058/2024 — Plan 70D](../fuentes/circular-conjunta-058-2024-plan-70d-control-vigilancia.md): coordinación interinstitucional anual junto con Mintransporte, ANSV y DITRA.
 - [Oficio ANSV 20254000114441 de 2025](../fuentes/oficio-20254000114441-supertransporte-plan-365.md) y sus plantillas/versiones previas: destinataria de escalamientos formales de la DCI por incumplimiento territorial del Plan 365.
+- [Oficio ANSV 20264000160121 de 2026 — Traslado a SuperTransporte (Girón)](../fuentes/oficio-20264000160121-traslado-supertransporte-giron.md): la DCI le traslada por competencia (Art. 21, Ley 1755/2015) una queja ciudadana sobre comparendos del organismo de tránsito de Girón, con el argumento de que la ANSV no ejerce inspección, vigilancia y control sobre organismos de tránsito.
 - [Circular Externa 20255330000124 de 2025 — SICOV-OTPC](../fuentes/circular-externa-20255330000124-sicov-otpc.md): sistema de vigilancia de SuperTransporte para terminales de transporte de pasajeros.
 
 ## Sanción por SAST no autorizados (añadida 2026-10-07)
