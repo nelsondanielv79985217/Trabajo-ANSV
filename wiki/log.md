@@ -1150,6 +1150,13 @@ Con esto quedan cerrados todos los hallazgos de la pasada de LINT completa del 2
 - Se trajeron a `main` desde la rama `Contractual-OPS` los PDF `20266700034703 Concepto Estabilidad Laboral Reforzada 07092026.pdf` y `Solicitud concepto estabilidad ocupacional (1).pdf`, que respaldan las páginas concepto-estabilidad-ocupacional-reforzada-2026 y solicitud-concepto-estabilidad-ocupacional-div.
 - Corrección de enlaces rotos en entradas anteriores de este log (no se editan): las rutas `../conceptos/sast-fotodeteccion-regimen-autorizacion.md` y `../conceptos/genealogia-asistencia-tecnica.md` deben leerse como `conceptos/sast-fotodeteccion-regimen-autorizacion.md` y `conceptos/genealogia-asistencia-tecnica.md` (relativas a `wiki/`).
 
+## [2026-11-26] ingest | Oficio ANSV 20264000160121 — traslado por competencia a la Superintendencia de Transporte (Girón)
+- Fuente nueva en la raíz: `FINAL_firmado_Traslado_Supertransporte_Giron_20264000160121_rad_20266600095642.pdf` (2 páginas, firmado el 18-11-2026; entrada 20266600095642, remitida por la Presidencia con OFI26-00093123 / EXT26-00195149).
+- Página creada: `fuentes/oficio-20264000160121-traslado-supertransporte-giron.md`.
+- Páginas actualizadas: `entidades/superintendencia-de-transporte.md` (cuarta Superintendente identificada, Ludmila del Carmen Vergara Rosales, y presencia en el corpus) e `index.md` (Correspondencia oficial 9/9; 265 fuentes: 244 ingeridas + 21 incierto, conteo directo).
+- `[INCIERTO]` La cita del Decreto 2409 de 2018, art. 4 no se puede verificar: el decreto no está en el corpus.
+- El oficio no tuvo hilo ni borrador en el proyecto.
+
 ## [2026-11-18] ingest | Carga del 18-11-2026 y solicitud de terminación del CI ANSV-030-2026
 - `main`, commit 5ef6885 (3 archivos): `Resolucion362de2018incentivoUsodeBicicletapdf.pdf` es nueva (escaneo leído de imagen); `RESOLUCION ROT NUMERO 20263040005765 2026.pdf` y `Resolución 202630400014815 del 2026.pdf` son copias idénticas por MD5 de fuentes ya ingeridas (la segunda trae un cero de más en el número).
 - Rama `Contrato-interadministrativo-ANSV-030-2026-Ruta-de-atencion-a-victimas`, commit 10c8307: `Solicitud de terminación anticipada ANSV-030-2026.pdf` (escaneo leído de imagen). El archivo no está en `main`; no se copió.
