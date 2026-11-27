@@ -470,6 +470,7 @@ Rama `Contrato-interadministrativo-ANSV-030-2026-Ruta-de-atencion-a-victimas`. H
 
 - [Resolución 20263040014815 de 2026 — puntos, sectores y tramos críticos de siniestralidad vial](fuentes/resolucion-20263040014815-de-2026-ubicaciones-criticas-siniestralidad-vial.md) — acto conjunto Mintransporte-ANSV (22-04-2026); longitudes máximas (100/500 m, 1.000 m, 5.000 m); la ANSV presta el acompañamiento técnico (art. 5); falta el documento técnico anexo y la fecha de publicación. (incierto)
 - [Resolución ANSV 862 de 2026 — manual de funciones y reubicación de empleos](fuentes/resolucion-862-de-2026-modifica-manual-funciones-ansv.md) — 28-10-2026; reubica un auxiliar en el ONSV y un PE 16 en la OAJ; transcribe la planta global, con 11 empleos en la DCI. (ingerido)
+- [Resolución ANSV 507 de 2026 — Comité Operativo de Seguridad Vial](fuentes/resolucion-507-de-2026-comite-operativo-seguridad-vial.md) — Actualiza el Comité creado por el art. 1 de la Res. 083/2019 y deroga el resto de esa resolución (p. 5); Secretaría Técnica en la DCI; sesiones cuatrimestrales. (ingerido)
 - [Correo de la ANI — delegación al Comité Operativo (11-11-2026)](fuentes/correo-ani-delegacion-comite-operativo-noviembre-2026.md) — la ANI delega a Claudia Mendoza; comunicación informativa asignada a la DCI; cita la Res. 507 de 2026. (ingerido)
 
 ### Carga del 18 de noviembre de 2026 (2 páginas nuevas, 2 copias registradas)
