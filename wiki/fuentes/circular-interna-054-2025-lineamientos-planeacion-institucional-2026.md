@@ -1,10 +1,14 @@
+
+## Actualización (2026-11-27)
+
+La circular sucesora para la vigencia 2027 es la [Circular 052 del 24-11-2026](circular-052-2026-lineamientos-planeacion-institucional-2027.md), con su [Anexo 1](anexo-1-lineamientos-planeacion-institucional-2027.md), que esta circular no traía.
 ---
 title: "Circular Interna ANSV No. 054 de 2025 — Lineamientos Planeación Institucional 2026"
 type: fuente
 tags: [circular-interna, ansv, planeacion-institucional, oap, pai, decreto-612-2018, cierre-gobierno]
 fuente_pdf: "PLANEACIÓN CIRCULAR INTERNA NASV.pdf"
 status: ingerido
-last_updated: 2026-09-28
+last_updated: 2026-11-27
 ---
 
 # Circular Interna ANSV No. 054 de 2025 — Lineamientos Planeación Institucional 2026

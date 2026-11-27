@@ -4,7 +4,7 @@ type: fuente
 tags: [resolucion, marco-normativo, ansv, dci, mai, asistencia-tecnica, pnsv, sistema-seguro, enlaces-territoriales]
 fuente_pdf: "Resolucion_007_de_2023_MAI (1).pdf"
 status: ingerido
-last_updated: 2026-09-24
+last_updated: 2026-11-27
 ---
 
 # Resolución 007 de 2023 — "Por la cual se reglamentan las Mesas de Articulación Interinstitucional – MAI y se dictan otras disposiciones"
@@ -50,6 +50,8 @@ Esto revela una estructura interna de la DCI —al menos dos "líneas de trabajo
 - Cita el Art. 10 del Decreto 787/2015 (funciones de la DCI), numerales 1, 8 y 10, con **transcripción más completa** que la ya registrada en la página de la DCI (que los resumía). Se actualiza esa página con el texto íntegro.
 
 ## Conexiones
+
+- [Guía práctica de la Resolución 007 de 2023 (presentación, nov. 2026)](guia-practica-resolucion-007-2023-mai-presentacion.md): material de exposición para autoridades territoriales; coincide con esta resolución en participantes, regiones y páginas, pero remite al "enlace territorial de la DCI", figura que hoy no se asigna (ver observación 1 de esa página).
 
 - [Genealogía normativa de "asistencia técnica"](../conceptos/genealogia-asistencia-tecnica.md): se añade el PNSV 2022-2031 como nuevo eslabón (2022, vía cita indirecta de esta resolución de 2023).
 - [Sistema Seguro — enfoque de la política de seguridad vial](../conceptos/sistema-seguro-enfoque-politica-seguridad-vial.md): se actualiza con la conexión textual (aunque indirecta) entre el PNSV 2022-2031 y la asistencia técnica territorial.
