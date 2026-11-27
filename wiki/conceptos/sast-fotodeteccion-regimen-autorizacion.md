@@ -1,9 +1,13 @@
+
+## Ubicación en la Resolución Única de Tránsito (2026-11-27)
+
+- El régimen técnico de la Res. 20203040011245 de 2020 está compilado en el Título 7, Cap. 8 (arts. 7.8.1 y ss.) de la Resolución 20223040045295 de 2022. En la [versión compilada del 13-10-2026](../fuentes/resolucion-20223040045295-compilada-version-13-10-2026.md): criterios ante la DIV de la ANSV (art. 7.8.1.1, p. 664), plazo de 45 días hábiles (art. 7.8.1.3 lit. b, p. 666), calibración (art. 7.8.1.1.3, p. 668) e indicadores anuales (art. 7.8.1.2.3, p. 671).
 ---
 title: "Régimen de autorización de Sistemas Automáticos, Semiautomáticos y otros medios Tecnológicos (SAST / fotodetección)"
 type: concepto
 tags: [sast, fotodeteccion, ansv, autorizacion, ley-1843-2017, decreto-2106-2019, resolucion-20203040011245-2020]
 status: ingerido
-last_updated: 2026-10-07
+last_updated: 2026-11-27
 ---
 
 # Régimen de autorización de Sistemas Automáticos, Semiautomáticos y otros medios Tecnológicos (SAST / fotodetección)

@@ -1200,3 +1200,27 @@ Con esto quedan cerrados todos los hallazgos de la pasada de LINT completa del 2
 - Conflictos solo en `index.md` y `log.md`: se conservaron todas las entradas. En `index.md` se ordenaron las notas de actualización y Correspondencia oficial quedó en 12/12. En este log, las entradas añadidas por las ramas se ordenaron por fecha (no se modificó su texto).
 - Conteo directo tras la fusión: 314 páginas de fuente (291 ingeridas + 23 incierto).
 - Nota: las entradas del 26-11 de este log que dicen "267 fuentes" o "265 fuentes" reflejan el conteo de cada rama antes de la fusión.
+
+
+## [2026-11-27] lint | Rama con el ingest de la Resolución ANSV 507 de 2026 sin fusionar
+- Al revisar las ramas se encontró que `claude/project-thread-11e1iq` (commit `f82d121`, 17-11-2026) nunca se fusionó en `main`: la página de la Resolución 507 de 2026 no estaba en la wiki, aunque el PDF sí estaba en la raíz (`Resolucion_507_de_2026 comite operativo.pdf`).
+- Se trajo ese commit a esta rama sin duplicar el PDF (la rama traía una copia con guion bajo, mismo MD5) y se ajustó `fuente_pdf` al nombre del archivo de `main`.
+- Entrada original de esa rama, sin cambios de contenido:
+  > [2026-11-17] ingest | Resolución ANSV 507 de 2026 (Comité Operativo de Seguridad Vial)
+  - Archivo subido por el usuario y agregado a la raíz como `Resolucion_507_de_2026_comite_operativo.pdf` (6 páginas).
+  - Página creada: `fuentes/resolucion-507-de-2026-comite-operativo-seguridad-vial.md`.
+  - Hallazgo: la Res. 507 deroga la Res. 083 de 2019 salvo su art. 1 (p. 5, art. 10); la convocatoria de la DCI del 05-11-2026 la citó como "modificada". No menciona al ONSV ni asigna compromisos por entidad; los compromisos salen de las actas (art. 7).
+  - Páginas actualizadas: `fuentes/correo-ani-delegacion-comite-operativo-noviembre-2026.md`, `fuentes/inventario-instancias-interinstitucionales-ansv-junio-2026.md`, `entidades/dci-...`, `entidades/ansv-...`, `index.md` (265 fuentes).
+
+## [2026-11-27] ingest | Cargas del 26-11-2026 en `main` (planeación 2027, guía MAI, Resolución Única de Tránsito compilada)
+- Fuentes: `261125 Circular 052 _Planeacion_Institucional_2027_propuesta_OAP (1) (1).pdf` (4 pp.) y `Anexo_1_Lineamientos_Planeacion_Institucional_2027_propuesta_OAP (2).pdf` (15 pp.), commit `bcabe42`; `Guía Práctica_Resolucion 007 2023 MAI.pptx` (25 diapositivas) y `Resolución Única Compilatoria en materia de Tránsito de 13-10-2026.pdf` (749 pp., ingest estructural), commit `1994591`.
+- Páginas creadas: `fuentes/circular-052-2026-lineamientos-planeacion-institucional-2027.md`, `fuentes/anexo-1-lineamientos-planeacion-institucional-2027.md`, `fuentes/guia-practica-resolucion-007-2023-mai-presentacion.md`, `fuentes/resolucion-20223040045295-compilada-version-13-10-2026.md`.
+- Páginas actualizadas: `fuentes/resolucion-20223040045295-de-2022-unica-compilatoria-transito.md` (**corrección**: el Título 7 tenía 8 capítulos en 2022, no 5, y el Título 8 tenía 8; incertidumbre del PESV resuelta), `fuentes/resolucion-20263040005765-2026-rot.md`, `fuentes/resolucion-007-de-2023-mesas-articulacion-interinstitucional.md`, `fuentes/circular-interna-054-2025-lineamientos-planeacion-institucional-2026.md`, `conceptos/sast-fotodeteccion-regimen-autorizacion.md`, `entidades/dci-direccion-coordinacion-interinstitucional.md`, `index.md`.
+- Hallazgos: la versión compilada no incluye la ROT (Título 7, Cap. 9) aunque sí modificaciones de jul.-ago. de 2026; el capítulo de velocidad sigue con la Res. 1384 de 2010; error heredado "numeral 51.2" por 15.2 en el art. 7.1.1. El Anexo 1 tiene un error de vigencia (PAA "2026", p. 11), una frase incompleta (p. 14) y una remisión errada (p. 9). La guía MAI remite al enlace territorial de la DCI, en tensión con la directiva de no enlaces, y cita fuentes externas y un Excel que no están en el repo.
+- `[INCIERTO]` No se sabe si la versión compilada es la oficial de Mintransporte; no se sabe si la Res. 1384 de 2010 fue derogada por las resoluciones de velocidad de 2023.
+
+## [2026-11-27] ingest | Seis oficios DCI firmados que estaban en la raíz sin página
+- Fuentes (subidas en los PR #19 y #22): `FINAL_firmado_Respuesta_ASOREDCOL_reprogramacion_20264000159381.pdf`, `FINAL_firmado_Respuesta_Granada_foro_20264000159441.pdf`, `FINAL_firmado_Respuesta_Sabaneta_aplicativo_Plan_365_20264000160701.pdf`, `FINAL_firmado_Solicitud_ANI_ACCENORTE_basculas_peaje_Andes_20264000162941.pdf`, `FINAL_firmado_Respuesta_Puerto_Tejada_20266600095442_rad_20264000159411.pdf`, `FINAL_firmado_Respuesta_INVIAS_Sucre_20264000151561.pdf`.
+- Páginas creadas: `fuentes/oficio-20264000159381-…`, `-159441-…`, `-160701-…`, `-162941-…`, `-159411-…`, `-151561-…`. Cada una compara el firmado con el borrador de la carpeta del proyecto.
+- Hallazgos: el oficio al INVÍAS salió firmado con restos de un enlace de Outlook que venían del borrador (p. 2); Granada quedó sin la palabra "enlaces" en la frase tipo y se firmó después del inicio del foro; Puerto Tejada tiene el pie invertido; la ANI pidió respuesta para el 27-11-2026.
+- `index.md`: Correspondencia oficial 18/18; nueva sección "Carga del 26 de noviembre de 2026"; **325 fuentes (302 ingeridas + 23 incierto), conteo directo**.

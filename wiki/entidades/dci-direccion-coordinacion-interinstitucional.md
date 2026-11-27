@@ -3,7 +3,7 @@ title: "DCI — Dirección de Coordinación Interinstitucional (ANSV)"
 type: entidad
 tags: [dci, ansv, asistencia-tecnica, coordinacion-interinstitucional]
 status: ingerido
-last_updated: 2026-11-17
+last_updated: 2026-11-27
 ---
 
 
@@ -138,7 +138,7 @@ Instancia de coordinación territorial creada por la Resolución 007/2023, lider
 
 - *(2026-11-17, carga del 16-11-2026)* Planta y Comité Operativo:
   - **Planta de la DCI al 28-10-2026:** 11 empleos: Director Técnico 100-24, 2 Asesores 1020-16, 1 PE 2028-20, 3 PE 2028-16, 2 Técnicos 3124-16, 1 Secretario Ejecutivo 4210-22 y 1 Conductor 4103-20 ([Resolución 862 de 2026](../fuentes/resolucion-862-de-2026-modifica-manual-funciones-ansv.md), art. 4, p. 9). La planta de la DCI no tiene un Asesor 1020-18; los dos de ese grado están en la Dirección General (p. 8). `[INCIERTO: el memorando de mayo de 2026 registra a Henry Martín como asesor 1020-18 de la DCI; el corpus no tiene el acto que ubica ese empleo.]`
-  - **Comité Operativo de Seguridad Vial:** la Directora DCI, María Isabel Costa Canales, convocó el 05-11-2026 la sesión ordinaria del 11-11-2026, con base en el num. 15.3 de la Ley 1702 y las Res. 083 de 2019 y 507 de 2026. La ANI delegó a Claudia Mendoza, Asesora de la Vicepresidencia Ejecutiva ([correo de la ANI](../fuentes/correo-ani-delegacion-comite-operativo-noviembre-2026.md), pp. 1-2). Nelson Daniel Vega Samacá y Fernando González Martínez iban en copia.
+  - **Comité Operativo de Seguridad Vial:** la Directora DCI, María Isabel Costa Canales, convocó el 05-11-2026 la sesión ordinaria del 11-11-2026, con base en el num. 15.3 de la Ley 1702 y las Res. 083 de 2019 y 507 de 2026. La ANI delegó a Claudia Mendoza, Asesora de la Vicepresidencia Ejecutiva ([correo de la ANI](../fuentes/correo-ani-delegacion-comite-operativo-noviembre-2026.md), pp. 1-2). Nelson Daniel Vega Samacá y Fernando González Martínez iban en copia. La DCI ejerce la Secretaría Técnica del Comité por el art. 7 de la [Res. 507 de 2026](../fuentes/resolucion-507-de-2026-comite-operativo-seguridad-vial.md) (pp. 4-5), que deroga la Res. 083 de 2019 salvo su art. 1.
   - **Puntos críticos de siniestralidad:** la [Resolución 20263040014815 de 2026](../fuentes/resolucion-20263040014815-de-2026-ubicaciones-criticas-siniestralidad-vial.md) da a la ANSV el acompañamiento técnico (art. 5, p. 5). La DCI no figura entre los revisores (p. 6); atribuirle esa función sería interpretación propia.
 
 - *(2026-11-17, cargas del 16-11-2026 de los CI 030 y 031)* Supervisión de los contratos:
@@ -147,6 +147,11 @@ Instancia de coordinación territorial creada por la Resolución 007/2023, lider
   - **Recomendaciones previas al acta de inicio (06 a 12-11-2026):** técnica del CI 030 (Luz América Penagos, Grupo de Atención Integral a Víctimas); técnica del CI 031 (César Salcedo); legal del CI 031 (Mónica Sepúlveda y Diana Novoa, contratistas de apoyo jurídico DCI); concepto de Gestión Contractual sobre SECOP II del CI 030. Ver las síntesis de [CI 030](../sintesis/contrato-interadministrativo-ansv-030-2026-ruta-victimas.md) y [CI 031](../sintesis/contrato-interadministrativo-ansv-031-2026-gpc.md).
   - **Estructuradores del estudio previo del CI 031:** Gina Herrera, César Salcedo, Luis Romero, Silvia Arévalo, Yilver Zamudio, Julián Moreno, Diana Barrera, Mónica Sepúlveda y Diana Novoa ([respuesta de Higuita](../fuentes/ci-ansv-031-2026-respuesta-oscar-higuita.md), p. 1).
 - *(2026-11-24)* La DCI fue la dependencia solicitante del [contrato PA-730-2025](../sintesis/contrato-pa-730-2025-cinemometros-lasercam4.md) con Saravia Bravo S.A.S. (mantenimiento y calibración de 26 cinemómetros LASERCAM 4, $391.746.096). Paula Katerine Ramos Navarro firmó como Directora DCI el [estudio previo](../fuentes/pa-730-2025-estudio-previo.md) del 29-09-2025 (p. 45) y el [memorando de solicitud](../fuentes/pa-730-2025-memorando-20254000041793-solicitud.md) del 17-10-2025. Nelson Daniel Vega Samacá fue el supervisor desde el 24-12-2025 ([designación](../fuentes/pa-730-2025-designacion-supervision.md), p. 1).
+
+- *(2026-11-27, cargas del 26-11-2026 y oficios firmados de noviembre)*
+  - **Planeación 2027:** la [Circular 052 de 2026](../fuentes/circular-052-2026-lineamientos-planeacion-institucional-2027.md) fija el envío del PAI 2027 de cada dependencia a la OAP el 30-11-2026 (p. 2). Según el [Anexo 1](../fuentes/anexo-1-lineamientos-planeacion-institucional-2027.md), cada objetivo se articula con un área y una acción del PNSV (num. 1.1 lit. a, p. 4) y las actividades no pueden ser compartidas entre dependencias (num. 1.2 lit. f, p. 5). La DCI no es responsable de ningún plan del Decreto 612 (Tabla 1, pp. 9-10).
+  - **MAI:** una [guía práctica en PowerPoint](../fuentes/guia-practica-resolucion-007-2023-mai-presentacion.md) explica la operación de las MAI para autoridades territoriales y remite al "enlace territorial de la DCI", que hoy no se asigna según los oficios firmados de noviembre.
+  - **Oficios firmados con página propia:** [ASOREDCOL 159381](../fuentes/oficio-20264000159381-respuesta-asoredcol-reprogramacion.md), [Granada 159441](../fuentes/oficio-20264000159441-respuesta-granada-foro.md), [Sabaneta 160701](../fuentes/oficio-20264000160701-respuesta-sabaneta-plan-365.md), [ANI 162941](../fuentes/oficio-20264000162941-solicitud-ani-accenorte-basculas.md), [Puerto Tejada 159411](../fuentes/oficio-20264000159411-respuesta-puerto-tejada.md) e [INVÍAS Sucre 151561](../fuentes/oficio-20264000151561-respuesta-invias-sucre.md).
 
 ## Incertidumbres
 

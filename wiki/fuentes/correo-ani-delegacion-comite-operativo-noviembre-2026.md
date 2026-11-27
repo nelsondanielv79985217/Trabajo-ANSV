@@ -30,7 +30,7 @@ last_updated: 2026-11-17
 - Sirve como soporte de asistencia o delegación de la ANI para el acta de la sesión del 11-11-2026.
 - Confirma que la DCI convoca el Comité Operativo. Coincide con el [inventario de instancias](inventario-instancias-interinstitucionales-ansv-junio-2026.md), que asigna a la DCI la Secretaría Técnica del Comité y da la Res. 507 de 2026 del 29-05-2026 y periodicidad cuatrimestral (fila 13).
 - Es la convocatoria de un solo destinatario (ANI). `[INCIERTO: el corpus no trae las convocatorias a los demás miembros ni el acta de la sesión del 11-11-2026.]`
-- La Resolución 083 de 2019 y la Resolución 507 de 2026 **no están en las fuentes del proyecto**; solo se conocen por cita. Según el PNSV 2022-2031, la Res. 083 de 2019 integra a la ANSV, Mintransporte, Policía, ANI e INVÍAS (ver [ANSV](../entidades/ansv-agencia-nacional-seguridad-vial.md), "Instancias de apoyo").
+- *(Actualizado 2026-11-17)* La [Resolución 507 de 2026](resolucion-507-de-2026-comite-operativo-seguridad-vial.md) ya está en el corpus: **deroga** la Res. 083 de 2019 salvo su art. 1 (p. 5, art. 10), así que la fórmula "modificada por" de esta convocatoria es imprecisa. La Res. 083 de 2019 sigue sin estar en las fuentes del proyecto. Según el PNSV 2022-2031, la Res. 083 de 2019 integra a la ANSV, Mintransporte, Policía, ANI e INVÍAS (ver [ANSV](../entidades/ansv-agencia-nacional-seguridad-vial.md), "Instancias de apoyo").
 - Registro adicional de la titularidad de **María Isabel Costa Canales** como Directora DCI el 05-11-2026 (p. 2).
 
 ## Conexiones
